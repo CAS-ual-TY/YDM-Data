@@ -1,0 +1,104 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Collectible Tins 2012 Wave 1",
+    "type": "Special Edition Promo Cards",
+    "date": "2012-08-09",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT09",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Evolzar Dolkka",
+        "set_number": "CT09-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Heroic Champion - Excalibur",
+        "set_number": "CT09-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Genex Neutron",
+        "set_number": "CT09-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Scrap Dragon",
+        "set_number": "CT09-EN006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Highlander",
+        "set_number": "CT09-EN007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Wind-Up Zenmaines",
+        "set_number": "CT09-EN008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Blizzard Princess",
+        "set_number": "CT09-EN009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Wind-Up Rabbit",
+        "set_number": "CT09-EN010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Evolzar Laggia",
+        "set_number": "CT09-EN011",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

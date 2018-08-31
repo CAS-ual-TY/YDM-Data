@@ -1,0 +1,414 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Machine Reactor Structure Deck",
+    "type": "Structure Deck",
+    "date": "2017-04-13",
+    "distribution": "",
+    "prefix": "SR03",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Ancient Gear Gadget",
+        "set_number": "SR03-EN000",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Reactor Dragon",
+        "set_number": "SR03-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Hydra",
+        "set_number": "SR03-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Wyvern",
+        "set_number": "SR03-EN003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Gadjiltron Dragon",
+        "set_number": "SR03-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Golem",
+        "set_number": "SR03-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Gadjiltron Chimera",
+        "set_number": "SR03-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Beast",
+        "set_number": "SR03-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Engineer",
+        "set_number": "SR03-EN008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Knight",
+        "set_number": "SR03-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Soldier",
+        "set_number": "SR03-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Box",
+        "set_number": "SR03-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Geargiauger",
+        "set_number": "SR03-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Planet Pathfinder",
+        "set_number": "SR03-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Minefieldriller",
+        "set_number": "SR03-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Card Trooper",
+        "set_number": "SR03-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gigantes",
+        "set_number": "SR03-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "BOXer",
+        "set_number": "SR03-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hardened Armed Dragon",
+        "set_number": "SR03-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spell Striker",
+        "set_number": "SR03-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Maxx \"C\"",
+        "set_number": "SR03-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Catapult",
+        "set_number": "SR03-EN021",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Fortress",
+        "set_number": "SR03-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Castle",
+        "set_number": "SR03-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Workshop",
+        "set_number": "SR03-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Geartown",
+        "set_number": "SR03-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mausoleum of the Emperor",
+        "set_number": "SR03-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pseudo Space",
+        "set_number": "SR03-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Limiter Removal",
+        "set_number": "SR03-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Machine Duplication",
+        "set_number": "SR03-EN029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Inferno Reckless Summon",
+        "set_number": "SR03-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Galaxy Cyclone",
+        "set_number": "SR03-EN031",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Terraforming",
+        "set_number": "SR03-EN032",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jar of Avarice",
+        "set_number": "SR03-EN033",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mischief of the Gnomes",
+        "set_number": "SR03-EN034",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Machine King - 3000 B.C.",
+        "set_number": "SR03-EN035",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fiendish Chain",
+        "set_number": "SR03-EN036",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Call of the Haunted",
+        "set_number": "SR03-EN037",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Huge Revolution is Over",
+        "set_number": "SR03-EN038",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Token",
+        "set_number": "SR03-ENTKN",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

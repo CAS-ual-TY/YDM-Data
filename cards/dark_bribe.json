@@ -1,0 +1,11 @@
+{
+  "name": "Dark Bribe",
+  "number": "77538567",
+  "is_illegal": false,
+  "text": "When an opponent's Spell/Trap Card is activated: Your opponent draws 1 card, also negate the Spell/Trap activation, and if you do, destroy it.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

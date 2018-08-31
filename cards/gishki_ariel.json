@@ -1,0 +1,25 @@
+{
+  "name": "Gishki Ariel",
+  "number": "92784374",
+  "is_illegal": false,
+  "text": "FLIP: You can add 1 \"Gishki\" monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1000",
+  "defense": "1800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "4"
+}

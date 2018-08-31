@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Cosmo Blazer Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2013-01-19",
+    "distribution": "tournament_promo_cards",
+    "prefix": "CBLZ",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Noble Arms - Caliburn",
+        "set_number": "CBLZ-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

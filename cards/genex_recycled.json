@@ -1,0 +1,24 @@
+{
+  "name": "Genex Recycled",
+  "number": "51827737",
+  "is_illegal": false,
+  "text": "Once per turn, you can select 1 \"Genex\" monster in your Graveyard. Until the End Phase, this card's name is treated as the selected monster's name.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "200",
+  "defense": "400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

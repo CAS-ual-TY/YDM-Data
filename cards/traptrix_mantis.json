@@ -1,0 +1,24 @@
+{
+  "name": "Traptrix Mantis",
+  "number": "82738277",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can add 1 \"Traptrix\" monster from your Deck to your hand. Unaffected by the effects of \"Hole\" Normal Traps. Once per turn (Quick Effect): You can target 1 Set Spell/Trap you control; return that target to the hand, then you can Set 1 Spell/Trap from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1500",
+  "defense": "1300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

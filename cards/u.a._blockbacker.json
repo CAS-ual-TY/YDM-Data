@@ -1,0 +1,24 @@
+{
+  "name": "U.A. Blockbacker",
+  "number": "34614289",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Blockbacker\". You can only Special Summon \"U.A. Blockbacker\" once per turn this way. Once per turn, when your opponent Special Summons a monster(s): You can change their battle positions, and if you do, negate their effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "defense": "2700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

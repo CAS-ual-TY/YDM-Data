@@ -1,0 +1,24 @@
+{
+  "name": "Ironhammer the Giant",
+  "number": "79185500",
+  "is_illegal": false,
+  "text": "If you control \"D.D. Esper Star Sparrow\", \"Beast-Warrior Puma\" and \"Phoenix Beast Gairuda\", you can Special Summon this card (from your hand). While this card is face-up on the field, it cannot change its battle position. Once per turn: You can target 1 monster you control; it can attack your opponent directly this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "900",
+  "defense": "3500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

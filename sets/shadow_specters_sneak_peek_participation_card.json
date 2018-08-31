@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shadow Specters Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2013-11-02",
+    "distribution": "tournament_promo_cards",
+    "prefix": "SHSP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Ghostrick Ghoul",
+        "set_number": "SHSP-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

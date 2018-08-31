@@ -1,0 +1,944 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Tactical Evolution",
+    "type": "Booster Pack",
+    "date": "2007-08-15",
+    "distribution": "booster_pack",
+    "prefix": "TAEV",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Gemini Summoner",
+        "set_number": "TAEV-EN000",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Alien Shocktrooper",
+        "set_number": "TAEV-EN001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Volcanic Rat",
+        "set_number": "TAEV-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Renge, Gatekeeper of Dark World",
+        "set_number": "TAEV-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hunter Dragon",
+        "set_number": "TAEV-EN004",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Venom Cobra",
+        "set_number": "TAEV-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rainbow Dragon",
+        "set_number": "TAEV-EN006",
+        "rarities": [
+          "Secret Rare",
+          "Ghost Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ghost Rare": 1
+        }
+      },
+      {
+        "card_name": "Chrysalis Pantail",
+        "set_number": "TAEV-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chrysalis Chicky",
+        "set_number": "TAEV-EN008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chrysalis Pinny",
+        "set_number": "TAEV-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chrysalis Larva",
+        "set_number": "TAEV-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chrysalis Mole",
+        "set_number": "TAEV-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Necro Gardna",
+        "set_number": "TAEV-EN012",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Vennominaga the Deity of Poisonous Snakes",
+        "set_number": "TAEV-EN013",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Vennominon the King of Poisonous Snakes",
+        "set_number": "TAEV-EN014",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Venom Snake",
+        "set_number": "TAEV-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Venom Boa",
+        "set_number": "TAEV-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Venom Serpent",
+        "set_number": "TAEV-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Neos Alius",
+        "set_number": "TAEV-EN018",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Chthonian Emperor Dragon",
+        "set_number": "TAEV-EN019",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Aquarian Alessa",
+        "set_number": "TAEV-EN020",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Lucky Pied Piper",
+        "set_number": "TAEV-EN021",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Grasschopper",
+        "set_number": "TAEV-EN022",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Goggle Golem",
+        "set_number": "TAEV-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dawnbreak Gardna",
+        "set_number": "TAEV-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Doom Shaman",
+        "set_number": "TAEV-EN025",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "King Pyron",
+        "set_number": "TAEV-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shadow Delver",
+        "set_number": "TAEV-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Flint Lock",
+        "set_number": "TAEV-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gravitic Orb",
+        "set_number": "TAEV-EN029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Phantom Cricket",
+        "set_number": "TAEV-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Crystal Seer",
+        "set_number": "TAEV-EN031",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Neo Space Pathfinder",
+        "set_number": "TAEV-EN032",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Frost and Flame Dragon",
+        "set_number": "TAEV-EN033",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Desert Twister",
+        "set_number": "TAEV-EN034",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ritual Raven",
+        "set_number": "TAEV-EN035",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Razor Lizard",
+        "set_number": "TAEV-EN036",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Light Effigy",
+        "set_number": "TAEV-EN037",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Effigy",
+        "set_number": "TAEV-EN038",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zombie Master",
+        "set_number": "TAEV-EN039",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Neo-Spacian Marine Dolphin",
+        "set_number": "TAEV-EN040",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Marine Neos",
+        "set_number": "TAEV-EN041",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Darkbright",
+        "set_number": "TAEV-EN042",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Magma Neos",
+        "set_number": "TAEV-EN043",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Ojama Knight",
+        "set_number": "TAEV-EN044",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fifth Hope",
+        "set_number": "TAEV-EN045",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Reverse of Neos",
+        "set_number": "TAEV-EN046",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Convert Contact",
+        "set_number": "TAEV-EN047",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cocoon Party",
+        "set_number": "TAEV-EN048",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "NEX",
+        "set_number": "TAEV-EN049",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cocoon Rebirth",
+        "set_number": "TAEV-EN050",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Venom Swamp",
+        "set_number": "TAEV-EN051",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Snake Rain",
+        "set_number": "TAEV-EN052",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Venom Shot",
+        "set_number": "TAEV-EN053",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyberdark Impact!",
+        "set_number": "TAEV-EN054",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Flint Missile",
+        "set_number": "TAEV-EN055",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Double Summon",
+        "set_number": "TAEV-EN056",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Summoner's Art",
+        "set_number": "TAEV-EN057",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Creature Seizure",
+        "set_number": "TAEV-EN058",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Phalanx Pike",
+        "set_number": "TAEV-EN059",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Symbols of Duty",
+        "set_number": "TAEV-EN060",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Amulet of Ambition",
+        "set_number": "TAEV-EN061",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Broken Bamboo Sword",
+        "set_number": "TAEV-EN062",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mirror Gate",
+        "set_number": "TAEV-EN063",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Hero Counterattack",
+        "set_number": "TAEV-EN064",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cocoon Veil",
+        "set_number": "TAEV-EN065",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Snake Whistle",
+        "set_number": "TAEV-EN066",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Damage = Reptile",
+        "set_number": "TAEV-EN067",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Snake Deity's Command",
+        "set_number": "TAEV-EN068",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Rise of the Snake Deity",
+        "set_number": "TAEV-EN069",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ambush Fangs",
+        "set_number": "TAEV-EN070",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Venom Burn",
+        "set_number": "TAEV-EN071",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Common Charity",
+        "set_number": "TAEV-EN072",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Destructive Draw",
+        "set_number": "TAEV-EN073",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shield Spear",
+        "set_number": "TAEV-EN074",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Strike Slash",
+        "set_number": "TAEV-EN075",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spell Reclamation",
+        "set_number": "TAEV-EN076",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Trap Reclamation",
+        "set_number": "TAEV-EN077",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Gift Card",
+        "set_number": "TAEV-EN078",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Gift of Greed",
+        "set_number": "TAEV-EN079",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Counter Counter",
+        "set_number": "TAEV-EN080",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ocean's Keeper",
+        "set_number": "TAEV-EN081",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Thousand-Eyes Jellyfish",
+        "set_number": "TAEV-EN082",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cranium Fish",
+        "set_number": "TAEV-EN083",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyssal Kingshark",
+        "set_number": "TAEV-EN084",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Mormolith",
+        "set_number": "TAEV-EN085",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Fossil Tusker",
+        "set_number": "TAEV-EN086",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Phantom Dragonray Bronto",
+        "set_number": "TAEV-EN087",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Il Blud",
+        "set_number": "TAEV-EN088",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Blazewing Butterfly",
+        "set_number": "TAEV-EN089",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

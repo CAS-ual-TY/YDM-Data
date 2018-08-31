@@ -1,0 +1,24 @@
+{
+  "name": "The Fabled Kokkator",
+  "number": "26704411",
+  "is_illegal": false,
+  "text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can discard 1 \"Fabled\" monster to the Graveyard to draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1700",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

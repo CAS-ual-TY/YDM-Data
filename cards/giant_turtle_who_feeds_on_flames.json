@@ -1,0 +1,24 @@
+{
+  "name": "Giant Turtle Who Feeds on Flames",
+  "number": "96981563",
+  "is_illegal": false,
+  "text": "A crimson-shelled tortoise that feeds on flames.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1400",
+  "defense": "1800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

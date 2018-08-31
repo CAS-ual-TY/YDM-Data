@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Ra Yellow Mega Pack: Special Edition",
+    "type": "Mega Pack",
+    "date": "2012-06-12",
+    "distribution": "mega_pack",
+    "prefix": "RYMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Legendary Six Samurai - Shi En",
+        "set_number": "RYMP-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

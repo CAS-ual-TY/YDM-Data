@@ -1,0 +1,24 @@
+{
+  "name": "Blade Skater",
+  "number": "97023549",
+  "is_illegal": false,
+  "text": "An image of beauty on the ice, this gorgeous warrior rips her opponents into pieces with her stylish Accel Slicer attack.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1400",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

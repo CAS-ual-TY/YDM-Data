@@ -1,0 +1,24 @@
+{
+  "name": "Return Zombie",
+  "number": "3072077",
+  "is_illegal": false,
+  "text": "During your Standby Phase: You can pay 500 Life Points; add this card from your Graveyard to your hand. You must have no cards in your hand to activate and to resolve this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1000",
+  "defense": "1600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

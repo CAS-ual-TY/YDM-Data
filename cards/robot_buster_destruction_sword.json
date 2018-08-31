@@ -1,0 +1,24 @@
+{
+  "name": "Robot Buster Destruction Sword",
+  "number": "38601126",
+  "is_illegal": false,
+  "text": "You can target 1 \"Buster Blader\" you control; equip this monster from your hand or your side of the field to that target. While this card is equipped to a monster, Spell/Trap Cards that are already face-up on your opponent's side of the field cannot activate their effects. You can send this Equip Card to the Graveyard; the monster that was equipped with this card gains 1000 ATK until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1600",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

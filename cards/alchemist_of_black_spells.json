@@ -1,0 +1,24 @@
+{
+  "name": "Alchemist of Black Spells",
+  "number": "78121572",
+  "is_illegal": false,
+  "text": "Once per turn, you can change this face-up Attack Position card you control to face-up Defense Position and place 1 Spell Counter on a face-up card you control that you can place a Spell Counter on.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1200",
+  "defense": "1800",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

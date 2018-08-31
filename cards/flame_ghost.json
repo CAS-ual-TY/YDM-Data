@@ -1,0 +1,24 @@
+{
+  "name": "Flame Ghost",
+  "number": "58528964",
+  "is_illegal": false,
+  "text": "\"Skull Servant\" + \"Dissolverock\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1000",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "3"
+}

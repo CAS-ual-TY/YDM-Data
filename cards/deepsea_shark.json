@@ -1,0 +1,24 @@
+{
+  "name": "Deepsea Shark",
+  "number": "28593363",
+  "is_illegal": false,
+  "text": "\"Bottom Dweller\" + \"Tongyo\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "1900",
+  "defense": "1600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "5"
+}

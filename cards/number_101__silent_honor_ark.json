@@ -1,0 +1,24 @@
+{
+  "name": "Number 101: Silent Honor ARK",
+  "number": "48739166",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nYou can detach 2 Xyz Materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as a face-up Xyz Material. You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn. If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "2100",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

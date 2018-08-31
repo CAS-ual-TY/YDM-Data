@@ -1,0 +1,24 @@
+{
+  "name": "D/D/D Flame King Genghis",
+  "number": "74583607",
+  "is_illegal": false,
+  "text": "2 \"D/D\" monsters\nIf another \"D/D\" monster(s) is Special Summoned to your field, while you control this face-up card (except during the Damage Step): You can target 1 \"D/D\" monster in your Graveyard; Special Summon it. You can only use this effect of \"D/D/D Flame King Genghis\" once per turn. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 \"Dark Contract\" card in your Graveyard; add it to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2000",
+  "defense": "1500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

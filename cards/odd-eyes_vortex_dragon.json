@@ -1,0 +1,24 @@
+{
+  "name": "Odd-Eyes Vortex Dragon",
+  "number": "53262004",
+  "is_illegal": false,
+  "text": "1 \"Odd-Eyes\" monster + 1 Pendulum Monster\nWhen this card is Special Summoned: You can target 1 face-up Attack Position monster your opponent controls; return it to the hand. During either player's turn, when a Spell/Trap Card or another monster's effect is activated: You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, negate the activation, and if you do, destroy that card. You can only use each effect of \"Odd-Eyes Vortex Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2500",
+  "defense": "3000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "7"
+}

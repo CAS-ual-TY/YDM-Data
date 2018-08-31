@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Dimension of Chaos: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2015-12-10",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "DOCS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Ultimaya Tzolkin",
+        "set_number": "DOCS-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Tiger",
+        "set_number": "DOCS-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Engraver of the Mark",
+        "set_number": "DOCS-ENSE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destruction Sword Flash",
+        "set_number": "DOCS-ENSE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

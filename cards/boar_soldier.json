@@ -1,0 +1,24 @@
+{
+  "name": "Boar Soldier",
+  "number": "21340051",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned, destroy this card. If your opponent controls 1 or more monsters, decrease the ATK of this card by 1000 points.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "2000",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

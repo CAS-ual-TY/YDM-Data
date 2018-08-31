@@ -1,0 +1,24 @@
+{
+  "name": "Cosmic Fortress Gol'gar",
+  "number": "68319538",
+  "is_illegal": false,
+  "text": "\"Alien Ammonite\" + 1 or more non-Tuner \"Alien\" monsters\nOnce per turn, you can select any number of face-up Spell or Trap Cards. Return those cards to their owners' hands, and distribute new A-Counters among monsters on the field equal to the number of cards returned. Once per turn, you can remove 2 A-Counters from anywhere on the field to destroy 1 card your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "2600",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "5"
+}

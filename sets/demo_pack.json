@@ -1,0 +1,214 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Demo Pack",
+    "type": "Booster Pack",
+    "date": "2011-02-12",
+    "distribution": "booster_pack",
+    "prefix": "DEM1",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Summoned Skull",
+        "set_number": "DEM1-EN001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Blade",
+        "set_number": "DEM1-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sabersaurus",
+        "set_number": "DEM1-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gene-Warped Warwolf",
+        "set_number": "DEM1-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Man-Eater Bug",
+        "set_number": "DEM1-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hayabusa Knight",
+        "set_number": "DEM1-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Fiend Megacyber",
+        "set_number": "DEM1-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Marauding Captain",
+        "set_number": "DEM1-EN008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Exiled Force",
+        "set_number": "DEM1-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Des Koala",
+        "set_number": "DEM1-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Majestic Mech - Ohka",
+        "set_number": "DEM1-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Calculator",
+        "set_number": "DEM1-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fissure",
+        "set_number": "DEM1-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Upstart Goblin",
+        "set_number": "DEM1-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Warrior Returning Alive",
+        "set_number": "DEM1-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mask of Weakness",
+        "set_number": "DEM1-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Secret Barrel",
+        "set_number": "DEM1-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Threatening Roar",
+        "set_number": "DEM1-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rising Energy",
+        "set_number": "DEM1-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "No Entry!!",
+        "set_number": "DEM1-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

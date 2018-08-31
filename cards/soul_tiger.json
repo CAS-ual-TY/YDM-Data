@@ -1,0 +1,24 @@
+{
+  "name": "Soul Tiger",
+  "number": "15734813",
+  "is_illegal": false,
+  "text": "The soul of a tiger that is said to devour human souls. He is a famous soul that you wouldn't want to run into in a dark alley.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "0",
+  "defense": "2100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

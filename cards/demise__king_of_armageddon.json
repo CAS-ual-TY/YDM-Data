@@ -1,0 +1,25 @@
+{
+  "name": "Demise, King of Armageddon",
+  "number": "72426662",
+  "is_illegal": false,
+  "text": "This card can only be Ritual Summoned with the Ritual Spell Card, \"End of the World\". You can pay 2000 Life Points to destroy all cards on the field, except this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2400",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "8"
+}

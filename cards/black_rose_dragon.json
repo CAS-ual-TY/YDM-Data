@@ -1,0 +1,24 @@
+{
+  "name": "Black Rose Dragon",
+  "number": "73580471",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant-Type monster from your Graveyard, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2400",
+  "defense": "1800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}

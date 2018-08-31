@@ -1,0 +1,24 @@
+{
+  "name": "Lesser Dragon",
+  "number": "55444629",
+  "is_illegal": false,
+  "text": "A minor dragon incapable of breathing fire.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1200",
+  "defense": "1000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

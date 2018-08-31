@@ -1,0 +1,24 @@
+{
+  "name": "Helpoemer",
+  "number": "76052811",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned from the Graveyard. If this card was destroyed by battle and sent to the Graveyard, this effect activates at the end of each of your opponent's Battle Phases: Discard 1 random card from your opponent's hand. This card must be in the Graveyard to activate and to resolve this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2000",
+  "defense": "1400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

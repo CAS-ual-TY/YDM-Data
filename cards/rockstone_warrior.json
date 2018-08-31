@@ -1,0 +1,24 @@
+{
+  "name": "Rockstone Warrior",
+  "number": "51987571",
+  "is_illegal": false,
+  "text": "You take no Battle Damage from battles involving this card. When this attacking card is destroyed by battle and sent to the Graveyard, Special Summon 2 \"Rockstone Tokens\" (Rock-Type/EARTH/Level 1/ATK 0/DEF 0). These Tokens cannot be Tributed for a Tribute Summon.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1800",
+  "defense": "1600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

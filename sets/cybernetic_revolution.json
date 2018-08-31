@@ -1,0 +1,646 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Cybernetic Revolution",
+    "type": "Booster Pack",
+    "date": "2005-05-26",
+    "distribution": "booster_pack",
+    "prefix": "CRV",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Cycroid",
+        "set_number": "CRV-EN001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Soitsu",
+        "set_number": "CRV-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mad Lobster",
+        "set_number": "CRV-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jerry Beans Man",
+        "set_number": "CRV-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Winged Kuriboh LV10",
+        "set_number": "CRV-EN005",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Patroid",
+        "set_number": "CRV-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gyroid",
+        "set_number": "CRV-EN007",
+        "rarities": [
+          "Normal Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Steamroid",
+        "set_number": "CRV-EN008",
+        "rarities": [
+          "Normal Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Drillroid",
+        "set_number": "CRV-EN009",
+        "rarities": [
+          "Normal Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "UFOroid",
+        "set_number": "CRV-EN010",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Jetroid",
+        "set_number": "CRV-EN011",
+        "rarities": [
+          "Normal Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wroughtweiler",
+        "set_number": "CRV-EN012",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Catapulter",
+        "set_number": "CRV-EN013",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Bubbleman",
+        "set_number": "CRV-EN014",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyber Dragon",
+        "set_number": "CRV-EN015",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Cybernetic Magician",
+        "set_number": "CRV-EN016",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Cybernetic Cyclopean",
+        "set_number": "CRV-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mechanical Hound",
+        "set_number": "CRV-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyber Archfiend",
+        "set_number": "CRV-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Goblin Elite Attack Force",
+        "set_number": "CRV-EN020",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "B.E.S. Crystal Core",
+        "set_number": "CRV-EN021",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Giant Kozaky",
+        "set_number": "CRV-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Indomitable Fighter Lei Lei",
+        "set_number": "CRV-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Protective Soul Ailin",
+        "set_number": "CRV-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Doitsu",
+        "set_number": "CRV-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Des Frog",
+        "set_number": "CRV-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "T.A.D.P.O.L.E.",
+        "set_number": "CRV-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Poison Draw Frog",
+        "set_number": "CRV-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tyranno Infinity",
+        "set_number": "CRV-EN029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Batteryman C",
+        "set_number": "CRV-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ebon Magician Curran",
+        "set_number": "CRV-EN031",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D.D.M. - Different Dimension Master",
+        "set_number": "CRV-EN032",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Steam Gyroid",
+        "set_number": "CRV-EN033",
+        "rarities": [
+          "Normal Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "UFOroid Fighter",
+        "set_number": "CRV-EN034",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyber Twin Dragon",
+        "set_number": "CRV-EN035",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyber End Dragon",
+        "set_number": "CRV-EN036",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Power Bond",
+        "set_number": "CRV-EN037",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Fusion Recovery",
+        "set_number": "CRV-EN038",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Miracle Fusion",
+        "set_number": "CRV-EN039",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Dragon's Mirror",
+        "set_number": "CRV-EN040",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "System Down",
+        "set_number": "CRV-EN041",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Des Croaking",
+        "set_number": "CRV-EN042",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pot of Generosity",
+        "set_number": "CRV-EN043",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shien's Spy",
+        "set_number": "CRV-EN044",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Transcendent Wings",
+        "set_number": "CRV-EN045",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Bubble Shuffle",
+        "set_number": "CRV-EN046",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Spark Blaster",
+        "set_number": "CRV-EN047",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Skyscraper",
+        "set_number": "CRV-EN048",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Fire Darts",
+        "set_number": "CRV-EN049",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Spiritual Earth Art - Kurogane",
+        "set_number": "CRV-EN050",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spiritual Water Art - Aoi",
+        "set_number": "CRV-EN051",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spiritual Fire Art - Kurenai",
+        "set_number": "CRV-EN052",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spiritual Wind Art - Miyabi",
+        "set_number": "CRV-EN053",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "A Rival Appears!",
+        "set_number": "CRV-EN054",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magical Explosion",
+        "set_number": "CRV-EN055",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Rising Energy",
+        "set_number": "CRV-EN056",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "D.D. Trap Hole",
+        "set_number": "CRV-EN057",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Conscription",
+        "set_number": "CRV-EN058",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dimension Wall",
+        "set_number": "CRV-EN059",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Prepare to Strike Back",
+        "set_number": "CRV-EN060",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

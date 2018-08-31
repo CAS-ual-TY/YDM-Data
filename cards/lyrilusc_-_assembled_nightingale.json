@@ -1,0 +1,24 @@
+{
+  "name": "Lyrilusc - Assembled Nightingale",
+  "number": "48608796",
+  "is_illegal": false,
+  "text": "2 or more Level 1 monsters\nThis card gains 200 ATK for each Xyz Material attached to it. This card can attack directly. While this card has Xyz Material, it can attack a number of times each Battle Phase, up to the number of Xyz Material attached to it. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; until the end of this turn, \"Lyrilusc\" monsters you control cannot be destroyed by battle or card effects, also you take no battle damage.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "1"
+}

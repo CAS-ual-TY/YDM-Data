@@ -1,0 +1,24 @@
+{
+  "name": "Ally of Justice Omni-Weapon",
+  "number": "45450218",
+  "is_illegal": false,
+  "text": "When this card destroys a LIGHT monster by battle and sends it to the Graveyard, draw 1 card. If that card is a Level 4 or lower DARK monster, you can reveal that card to Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2200",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Chicken Game",
+  "number": "67616300",
+  "is_illegal": false,
+  "text": "The player with the lowest LP takes no damage. Once per turn, during the Main Phase: The turn player can pay 1000 LP, then activate 1 of these effects;\nâ—? Draw 1 card.\nâ—? Destroy this card.\nâ—? Your opponent gains 1000 LP.\nNeither player can activate cards or effects in response to this effect's activation.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Field"
+}

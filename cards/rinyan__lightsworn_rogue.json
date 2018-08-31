@@ -1,0 +1,25 @@
+{
+  "name": "Rinyan, Lightsworn Rogue",
+  "number": "38815069",
+  "is_illegal": false,
+  "text": "FLIP: Target 1 \"Lightsworn\" monster in your Graveyard; shuffle that target into your Deck, then draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "2"
+}

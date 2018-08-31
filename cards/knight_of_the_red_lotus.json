@@ -1,0 +1,24 @@
+{
+  "name": "Knight of the Red Lotus",
+  "number": "46237548",
+  "is_illegal": false,
+  "text": "If you have exactly 3 Normal Monsters in your Graveyard, you can Special Summon this card from your hand by removing from play 2 Normal Monsters from your Graveyard. Once per turn, you can select and Special Summon 1 Level 4 or lower Normal Monster from your Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2100",
+  "defense": "1800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

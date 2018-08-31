@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Master Collection Volume 2",
+    "type": "Master Collection",
+    "date": "2005-10-18",
+    "distribution": "master_collection",
+    "prefix": "MC2",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Guardian Sphinx",
+        "set_number": "MC2-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Breaker the Magical Warrior",
+        "set_number": "MC2-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Exodia Necross",
+        "set_number": "MC2-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Luster Soldier - Envoy of the Beginning",
+        "set_number": "MC2-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Blowback Dragon",
+        "set_number": "MC2-EN005",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Theinen the Great Sphinx",
+        "set_number": "MC2-EN006",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

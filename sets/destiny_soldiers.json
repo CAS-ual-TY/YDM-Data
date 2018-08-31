@@ -1,0 +1,614 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Destiny Soldiers",
+    "type": "Booster Pack",
+    "date": "2016-11-17",
+    "distribution": "booster_pack",
+    "prefix": "DESO",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Destiny HERO - Drilldark",
+        "set_number": "DESO-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Dynatag",
+        "set_number": "DESO-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Decider",
+        "set_number": "DESO-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Dystopia",
+        "set_number": "DESO-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Dark Angel",
+        "set_number": "DESO-EN005",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Celestial",
+        "set_number": "DESO-EN006",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "D Cubed",
+        "set_number": "DESO-EN007",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "D-Fusion",
+        "set_number": "DESO-EN008",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Diamond Dude",
+        "set_number": "DESO-EN009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Malicious",
+        "set_number": "DESO-EN010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Dogma",
+        "set_number": "DESO-EN011",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Plasma",
+        "set_number": "DESO-EN012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny End Dragoon",
+        "set_number": "DESO-EN013",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny Draw",
+        "set_number": "DESO-EN014",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Over Destiny",
+        "set_number": "DESO-EN015",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Actor - Evil Heel",
+        "set_number": "DESO-EN016",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Actor - Funky Comedian",
+        "set_number": "DESO-EN017",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Actor - Superstar",
+        "set_number": "DESO-EN018",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Actor - Sassy Rookie",
+        "set_number": "DESO-EN019",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Actor - Extras",
+        "set_number": "DESO-EN020",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Actor - Leading Lady",
+        "set_number": "DESO-EN021",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Actor - Wild Hope",
+        "set_number": "DESO-EN022",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Script - Fantasy Magic",
+        "set_number": "DESO-EN023",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Script - Opening Ceremony",
+        "set_number": "DESO-EN024",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Script - Fire Dragon's Lair",
+        "set_number": "DESO-EN025",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Prop - Wild Wagon",
+        "set_number": "DESO-EN026",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Script - Rise of the Abyss King",
+        "set_number": "DESO-EN027",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Actors Back Stage",
+        "set_number": "DESO-EN028",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Morningstar",
+        "set_number": "DESO-EN029",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Ixchel",
+        "set_number": "DESO-EN030",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Tezcatlipoca",
+        "set_number": "DESO-EN031",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Nasten",
+        "set_number": "DESO-EN032",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Amdusc",
+        "set_number": "DESO-EN033",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Banishment of the Darklords",
+        "set_number": "DESO-EN034",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Contact",
+        "set_number": "DESO-EN035",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Rebellion",
+        "set_number": "DESO-EN036",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Enchantment",
+        "set_number": "DESO-EN037",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Asmodeus",
+        "set_number": "DESO-EN038",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Superbia",
+        "set_number": "DESO-EN039",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Edeh Arae",
+        "set_number": "DESO-EN040",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Zerato",
+        "set_number": "DESO-EN041",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Hole",
+        "set_number": "DESO-EN042",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Fires of Doomsday",
+        "set_number": "DESO-EN043",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Allure of Darkness",
+        "set_number": "DESO-EN044",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Escape from the Dark Dimension",
+        "set_number": "DESO-EN045",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Marie",
+        "set_number": "DESO-EN046",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Prometheus, King of the Shadows",
+        "set_number": "DESO-EN047",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Nurse Reficule",
+        "set_number": "DESO-EN048",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Doomsday Horror",
+        "set_number": "DESO-EN049",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Archlord Kristya",
+        "set_number": "DESO-EN050",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Trade-In",
+        "set_number": "DESO-EN051",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Veil of Darkness",
+        "set_number": "DESO-EN052",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Beginning of the End",
+        "set_number": "DESO-EN053",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Eruption",
+        "set_number": "DESO-EN054",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Valhalla, Hall of the Fallen",
+        "set_number": "DESO-EN055",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Advance Draw",
+        "set_number": "DESO-EN056",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Mambele",
+        "set_number": "DESO-EN057",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Creeping Darkness",
+        "set_number": "DESO-EN058",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny Signal",
+        "set_number": "DESO-EN059",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Illusion",
+        "set_number": "DESO-EN060",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

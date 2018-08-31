@@ -1,0 +1,24 @@
+{
+  "name": "Cyber Dragon Zwei",
+  "number": "5373478",
+  "is_illegal": false,
+  "text": "If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. Once per turn: You can reveal 1 Spell in your hand; this card's name becomes \"Cyber Dragon\" until the End Phase. This card's name becomes \"Cyber Dragon\" while in the GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

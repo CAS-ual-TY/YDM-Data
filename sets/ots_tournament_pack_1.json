@@ -1,0 +1,284 @@
+{
+  "status": "success",
+  "set": {
+    "name": "OTS Tournament Pack 1",
+    "type": "Booster Pack",
+    "date": "2016-03-18",
+    "distribution": "booster_pack",
+    "prefix": "OP01",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Bountiful Artemis",
+        "set_number": "OP01-EN001",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Vanity's Fiend",
+        "set_number": "OP01-EN002",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Masked HERO Dark Law",
+        "set_number": "OP01-EN003",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Droll & Lock Bird",
+        "set_number": "OP01-EN004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Infernoid Patrulea",
+        "set_number": "OP01-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Lizardraw",
+        "set_number": "OP01-EN006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Skullcrobat Joker",
+        "set_number": "OP01-EN007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Monkeyboard",
+        "set_number": "OP01-EN008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Guitartle",
+        "set_number": "OP01-EN009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dinoster Power, the Mighty Dracoslayer",
+        "set_number": "OP01-EN010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Anti-Spell Fragrance",
+        "set_number": "OP01-EN011",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Imperial Iron Wall",
+        "set_number": "OP01-EN012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Typhoon",
+        "set_number": "OP01-EN013",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Skull Servant",
+        "set_number": "OP01-EN014",
+        "rarities": [
+          "Short Print"
+        ],
+        "count": {
+          "Short Print": 1
+        }
+      },
+      {
+        "card_name": "Battle Warrior",
+        "set_number": "OP01-EN015",
+        "rarities": [
+          "Short Print"
+        ],
+        "count": {
+          "Short Print": 1
+        }
+      },
+      {
+        "card_name": "Mezuki",
+        "set_number": "OP01-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The White Stone of Legend",
+        "set_number": "OP01-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Flying \"C\"",
+        "set_number": "OP01-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zombie Warrior",
+        "set_number": "OP01-EN019",
+        "rarities": [
+          "Short Print"
+        ],
+        "count": {
+          "Short Print": 1
+        }
+      },
+      {
+        "card_name": "Michael, the Arch-Lightsworn",
+        "set_number": "OP01-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyber Dragon Nova",
+        "set_number": "OP01-EN021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mage Power",
+        "set_number": "OP01-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Offerings to the Doomed",
+        "set_number": "OP01-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Monster Gate",
+        "set_number": "OP01-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Allure of Darkness",
+        "set_number": "OP01-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Summoning Curse",
+        "set_number": "OP01-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Advance Zone",
+        "set_number": "OP01-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

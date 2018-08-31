@@ -1,0 +1,24 @@
+{
+  "name": "Elemental HERO Gaia",
+  "number": "16304628",
+  "is_illegal": false,
+  "text": "1 \"Elemental HERO\" monster + 1 EARTH monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Fusion Summoned: Target 1 face-up monster your opponent controls; until the End Phase, its ATK is halved and this card gains the same amount of ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2200",
+  "defense": "2600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

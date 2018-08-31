@@ -1,0 +1,24 @@
+{
+  "name": "Cuben",
+  "number": "17530001",
+  "is_illegal": false,
+  "text": "Once per turn: You can roll a six-sided die, and while this monster is face-up on the field, neither player can Normal or Special Summon monsters with the same Level as the result.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "600",
+  "defense": "1900",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

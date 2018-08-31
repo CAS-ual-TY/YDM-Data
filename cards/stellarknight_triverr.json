@@ -1,0 +1,24 @@
+{
+  "name": "Stellarknight Triverr",
+  "number": "42589641",
+  "is_illegal": false,
+  "text": "3 Level 4 \"tellarknight\" monsters\nDuring the turn you Xyz Summon this card, you cannot Special Summon monsters, except \"tellarknight\" monsters. If this card is Xyz Summoned: Return all other cards on the field to the hand. Once per turn: You can detach 1 Xyz Material from this card; send 1 random card from your opponent's hand to the Graveyard. If this card with Xyz Material is sent to the Graveyard: You can target 1 \"tellarknight\" monster in your Graveyard; Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2100",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Blue-Eyes Chaos MAX Dragon",
+  "number": "55410871",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Chaos Form\". Must be Ritual Summoned, and cannot be Special Summoned by other ways. Cannot be targeted, or destroyed by, your opponent's card effects. If this card attacks a Defense Position monster, inflict double piercing battle damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "4000",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "8"
+}

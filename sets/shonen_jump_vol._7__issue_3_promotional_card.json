@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump Vol. 7, Issue 3 promotional card",
+    "type": "Shonen Jump",
+    "date": "2009-03-01",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Chimeratech Fortress Dragon",
+        "set_number": "JUMP-EN031",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

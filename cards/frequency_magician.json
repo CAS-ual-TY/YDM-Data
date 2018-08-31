@@ -1,0 +1,24 @@
+{
+  "name": "Frequency Magician",
+  "number": "62154416",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to have 1 face-up monster you control gain 500 ATK, until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "800",
+  "defense": "400",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

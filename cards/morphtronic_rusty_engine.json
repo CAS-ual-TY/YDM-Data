@@ -1,0 +1,11 @@
+{
+  "name": "Morphtronic Rusty Engine",
+  "number": "20686759",
+  "is_illegal": false,
+  "text": "Equip only to a \"Morphtronic\" monster. If the equipped monster is destroyed, inflict damage to each player equal to its original ATK.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Equip"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! 5D's",
+    "type": "Manga Promo",
+    "date": "2015-03-03",
+    "distribution": "manga_promo",
+    "prefix": "YF07",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Black Rose Moonlight Dragon",
+        "set_number": "YF07-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

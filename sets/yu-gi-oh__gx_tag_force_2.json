@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! GX Tag Force 2",
+    "type": "Video Game Promo Cards",
+    "date": "2007-09-18",
+    "distribution": "video_game_promo_cards",
+    "prefix": "GX04",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Mad Reloader",
+        "set_number": "GX04-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Bribe",
+        "set_number": "GX04-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Chaos Burst",
+        "set_number": "GX04-EN003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

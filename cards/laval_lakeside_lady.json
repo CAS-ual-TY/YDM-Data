@@ -1,0 +1,24 @@
+{
+  "name": "Laval Lakeside Lady",
+  "number": "8041569",
+  "is_illegal": false,
+  "text": "If this card is in your Graveyard and you have 3 or more \"Laval\" monsters with different names in your Graveyard: You can banish this card and 1 other \"Laval\" monster from your Graveyard to target 1 Set card your opponent controls; destroy that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "200",
+  "defense": "200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

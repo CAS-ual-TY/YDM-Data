@@ -1,0 +1,24 @@
+{
+  "name": "Silent Wobby",
+  "number": "71015787",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can Special Summon this card from your hand to your opponent's side of the field. When Summoned this way: Draw 1 card, and if you do, your opponent gains 2000 Life Points. You can only use this effect of \"Silent Wobby\" once per turn. The hand size limit of this card's controller becomes 3.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "1000",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

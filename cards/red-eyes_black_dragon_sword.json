@@ -1,0 +1,24 @@
+{
+  "name": "Red-Eyes Black Dragon Sword",
+  "number": "19747827",
+  "is_illegal": false,
+  "text": "Must be Special Summoned with \"The Claw of Hermos\", using a Dragon-Type monster, and cannot be Special Summoned by other ways. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. It gains 1000 ATK, and 500 ATK and DEF for each Dragon-Type monster on the field and in the Graveyards.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2400",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "7"
+}

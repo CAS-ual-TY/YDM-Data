@@ -1,0 +1,24 @@
+{
+  "name": "Dark Paladin",
+  "number": "98502113",
+  "is_illegal": false,
+  "text": "\"Dark Magician\" + \"Buster Blader\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. During either player's turn, when a Spell Card is activated: You can discard 1 card; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect. This card gains 500 ATK for each Dragon-Type monster on the field or in either player's Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2900",
+  "defense": "2400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

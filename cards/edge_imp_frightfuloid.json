@@ -1,0 +1,24 @@
+{
+  "name": "Edge Imp Frightfuloid",
+  "number": "34566435",
+  "is_illegal": false,
+  "text": "(This card is always treated as a \"Frightfur\" card.)\nYou can target 1 \"Frightfur\" Fusion Monster you control or in your Graveyard; this card's ATK and DEF each become equal to the original ATK and DEF of that monster, until the end of this turn. You can only use this effect of \"Edge Imp Frightfuloid\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1300",
+  "defense": "1300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

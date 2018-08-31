@@ -1,0 +1,24 @@
+{
+  "name": "Elemental HERO Necroshade",
+  "number": "89252153",
+  "is_illegal": false,
+  "text": "Once, while this card is in the Graveyard, 1 Level 5 or higher \"Elemental HERO\" monster you Normal Summon can be Summoned without Tributing.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "defense": "1800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

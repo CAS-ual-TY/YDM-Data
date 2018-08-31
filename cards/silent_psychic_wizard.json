@@ -1,0 +1,24 @@
+{
+  "name": "Silent Psychic Wizard",
+  "number": "62950604",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 Psychic-Type monster in your Graveyard; banish that target. If this card is sent from the field to the Graveyard: Special Summon that monster banished by this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "1900",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

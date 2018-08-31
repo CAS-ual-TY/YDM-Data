@@ -1,0 +1,24 @@
+{
+  "name": "Performapal Teeter Totter Hopper",
+  "number": "29169993",
+  "is_illegal": false,
+  "text": "The first time this Special Summoned card would be destroyed by battle each turn, it is not destroyed. Once per turn, during your opponent's End Phase: You can target 1 Level 3 or lower \"Performapal\" monster in your Graveyard; send this card to the Graveyard, and if you do, add that monster to your hand. If a \"Performapal\" monster is sent from the hand to your Graveyard (except during the Damage Step), while this card is in your Graveyard: You can Special Summon this card. You can only use this effect of \"Performapal Teeter Totter Hopper\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "100",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

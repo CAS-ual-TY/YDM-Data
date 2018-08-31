@@ -1,0 +1,24 @@
+{
+  "name": "Herald of Pure Light",
+  "number": "1249315",
+  "is_illegal": false,
+  "text": "2 Level 2 monsters\nYou can detach 1 Xyz Material from this card, then target 1 monster in your Graveyard; add it to your hand, then shuffle 1 card from your hand into the Deck. You can only use the effect of \"Herald of Pure Light\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "600",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "2"
+}

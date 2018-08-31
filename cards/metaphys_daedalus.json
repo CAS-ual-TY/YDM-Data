@@ -1,0 +1,24 @@
+{
+  "name": "Metaphys Daedalus",
+  "number": "45960523",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned by the effect of a \"Metaphys\" monster: You can banish all other face-up Special Summoned monsters on the field. If this card is banished, during the Standby Phase of the next turn: You can shuffle this banished card into the Deck; banish 1 \"Metaphys\" card from your Deck, except \"Metaphys Daedalus\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2600",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

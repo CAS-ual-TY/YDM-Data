@@ -1,0 +1,24 @@
+{
+  "name": "Amazoness Spy",
+  "number": "31102447",
+  "is_illegal": false,
+  "text": "You can reveal 1 other \"Amazoness\" monster in your hand; Special Summon this card from your hand. You can only use this effect of \"Amazoness Spy\" once per turn. When this card is destroyed by battle and sent to the GY: You can target 1 \"Amazoness\" monster in your GY, except \"Amazoness Spy\"; return it to the hand, or shuffle it into the Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "800",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

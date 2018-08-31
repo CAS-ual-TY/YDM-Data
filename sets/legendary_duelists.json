@@ -1,0 +1,534 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Legendary Duelists",
+    "type": "Booster Pack",
+    "date": "2017-09-07",
+    "distribution": "booster_pack",
+    "prefix": "LEDU",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Red-Eyes B. Dragon",
+        "set_number": "LEDU-EN000",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Red-Eyes Baby Dragon",
+        "set_number": "LEDU-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Gearfried the Red-Eyes Iron Knight",
+        "set_number": "LEDU-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Red-Eyes Slash Dragon",
+        "set_number": "LEDU-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Red-Eyes Fang with Chain",
+        "set_number": "LEDU-EN004",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Red-Eyes Retro Dragon",
+        "set_number": "LEDU-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Red-Eyes Fusion",
+        "set_number": "LEDU-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Inferno Fire Blast",
+        "set_number": "LEDU-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Princess",
+        "set_number": "LEDU-EN008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Baby Tiger",
+        "set_number": "LEDU-EN009",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Call",
+        "set_number": "LEDU-EN010",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Onslaught",
+        "set_number": "LEDU-EN011",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Archer",
+        "set_number": "LEDU-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Swords Woman",
+        "set_number": "LEDU-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Village",
+        "set_number": "LEDU-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Legendary Fisherman II",
+        "set_number": "LEDU-EN015",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Citadel Whale",
+        "set_number": "LEDU-EN016",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Rage of Kairyu-Shin",
+        "set_number": "LEDU-EN017",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Sea Stealth Attack",
+        "set_number": "LEDU-EN018",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "The Legendary Fisherman",
+        "set_number": "LEDU-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Legendary Fisherman III",
+        "set_number": "LEDU-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "A Legendary Ocean",
+        "set_number": "LEDU-EN021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyberdark Cannon",
+        "set_number": "LEDU-EN022",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyberdark Claw",
+        "set_number": "LEDU-EN023",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyberdarkness Dragon",
+        "set_number": "LEDU-EN024",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyberdark Inferno",
+        "set_number": "LEDU-EN025",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyberdark Horn",
+        "set_number": "LEDU-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyberdark Edge",
+        "set_number": "LEDU-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyberdark Keel",
+        "set_number": "LEDU-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mixeroid",
+        "set_number": "LEDU-EN029",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Super Vehicroid - Mobile Base",
+        "set_number": "LEDU-EN030",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Megaroid City",
+        "set_number": "LEDU-EN031",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Emergeroid Call",
+        "set_number": "LEDU-EN032",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Expressroid",
+        "set_number": "LEDU-EN033",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Armoroid",
+        "set_number": "LEDU-EN034",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Vehicroid Connection Zone",
+        "set_number": "LEDU-EN035",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Water Dragon Cluster",
+        "set_number": "LEDU-EN036",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Duoterion",
+        "set_number": "LEDU-EN037",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Bonding - D2O",
+        "set_number": "LEDU-EN038",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Bonding - DHO",
+        "set_number": "LEDU-EN039",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Hydrogeddon",
+        "set_number": "LEDU-EN040",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Oxygeddon",
+        "set_number": "LEDU-EN041",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Water Dragon",
+        "set_number": "LEDU-EN042",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sphere Kuriboh",
+        "set_number": "LEDU-EN043",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yomi Ship",
+        "set_number": "LEDU-EN044",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Leotaur",
+        "set_number": "LEDU-EN045",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sergeant Electro",
+        "set_number": "LEDU-EN046",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Riryoku",
+        "set_number": "LEDU-EN047",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Monster Reincarnation",
+        "set_number": "LEDU-EN048",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wonder Balloons",
+        "set_number": "LEDU-EN049",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Golden Apples",
+        "set_number": "LEDU-EN050",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bonding - H2O",
+        "set_number": "LEDU-EN051",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

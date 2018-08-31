@@ -1,0 +1,24 @@
+{
+  "name": "Performapal Sky Magician",
+  "number": "73734821",
+  "is_illegal": false,
+  "text": "Once per turn, if you activate a Spell Card: This card gains 300 ATK. During either player's turn: You can target 1 Continuous Spell Card you control; return it to the hand, then you can activate 1 \"Magician\" Continuous Spell Card from your hand. You can only use this effect of \"Performapal Sky Magician\" once per turn. If this face-up card leaves the field: You can target 1 card on the field; destroy it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

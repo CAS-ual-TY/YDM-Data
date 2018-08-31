@@ -1,0 +1,848 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Code of the Duelist",
+    "type": "Booster Pack",
+    "date": "2017-04-15",
+    "distribution": "booster_pack",
+    "prefix": "COTD",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Cyberse Wizard",
+        "set_number": "COTD-EN001",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Backup Secretary",
+        "set_number": "COTD-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Stack Reviver",
+        "set_number": "COTD-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Launcher Commander",
+        "set_number": "COTD-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Salvagent Driver",
+        "set_number": "COTD-EN005",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Lilybell",
+        "set_number": "COTD-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Lycoris",
+        "set_number": "COTD-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Candina",
+        "set_number": "COTD-EN008",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Gouki Twistcobra",
+        "set_number": "COTD-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gouki Suprex",
+        "set_number": "COTD-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gouki Riscorpio",
+        "set_number": "COTD-EN011",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Hack Worm",
+        "set_number": "COTD-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jack Wyvern",
+        "set_number": "COTD-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cracking Dragon",
+        "set_number": "COTD-EN014",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Supreme King Dragon Odd-Eyes",
+        "set_number": "COTD-EN015",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Predaplant Banksiogre",
+        "set_number": "COTD-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D/D Vice Typhon",
+        "set_number": "COTD-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Crowned by the World Chalice",
+        "set_number": "COTD-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chosen by the World Chalice",
+        "set_number": "COTD-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Beckoned by the World Chalice",
+        "set_number": "COTD-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "World Chalice Guardragon",
+        "set_number": "COTD-EN021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lee the World Chalice Fairy",
+        "set_number": "COTD-EN022",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "World Legacy - \"World Chalice\"",
+        "set_number": "COTD-EN023",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Jain, Twilightsworn General",
+        "set_number": "COTD-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lyla, Twilightsworn Enchantress",
+        "set_number": "COTD-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lumina, Twilightsworn Shaman",
+        "set_number": "COTD-EN026",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ryko, Twilightsworn Fighter",
+        "set_number": "COTD-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Punishment Dragon",
+        "set_number": "COTD-EN028",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Rescue Ferret",
+        "set_number": "COTD-EN029",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Traptrix Mantis",
+        "set_number": "COTD-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Motivating Captain",
+        "set_number": "COTD-EN031",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Treasure Panda",
+        "set_number": "COTD-EN032",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zombina",
+        "set_number": "COTD-EN033",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Re: EX",
+        "set_number": "COTD-EN034",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Orbital Hydralander",
+        "set_number": "COTD-EN035",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Ascended of Thunder",
+        "set_number": "COTD-EN036",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Parry Knights",
+        "set_number": "COTD-EN037",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Supreme King Dragon Starving Venom",
+        "set_number": "COTD-EN038",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Supreme King Dragon Clear Wing",
+        "set_number": "COTD-EN039",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "D/D/D Gust High King Alexander",
+        "set_number": "COTD-EN040",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Supreme King Dragon Dark Rebellion",
+        "set_number": "COTD-EN041",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "D/D/D Wave High King Caesar",
+        "set_number": "COTD-EN042",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Firewall Dragon",
+        "set_number": "COTD-EN043",
+        "rarities": [
+          "Secret Rare",
+          "Holographic Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Holographic Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Holly Angel",
+        "set_number": "COTD-EN044",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Gouki The Great Ogre",
+        "set_number": "COTD-EN045",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Topologic Bomber Dragon",
+        "set_number": "COTD-EN046",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Imduk the World Chalice Dragon",
+        "set_number": "COTD-EN047",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ib the World Chalice Priestess",
+        "set_number": "COTD-EN048",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Auram the World Chalice Blademaster",
+        "set_number": "COTD-EN049",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ningirsu the World Chalice Warrior",
+        "set_number": "COTD-EN050",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Gaia Saber, the Lightning Shadow",
+        "set_number": "COTD-EN051",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Missus Radiant",
+        "set_number": "COTD-EN052",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Light Stage",
+        "set_number": "COTD-EN053",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gouki Re-Match",
+        "set_number": "COTD-EN054",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Air Cracking Storm",
+        "set_number": "COTD-EN055",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Smile Universe",
+        "set_number": "COTD-EN056",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "World Legacy Discovery",
+        "set_number": "COTD-EN057",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "World Legacy's Heart",
+        "set_number": "COTD-EN058",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "March of the Dark Brigade",
+        "set_number": "COTD-EN059",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Twilight Twin Dragons",
+        "set_number": "COTD-EN060",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Emerging Emergency Rescute Rescue",
+        "set_number": "COTD-EN061",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Spellbook of Knowledge",
+        "set_number": "COTD-EN062",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Gravity Lash",
+        "set_number": "COTD-EN063",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Boogie Trap",
+        "set_number": "COTD-EN064",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Castle Link",
+        "set_number": "COTD-EN065",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Defense Zone",
+        "set_number": "COTD-EN066",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Three Strikes Barrier",
+        "set_number": "COTD-EN067",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Reincarnation",
+        "set_number": "COTD-EN068",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pulse Mines",
+        "set_number": "COTD-EN069",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Supreme Rage",
+        "set_number": "COTD-EN070",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "World Legacy Landmark",
+        "set_number": "COTD-EN071",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Twilight Eraser",
+        "set_number": "COTD-EN072",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Twilight Cloth",
+        "set_number": "COTD-EN073",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark World Brainwashing",
+        "set_number": "COTD-EN074",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Break Off Trap Hole",
+        "set_number": "COTD-EN075",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Heavy Storm Duster",
+        "set_number": "COTD-EN076",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Back to the Front",
+        "set_number": "COTD-EN077",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Recall",
+        "set_number": "COTD-EN078",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Blind Obliteration",
+        "set_number": "COTD-EN079",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Transmission Gear",
+        "set_number": "COTD-EN080",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      }
+    ]
+  }
+}

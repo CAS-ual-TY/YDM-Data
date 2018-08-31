@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Cyberdark Impact Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2006-11-04",
+    "distribution": "tournament_promo_cards",
+    "prefix": "SP02",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Justi-Break",
+        "set_number": "SP02-EN004",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

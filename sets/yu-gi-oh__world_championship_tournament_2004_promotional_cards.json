@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! World Championship Tournament 2004 promotional cards",
+    "type": "Promo Cards",
+    "date": "2004-02-10",
+    "distribution": "promo_cards",
+    "prefix": "WC4",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Fairy King Truesdale",
+        "set_number": "WC4-001",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Cipher Soldier",
+        "set_number": "WC4-002",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Slate Warrior",
+        "set_number": "WC4-003",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

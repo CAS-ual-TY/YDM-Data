@@ -1,0 +1,27 @@
+{
+  "name": "Wind-Up Zenmaintenance",
+  "number": "1735088",
+  "is_illegal": false,
+  "text": "2 \"Wind-Up\" monsters\nIf this card is destroyed and sent to the GY: You can target 1 \"Wind-Up\" Xyz Monster you control; attach this card to it as material. You can only use each of the following effects of \"Wind-Up Zenmaintenance\" once per turn.\nâ—? If this card is Link Summoned: You can add 1 \"Wind-Up\" card from your Deck to your hand.\nâ—? You can banish 1 face-up \"Wind-Up\" monster you control, face-down; Special Summon 1 monster from your Deck with the same name that card had on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

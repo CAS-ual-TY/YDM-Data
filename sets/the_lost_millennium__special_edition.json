@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "The Lost Millennium: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2005-06-10",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "TLM",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Invader of Darkness",
+        "set_number": "TLM-ENSE1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Chaos Emperor Dragon - Envoy of the End",
+        "set_number": "TLM-ENSE2",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Mazera DeVille",
+        "set_number": "TLM-ENSE3",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "The End of Anubis",
+        "set_number": "TLM-ENSE4",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

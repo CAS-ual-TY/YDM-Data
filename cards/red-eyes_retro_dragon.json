@@ -1,0 +1,24 @@
+{
+  "name": "Red-Eyes Retro Dragon",
+  "number": "53485634",
+  "is_illegal": false,
+  "text": "If a Level 7 or lower \"Red-Eyes\" monster(s) you control is destroyed by your opponent's attack or card effect and sent to your GY, while this card is in your hand: You can Special Summon this card in Defense Position, and if you do, Special Summon as many of those destroyed monsters as possible in the same position they were in when destroyed. You can Tribute this card; you can Normal Summon 1 \"Red-Eyes\" monster during your Main Phase this turn in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1700",
+  "defense": "1600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

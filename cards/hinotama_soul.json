@@ -1,0 +1,24 @@
+{
+  "name": "Hinotama Soul",
+  "number": "96851799",
+  "is_illegal": false,
+  "text": "An intensely hot flame creature that rams anything standing in its way.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "600",
+  "defense": "500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "2"
+}

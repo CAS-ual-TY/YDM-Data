@@ -1,0 +1,24 @@
+{
+  "name": "F.A. Whip Crosser",
+  "number": "49655592",
+  "is_illegal": false,
+  "text": "Gains ATK equal to its Level x 300. Your opponent must pay 300 LP to activate the effect of a monster whose original Level/Rank is lower than this card's Level. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If this card is Level 7 or higher, your opponent cannot discard or send cards from their hand to the GY to activate a card effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "1000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

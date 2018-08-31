@@ -1,0 +1,24 @@
+{
+  "name": "Mist Valley Thunderbird",
+  "number": "69448290",
+  "is_illegal": false,
+  "text": "When this face-up card on the field returns to the hand, Special Summon it. This card cannot attack during the turn it was Special Summoned by this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "1100",
+  "defense": "700",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

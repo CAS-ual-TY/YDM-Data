@@ -1,0 +1,24 @@
+{
+  "name": "The Fabled Chawa",
+  "number": "29905795",
+  "is_illegal": false,
+  "text": "During your Main Phase, you can discard 1 \"Fabled\" monster and Special Summon this card from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "200",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

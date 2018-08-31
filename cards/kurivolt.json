@@ -1,0 +1,24 @@
+{
+  "name": "Kurivolt",
+  "number": "40817915",
+  "is_illegal": false,
+  "text": "You can target 1 face-up Xyz Monster that has Xyz Material; detach 1 Xyz Material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. This card cannot be used as a Synchro Material Monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "300",
+  "defense": "200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

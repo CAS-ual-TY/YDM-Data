@@ -1,0 +1,28 @@
+{
+  "name": "Performage Mirror Conductor",
+  "number": "71578874",
+  "is_illegal": false,
+  "text": "Once per turn, during either player's turn: You can target 1 face-up monster on the field; switch its current ATK and DEF, then take 500 damage. This ATK and DEF change lasts until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "600",
+  "defense": "1400",
+  "attribute": "LIGHT",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn: You can target 1 face-up Special Summoned monster on the field; its ATK and DEF become equal to its current ATK or DEF (whichever is lower) until the end of this turn (even if this card leaves the field).",
+  "stars": "4"
+}

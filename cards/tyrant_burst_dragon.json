@@ -1,0 +1,24 @@
+{
+  "name": "Tyrant Burst Dragon",
+  "number": "58293343",
+  "is_illegal": false,
+  "text": "Must be Special Summoned with \"The Fang of Critias\", using \"Tyrant Wing\", and cannot be Special Summoned by other ways. This card can attack all monsters your opponent controls, once each. You can target 1 face-up monster you control; equip this monster to that target. It gains 400 ATK and DEF, also it can make 3 attacks during each Battle Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2900",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

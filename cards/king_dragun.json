@@ -1,0 +1,24 @@
+{
+  "name": "King Dragun",
+  "number": "13756293",
+  "is_illegal": false,
+  "text": "\"Lord of D.\" + \"Divine Dragon Ragnarok\"\nYour opponent cannot select any Dragon-Type monsters as the target(s) of Spell, Trap, or Monster Card effects. Once per turn, you can Special Summon 1 Dragon-Type monster from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2400",
+  "defense": "1100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "7"
+}

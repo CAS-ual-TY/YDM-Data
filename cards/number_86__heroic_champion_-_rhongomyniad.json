@@ -1,0 +1,24 @@
+{
+  "name": "Number 86: Heroic Champion - Rhongomyniad",
+  "number": "63504681",
+  "is_illegal": false,
+  "text": "2 or more (max. 5) Level 4 Warrior-Type monsters\nDuring each of your opponent's End Phases: Detach 1 Xyz Material from this card. This card gains effects based on the number of Xyz Materials attached to it. â—? 1 or more: Cannot be destroyed by battle. â—? 2 or more: Gains 1500 ATK and DEF. â—? 3 or more: Unaffected by other card effects. â—? 4 or more: Your opponent cannot Normal or Special Summon monsters. â—? 5: Once per turn: You can destroy all cards your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1500",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Meltiel, Sage of the Sky",
+  "number": "49905576",
+  "is_illegal": false,
+  "text": "Each time a Counter Trap Card is activated, gain 1000 Life Points, and if \"The Sanctuary in the Sky\" is face-up on the field, destroy 1 card your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1600",
+  "defense": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

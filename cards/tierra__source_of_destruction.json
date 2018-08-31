@@ -1,0 +1,24 @@
+{
+  "name": "Tierra, Source of Destruction",
+  "number": "91588074",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling 10 other cards with different names from your hand and/or field into the Deck and/or Extra Deck, and cannot be Special Summoned by other ways. This card's Special Summon cannot be negated. If this card is Special Summoned: Shuffle all cards into the Deck, except this card, from each player's hand, field, Graveyard, and face-up Pendulum Monsters from the Extra Deck. Neither player can activate cards or effects in response to this effect's activation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "3400",
+  "defense": "3600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "11"
+}

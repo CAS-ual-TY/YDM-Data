@@ -1,0 +1,25 @@
+{
+  "name": "Prediction Princess Tarotrei",
+  "number": "94997874",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Prediction Ritual\". Once per turn, during your End Phase: You can Special Summon 1 Flip monster from your hand or Graveyard in face-down Defense Position. You can only use 1 of the following effects of \"Prediction Princess Tarotrei\" per turn, and only once that turn.\nâ—? During either player's turn: You can target 1 face-down monster on the field; change it to face-up Attack Position.\nâ—? During either player's turn: You can target 1 face-up monster on the field; change it to face-down Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2700",
+  "defense": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "9"
+}

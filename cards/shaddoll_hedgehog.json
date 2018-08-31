@@ -1,0 +1,25 @@
+{
+  "name": "Shaddoll Hedgehog",
+  "number": "4939890",
+  "is_illegal": false,
+  "text": "FLIP: You can add 1 \"Shaddoll\" Spell/Trap Card from your Deck to your hand.\nIf this card is sent to the Graveyard by a card effect: You can add 1 \"Shaddoll\" monster from your Deck to your hand, except \"Shaddoll Hedgehog\". You can only use 1 \"Shaddoll Hedgehog\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "800",
+  "defense": "200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

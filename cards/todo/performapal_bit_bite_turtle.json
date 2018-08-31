@@ -1,0 +1,28 @@
+{
+  "name": "Performapal Bit Bite Turtle",
+  "number": "89113320",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle: You can destroy the monster that destroyed it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "800",
+  "defense": "1200",
+  "attribute": "WATER",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn: You can reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set, and even if this card leaves the field).",
+  "stars": "3"
+}

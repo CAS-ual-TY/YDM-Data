@@ -1,0 +1,24 @@
+{
+  "name": "Flower Cardian Maple with Deer",
+  "number": "21772453",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Flower Cardian\" monster, except \"Flower Cardian Maple with Deer\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then, if it is a \"Flower Cardian\" monster, you can destroy 1 Spell/Trap Card your opponent controls. Otherwise, send it to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Summon Limit",
+  "number": "23516703",
+  "is_illegal": false,
+  "text": "Neither player can Summon more than two times per turn. (Negated Summons count toward this limit. Negated cards/effects that would Summon do not count.)",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Heraldic Beast Leo",
+  "number": "82293134",
+  "is_illegal": false,
+  "text": "During the End Phase of the turn this card was Normal Summoned: Destroy this card. When this card is sent to the Graveyard: Add 1 \"Heraldic Beast\" monster from your Deck to your hand, except \"Heraldic Beast Leo\". You can only use this effect of \"Heraldic Beast Leo\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2000",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

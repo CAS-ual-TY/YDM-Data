@@ -1,0 +1,104 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Collectible Tins 2011 Wave 2",
+    "type": "Special Edition Promo Cards",
+    "date": "2011-10-27",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT08",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Galaxy-Eyes Photon Dragon",
+        "set_number": "CT08-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 10: Illumiknight",
+        "set_number": "CT08-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Fossil Dyna Pachycephalo",
+        "set_number": "CT08-EN012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Guardian Eatos",
+        "set_number": "CT08-EN013",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Malefic Stardust Dragon",
+        "set_number": "CT08-EN014",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Solemn Warning",
+        "set_number": "CT08-EN015",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ehren, Lightsworn Monk",
+        "set_number": "CT08-EN016",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "XX-Saber Darksoul",
+        "set_number": "CT08-EN017",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Tyrant Neptune",
+        "set_number": "CT08-EN018",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

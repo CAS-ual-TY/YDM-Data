@@ -1,0 +1,24 @@
+{
+  "name": "Guardian Dreadscythe",
+  "number": "18175965",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If a \"Guardian Eatos\" is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon this card from your hand. When this card is Special Summoned: You can equip 1 \"Reaper Scythe - Dreadscythe\" from your Deck to this card. You cannot Normal or Special Summon monsters (but you can Normal Set). If this card is sent from the field to the Graveyard: Send 1 card from your hand to the Graveyard, and if you do, Special Summon this card from the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

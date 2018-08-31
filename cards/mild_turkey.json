@@ -1,0 +1,28 @@
+{
+  "name": "Mild Turkey",
+  "number": "47558785",
+  "is_illegal": false,
+  "text": "The taste of victory will bowl you over.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1000",
+  "defense": "2000",
+  "attribute": "FIRE",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Normal"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn: You can roll a six-sided die and reduce this card's Pendulum Scale by the result (min. 1), until the end of this turn.",
+  "stars": "4"
+}

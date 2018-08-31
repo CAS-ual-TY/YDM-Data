@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump Vol. 6, Issue 3",
+    "type": "Shonen Jump",
+    "date": "2008-02-01",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Van'Dalgyon the Dark Dragon Lord",
+        "set_number": "JUMP-EN023",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

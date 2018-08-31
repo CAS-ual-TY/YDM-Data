@@ -1,0 +1,24 @@
+{
+  "name": "Wattpheasant",
+  "number": "81896771",
+  "is_illegal": false,
+  "text": "This card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack, select 1 face-up monster on the field and remove it from play until the End Phase of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "1000",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

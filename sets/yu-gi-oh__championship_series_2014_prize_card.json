@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Championship Series 2014 Prize Card",
+    "type": "Tournament Promo Cards",
+    "date": "2014-12-14",
+    "distribution": "tournament_promo_cards",
+    "prefix": "YCSW",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Ascension Sky Dragon",
+        "set_number": "YCSW-EN007",
+        "rarities": [
+          "Ultra Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

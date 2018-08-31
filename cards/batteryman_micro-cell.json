@@ -1,0 +1,25 @@
+{
+  "name": "Batteryman Micro-Cell",
+  "number": "56839613",
+  "is_illegal": false,
+  "text": "FLIP: Special Summon 1 Level 4 or lower \"Batteryman\" monster from your Deck, except \"Batteryman Micro-Cell\". After this card has been flipped face-up, when it is destroyed by battle and sent to the Graveyard, draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "1"
+}

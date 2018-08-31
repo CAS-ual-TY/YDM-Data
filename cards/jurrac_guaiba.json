@@ -1,0 +1,24 @@
+{
+  "name": "Jurrac Guaiba",
+  "number": "11012887",
+  "is_illegal": false,
+  "text": "If this card destroys an opponent's monster by battle: You can Special Summon 1 \"Jurrac\" monster with 1700 or less ATK from your Deck, but it cannot declare an attack this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1700",
+  "defense": "400",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

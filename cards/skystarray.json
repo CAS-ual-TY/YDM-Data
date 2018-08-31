@@ -1,0 +1,24 @@
+{
+  "name": "Skystarray",
+  "number": "47349310",
+  "is_illegal": false,
+  "text": "This card can attack your opponent directly. At the end of the Battle Phase, if this card attacked directly: Banish this card until your next Standby Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "600",
+  "defense": "300",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

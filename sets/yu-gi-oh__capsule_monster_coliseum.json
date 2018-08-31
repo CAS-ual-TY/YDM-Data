@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Capsule Monster Coliseum",
+    "type": "Video Game Promo Cards",
+    "date": "2004-07-29",
+    "distribution": "video_game_promo_cards",
+    "prefix": "CMC",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Abyss Soldier",
+        "set_number": "CMC-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Inferno Hammer",
+        "set_number": "CMC-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Teva",
+        "set_number": "CMC-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

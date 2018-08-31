@@ -1,0 +1,24 @@
+{
+  "name": "Brotherhood of the Fire Fist - Tiger King",
+  "number": "96381979",
+  "is_illegal": false,
+  "text": "2 Level 4 Beast-Warrior-Type monsters\nWhen this card is Xyz Summoned: You can Set 1 \"Fire Formation\" Spell/Trap Card directly from your Deck. Once per turn: You can detach 1 Xyz Material from this card; negate the effects of all face-up Effect Monsters currently on the field, except Beast-Warrior-Type, until the end of your opponent's turn. When this card is sent from the field to the Graveyard: You can send 3 \"Fire Formation\" Spell/Trap Cards you control to the Graveyard; Special Summon 2 Level 4 or lower Beast-Warrior-Type monsters with the same ATK from your Deck, in face-up Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "2200",
+  "defense": "1800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Superheavy Samurai Steam Train King",
+  "number": "17775525",
+  "is_illegal": false,
+  "text": "1 \"Superheavy Samurai\" Tuner + 2+ non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn: You can discard up to 2 cards, then target that many cards your opponent controls; destroy them. Once per turn: You can banish all Spells and Traps from the GYs, and if you do, inflict 200 damage to your opponent for each card banished.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2000",
+  "defense": "4800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "12"
+}

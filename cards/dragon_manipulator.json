@@ -1,0 +1,25 @@
+{
+  "name": "Dragon Manipulator",
+  "number": "63018132",
+  "is_illegal": false,
+  "text": "FLIP: Take control of 1 face-up Dragon-Type monster on your opponent's side of the field until the end of the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "700",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

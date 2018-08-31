@@ -1,0 +1,24 @@
+{
+  "name": "Temtempo the Percussion Djinn",
+  "number": "52558805",
+  "is_illegal": false,
+  "text": "2 Level 3 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up Xyz Monster your opponent controls; detach 1 Xyz Material from that monster, and if you do, all \"Djinn\" Xyz Monsters you currently control gain 500 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1700",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Flame Viper",
+  "number": "2830619",
+  "is_illegal": false,
+  "text": "A fire-breathing snake whose speed makes it a difficult target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "400",
+  "defense": "450",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "2"
+}

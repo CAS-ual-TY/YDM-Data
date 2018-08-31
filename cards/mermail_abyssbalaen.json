@@ -1,0 +1,24 @@
+{
+  "name": "Mermail Abyssbalaen",
+  "number": "75180828",
+  "is_illegal": false,
+  "text": "You can discard 4 other \"Mermail\" monsters to the Graveyard; Special Summon this card from your hand. When you do: Target cards your opponent controls, up to the number of \"Mermail\" monsters in your Graveyard (if possible); this card gains 500 ATK, and if it does, destroy those targets (if any). You can Tribute 1 other face-up Attack Position \"Mermail\" monster; this card gains the following effect this turn.\nâ—? At the start of the Damage Step, if this card battles a Defense Position monster: Destroy that monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

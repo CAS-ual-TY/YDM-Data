@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Invasion: Vengeance: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2016-12-08",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "INOV",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Dystopia the Despondent",
+        "set_number": "INOV-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Relinkuriboh",
+        "set_number": "INOV-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Crystron Rion",
+        "set_number": "INOV-ENSE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Yokotuner",
+        "set_number": "INOV-ENSE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

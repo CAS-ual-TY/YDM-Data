@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shining Victories: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2016-06-16",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "SHVI",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Ebon Illusion Magician",
+        "set_number": "SHVI-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Core",
+        "set_number": "SHVI-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Magician's Robe",
+        "set_number": "SHVI-ENSE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Scapeghost",
+        "set_number": "SHVI-ENSE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

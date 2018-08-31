@@ -1,0 +1,24 @@
+{
+  "name": "Soaring Eagle Above the Searing Land",
+  "number": "26381750",
+  "is_illegal": false,
+  "text": "If this card is sent to the Graveyard for a Synchro Summon: You can Special Summon this card. You must have 3 or more \"Laval\" monsters with different names in your Graveyard to activate and to resolve this effect. If this card is Special Summoned with this effect, banish it when it leaves the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "100",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

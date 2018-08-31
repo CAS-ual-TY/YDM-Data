@@ -1,0 +1,24 @@
+{
+  "name": "Linkslayer",
+  "number": "35595518",
+  "is_illegal": false,
+  "text": "If you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can discard up to 2 cards, then target that many Spell/Trap Cards on the field; destroy them.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2000",
+  "defense": "600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

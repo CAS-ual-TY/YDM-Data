@@ -1,0 +1,25 @@
+{
+  "name": "Worm Hope",
+  "number": "11159464",
+  "is_illegal": false,
+  "text": "FLIP: When this card is flipped face-up by an opponent's monster's attack, draw 1 card.\nWhen this card is sent from the field to the Graveyard, send 1 card from your hand to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "800",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "1"
+}

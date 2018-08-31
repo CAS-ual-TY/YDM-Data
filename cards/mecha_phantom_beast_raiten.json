@@ -1,0 +1,24 @@
+{
+  "name": "Mecha Phantom Beast Raiten",
+  "number": "44026393",
+  "is_illegal": false,
+  "text": "You can discard 1 card; Special Summon 1 \"Mecha Phantom Beast Token\" (Machine/WIND/Level 3/ATK 0/DEF 0), also you can only use \"Mecha Phantom Beast\" monsters as Fusion, Synchro, Xyz, or Link Material for a Summon, for the rest of this turn. This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "defense": "1500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

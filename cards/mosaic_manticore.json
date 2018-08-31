@@ -1,0 +1,24 @@
+{
+  "name": "Mosaic Manticore",
+  "number": "8483333",
+  "is_illegal": false,
+  "text": "During the Standby Phase of your next turn after you Tribute Summoned this face-up card on the field: Special Summon, from the Graveyard, as many monster(s) as possible that were used for its Tribute Summon. They cannot declare an attack, and their effects are negated.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2800",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

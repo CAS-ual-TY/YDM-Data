@@ -1,0 +1,24 @@
+{
+  "name": "Taotie, Shadow of the Yang Zing",
+  "number": "99946920",
+  "is_illegal": false,
+  "text": "When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 \"Yang Zing\" monster from your Deck in Defense Position, except \"Taotie, Shadow of the Yang Zing\". You can only use this effect of \"Taotie, Shadow of the Yang Zing\" once per turn. Once per turn, during your opponent's Main Phase or Battle Phase, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only \"Yang Zing\" monsters you control (this is a Quick Effect). Possession of a Synchro Monster on the field that used this card as a Synchro Material cannot switch.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2200",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

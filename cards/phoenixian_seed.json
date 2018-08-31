@@ -1,0 +1,24 @@
+{
+  "name": "Phoenixian Seed",
+  "number": "96553688",
+  "is_illegal": false,
+  "text": "You can send this face-up card to the Graveyard to Special Summon 1 \"Phoenixian Cluster Amaryllis\" from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "800",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

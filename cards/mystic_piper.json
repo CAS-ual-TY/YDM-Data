@@ -1,0 +1,24 @@
+{
+  "name": "Mystic Piper",
+  "number": "14198496",
+  "is_illegal": false,
+  "text": "You can Tribute this card to draw and reveal 1 card. If that card is a Level 1 Monster Card, draw 1 more card. The effect of \"Mystic Piper\" can only be activated once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

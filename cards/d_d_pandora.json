@@ -1,0 +1,24 @@
+{
+  "name": "D/D Pandora",
+  "number": "32146097",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard, or when this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard, and you control no cards: You can draw 2 cards.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1700",
+  "defense": "2100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

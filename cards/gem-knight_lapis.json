@@ -1,0 +1,24 @@
+{
+  "name": "Gem-Knight Lapis",
+  "number": "99645428",
+  "is_illegal": false,
+  "text": "The best of friends with Lazuli, this soldier deeply cares about the well-being of her friends.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1200",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

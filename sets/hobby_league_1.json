@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Hobby League 1",
+    "type": "Duelist League Promo Cards",
+    "date": "2005-02-21",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "HL1",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Lord of the Lamp",
+        "set_number": "HL1-EN001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Greenkappa",
+        "set_number": "HL1-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "A Legendary Ocean",
+        "set_number": "HL1-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Levia-Dragon - Daedalus",
+        "set_number": "HL1-EN004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Fusion Gate",
+        "set_number": "HL1-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "King of the Swamp",
+        "set_number": "HL1-EN006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

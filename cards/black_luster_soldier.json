@@ -1,0 +1,24 @@
+{
+  "name": "Black Luster Soldier",
+  "number": "5405694",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Black Luster Ritual\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual"
+  ],
+  "stars": "8"
+}

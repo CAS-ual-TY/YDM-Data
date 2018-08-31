@@ -1,0 +1,24 @@
+{
+  "name": "Kelbek",
+  "number": "54878498",
+  "is_illegal": false,
+  "text": "A monster that attacks this card returns to its owner's hand. Damage calculation is applied normally.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1500",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

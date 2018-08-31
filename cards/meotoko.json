@@ -1,0 +1,24 @@
+{
+  "name": "Meotoko",
+  "number": "53832650",
+  "is_illegal": false,
+  "text": "Dis big ol' guy wit' a big ol' eye shoots a nasty ray beam right atcha!",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "700",
+  "defense": "600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "2"
+}

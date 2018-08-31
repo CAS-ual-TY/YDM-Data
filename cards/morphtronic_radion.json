@@ -1,0 +1,24 @@
+{
+  "name": "Morphtronic Radion",
+  "number": "55119278",
+  "is_illegal": false,
+  "text": "â—? While in Attack Position: \"Morphtronic\" monsters you control gain 800 ATK. â—? While in Defense Position: \"Morphtronic\" monsters you control gain 1000 DEF.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "1000",
+  "defense": "900",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

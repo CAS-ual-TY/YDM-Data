@@ -1,0 +1,24 @@
+{
+  "name": "Rescue Ferret",
+  "number": "56343672",
+  "is_illegal": false,
+  "text": "You can shuffle this card you control into the Deck; Special Summon monster(s) from your Deck, except \"Rescue Ferret\", whose total Levels equal 6, to your zone(s) a Link Monster(s) points to, but those Summoned monsters have their effects negated, also destroy them during the End Phase. You can only use this effect of \"Rescue Ferret\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "300",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

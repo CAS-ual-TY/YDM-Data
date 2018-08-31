@@ -1,0 +1,24 @@
+{
+  "name": "Overlay Eater",
+  "number": "81816475",
+  "is_illegal": false,
+  "text": "You can banish this card from your Graveyard; take 1 Xyz Material from a monster your opponent controls and attach it to an Xyz Monster you control as Xyz Material.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "300",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Koa'ki Meiru Sea Panther",
+  "number": "74576482",
+  "is_illegal": false,
+  "text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 WATER monster in your hand. Once per turn, you can send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard to return 1 Spell Card from your Graveyard to the top of your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "1900",
+  "defense": "1200",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

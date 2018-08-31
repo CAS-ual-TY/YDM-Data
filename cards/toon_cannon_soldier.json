@@ -1,0 +1,24 @@
+{
+  "name": "Toon Cannon Soldier",
+  "number": "79875176",
+  "is_illegal": false,
+  "text": "This card cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon Monsters, this card can attack your opponent directly. You can Tribute 1 monster; inflict 500 damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1400",
+  "defense": "1300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Toon"
+  ],
+  "stars": "4"
+}

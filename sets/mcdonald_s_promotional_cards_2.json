@@ -1,0 +1,214 @@
+{
+  "status": "success",
+  "set": {
+    "name": "McDonald's Promotional Cards 2",
+    "type": "Promo Cards",
+    "date": "2006-12-26",
+    "distribution": "promo_cards",
+    "prefix": "MDP2",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Elemental HERO Electrum",
+        "set_number": "MDP2-EN001",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Mudballman",
+        "set_number": "MDP2-EN002",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Burstinatrix",
+        "set_number": "MDP2-EN003",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "The Flute of Summoning Kuriboh",
+        "set_number": "MDP2-EN004",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Mist Body",
+        "set_number": "MDP2-EN005",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "White-Horned Dragon",
+        "set_number": "MDP2-EN006",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "La Jinn the Mystical Genie of the Lamp",
+        "set_number": "MDP2-EN007",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Meteor Dragon",
+        "set_number": "MDP2-EN008",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Gokibore",
+        "set_number": "MDP2-EN009",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Metal Guardian",
+        "set_number": "MDP2-EN010",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Kaiser Dragon",
+        "set_number": "MDP2-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amphibious Bugroth",
+        "set_number": "MDP2-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Aqua Dragon",
+        "set_number": "MDP2-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pragtical",
+        "set_number": "MDP2-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zone Eater",
+        "set_number": "MDP2-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Flame Viper",
+        "set_number": "MDP2-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Trakodon",
+        "set_number": "MDP2-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dungeon Worm",
+        "set_number": "MDP2-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Moon Envoy",
+        "set_number": "MDP2-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Stone Dragon",
+        "set_number": "MDP2-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

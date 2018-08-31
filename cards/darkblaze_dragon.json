@@ -1,0 +1,24 @@
+{
+  "name": "Darkblaze Dragon",
+  "number": "39343610",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned from the Graveyard: Its ATK and DEF become double its original ATK and DEF. If this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to that monster's original ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1200",
+  "defense": "1000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

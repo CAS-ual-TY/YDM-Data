@@ -1,0 +1,11 @@
+{
+  "name": "Soul Drain",
+  "number": "73599290",
+  "is_illegal": false,
+  "text": "Activate by paying 1000 Life Points. Monsters that are banished, as well as monsters in the Graveyard, cannot activate their effects (that start a Chain).",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

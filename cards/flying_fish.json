@@ -1,0 +1,24 @@
+{
+  "name": "Flying Fish",
+  "number": "31987274",
+  "is_illegal": false,
+  "text": "Three wishes are granted to those fortunate enough to see this monster in flight.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "800",
+  "defense": "500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

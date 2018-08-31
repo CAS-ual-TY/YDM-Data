@@ -1,0 +1,24 @@
+{
+  "name": "Batteryman Charger",
+  "number": "83446909",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned, you can Special Summon 1 \"Batteryman\" monster, except \"Batteryman Charger\", from your hand or Deck. This card gains 300 ATK and DEF for each Thunder-Type monster you control.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "1800",
+  "defense": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Dimension of Chaos Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2015-10-31",
+    "distribution": "tournament_promo_cards",
+    "prefix": "DOCS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Samurai Cavalry of Reptier",
+        "set_number": "DOCS-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

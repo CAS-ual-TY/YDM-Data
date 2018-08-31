@@ -1,0 +1,24 @@
+{
+  "name": "Roboyarou",
+  "number": "38916461",
+  "is_illegal": false,
+  "text": "A warrior fully covered with metal. It upgrades by fusing with \"Robolady\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "900",
+  "defense": "450",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! World Championship 2017 prize cards",
+    "type": "Tournament Promo Cards",
+    "date": "2017-08-13",
+    "distribution": "tournament_promo_cards",
+    "prefix": "2017",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Sanctity of Dragon",
+        "set_number": "2017-EN001",
+        "rarities": [
+          "Extra Secret Rare"
+        ],
+        "count": {
+          "Extra Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Iron Knight of Revolution",
+        "set_number": "2017-EN002",
+        "rarities": [
+          "Extra Secret Rare"
+        ],
+        "count": {
+          "Extra Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

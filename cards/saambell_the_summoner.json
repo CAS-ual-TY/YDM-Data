@@ -1,0 +1,24 @@
+{
+  "name": "Saambell the Summoner",
+  "number": "45282603",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can Special Summon 1 monster from your hand with the same Level as this card. This effect can only be used once while this card is face-up on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "600",
+  "defense": "400",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

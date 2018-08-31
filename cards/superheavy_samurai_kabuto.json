@@ -1,0 +1,24 @@
+{
+  "name": "Superheavy Samurai Kabuto",
+  "number": "41307269",
+  "is_illegal": false,
+  "text": "If your opponent Special Summons a monster(s): You can change as many Attack Position \"Superheavy Samurai\" monsters you control as possible to Defense Position, and if you do, the ones changed by this effect gain 500 DEF until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

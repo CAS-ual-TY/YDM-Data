@@ -1,0 +1,28 @@
+{
+  "name": "Deskbot 006",
+  "number": "55106249",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can target 1 monster on the field; change its battle position. This card gain 500 ATK for each face-up \"Deskbot\" monster in your Extra Deck. If this card in the Pendulum Zone is destroyed: You can target 1 \"Deskbot\" card in your Graveyard; add that target to your hand. You can only use this effect of \"Deskbot 006\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Deskbot\" monsters. This effect cannot be negated.",
+  "stars": "6"
+}

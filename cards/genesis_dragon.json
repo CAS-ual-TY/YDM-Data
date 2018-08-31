@@ -1,0 +1,24 @@
+{
+  "name": "Genesis Dragon",
+  "number": "31038159",
+  "is_illegal": false,
+  "text": "Once per turn, you can send 1 Dragon-Type monster from your hand to the Graveyard to add 1 Dragon-Type monster from your Graveyard to your hand. When this card is sent from the field to the Graveyard, you can return all Dragon-Type monsters from your Graveyard to your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2200",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "The Bistro Butcher",
+  "number": "71107816",
+  "is_illegal": false,
+  "text": "When this card inflicts Battle Damage to your opponent's Life Points, your opponent draws 2 cards from their Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1800",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Flower Cardian Cherry Blossom with Curtain",
+  "number": "5489987",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. You can reveal this card in your hand; draw 1 card, and if you do, show it, then Special Summon this card if the drawn card is a \"Flower Cardian\" monster. Otherwise, send it and this card to the Graveyard. During either player's Damage Step, when your \"Flower Cardian\" monster battles an opponent's monster: You can discard this card; your battling monster gains 1000 ATK until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

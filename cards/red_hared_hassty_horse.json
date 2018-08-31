@@ -1,0 +1,24 @@
+{
+  "name": "Red Hared Hassty Horse",
+  "number": "19636995",
+  "is_illegal": false,
+  "text": "If there is a column with no cards, you can Special Summon this card (from your hand) in Attack Position to your zone in that column. You can only Special Summon \"Red Hared Hasty Horse\" once per turn this way. If another card is placed in this card's column: Destroy this card. Once per turn: You can halve this card's original ATK for the rest of this turn, and if you do, it can attack directly this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2000",
+  "defense": "1800",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

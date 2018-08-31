@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump Championship 2007 Prize Card B",
+    "type": "Tournament Promo Cards",
+    "date": "2007-08-18",
+    "distribution": "tournament_promo_cards",
+    "prefix": "SJCS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Gold Sarcophagus",
+        "set_number": "SJCS-EN005",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

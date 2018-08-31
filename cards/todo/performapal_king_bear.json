@@ -1,0 +1,28 @@
+{
+  "name": "Performapal King Bear",
+  "number": "67808837",
+  "is_illegal": false,
+  "text": "Cannot be destroyed by Spell/Trap effects while in face-up Attack Position. This card gains 100 ATK for each \"Performapal\" card you control, during your Battle Phase only.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "2200",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn, during the End Phase, if this card was activated this turn: You can destroy this card, and if you do, add 1 Level 7 or higher monster to your hand, that is either in your Graveyard or face-up in your Extra Deck.",
+  "stars": "6"
+}

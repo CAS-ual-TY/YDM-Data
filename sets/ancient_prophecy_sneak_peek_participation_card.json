@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Ancient Prophecy Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2009-08-15",
+    "distribution": "tournament_promo_cards",
+    "prefix": "ANPR",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "XX-Saber Gardestrike",
+        "set_number": "ANPR-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

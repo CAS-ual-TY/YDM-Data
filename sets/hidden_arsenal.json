@@ -1,0 +1,314 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Hidden Arsenal",
+    "type": "Booster Pack",
+    "date": "2009-11-05",
+    "distribution": "booster_pack",
+    "prefix": "HA01",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Blizzed, Defender of the Ice Barrier",
+        "set_number": "HA01-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Blizzard Warrior",
+        "set_number": "HA01-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Cryomancer of the Ice Barrier",
+        "set_number": "HA01-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Mist Valley Thunderbird",
+        "set_number": "HA01-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Mist Valley Shaman",
+        "set_number": "HA01-EN005",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Mist Valley Soldier",
+        "set_number": "HA01-EN006",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Flamvell Dragnov",
+        "set_number": "HA01-EN007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Flamvell Magician",
+        "set_number": "HA01-EN008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Flamvell Guard",
+        "set_number": "HA01-EN009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "X-Saber Axel",
+        "set_number": "HA01-EN010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "X-Saber Airbellum",
+        "set_number": "HA01-EN011",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "X-Saber Uruz",
+        "set_number": "HA01-EN012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Commander Gottoms, Swordmaster",
+        "set_number": "HA01-EN013",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Ally of Justice Clausolas",
+        "set_number": "HA01-EN014",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ally of Justice Garadholg",
+        "set_number": "HA01-EN015",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ally of Justice Rudra",
+        "set_number": "HA01-EN016",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Worm Apocalypse",
+        "set_number": "HA01-EN017",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Worm Barses",
+        "set_number": "HA01-EN018",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Worm Cartaros",
+        "set_number": "HA01-EN019",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Worm Dimikles",
+        "set_number": "HA01-EN020",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Worm Erokin",
+        "set_number": "HA01-EN021",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Brionac, Dragon of the Ice Barrier",
+        "set_number": "HA01-EN022",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Mist Wurm",
+        "set_number": "HA01-EN023",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Flamvell Uruquizas",
+        "set_number": "HA01-EN024",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "X-Saber Urbellum",
+        "set_number": "HA01-EN025",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Ally of Justice Catastor",
+        "set_number": "HA01-EN026",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Wrath of Neos",
+        "set_number": "HA01-EN027",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Detonate",
+        "set_number": "HA01-EN028",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Berserker Crush",
+        "set_number": "HA01-EN029",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Evolution Burst",
+        "set_number": "HA01-EN030",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

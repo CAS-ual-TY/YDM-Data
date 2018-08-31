@@ -1,0 +1,24 @@
+{
+  "name": "Shiranui Spectralsword",
+  "number": "36630403",
+  "is_illegal": false,
+  "text": "If this card is in your Graveyard, except the turn this card was sent to the Graveyard: You can target 1 non-Tuner Zombie-Type monster in your Graveyard; banish both it and this card, and if you do, Special Summon 1 Zombie-Type Synchro Monster from your Extra Deck whose Level equals the total Levels those 2 monsters had. You can only use this effect of \"Shiranui Spectralsword\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "800",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

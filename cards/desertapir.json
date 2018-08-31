@@ -1,0 +1,25 @@
+{
+  "name": "Desertapir",
+  "number": "13409151",
+  "is_illegal": false,
+  "text": "FLIP: Flip 1 face-up monster on the field into face-down Defense Position. You cannot select \"Desertapir\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "900",
+  "defense": "300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

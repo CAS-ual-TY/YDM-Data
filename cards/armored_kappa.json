@@ -1,0 +1,24 @@
+{
+  "name": "Armored Kappa",
+  "number": "50789693",
+  "is_illegal": false,
+  "text": "2 Level 2 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains 1000 ATK or DEF. During either player's Battle Step, while an attack involving your monster is occurring: You can discard 1 card; for the rest of this turn, monsters you control cannot be destroyed by battle, also you take no battle damage. You can only use this effect of \"Armored Kappa\" once per Duel.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "400",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "2"
+}

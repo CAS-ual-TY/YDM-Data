@@ -1,0 +1,24 @@
+{
+  "name": "Dark Mimic LV3",
+  "number": "1102515",
+  "is_illegal": false,
+  "text": "If this card is destroyed by battle and sent to the Graveyard: Draw 1 card, but if this card was Special Summoned by the effect of \"Dark Mimic LV1\", draw 2 cards instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "World Legacy - "World Shield"",
+  "number": "55787576",
+  "is_illegal": false,
+  "text": "Unaffected by activated effects from any monster that was Special Summoned from the Extra Deck. Your opponent cannot target your \"World Legacy\" cards in this card's column with card effects, also they cannot be destroyed by your opponent's card effects. During the Standby Phase, if this card is in your GY: You can pay 1000 LP; Special Summon this card, then your opponent can Special Summon 1 monster from their hand or GY. You can only use this effect of \"World Legacy - \"World Shield\"\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "3000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

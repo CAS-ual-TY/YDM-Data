@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shining Victories Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2016-04-30",
+    "distribution": "tournament_promo_cards",
+    "prefix": "SHVI",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Magical Cavalry of Cxulub",
+        "set_number": "SHVI-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

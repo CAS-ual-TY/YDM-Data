@@ -1,0 +1,24 @@
+{
+  "name": "D.D. Telepon",
+  "number": "51701885",
+  "is_illegal": false,
+  "text": "If this face-up card you control is banished: You can banish 1 Psychic-Type monster with 1500 or less ATK from your Deck. Then, during your next Standby Phase, if this card is still banished: Special Summon that monster banished by this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "500",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

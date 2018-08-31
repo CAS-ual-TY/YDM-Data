@@ -1,0 +1,11 @@
+{
+  "name": "Magical Hats",
+  "number": "81210420",
+  "is_illegal": false,
+  "text": "During your opponent's Battle Phase: Choose 2 Spell/Trap Cards from your Deck and 1 monster you control. Special Summon them as Normal Monsters (ATK 0/DEF 0) in face-down Defense Position, Set the chosen monster if it is face-up, and shuffle them on the field. The 2 cards chosen from your Deck are destroyed at the end of the Battle Phase, and cannot remain on the field except during this Battle Phase.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

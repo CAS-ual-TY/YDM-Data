@@ -1,0 +1,24 @@
+{
+  "name": "Right Leg of the Forbidden One",
+  "number": "8124921",
+  "is_illegal": false,
+  "text": "A forbidden right leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "200",
+  "defense": "300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "1"
+}

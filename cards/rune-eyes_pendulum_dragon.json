@@ -1,0 +1,24 @@
+{
+  "name": "Rune-Eyes Pendulum Dragon",
+  "number": "1516510",
+  "is_illegal": false,
+  "text": "\"Odd-Eyes Pendulum Dragon\" + 1 Spellcaster-Type monster\nIf this card was Fusion Summoned using a Pendulum Summoned monster(s) on the field as Fusion Material, it is unaffected by your opponent's card effects this turn. Apply the appropriate effect, depending on the original Level of the monster used as Fusion Material that was not \"Odd-Eyes Pendulum Dragon\".\nâ—? Level 4 or lower: This card can make up to 2 attacks on monsters during each Battle Phase.\nâ—? Level 5 or higher: This card can make up to 3 attacks on monsters during each Battle Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

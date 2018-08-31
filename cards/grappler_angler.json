@@ -1,0 +1,24 @@
+{
+  "name": "Grappler Angler",
+  "number": "16632144",
+  "is_illegal": false,
+  "text": "When this card inflicts battle damage to your opponent by a direct attack: You can target 1 monster in your GY; Special Summon it in Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

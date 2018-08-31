@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump Vol. 3, Issue 1 promotional card",
+    "type": "Shonen Jump",
+    "date": "2005-01-26",
+    "distribution": "shonen_jump",
+    "prefix": "JMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Archfiend of Gilfer",
+        "set_number": "JMP-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

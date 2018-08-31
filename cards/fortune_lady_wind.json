@@ -1,0 +1,24 @@
+{
+  "name": "Fortune Lady Wind",
+  "number": "82693917",
+  "is_illegal": false,
+  "text": "This card's ATK and DEF are equal to its Level Ã— 300. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When this card is Normal Summoned, you can destroy a number of Spell or Trap Cards your opponent controls equal to the number of face-up \"Fortune Lady\" monsters you control.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

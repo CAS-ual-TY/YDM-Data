@@ -1,0 +1,25 @@
+{
+  "name": "Magnetic Mosquito",
+  "number": "50074522",
+  "is_illegal": false,
+  "text": "FLIP: Destroy all face-up Machine-Type monsters on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "300",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

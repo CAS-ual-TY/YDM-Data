@@ -1,0 +1,24 @@
+{
+  "name": "Second Booster",
+  "number": "88032368",
+  "is_illegal": false,
+  "text": "You can Tribute this card to select 1 face-up Attack Position monster you control. The selected monster gains 1500 ATK until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Judgment Dragon",
+  "number": "57774843",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 4 or more \"Lightsworn\" monsters with different names in your GY. You can pay 1000 LP; destroy all other cards on the field. Once per turn, during your End Phase: Send the top 4 cards of your Deck to the GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

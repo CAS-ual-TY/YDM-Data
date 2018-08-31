@@ -1,0 +1,24 @@
+{
+  "name": "Muka Muka",
+  "number": "46657337",
+  "is_illegal": false,
+  "text": "This card gains 300 ATK and DEF for each card in your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "600",
+  "defense": "300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

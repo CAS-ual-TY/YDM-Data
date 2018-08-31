@@ -1,0 +1,24 @@
+{
+  "name": "Raidraptor - Sharp Lanius",
+  "number": "60950180",
+  "is_illegal": false,
+  "text": "Once per turn, during your Main Phase, if this card was Normal or Special Summoned this turn: You can target 1 face-up Attack Position monster on the field; change it to face-up Defense Position. During your Main Phase 2, if this card attacked this turn: You can target 1 \"Raidraptor\" monster in your Graveyard; Special Summon it. You can only use this effect of \"Raidraptor - Sharp Lanius\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1700",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Diceversity",
+  "number": "96015976",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 monster on the field whose current Level is different from its original Level; roll a six-sided die and that monster's Level becomes the same as the result.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

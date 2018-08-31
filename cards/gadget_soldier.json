@@ -1,0 +1,24 @@
+{
+  "name": "Gadget Soldier",
+  "number": "86281779",
+  "is_illegal": false,
+  "text": "A rust-free machine warrior born to battle.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1800",
+  "defense": "2000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "6"
+}

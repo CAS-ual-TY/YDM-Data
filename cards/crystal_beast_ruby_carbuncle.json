@@ -1,0 +1,24 @@
+{
+  "name": "Crystal Beast Ruby Carbuncle",
+  "number": "32710364",
+  "is_illegal": false,
+  "text": "When this card is Special Summoned: You can Special Summon as many \"Crystal Beast\" cards as possible from your Spell & Trap Card Zone. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "300",
+  "defense": "300",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

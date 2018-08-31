@@ -1,0 +1,24 @@
+{
+  "name": "Infernity Beast",
+  "number": "7264861",
+  "is_illegal": false,
+  "text": "If this card attacks while you have no cards in your hand, your opponent cannot activate any Spell or Trap Cards until after the Damage Step.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1600",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

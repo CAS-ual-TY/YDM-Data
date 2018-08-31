@@ -1,0 +1,24 @@
+{
+  "name": "Fiend Skull Dragon",
+  "number": "66235877",
+  "is_illegal": false,
+  "text": "\"Cave Dragon\" + \"Lesser Fiend\"\n(This card is always treated as an \"Archfiend\" card.)\nA Fusion Summon of this card can only be done with the above Fusion Material Monsters. Negate the effects of Flip Effect Monsters. Negate any Trap effects that target this card on the field, and if you do, destroy that Trap Card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2000",
+  "defense": "1200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "5"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Karakuri Bushi mdl 6318 "Muzanichiha"",
+  "number": "39118197",
+  "is_illegal": false,
+  "text": "This card must attack if able. When this face-up Attack Position card on the field is selected as an attack target, change it to Defense Position. If another \"Karakuri\" monster on the field is destroyed, this card gains 400 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1800",
+  "defense": "600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

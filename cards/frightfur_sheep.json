@@ -1,0 +1,24 @@
+{
+  "name": "Frightfur Sheep",
+  "number": "57477163",
+  "is_illegal": false,
+  "text": "\"Edge Imp Chain\" + 1 \"Fluffal\" monster\nIf this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon this card, and if you do, it gains 800 ATK. You can only use this effect of \"Frightfur Sheep\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "5"
+}

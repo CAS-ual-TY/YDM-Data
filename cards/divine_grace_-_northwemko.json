@@ -1,0 +1,25 @@
+{
+  "name": "Divine Grace - Northwemko",
+  "number": "61757117",
+  "is_illegal": false,
+  "text": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Ritual of Grace\". When this card is Ritual Summoned, select a number of face-up cards on the field (except this card), up to the number of monsters you used for the Ritual Summon. While any of the selected cards are face-up on the field, this card cannot be destroyed by card effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2700",
+  "defense": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "7"
+}

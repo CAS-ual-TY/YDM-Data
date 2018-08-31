@@ -1,0 +1,24 @@
+{
+  "name": "Lady of D.",
+  "number": "67511500",
+  "is_illegal": false,
+  "text": "Your opponent cannot target face-up Dragon-Type monsters you control for attacks. If this card on the field would be destroyed by battle or by a card effect, you can send 1 Dragon-Type monster from your hand to the Graveyard instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1500",
+  "defense": "1100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

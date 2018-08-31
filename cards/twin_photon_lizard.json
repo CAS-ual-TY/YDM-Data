@@ -1,0 +1,24 @@
+{
+  "name": "Twin Photon Lizard",
+  "number": "29455728",
+  "is_illegal": false,
+  "text": "2 \"Photon\" monsters\nYou can Tribute this card; Special Summon, from your Graveyard, both of the Fusion Material Monsters used for the Fusion Summon of this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2400",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

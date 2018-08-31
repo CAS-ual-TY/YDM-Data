@@ -1,0 +1,24 @@
+{
+  "name": "Wattgiraffe",
+  "number": "402568",
+  "is_illegal": false,
+  "text": "This card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack, your opponent cannot activate Spells, Traps, Spell/Trap effects, or Monster Card effects until the End Phase of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "1200",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

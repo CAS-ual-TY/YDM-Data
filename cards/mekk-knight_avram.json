@@ -1,0 +1,24 @@
+{
+  "name": "Mekk-Knight Avram",
+  "number": "84754430",
+  "is_illegal": false,
+  "text": "\"Check THIS out!\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "2000",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

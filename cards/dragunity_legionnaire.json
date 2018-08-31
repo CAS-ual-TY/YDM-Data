@@ -1,0 +1,24 @@
+{
+  "name": "Dragunity Legionnaire",
+  "number": "54578613",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned, you can select 1 Level 3 or lower \"Dragunity\" Dragon-Type monster in your Graveyard, and equip it to this card as an Equip Card. You can send 1 \"Dragunity\" card from your Spell & Trap Card Zone to the Graveyard to select 1 face-up monster your opponent controls, and destroy it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1200",
+  "defense": "800",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

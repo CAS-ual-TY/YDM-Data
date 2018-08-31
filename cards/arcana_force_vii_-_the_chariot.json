@@ -1,0 +1,24 @@
+{
+  "name": "Arcana Force VII - The Chariot",
+  "number": "34568403",
+  "is_illegal": false,
+  "text": "When this card is Summoned, toss a coin:\nâ—? Heads: If this card destroys an opponent's monster by battle, you can Special Summon that monster to your side of the field.\nâ—? Tails: Your opponent gains control of this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1700",
+  "defense": "1700",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

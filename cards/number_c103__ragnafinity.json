@@ -1,0 +1,24 @@
+{
+  "name": "Number C103: Ragnafinity",
+  "number": "20785975",
+  "is_illegal": false,
+  "text": "3 Level 5 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; inflict damage to your opponent equal to the difference between that monster's original ATK and current ATK, and if you do, banish it. When this card is destroyed and sent to the Graveyard while it has Xyz Material: You can Special Summon this card from your Graveyard. \"Number 103: Ragnazero\" must be in your Graveyard to activate and to resolve this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2800",
+  "defense": "2400",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

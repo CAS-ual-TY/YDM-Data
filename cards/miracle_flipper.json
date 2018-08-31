@@ -1,0 +1,24 @@
+{
+  "name": "Miracle Flipper",
+  "number": "131182",
+  "is_illegal": false,
+  "text": "If you control a \"Miracle Flipper\", you cannot Summon this card. Your opponent cannot select another face-up monster as an attack target. If this card is destroyed by battle, Special Summon it to your opponent's side of the field at the end of the Battle Phase. If this card is destroyed by the effect of a Spell or Trap Card, destroy 1 monster your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "300",
+  "defense": "500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

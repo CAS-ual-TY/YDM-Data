@@ -1,0 +1,24 @@
+{
+  "name": "Phantom Fortress Enterblathnir",
+  "number": "95113856",
+  "is_illegal": false,
+  "text": "2 Level 9 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects;\nâ—? Banish 1 card your opponent controls.\nâ—? Banish 1 random card from your opponent's hand.\nâ—? Banish 1 card from your opponent's Graveyard.\nâ—? Banish the top card of your opponent's Deck, face-up.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2900",
+  "defense": "2500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "9"
+}

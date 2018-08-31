@@ -1,0 +1,24 @@
+{
+  "name": "Sealmaster Meisei",
+  "number": "2468169",
+  "is_illegal": false,
+  "text": "One of the few people who has a good command of Talismans. His history is a mystery.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1100",
+  "defense": "900",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

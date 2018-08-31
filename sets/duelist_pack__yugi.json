@@ -1,0 +1,314 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Pack: Yugi",
+    "type": "Duelist Pack",
+    "date": "2009-07-07",
+    "distribution": "duelist_pack",
+    "prefix": "DPYG",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Dark Magician",
+        "set_number": "DPYG-EN001",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Summoned Skull",
+        "set_number": "DPYG-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Queen's Knight",
+        "set_number": "DPYG-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jack's Knight",
+        "set_number": "DPYG-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Kuriboh",
+        "set_number": "DPYG-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Catapult Turtle",
+        "set_number": "DPYG-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Buster Blader",
+        "set_number": "DPYG-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician Girl",
+        "set_number": "DPYG-EN008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Big Shield Gardna",
+        "set_number": "DPYG-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sorcerer of Dark Magic",
+        "set_number": "DPYG-EN010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "King's Knight",
+        "set_number": "DPYG-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Green Gadget",
+        "set_number": "DPYG-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Red Gadget",
+        "set_number": "DPYG-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yellow Gadget",
+        "set_number": "DPYG-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Marshmallon",
+        "set_number": "DPYG-EN015",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Paladin",
+        "set_number": "DPYG-EN016",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Luster Soldier",
+        "set_number": "DPYG-EN017",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Swords of Revealing Light",
+        "set_number": "DPYG-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Monster Reborn",
+        "set_number": "DPYG-EN019",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Polymerization",
+        "set_number": "DPYG-EN020",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Exchange",
+        "set_number": "DPYG-EN021",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Luster Ritual",
+        "set_number": "DPYG-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Diffusion Wave-Motion",
+        "set_number": "DPYG-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Brain Control",
+        "set_number": "DPYG-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Card of Sanctity",
+        "set_number": "DPYG-EN025",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Spellbinding Circle",
+        "set_number": "DPYG-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mirror Force",
+        "set_number": "DPYG-EN027",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Hats",
+        "set_number": "DPYG-EN028",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Lightforce Sword",
+        "set_number": "DPYG-EN029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Stronghold the Moving Fortress",
+        "set_number": "DPYG-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

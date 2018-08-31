@@ -1,0 +1,24 @@
+{
+  "name": "Number 87: Queen of the Night",
+  "number": "89516305",
+  "is_illegal": false,
+  "text": "3 Level 8 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects.\nâ—? Target 1 Set Spell/Trap Card your opponent controls; while this card is face-up on the field, that Set card cannot be activated.\nâ—? Target 1 Plant-Type monster on the field; change that target to face-down Defense Position.\nâ—? Target 1 face-up monster on the field; that target gains 300 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "3200",
+  "defense": "2800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ghost Bird of Bewitchment",
+  "number": "15419596",
+  "is_illegal": false,
+  "text": "This card gains the appropriate effect, based on its location in the Main Monster Zone.\nâ—? Left-most: Gains 1000 ATK/DEF.\nâ—? Right-most: This card can make up to 2 attacks on monsters during each Battle Phase.\nâ—? Middle: Cannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects.\nâ—? Other: Monsters in this card's column cannot activate their effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1300",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Heavy Mech Support Armor",
+  "number": "39890958",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: You can target 1 Union monster in your Graveyard; Special Summon it. Once per turn, you can either: Target 1 Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. Your opponent cannot target a monster equipped with this card with card effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Union",
+    "Effect"
+  ],
+  "stars": "3"
+}

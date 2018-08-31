@@ -1,0 +1,264 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Astral Pack One",
+    "type": "Astral Pack",
+    "date": "2012-11-16",
+    "distribution": "astral_pack",
+    "prefix": "AP01",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Tsukuyomi",
+        "set_number": "AP01-EN001",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Debris Dragon",
+        "set_number": "AP01-EN002",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Photon Thrasher",
+        "set_number": "AP01-EN003",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Flamvell Firedog",
+        "set_number": "AP01-EN004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Genex Undine",
+        "set_number": "AP01-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Kagemusha of the Six Samurai",
+        "set_number": "AP01-EN006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Inzektor Centipede",
+        "set_number": "AP01-EN007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Hieratic Dragon of Tefnuit",
+        "set_number": "AP01-EN008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Terraforming",
+        "set_number": "AP01-EN009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Moray of Greed",
+        "set_number": "AP01-EN010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Mask Change",
+        "set_number": "AP01-EN011",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Hidden Armory",
+        "set_number": "AP01-EN012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Gates of Dark World",
+        "set_number": "AP01-EN013",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Hyena",
+        "set_number": "AP01-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dragon Ice",
+        "set_number": "AP01-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyber Shark",
+        "set_number": "AP01-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Swift Scarecrow",
+        "set_number": "AP01-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Ice Edge",
+        "set_number": "AP01-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mystical Sand",
+        "set_number": "AP01-EN019",
+        "rarities": [
+          "Short Print"
+        ],
+        "count": {
+          "Short Print": 1
+        }
+      },
+      {
+        "card_name": "Spiritual Forest",
+        "set_number": "AP01-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Closed Forest",
+        "set_number": "AP01-EN021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shrine of Mist Valley",
+        "set_number": "AP01-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Thunder of Ruler",
+        "set_number": "AP01-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fuh-Rin-Ka-Zan",
+        "set_number": "AP01-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Astral Barrier",
+        "set_number": "AP01-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

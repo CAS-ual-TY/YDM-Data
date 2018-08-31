@@ -1,0 +1,24 @@
+{
+  "name": "Deskbot 009",
+  "number": "25494711",
+  "is_illegal": false,
+  "text": "Once per turn, during your Main Phase 1: You can make this card gain ATK equal to the combined ATK of all \"Deskbot\" monsters you currently control, except \"Deskbot 009\", until the end of your opponent's turn. Only this card can attack the turn this effect is activated. If this card battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If this card would be destroyed by battle or card effect, you can destroy 1 \"Deskbot\" card you control instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "9"
+}

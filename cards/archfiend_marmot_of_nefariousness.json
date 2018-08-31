@@ -1,0 +1,24 @@
+{
+  "name": "Archfiend Marmot of Nefariousness",
+  "number": "75889523",
+  "is_illegal": false,
+  "text": "An air marmot that has a nefarious horn and wings. It attacks by throwing acorns.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "400",
+  "defense": "600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "2"
+}

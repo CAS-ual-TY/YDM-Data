@@ -1,0 +1,25 @@
+{
+  "name": "Machina Defender",
+  "number": "96384007",
+  "is_illegal": false,
+  "text": "FLIP: Add 1 \"Commander Covington\" from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1200",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "4"
+}

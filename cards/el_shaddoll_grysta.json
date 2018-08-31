@@ -1,0 +1,24 @@
+{
+  "name": "El Shaddoll Grysta",
+  "number": "48424886",
+  "is_illegal": false,
+  "text": "1 \"Shaddoll\" monster + 1 FIRE monster\nMust first be Fusion Summoned. During either player's turn, when your opponent would Special Summon a monster(s) while you have a \"Shaddoll\" card in your hand: You can negate the Summon, and if you do, destroy that monster, then send 1 \"Shaddoll\" card from your hand to the Graveyard. You can only use this effect of \"El Shaddoll Grysta\" once per turn. If this card is sent to the Graveyard: You can target 1 \"Shaddoll\" Spell/Trap Card in your Graveyard; add it to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2450",
+  "defense": "1950",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "7"
+}

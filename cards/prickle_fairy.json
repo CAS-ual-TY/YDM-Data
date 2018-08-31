@@ -1,0 +1,24 @@
+{
+  "name": "Prickle Fairy",
+  "number": "91559748",
+  "is_illegal": false,
+  "text": "While this card is face-up on your side of the field, your opponent cannot attack Insect-Type monsters. The battle position of a monster that battles with this card is changed to Defense Position at the end of the Damage Step.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "300",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

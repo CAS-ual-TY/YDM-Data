@@ -1,0 +1,24 @@
+{
+  "name": "Dark Voltanis",
+  "number": "65282484",
+  "is_illegal": false,
+  "text": "After 1 Counter Trap Card you control has been activated and has resolved, you can Tribute 1 DARK monster to Special Summon this card from your hand. If this card is Special Summoned in this way, destroy 1 card on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2800",
+  "defense": "1400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump Championship 2008 Prize Card",
+    "type": "Tournament Promo Cards",
+    "date": "2008-03-08",
+    "distribution": "tournament_promo_cards",
+    "prefix": "SJCS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Doomcaliber Knight",
+        "set_number": "SJCS-EN006",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

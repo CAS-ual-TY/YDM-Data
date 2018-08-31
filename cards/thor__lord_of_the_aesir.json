@@ -1,0 +1,24 @@
+{
+  "name": "Thor, Lord of the Aesir",
+  "number": "30604579",
+  "is_illegal": false,
+  "text": "1 \"Nordic Beast\" Tuner + 2 or more non-Tuner monsters\nOnce per turn: You can negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. During the End Phase, if this face-up card you controlled was destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard this turn: You can banish 1 \"Nordic Beast\" Tuner monster from your Graveyard; Special Summon this card. If Summoned this way: Inflict 800 damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "3500",
+  "defense": "2800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "10"
+}

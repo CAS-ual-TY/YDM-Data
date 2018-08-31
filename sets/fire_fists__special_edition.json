@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Fire Fists: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2014-04-04",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "FFSE",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Fire Formation - Tenki",
+        "set_number": "FFSE-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

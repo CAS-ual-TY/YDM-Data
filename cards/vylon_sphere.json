@@ -1,0 +1,24 @@
+{
+  "name": "Vylon Sphere",
+  "number": "75886890",
+  "is_illegal": false,
+  "text": "If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points to target 1 face-up monster you control; equip this card to that target. You can send this Equip Card to the Graveyard to target 1 Equip Spell Card in your Graveyard; equip that target to the monster this card was equipped to.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "400",
+  "defense": "400",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

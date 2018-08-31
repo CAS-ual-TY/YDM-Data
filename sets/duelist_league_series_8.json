@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist League Series 8",
+    "type": "Duelist League Promo Cards",
+    "date": "2005-06-30",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "DL8",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Acid Rain",
+        "set_number": "DL8-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

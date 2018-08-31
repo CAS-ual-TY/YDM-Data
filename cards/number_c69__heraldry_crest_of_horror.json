@@ -1,0 +1,24 @@
+{
+  "name": "Number C69: Heraldry Crest of Horror",
+  "number": "11522979",
+  "is_illegal": false,
+  "text": "4 Level 5 monsters\nWhen an opponent's monster declares an attack: You can destroy all cards your opponent controls. If this card has \"Number 69: Heraldry Crest\" as an Xyz Material, it gains this effect.\nâ—? Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Xyz Monster your opponent controls; this card gains ATK equal to that face-up monster's original ATK, and if it gains ATK this way, this card's name becomes that monster's, and it gains that monster's original effect. These effects last until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "4000",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

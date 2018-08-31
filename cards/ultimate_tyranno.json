@@ -1,0 +1,24 @@
+{
+  "name": "Ultimate Tyranno",
+  "number": "15894048",
+  "is_illegal": false,
+  "text": "This card can attack all monsters your opponent controls, once each. During your Battle Phase, if you control an \"Ultimate Tyranno\" that can attack, monsters other than \"Ultimate Tyranno\" cannot attack.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "3000",
+  "defense": "2200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Silent Swordsman",
+  "number": "15180041",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 Warrior-Type monster, and cannot be Special Summoned by other ways. Once per turn, during the Standby Phase: This card gains 500 ATK. Once per turn, during either player's turn, when a Spell Card is activated: You can negate the activation. If this card is destroyed by battle, or if this card in its owner's control is destroyed by an opponent's card effect: You can Special Summon 1 \"Silent Swordsman\" monster from your hand or Deck, except \"Silent Swordsman\", ignoring its Summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

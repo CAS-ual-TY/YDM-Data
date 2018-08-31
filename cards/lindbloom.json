@@ -1,0 +1,24 @@
+{
+  "name": "Lindbloom",
+  "number": "52339733",
+  "is_illegal": false,
+  "text": "If a monster you control battles an opponent's monster, during damage calculation: The ATK of each monster in that battle becomes equal to their current DEF, until the end of the Damage Step.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "0",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

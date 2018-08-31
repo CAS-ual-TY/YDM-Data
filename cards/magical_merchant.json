@@ -1,0 +1,25 @@
+{
+  "name": "Magical Merchant",
+  "number": "32362575",
+  "is_illegal": false,
+  "text": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap Card. Add that card to your hand, also send the remaining cards to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "200",
+  "defense": "700",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "1"
+}

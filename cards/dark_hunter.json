@@ -1,0 +1,24 @@
+{
+  "name": "Dark Hunter",
+  "number": "19357125",
+  "is_illegal": false,
+  "text": "This card's effect changes depending on the number of DARK monsters in your Graveyard. â—? 1 or fewer: This card loses 400 ATK. â—? 2 to 4: This card gains 400 ATK. â—? 5 or more: You can send this card to the Graveyard to destroy all face-down monsters your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1600",
+  "defense": "400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

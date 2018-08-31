@@ -1,0 +1,24 @@
+{
+  "name": "Medium of the Ice Barrier",
+  "number": "88494899",
+  "is_illegal": false,
+  "text": "If your opponent controls 4 or more cards than you do, you can Special Summon this card (from your hand). Your opponent can only activate 1 Spell/Trap Card each turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2200",
+  "defense": "1600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

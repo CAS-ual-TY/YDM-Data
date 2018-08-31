@@ -1,0 +1,24 @@
+{
+  "name": "Autorokket Dragon",
+  "number": "80250185",
+  "is_illegal": false,
+  "text": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then send 1 Spell/Trap on the field to the GY. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Autorokket Dragon\". You can only use each effect of \"Autorokket Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1600",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dicelops",
+  "number": "62893810",
+  "is_illegal": false,
+  "text": "Once per turn: You can roll a six-sided die, then apply the result.\nâ—?1: Look at your opponent's hand, also discard 1 card from their hand.\nâ—?2, 3, 4, 5: Discard 1 card.\nâ—?6: Discard your entire hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1800",
+  "defense": "200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

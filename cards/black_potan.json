@@ -1,0 +1,24 @@
+{
+  "name": "Black Potan",
+  "number": "76218643",
+  "is_illegal": false,
+  "text": "If you control a face-up Tuner monster, this card cannot be destroyed by battle. When a face-up Tuner monster(s) you control is removed from the field, gain 800 Life Points.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "200",
+  "defense": "100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

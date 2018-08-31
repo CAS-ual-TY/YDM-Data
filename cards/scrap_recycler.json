@@ -1,0 +1,24 @@
+{
+  "name": "Scrap Recycler",
+  "number": "4334811",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned: You can send 1 Machine-Type monster from your Deck to the Graveyard. Once per turn: You can shuffle 2 Level 4 EARTH Machine-Type monsters from your Graveyard into the Deck; draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "900",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

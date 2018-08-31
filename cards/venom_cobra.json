@@ -1,0 +1,24 @@
+{
+  "name": "Venom Cobra",
+  "number": "22499463",
+  "is_illegal": false,
+  "text": "Hard scales cover all parts of this gigantic cobra. It hunts by shooting large amounts of venom, but because of its large size, its attack pattern is easily predicted.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "100",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

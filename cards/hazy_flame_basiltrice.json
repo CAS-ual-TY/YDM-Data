@@ -1,0 +1,24 @@
+{
+  "name": "Hazy Flame Basiltrice",
+  "number": "23776077",
+  "is_illegal": false,
+  "text": "2 or more (max. 5) Level 6 FIRE monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 monster your opponent controls or is in their Graveyard; banish that target. This card gains effects based on the number of Xyz Materials attached to it.\nâ—? 3 or more: This card gains 200 ATK and DEF for each Xyz Material attached to it.\nâ—? 4 or more: This card cannot be targeted by your opponent's card effects.\nâ—? 5: This card cannot be destroyed by card effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "2500",
+  "defense": "1800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "6"
+}

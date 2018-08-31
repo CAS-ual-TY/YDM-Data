@@ -1,0 +1,25 @@
+{
+  "name": "CÃº Chulainn the Awakened",
+  "number": "10789972",
+  "is_illegal": false,
+  "text": "This card can only be Ritual Summoned with the Ritual Spell Card, Emblem of the Awakening. Once per turn, you can remove from play 1 Normal Monster in your Graveyard. This card gains ATK equal to that Normal Monster's ATK, until the Standby Phase of your next turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "500",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "4"
+}

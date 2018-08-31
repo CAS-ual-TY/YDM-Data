@@ -1,0 +1,24 @@
+{
+  "name": "Koa'ki Meiru Gravirose",
+  "number": "41201555",
+  "is_illegal": false,
+  "text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Plant-Type monster in you hand. During each of your Standby Phases, you can send 1 Level 3 or lower monster from your Deck to your Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "1900",
+  "defense": "1300",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

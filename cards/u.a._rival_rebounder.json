@@ -1,0 +1,24 @@
+{
+  "name": "U.A. Rival Rebounder",
+  "number": "17264592",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Rival Rebounder\". You can only Special Summon \"U.A. Rival Rebounder\" once per turn this way. If this card is Special Summoned during your opponent's turn, or Normal Summoned: You can Special Summon 1 \"U.A.\" monster from your hand or Graveyard, except \"U.A. Rival Rebounder\". You can only use this effect of \"U.A. Rival Rebounder\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2200",
+  "defense": "2300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Burning Beast",
+  "number": "59364406",
+  "is_illegal": false,
+  "text": "Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your \"Freezing Beast\" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, each time the equipped monster inflicts Battle Damage to your opponent, destroy 1 face-up Spell or Trap Card on the field. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "1500",
+  "defense": "1000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Union",
+    "Effect"
+  ],
+  "stars": "4"
+}

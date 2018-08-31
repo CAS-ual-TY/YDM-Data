@@ -1,0 +1,24 @@
+{
+  "name": "Catapult Warrior",
+  "number": "37474917",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn: You can Tribute 1 \"Junk\" monster; inflict damage to your opponent equal to the original ATK of the Tributed monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "5"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Trickstar Candina",
+  "number": "61283655",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can add 1 \"Trickstar\" card from your Deck to your hand. Each time your opponent activates a Spell/Trap Card, inflict 200 damage to them immediately after it resolves.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1800",
+  "defense": "400",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

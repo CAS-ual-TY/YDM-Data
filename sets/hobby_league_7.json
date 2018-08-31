@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Hobby League 7",
+    "type": "Duelist League Promo Cards",
+    "date": "2008-12-21",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "HL07",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Monster Reborn",
+        "set_number": "HL07-EN001",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Neo-Spacian Grand Mole",
+        "set_number": "HL07-EN002",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Dust Spirit",
+        "set_number": "HL07-EN003",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Red Gadget",
+        "set_number": "HL07-EN004",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Card of Safe Return",
+        "set_number": "HL07-EN005",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Yellow Gadget",
+        "set_number": "HL07-EN006",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      }
+    ]
+  }
+}

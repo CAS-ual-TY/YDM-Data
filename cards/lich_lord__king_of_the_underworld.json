@@ -1,0 +1,24 @@
+{
+  "name": "Lich Lord, King of the Underworld",
+  "number": "55818463",
+  "is_illegal": false,
+  "text": "If you Tribute Summon this card, the Tribute must be DARK. If this card is Tributed by a card's effect and sent to the Graveyard, it returns to its owner's hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2400",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

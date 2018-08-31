@@ -1,0 +1,11 @@
+{
+  "name": "Asymmetaphys",
+  "number": "66719533",
+  "is_illegal": false,
+  "text": "Once per turn: You can banish 1 \"Metaphys\" card from your hand, and if you do, draw 1 card. Once per turn, if your \"Metaphys\" card in its owner's possession is banished: Apply this effect depending on whose turn it is.\nâ—? Your turn: All monsters on the field lose 500 ATK/DEF, except \"Metaphys\" monsters.\nâ—? Opponent's turn: Change the battle positions of all monsters on the field, except \"Metaphys\" monsters.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Continuous"
+}

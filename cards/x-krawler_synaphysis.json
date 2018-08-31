@@ -1,0 +1,27 @@
+{
+  "name": "X-Krawler Synaphysis",
+  "number": "39998992",
+  "is_illegal": false,
+  "text": "2 EARTH monsters\n\"Krawler\" monsters this card points to cannot be destroyed by battle, gain 300 ATK/DEF, and can make up to 2 attacks on monsters during each Battle Phase. If this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can target 2 \"Krawler\" monsters with different names in your GY; Special Summon them in face-down Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Right"
+  ],
+  "link_number": "2"
+}

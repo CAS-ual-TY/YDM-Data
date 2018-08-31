@@ -1,0 +1,24 @@
+{
+  "name": "Satellarknight Capella",
+  "number": "86466163",
+  "is_illegal": false,
+  "text": "If this card is Summoned: You can apply the effect below for the rest of this turn. You can only use this effect of \"Stellarknight Capella\" once per turn (but if it resolves, you can apply the effect multiple times).\nâ—? You can treat Level 4 or lower \"tellarknight\" monsters you control as Level 5 when Xyz Summoning using 3 or more monsters as Xyz Materials.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1100",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Vampire Sorcerer",
+  "number": "88728507",
+  "is_illegal": false,
+  "text": "If this card in your possession is sent to your Graveyard by your opponent's card (either by battle or by card effect): You can add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap Card from your Deck to your hand. You can banish this card from your Graveyard; 1 DARK \"Vampire\" monster you Normal Summon this turn can be Summoned without Tributing.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1500",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

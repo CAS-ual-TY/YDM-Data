@@ -1,0 +1,24 @@
+{
+  "name": "Stardust Chronicle Spark Dragon",
+  "number": "89474727",
+  "is_illegal": false,
+  "text": "1 Tuner Synchro Monster + 1 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned, and cannot be Special Summoned by other ways. Once per turn, during either player's turn: You can banish 1 Synchro Monster from your Graveyard; this card is unaffected by other cards' effects for the rest of this turn. If this card in its owner's possession is destroyed by an opponent's card (by battle or card effect): You can target 1 of your banished Dragon-Type Synchro Monsters; Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "10"
+}

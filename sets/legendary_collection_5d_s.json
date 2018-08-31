@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Legendary Collection 5D's",
+    "type": "Legendary Collection",
+    "date": "2014-10-23",
+    "distribution": "legendary_collection",
+    "prefix": "LC05",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Jormungardr the Nordic Serpent",
+        "set_number": "LC05-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Fenrir the Nordic Wolf",
+        "set_number": "LC05-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Stardust Flash",
+        "set_number": "LC05-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Rose Dragon",
+        "set_number": "LC05-EN004",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Shooting Quasar Dragon",
+        "set_number": "LC05-EN005",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

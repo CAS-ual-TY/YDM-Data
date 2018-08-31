@@ -1,0 +1,24 @@
+{
+  "name": "Zoodiac Kataroost",
+  "number": "20155904",
+  "is_illegal": false,
+  "text": "If this card is destroyed by battle or card effect: You can target 1 \"Zoodiac\" card in your Graveyard, except \"Zoodiac Kataroost\"; shuffle it into the Deck. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\nâ—? During either player's turn, when your opponent activates a monster effect that targets this card: You can detach 1 Xyz Material from this card; negate the activation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "800",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

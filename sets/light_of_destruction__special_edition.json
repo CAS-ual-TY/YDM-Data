@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Light of Destruction: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2008-02-21",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "LODT",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Kuraz the Light Monarch",
+        "set_number": "LODT-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Soul Rope",
+        "set_number": "LODT-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

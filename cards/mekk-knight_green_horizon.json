@@ -1,0 +1,24 @@
+{
+  "name": "Mekk-Knight Green Horizon",
+  "number": "66022706",
+  "is_illegal": false,
+  "text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Verdant Gale\" once per turn this way. When this card declares an attack on an opponent's monster in the same column: You can target 1 \"Jack Knight\" monster in your GY; add it to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "2100",
+  "defense": "1600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

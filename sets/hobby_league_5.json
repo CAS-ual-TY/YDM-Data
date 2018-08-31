@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Hobby League 5",
+    "type": "Duelist League Promo Cards",
+    "date": "2007-12-21",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "HL05",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Crystal Beast Ruby Carbuncle",
+        "set_number": "HL05-EN001",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Green Gadget",
+        "set_number": "HL05-EN002",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Crystal Beacon",
+        "set_number": "HL05-EN003",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Dekoichi the Battlechanted Locomotive",
+        "set_number": "HL05-EN004",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "The Six Samurai - Zanji",
+        "set_number": "HL05-EN005",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Scapegoat",
+        "set_number": "HL05-EN006",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      }
+    ]
+  }
+}

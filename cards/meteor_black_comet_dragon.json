@@ -1,0 +1,24 @@
+{
+  "name": "Meteor Black Comet Dragon",
+  "number": "30086349",
+  "is_illegal": false,
+  "text": "1 Level 7 \"Red-Eyes\" monster + 1 Level 6 Dragon-Type monster\nIf this card is Fusion Summoned: You can send 1 \"Red-Eyes\" monster from your hand or Deck to the Graveyard, and if you do, inflict damage to your opponent equal to half the original ATK of that monster. If this card is sent from the Monster Zone to the Graveyard: You can target 1 Normal Monster in your Graveyard; Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3500",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

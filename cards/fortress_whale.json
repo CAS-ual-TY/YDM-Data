@@ -1,0 +1,24 @@
+{
+  "name": "Fortress Whale",
+  "number": "62337487",
+  "is_illegal": false,
+  "text": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Fortress Whale's Oath\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "2350",
+  "defense": "2150",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual"
+  ],
+  "stars": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Number 7: Lucky Straight",
+  "number": "82308875",
+  "is_illegal": false,
+  "text": "3 Level 7 monsters\nYou can detach 1 Xyz Material from this card; roll a six-sided die twice and this card's ATK becomes the larger number rolled Ã— 700 until your opponent's next End Phase, then if the total roll was exactly 7, apply 1 of these effects.\nâ—? Send all other cards on the field to the Graveyard.\nâ—? Special Summon 1 monster from your hand or from either Graveyard.\nâ—? Draw 3 cards, then discard 2 cards.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "700",
+  "defense": "700",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "7"
+}

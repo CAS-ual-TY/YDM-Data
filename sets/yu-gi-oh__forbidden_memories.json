@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Forbidden Memories",
+    "type": "Video Game Promo Cards",
+    "date": "2002-11-25",
+    "distribution": "video_game_promo_cards",
+    "prefix": "FMR",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Red-Eyes Black Metal Dragon",
+        "set_number": "FMR-001",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Harpie's Pet Dragon",
+        "set_number": "FMR-002",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Metalmorph",
+        "set_number": "FMR-003",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

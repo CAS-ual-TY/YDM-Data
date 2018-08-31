@@ -1,0 +1,24 @@
+{
+  "name": "Hieratic Dragon of Nuit",
+  "number": "41639001",
+  "is_illegal": false,
+  "text": "Once per turn, during either player's turn, when this face-up card on the field is targeted by a Spell Card, Trap Card, or card effect: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1700",
+  "defense": "900",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

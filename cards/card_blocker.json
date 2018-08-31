@@ -1,0 +1,24 @@
+{
+  "name": "Card Blocker",
+  "number": "42256406",
+  "is_illegal": false,
+  "text": "When this card is Summoned: Change it to Defense Position. When a face-up monster you control is targeted for an attack: You can change the target to this card. When this card is targeted for an attack: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the Graveyard; this card gains 500 DEF for each card sent, until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "400",
+  "defense": "400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

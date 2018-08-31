@@ -1,0 +1,24 @@
+{
+  "name": "Stardust Spark Dragon",
+  "number": "83994433",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during either player's turn: You can target 1 face-up card you control; once during this turn, it cannot be destroyed by battle or by card effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

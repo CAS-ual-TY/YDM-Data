@@ -1,0 +1,25 @@
+{
+  "name": "Odd-Eyes Gravity Dragon",
+  "number": "23851033",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Odd-Eyes Advent\". When this card is Special Summoned: You can return all Spell and Trap Cards your opponent controls to the hand. Your opponent cannot activate cards or effects in response to this effect's activation. You can only use this effect of \"Odd-Eyes Gravity Dragon\" once per turn. Your opponent must pay 500 LP to activate card effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2800",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "7"
+}

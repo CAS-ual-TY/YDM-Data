@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Championship Series 2010 Prize Cards",
+    "type": "Tournament Promo Cards",
+    "date": "2011-07-24",
+    "distribution": "tournament_promo_cards",
+    "prefix": "YCSW",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Darklord Asmodeus",
+        "set_number": "YCSW-EN001",
+        "rarities": [
+          "Ultra Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Superbia",
+        "set_number": "YCSW-EN002",
+        "rarities": [
+          "Ultra Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Edeh Arae",
+        "set_number": "YCSW-EN003",
+        "rarities": [
+          "Ultra Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Z-Metal Tank",
+  "number": "64500000",
+  "is_illegal": false,
+  "text": "Once per turn, you can either: Target 1 \"X-Head Cannon\" or \"Y-Dragon Head\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 600 ATK and DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "defense": "1300",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Union",
+    "Effect"
+  ],
+  "stars": "4"
+}

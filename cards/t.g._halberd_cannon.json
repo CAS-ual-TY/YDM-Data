@@ -1,0 +1,24 @@
+{
+  "name": "T.G. Halberd Cannon",
+  "number": "97836203",
+  "is_illegal": false,
+  "text": "1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned, and cannot be Special Summoned by other ways. Once per turn, during either player's turn, when a monster(s) would be Summoned: You can negate the Summon, and if you do, destroy that monster. This card must be face-up on the field to activate and to resolve this effect. When this card is sent from the field to the Graveyard: You can target 1 \"T.G.\" monster in your Graveyard; Special Summon that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "4000",
+  "defense": "4000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "12"
+}

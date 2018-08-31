@@ -1,0 +1,24 @@
+{
+  "name": "Judge Man",
+  "number": "30113682",
+  "is_illegal": false,
+  "text": "This club-wielding warrior battles to the end and will never surrender.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2200",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "6"
+}

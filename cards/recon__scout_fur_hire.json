@@ -1,0 +1,24 @@
+{
+  "name": "Recon, Scout Fur Hire",
+  "number": "31467949",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Recon, Scout Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can target 1 Set card on the field; destroy it. You can only use each effect of \"Recon, Scout Fur Hire\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1000",
+  "defense": "500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

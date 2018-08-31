@@ -1,0 +1,24 @@
+{
+  "name": "Goka, the Pyre of Malice",
+  "number": "23116808",
+  "is_illegal": false,
+  "text": "If you control a FIRE monster, you can Special Summon this card (from your hand). When you do: Target 1 FIRE monster you control; destroy that target. During each of your Standby Phases: Special Summon 1 \"Fireball Token\" (Pyro-Type/FIRE/Level 1/ATK 100/DEF 100) in Defense Position. You can Tribute 1 other FIRE monster; this card gains 500 ATK until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2200",
+  "defense": "1900",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

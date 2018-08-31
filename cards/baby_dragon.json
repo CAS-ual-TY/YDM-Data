@@ -1,0 +1,24 @@
+{
+  "name": "Baby Dragon",
+  "number": "88819587",
+  "is_illegal": false,
+  "text": "Much more than just a child, this dragon is gifted with untapped power.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1200",
+  "defense": "700",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Hieratic Dragon King of Atum",
+  "number": "27337596",
+  "is_illegal": false,
+  "text": "2 Level 6 Dragon-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 Dragon-Type monster from your Deck, and make its ATK and DEF 0. This card cannot attack during the turn you activate this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2400",
+  "defense": "2100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "6"
+}

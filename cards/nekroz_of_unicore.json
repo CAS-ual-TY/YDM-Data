@@ -1,0 +1,25 @@
+{
+  "name": "Nekroz of Unicore",
+  "number": "89463537",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned and cannot be Special Summoned by other ways. You can discard this card, then target 1 \"Nekroz\" card in your Graveyard, except \"Nekroz of Unicore\"; add it to your hand. You can only use this effect of \"Nekroz of Unicore\" once per turn. Negate the effects of face-up monsters on the field that were Special Summoned from the Extra Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2300",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "4"
+}

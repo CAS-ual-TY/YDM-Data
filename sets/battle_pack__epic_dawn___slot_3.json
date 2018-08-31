@@ -1,0 +1,614 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Battle Pack: Epic Dawn - Slot 3",
+    "type": "Battle Pack",
+    "date": "2012-05-24",
+    "distribution": "common_1",
+    "prefix": "BP01_3",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Luster Dragon",
+        "set_number": "BP01-EN111",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Archfiend Soldier",
+        "set_number": "BP01-EN112",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mad Dog of Darkness",
+        "set_number": "BP01-EN113",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Charcoal Inpachi",
+        "set_number": "BP01-EN114",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Insect Knight",
+        "set_number": "BP01-EN115",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gene-Warped Warwolf",
+        "set_number": "BP01-EN116",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Buster Blader",
+        "set_number": "BP01-EN117",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Goblin Attack Force",
+        "set_number": "BP01-EN118",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bazoo the Soul-Eater",
+        "set_number": "BP01-EN119",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zombyra the Dark",
+        "set_number": "BP01-EN120",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Slate Warrior",
+        "set_number": "BP01-EN121",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Ruler Ha Des",
+        "set_number": "BP01-EN122",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Freed the Matchless General",
+        "set_number": "BP01-EN123",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Airknight Parshath",
+        "set_number": "BP01-EN124",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Asura Priest",
+        "set_number": "BP01-EN125",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Exarion Universe",
+        "set_number": "BP01-EN126",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Vampire Lord",
+        "set_number": "BP01-EN127",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Toon Gemini Elf",
+        "set_number": "BP01-EN128",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "King Tiger Wanghu",
+        "set_number": "BP01-EN129",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Guardian Sphinx",
+        "set_number": "BP01-EN130",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Skilled White Magician",
+        "set_number": "BP01-EN131",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zaborg the Thunder Monarch",
+        "set_number": "BP01-EN132",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D.D. Assailant",
+        "set_number": "BP01-EN133",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Theban Nightmare",
+        "set_number": "BP01-EN134",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Tricky",
+        "set_number": "BP01-EN135",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Raging Flame Sprite",
+        "set_number": "BP01-EN136",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chiron the Mage",
+        "set_number": "BP01-EN137",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyber Dragon",
+        "set_number": "BP01-EN138",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cybernetic Magician",
+        "set_number": "BP01-EN139",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Goblin Elite Attack Force",
+        "set_number": "BP01-EN140",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Doomcaliber Knight",
+        "set_number": "BP01-EN141",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chainsaw Insect",
+        "set_number": "BP01-EN142",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Card Trooper",
+        "set_number": "BP01-EN143",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Voltic Kong",
+        "set_number": "BP01-EN144",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Botanical Lion",
+        "set_number": "BP01-EN145",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Knight",
+        "set_number": "BP01-EN146",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blizzard Dragon",
+        "set_number": "BP01-EN147",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Beast King Barbaros",
+        "set_number": "BP01-EN148",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Calculator",
+        "set_number": "BP01-EN149",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gaap the Divine Soldier",
+        "set_number": "BP01-EN150",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Arcana Force XIV - Temperance",
+        "set_number": "BP01-EN151",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Valkyria",
+        "set_number": "BP01-EN152",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Alector, Sovereign of Birds",
+        "set_number": "BP01-EN153",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Twin-Barrel Dragon",
+        "set_number": "BP01-EN154",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Abyssal Kingshark",
+        "set_number": "BP01-EN155",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jurrac Protops",
+        "set_number": "BP01-EN156",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hedge Guard",
+        "set_number": "BP01-EN157",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fabled Ashenveil",
+        "set_number": "BP01-EN158",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Backup Warrior",
+        "set_number": "BP01-EN159",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ambitious Gofer",
+        "set_number": "BP01-EN160",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Power Giant",
+        "set_number": "BP01-EN161",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Card Guard",
+        "set_number": "BP01-EN162",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yaksha",
+        "set_number": "BP01-EN163",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gogogo Golem",
+        "set_number": "BP01-EN164",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Big Jaws",
+        "set_number": "BP01-EN165",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wind-Up Soldier",
+        "set_number": "BP01-EN166",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wind-Up Dog",
+        "set_number": "BP01-EN167",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Milla the Temporal Magician",
+        "set_number": "BP01-EN168",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ape Fighter",
+        "set_number": "BP01-EN169",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wind-Up Warrior",
+        "set_number": "BP01-EN170",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

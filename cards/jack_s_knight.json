@@ -1,0 +1,24 @@
+{
+  "name": "Jack's Knight",
+  "number": "90876561",
+  "is_illegal": false,
+  "text": "A strong master swordsman. His loyalty is to justice, his duty to protect the weak.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1900",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

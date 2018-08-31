@@ -1,0 +1,24 @@
+{
+  "name": "Kagemusha of the Six Samurai",
+  "number": "1498130",
+  "is_illegal": false,
+  "text": "During either player's turn, when exactly 1 face-up \"Six Samurai\" monster you control is targeted by a Spell Card, Trap Card, or card effect that could have targeted this card: You can activate this effect; that Spell/Trap/effect now targets this face-up card on the field, instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "400",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

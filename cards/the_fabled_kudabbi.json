@@ -1,0 +1,24 @@
+{
+  "name": "The Fabled Kudabbi",
+  "number": "89194103",
+  "is_illegal": false,
+  "text": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters \nThis card gains the following effect based on the number of cards in your hand:\n â—? 0: This card cannot be destroyed by battle or card effects.\n â—? 3 or more: Destroy this card during the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2200",
+  "defense": "1100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "4"
+}

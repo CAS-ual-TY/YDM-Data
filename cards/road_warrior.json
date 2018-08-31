@@ -1,0 +1,24 @@
+{
+  "name": "Road Warrior",
+  "number": "2322421",
+  "is_illegal": false,
+  "text": "\"Road Synchron\" + 2 or more non-Tuner monsters\nOnce per turn: You can Special Summon 1 Level 2 or lower Warrior or Machine-Type monster from your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3000",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist League Series 7",
+    "type": "Duelist League Promo Cards",
+    "date": "2005-04-01",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "DL7",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Toon Goblin Attack Force",
+        "set_number": "DL7-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

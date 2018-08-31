@@ -1,0 +1,24 @@
+{
+  "name": "Paleozoic Opabinia",
+  "number": "37649320",
+  "is_illegal": false,
+  "text": "2 Level 2 monsters\nThis card is unaffected by other monsters' effects. You can activate \"Paleozoic\" Trap Cards from your hand. If this card has a Trap Card as Xyz Material: You can detach 1 Xyz Material from this card; add 1 \"Paleozoic\" Trap Card from your Deck to your hand. You can only use this effect of \"Paleozoic Opabinia\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "0",
+  "defense": "2400",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "2"
+}

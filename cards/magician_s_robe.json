@@ -1,0 +1,24 @@
+{
+  "name": "Magician's Robe",
+  "number": "71696014",
+  "is_illegal": false,
+  "text": "During your opponent's turn: You can discard 1 Spell/Trap Card; Special Summon 1 \"Dark Magician\" from your Deck (this is a Quick Effect). During your opponent's turn, if you activate a Spell/Trap Card or effect while this card is in your Graveyard (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Magician's Robe\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "700",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

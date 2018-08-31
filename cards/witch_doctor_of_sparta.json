@@ -1,0 +1,24 @@
+{
+  "name": "Witch Doctor of Sparta",
+  "number": "30525991",
+  "is_illegal": false,
+  "text": "Inflict 500 damage to your opponent each time a monster(s) is Special Summoned from either player's Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "400",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

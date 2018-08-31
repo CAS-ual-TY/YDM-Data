@@ -1,0 +1,28 @@
+{
+  "name": "Sky Dragoons of Draconia",
+  "number": "68182934",
+  "is_illegal": false,
+  "text": "Rumored as being formed to invade the neutral, floating Sky-State of Cxulub, these mounted air troops of the Draconia Empire have prompted bordering nations to strengthen their security.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "2200",
+  "defense": "200",
+  "attribute": "WIND",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Normal"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn, when a Normal Monster you control inflicts battle damage to your opponent: You can target 1 card on the field; destroy it.",
+  "stars": "5"
+}

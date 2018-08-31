@@ -1,0 +1,24 @@
+{
+  "name": "Majestic Mech - Goryu",
+  "number": "95701283",
+  "is_illegal": false,
+  "text": "You can Tribute Summon (but not Set) this card with 1 Tribute. If Summoned this way, during the End Phase: Send it to the Graveyard. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2900",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

@@ -1,0 +1,542 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Pharaoh's Servant",
+    "type": "Booster Pack",
+    "date": "2000-07-13",
+    "distribution": "booster_pack",
+    "prefix": "PS",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Blue-Eyes Toon Dragon",
+        "set_number": "PS-00",
+        "rarities": [
+          "Ultra Parallel Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Octoberser",
+        "set_number": "PS-01",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Psychic Kappa",
+        "set_number": "PS-02",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Horn of the Unicorn",
+        "set_number": "PS-03",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Labyrinth Wall",
+        "set_number": "PS-04",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wall Shadow",
+        "set_number": "PS-05",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Twin Long Rods #2",
+        "set_number": "PS-06",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Stone Ogre Grotto",
+        "set_number": "PS-07",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magical Labyrinth",
+        "set_number": "PS-08",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Eternal Rest",
+        "set_number": "PS-09",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Megamorph",
+        "set_number": "PS-10",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Commencement Dance",
+        "set_number": "PS-11",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hamburger Recipe",
+        "set_number": "PS-12",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "House of Adhesive Tape",
+        "set_number": "PS-13",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Eatgaboon",
+        "set_number": "PS-14",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Turtle Oath",
+        "set_number": "PS-15",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performance of Sword",
+        "set_number": "PS-16",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hungry Burger",
+        "set_number": "PS-17",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Crab Turtle",
+        "set_number": "PS-18",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ryu-Ran",
+        "set_number": "PS-19",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Manga Ryu-Ran",
+        "set_number": "PS-20",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Toon Mermaid",
+        "set_number": "PS-21",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Toon Summoned Skull",
+        "set_number": "PS-22",
+        "rarities": [
+          "Ultra Parallel Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Jigen Bakudan",
+        "set_number": "PS-23",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Hyozanryu",
+        "set_number": "PS-24",
+        "rarities": [
+          "Ultra Parallel Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Toon World",
+        "set_number": "PS-25",
+        "rarities": [
+          "Ultra Parallel Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyber Jar",
+        "set_number": "PS-26",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Banisher of the Light",
+        "set_number": "PS-27",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Giant Rat",
+        "set_number": "PS-28",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Senju of the Thousand Hands",
+        "set_number": "PS-29",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "UFO Turtle",
+        "set_number": "PS-30",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Flash Assailant",
+        "set_number": "PS-31",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Karate Man",
+        "set_number": "PS-32",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Zebra",
+        "set_number": "PS-33",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Giant Germ",
+        "set_number": "PS-34",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Nimble Momonga",
+        "set_number": "PS-35",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Spear Cretin",
+        "set_number": "PS-36",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shining Angel",
+        "set_number": "PS-37",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Boar Soldier",
+        "set_number": "PS-38",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mother Grizzly",
+        "set_number": "PS-39",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Flying Kamakiri #1",
+        "set_number": "PS-40",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ceremonial Bell",
+        "set_number": "PS-41",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sonic Bird",
+        "set_number": "PS-42",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mystic Tomato",
+        "set_number": "PS-43",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Kotodama",
+        "set_number": "PS-44",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gaia Power",
+        "set_number": "PS-45",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Umiiruka",
+        "set_number": "PS-46",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Molten Destruction",
+        "set_number": "PS-47",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rising Air Current",
+        "set_number": "PS-48",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Luminous Spark",
+        "set_number": "PS-49",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mystic Plasma Zone",
+        "set_number": "PS-50",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Messenger of Peace",
+        "set_number": "PS-51",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

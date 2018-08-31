@@ -1,0 +1,24 @@
+{
+  "name": "Neo-Spacian Glow Moss",
+  "number": "17732278",
+  "is_illegal": false,
+  "text": "When this card attacks or is attacked: Your opponent draws 1 card. Reveal it, and based on its type apply this effect. â—? Monster: End the Battle Phase. â—? Spell: If this card is attacking, you can change it to a direct attack instead. â—? Trap: Change this card to Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "300",
+  "defense": "900",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

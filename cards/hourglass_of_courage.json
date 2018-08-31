@@ -1,0 +1,24 @@
+{
+  "name": "Hourglass of Courage",
+  "number": "43530283",
+  "is_illegal": false,
+  "text": "If this card is Normal or Flip Summoned, its original ATK and DEF are halved until the End Phase of your next turn. After that, the original ATK and DEF are doubled.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1100",
+  "defense": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

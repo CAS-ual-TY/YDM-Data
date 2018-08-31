@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! 5D's Volume 2 promotional card",
+    "type": "Manga Promo",
+    "date": "2010-12-29",
+    "distribution": "manga_promo",
+    "prefix": "YF02",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Catapult Warrior",
+        "set_number": "YF02-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

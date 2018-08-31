@@ -1,0 +1,24 @@
+{
+  "name": "Jenis, Lightsworn Mender",
+  "number": "83725008",
+  "is_illegal": false,
+  "text": "During the End Phase, if a card(s) was sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" card this turn: Inflict 500 damage to your opponent, and if you do, gain 500 LP.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "300",
+  "defense": "2100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Saryuja Skull Dread",
+  "number": "74997493",
+  "is_illegal": false,
+  "text": "2+ monsters with different names\nThis card gains effects based on the number of monsters used for its Link Summon.\nâ—? 2+: If a monster(s) is Normal or Special Summoned to a zone this card points to: That monster(s) gains 300 ATK/DEF.\nâ—? 3+: Once per turn: You can Special Summon 1 monster from your hand.\nâ—? 4: When this card is Link Summoned: You can draw 4 cards, then place 3 cards from your hand on the bottom of the Deck in any order.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom",
+    "Right",
+    "Top"
+  ],
+  "link_number": "4"
+}

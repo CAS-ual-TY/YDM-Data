@@ -1,0 +1,24 @@
+{
+  "name": "Retaliating "C"",
+  "number": "46502744",
+  "is_illegal": false,
+  "text": "During either player's turn, when your opponent activates a Spell Card that includes an effect that Special Summons a monster(s): You can Special Summon this card from your hand. If Summoned this way, while this card is face-up on the field, any card sent to the Graveyard is banished instead. If this card is sent from the field to the Graveyard: You can add 1 EARTH Insect-Type monster with 1500 or less ATK from your Deck to your hand, except \"Retaliating \"C\"\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1400",
+  "defense": "1400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

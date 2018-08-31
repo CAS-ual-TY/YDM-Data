@@ -1,0 +1,24 @@
+{
+  "name": "Gauntlet Launcher",
+  "number": "15561463",
+  "is_illegal": false,
+  "text": "2 Level 6 monsters\nYou can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2400",
+  "defense": "2800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "6"
+}

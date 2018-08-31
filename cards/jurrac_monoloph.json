@@ -1,0 +1,24 @@
+{
+  "name": "Jurrac Monoloph",
+  "number": "36717258",
+  "is_illegal": false,
+  "text": "This card can attack all monsters your opponent controls once each.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1500",
+  "defense": "1200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

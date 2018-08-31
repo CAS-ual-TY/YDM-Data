@@ -1,0 +1,11 @@
+{
+  "name": "Toll",
+  "number": "82003859",
+  "is_illegal": false,
+  "text": "Each player must pay 500 Life Points to declare an attack.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Continuous"
+}

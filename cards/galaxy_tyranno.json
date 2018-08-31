@@ -1,0 +1,24 @@
+{
+  "name": "Galaxy Tyranno",
+  "number": "24658418",
+  "is_illegal": false,
+  "text": "When a \"Galaxy\" monster you control is targeted for an attack: You can Special Summon this card from your hand in Defense Position. When Summoned this way, you can: Immediately after this effect resolves, Xyz Summon 1 \"Galaxy\" Xyz Monster, using only \"Galaxy\" monsters you control.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "2000",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

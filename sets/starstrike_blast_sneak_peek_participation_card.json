@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Starstrike Blast Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2010-11-06",
+    "distribution": "tournament_promo_cards",
+    "prefix": "STBL",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Archfiend Empress",
+        "set_number": "STBL-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

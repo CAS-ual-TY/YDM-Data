@@ -1,0 +1,24 @@
+{
+  "name": "Alligator's Sword",
+  "number": "64428736",
+  "is_illegal": false,
+  "text": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1500",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

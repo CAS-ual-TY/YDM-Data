@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump June/July 2011 subscription bonus",
+    "type": "Shonen Jump",
+    "date": "2011-06-01",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Meklord Astro Mekanikle",
+        "set_number": "JUMP-EN050",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "T.G. Hyper Librarian",
+        "set_number": "JUMP-EN051",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "D/D/D Wave King Caesar",
+  "number": "3758046",
+  "is_illegal": false,
+  "text": "2 Level 4 Fiend-Type monsters\nDuring either player's turn: You can detach 1 Xyz Material from this card; at the end of the Battle Phase, Special Summon from your Graveyard as many monsters destroyed this turn as possible, but during the next Standby Phase, take 1000 damage for each monster Special Summoned by this effect. If this card is sent from the field to the Graveyard: You can add 1 \"Dark Contract\" card from your Deck to your hand. You can only use each effect of \"D/D/D Wave King Caesar\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2400",
+  "defense": "1200",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

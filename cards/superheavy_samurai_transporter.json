@@ -1,0 +1,24 @@
+{
+  "name": "Superheavy Samurai Transporter",
+  "number": "41141943",
+  "is_illegal": false,
+  "text": "If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters. If you have no Spell/Trap Cards in your Graveyard: You can Tribute this card; Special Summon up to 2 monsters from your hand to your opponent's side of the field in Defense Position, then draw cards equal to the number of monsters Special Summoned by this effect. You can only use this effect of \"Superheavy Samurai Transporter\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1200",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

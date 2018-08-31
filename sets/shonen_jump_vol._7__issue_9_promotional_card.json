@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump Vol. 7, Issue 9 promotional card",
+    "type": "Shonen Jump",
+    "date": "2009-09-01",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Tragoedia",
+        "set_number": "JUMP-EN033",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

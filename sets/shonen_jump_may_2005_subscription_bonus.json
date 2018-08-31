@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump May 2005 subscription bonus",
+    "type": "Shonen Jump",
+    "date": "2005-05-01",
+    "distribution": "shonen_jump",
+    "prefix": "JMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Obelisk the Tormentor (original)",
+        "set_number": "JMP-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

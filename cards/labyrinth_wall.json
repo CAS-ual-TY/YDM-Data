@@ -1,0 +1,24 @@
+{
+  "name": "Labyrinth Wall",
+  "number": "67284908",
+  "is_illegal": false,
+  "text": "These walls form a labyrinth with no exit for enemies.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "0",
+  "defense": "3000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

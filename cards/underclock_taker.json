@@ -1,0 +1,27 @@
+{
+  "name": "Underclock Taker",
+  "number": "77058170",
+  "is_illegal": false,
+  "text": "2 Effect Monsters\nOnce per turn: You can target 1 face-up monster this card points to, and 1 face-up monster your opponent controls; that opponent's monster loses ATK equal to the ATK of the monster this card points to, until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Bottom"
+  ],
+  "link_number": "2"
+}

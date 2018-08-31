@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Legendary Collection: Gameboard Edition",
+    "type": "Legendary Collection",
+    "date": "2013-11-15",
+    "distribution": "legendary_collection",
+    "prefix": "LC01",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Obelisk the Tormentor (original)",
+        "set_number": "LC01-EN001",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      },
+      {
+        "card_name": "Slifer the Sky Dragon (original)",
+        "set_number": "LC01-EN002",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      },
+      {
+        "card_name": "The Winged Dragon of Ra (original)",
+        "set_number": "LC01-EN003",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      },
+      {
+        "card_name": "Blue-Eyes White Dragon",
+        "set_number": "LC01-EN004",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician",
+        "set_number": "LC01-EN005",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      },
+      {
+        "card_name": "Red-Eyes B. Dragon",
+        "set_number": "LC01-EN006",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      }
+    ]
+  }
+}

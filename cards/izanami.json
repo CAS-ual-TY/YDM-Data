@@ -1,0 +1,24 @@
+{
+  "name": "Izanami",
+  "number": "43543777",
+  "is_illegal": false,
+  "text": "This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card is Normal Summoned or flipped face-up, you can discard 1 card to add 1 Spirit monster from your Graveyard to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1100",
+  "defense": "1800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Spirit"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Phalanx Pike",
+  "number": "42709949",
+  "is_illegal": false,
+  "text": "The equipped monster gains 900 ATK for each card in either Graveyard that has the same name it does.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Equip"
+}

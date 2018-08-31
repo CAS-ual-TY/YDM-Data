@@ -1,0 +1,24 @@
+{
+  "name": "Des Volstgalph",
+  "number": "81059524",
+  "is_illegal": false,
+  "text": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 500 damage to your opponent. Each time a Normal or Quick-Play Spell Card resolves, this card gains 200 ATK until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2200",
+  "defense": "1700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

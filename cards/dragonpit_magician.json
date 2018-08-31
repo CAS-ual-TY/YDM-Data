@@ -1,0 +1,28 @@
+{
+  "name": "Dragonpit Magician",
+  "number": "51531505",
+  "is_illegal": false,
+  "text": "This gifted magician can awaken the energy stored in the deep places of the earth, known as the Pits of the Dragon. His stoic approach wins him few friends, and he often bends to the desires of his pupil.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "900",
+  "defense": "2700",
+  "attribute": "WATER",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Normal"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn, if you have a \"Magician\" card in your other Pendulum Zone: You can discard 1 Pendulum Monster, then target 1 Spell/Trap Card on the field; destroy it.",
+  "stars": "7"
+}

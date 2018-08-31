@@ -1,0 +1,24 @@
+{
+  "name": "Cyber Dragon Core",
+  "number": "23893227",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: Add 1 \"Cyber\" Spell/Trap from your Deck to your hand. If only your opponent controls a monster: You can banish this card from your GY; Special Summon 1 \"Cyber Dragon\" monster from your Deck. You can only use 1 \"Cyber Dragon Core\" effect per turn, and only once that turn. This card's name becomes \"Cyber Dragon\" while on the field or in the GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "400",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

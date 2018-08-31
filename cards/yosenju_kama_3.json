@@ -1,0 +1,24 @@
+{
+  "name": "Yosenju Kama 3",
+  "number": "28630501",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 \"Yosenju\" monster from your hand, except \"Yosenju Kama 3\". When another \"Yosenju\" monster you control inflicts battle damage to your opponent: You can add 1 \"Yosenju\" card from your Deck to your hand, except \"Yosenju Kama 3\". You can only use this effect of \"Yosenju Kama 3\" once per turn. Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1500",
+  "defense": "800",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

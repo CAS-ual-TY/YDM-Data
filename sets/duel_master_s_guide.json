@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duel Master's Guide",
+    "type": "Promo Cards",
+    "date": "2003-10-28",
+    "distribution": "promo_cards",
+    "prefix": "DMG",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Dark Paladin",
+        "set_number": "DMG-001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Mogmole",
+  "number": "9861795",
+  "is_illegal": false,
+  "text": "When this card on the field is destroyed and sent to the Graveyard: You can Special Summon it from your Graveyard in face-up Defense Position. You can only use the effect of \"Mogmole\" once per Duel.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "800",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

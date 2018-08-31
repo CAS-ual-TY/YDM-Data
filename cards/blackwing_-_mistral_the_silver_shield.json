@@ -1,0 +1,24 @@
+{
+  "name": "Blackwing - Mistral the Silver Shield",
+  "number": "46710683",
+  "is_illegal": false,
+  "text": "If this card on the field is destroyed and sent to the Graveyard: Reduce the next battle damage you would take this turn to 0.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "100",
+  "defense": "1800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

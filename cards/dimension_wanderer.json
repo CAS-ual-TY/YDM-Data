@@ -1,0 +1,24 @@
+{
+  "name": "Dimension Wanderer",
+  "number": "62107612",
+  "is_illegal": false,
+  "text": "When a monster is banished by the effect of \"Galaxy-Eyes Photon Dragon\": You can send this card from your hand to the Graveyard; inflict 3000 damage to your opponent. You can only use the effect of \"Dimension Wanderer\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

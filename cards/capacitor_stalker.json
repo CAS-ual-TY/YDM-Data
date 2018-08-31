@@ -1,0 +1,24 @@
+{
+  "name": "Capacitor Stalker",
+  "number": "29716911",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 other Cyberse monster you control; while this face-up monster is on the field, that monster gains 800 ATK. If this card in the Monster Zone is destroyed by a card effect and sent to the GY: Each player takes 800 damage. You can only use this effect of \"Capacitor Stalker\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2000",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

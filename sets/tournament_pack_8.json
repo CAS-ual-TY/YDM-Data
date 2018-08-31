@@ -1,0 +1,214 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Tournament Pack 8",
+    "type": "Booster Pack",
+    "date": "2006-04-28",
+    "distribution": "booster_pack",
+    "prefix": "TP8",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Magical Arm Shield",
+        "set_number": "TP8-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Harpie's Feather Duster",
+        "set_number": "TP8-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Slate Warrior",
+        "set_number": "TP8-EN003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dunames Dark Witch",
+        "set_number": "TP8-EN004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Garma Sword",
+        "set_number": "TP8-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Zaborg the Thunder Monarch",
+        "set_number": "TP8-EN006",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Granmarg the Rock Monarch",
+        "set_number": "TP8-EN007",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Mobius the Frost Monarch",
+        "set_number": "TP8-EN008",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Thestalos the Firestorm Monarch",
+        "set_number": "TP8-EN009",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Garma Sword Oath",
+        "set_number": "TP8-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Berserk Gorilla",
+        "set_number": "TP8-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ultimate Offering",
+        "set_number": "TP8-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gatekeeper",
+        "set_number": "TP8-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Behegon",
+        "set_number": "TP8-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Violent Rain",
+        "set_number": "TP8-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Temple of Skulls",
+        "set_number": "TP8-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blocker",
+        "set_number": "TP8-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wretched Ghost of the Attic",
+        "set_number": "TP8-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sectarian of Secrets",
+        "set_number": "TP8-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Necrolancer the Timelord",
+        "set_number": "TP8-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

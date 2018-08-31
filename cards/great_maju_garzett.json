@@ -1,0 +1,24 @@
+{
+  "name": "Great Maju Garzett",
+  "number": "47942531",
+  "is_illegal": false,
+  "text": "The ATK of this card becomes twice the original ATK of 1 monster that you Tributed for the Tribute Summon of this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

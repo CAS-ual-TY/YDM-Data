@@ -1,0 +1,24 @@
+{
+  "name": "R-Genex Turbo",
+  "number": "6256844",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned, you can add 1 Level 1 \"Genex\" monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "defense": "1300",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

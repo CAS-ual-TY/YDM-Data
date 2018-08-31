@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! The Dawn of Destiny",
+    "type": "Video Game Promo Cards",
+    "date": "2004-03-23",
+    "distribution": "video_game_promo_cards",
+    "prefix": "DOD",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "The Winged Dragon of Ra (original)",
+        "set_number": "DOD-001",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Sage",
+        "set_number": "DOD-002",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Widespread Ruin",
+        "set_number": "DOD-003",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

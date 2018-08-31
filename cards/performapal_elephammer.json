@@ -1,0 +1,24 @@
+{
+  "name": "Performapal Elephammer",
+  "number": "340002",
+  "is_illegal": false,
+  "text": "If you control 2 or more \"Performapal\" cards, you can Normal Summon this card without Tributing. Cannot attack unless you control another \"Performapal\" card. When this card declares an attack: You can return all Spell and Trap Cards your opponent controls to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2600",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

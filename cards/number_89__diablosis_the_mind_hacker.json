@@ -1,0 +1,24 @@
+{
+  "name": "Number 89: Diablosis the Mind Hacker",
+  "number": "95474755",
+  "is_illegal": false,
+  "text": "2 Level 7 monsters\nOnce per turn: You can detach 1 material from this card; look at your opponent's Extra Deck and banish 1 monster from it, face-down. At the end of the Battle Phase, if this card destroyed a monster by battle: You can target 1 card in your opponent's GY; banish it, face-down. If a card your opponent owns and possesses is banished face-down while you control this card (except during the Damage Step): You can banish cards from the top of your opponent's Deck, face-down, equal to their face-down banished cards. You can only use this effect of \"Number 89: Diablosis the Mind Hacker\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "2800",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "0"
+}

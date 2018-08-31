@@ -1,0 +1,24 @@
+{
+  "name": "Inzektor Giga-Mantis",
+  "number": "94573223",
+  "is_illegal": false,
+  "text": "You can target 1 face-up \"Inzektor\" monster you control; equip this card from your hand to that target. While this card is equipped to a monster, that monster's original ATK becomes 2400. If this card is sent to the Graveyard while equipped to a monster: You can target 1 \"Inzektor\" monster in your Graveyard except \"Inzektor Giga-Mantis\"; Special Summon that target. This effect of \"Inzektor Giga-Mantis\" can only be used once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "2400",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

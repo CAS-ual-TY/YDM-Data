@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "The Shining Darkness Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2010-05-01",
+    "distribution": "tournament_promo_cards",
+    "prefix": "TSHD",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "XX-Saber Boggart Knight",
+        "set_number": "TSHD-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

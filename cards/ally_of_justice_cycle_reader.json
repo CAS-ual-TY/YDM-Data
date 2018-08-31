@@ -1,0 +1,24 @@
+{
+  "name": "Ally of Justice Cycle Reader",
+  "number": "8233522",
+  "is_illegal": false,
+  "text": "During either player's turn: You can discard this card to the Graveyard, then target up to 2 LIGHT monsters in your opponent's Graveyard; banish those targets.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

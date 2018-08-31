@@ -1,0 +1,24 @@
+{
+  "name": "Synchro Magnet",
+  "number": "50702124",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Blackwing - Hillen the Tengu-wind",
+  "number": "3072808",
+  "is_illegal": false,
+  "text": "When you take 2000 or more Battle Damage from your opponent's monster's direct attack while this card is in the Graveyard, you can select 1 Level 3 or lower \"Blackwing\" monster in your Graveyard. Special Summon that monster and this card from the Graveyard. Their effects are negated. Each player can only use the effect of \"Blackwing - Hillen the Tengu-wind\" once per Duel.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "0",
+  "defense": "2300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "5"
+}

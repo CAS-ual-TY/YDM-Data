@@ -1,0 +1,24 @@
+{
+  "name": "Gladiator Beast Samnite",
+  "number": "2619149",
+  "is_illegal": false,
+  "text": "If this card was Special Summoned by the effect of a \"Gladiator Beast\" monster, when this card destroys an opponent's monster by battle and sends it to the Graveyard, you can add 1 \"Gladiator Beast\" card from your Deck to your hand. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Samnite\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1600",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

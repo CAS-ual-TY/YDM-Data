@@ -1,0 +1,24 @@
+{
+  "name": "Chimeratech Rampage Dragon",
+  "number": "84058253",
+  "is_illegal": false,
+  "text": "2+ \"Cyber Dragon\" monsters\nA Fusion Summon of this card can only be done with the above Fusion Materials. When this card is Fusion Summoned: You can target Spells/Traps on the field, up to the number of Fusion Materials used for its Fusion Summon; destroy them. Once per turn: You can send up to 2 LIGHT Machine monsters from your Deck to the GY, and if you do, for each monster sent to the GY, this card gains 1 additional attack during each Battle Phase this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2100",
+  "defense": "1600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "5"
+}

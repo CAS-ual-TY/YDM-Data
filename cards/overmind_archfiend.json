@@ -1,0 +1,24 @@
+{
+  "name": "Overmind Archfiend",
+  "number": "24221808",
+  "is_illegal": false,
+  "text": "1 Psychic-Type Tuner + 2 or more non-Tuner Psychic-Type monsters\nOnce per turn, you can select 1 Psychic-Type monster in your Graveyard, and remove it from play. When this card is sent from the field to the Graveyard, Special Summon as many monsters as possible that were removed from play by this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "3300",
+  "defense": "3000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "9"
+}

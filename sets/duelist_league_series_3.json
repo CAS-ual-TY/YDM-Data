@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist League Series 3",
+    "type": "Duelist League Promo Cards",
+    "date": "2004-01-01",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "DL3",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Necrovalley",
+        "set_number": "DL3-001",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      }
+    ]
+  }
+}

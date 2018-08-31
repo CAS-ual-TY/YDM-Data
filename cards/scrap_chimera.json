@@ -1,0 +1,24 @@
+{
+  "name": "Scrap Chimera",
+  "number": "56746202",
+  "is_illegal": false,
+  "text": "This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a \"Scrap\" monster and all the other Synchro Material Monsters must also be \"Scrap\" monsters. When this card is Normal Summoned, you can select 1 \"Scrap\" Tuner monster in your Graveyard and Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1700",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

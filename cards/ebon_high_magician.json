@@ -1,0 +1,24 @@
+{
+  "name": "Ebon High Magician",
+  "number": "85551711",
+  "is_illegal": false,
+  "text": "2 Level 7 Spellcaster-Type monsters\nWhile this card has Xyz Material, you can activate a Quick-Play Spell Card or a Trap Card from your hand during your opponent's turn by detaching 1 Xyz Material from this card at activation. If this Xyz Summoned card is destroyed by battle and sent to the Graveyard, or if this Xyz Summoned card you control is sent to your Graveyard by an opponent's card effect: You can Special Summon 1 DARK Spellcaster-Type monster from your hand or Deck, then you can destroy 1 card on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2300",
+  "defense": "2800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "7"
+}

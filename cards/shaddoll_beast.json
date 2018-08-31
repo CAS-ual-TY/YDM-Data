@@ -1,0 +1,25 @@
+{
+  "name": "Shaddoll Beast",
+  "number": "3717252",
+  "is_illegal": false,
+  "text": "FLIP: You can draw 2 cards, then discard 1 card.\nIf this card is sent to the Graveyard by a card effect: You can draw 1 card. You can only use 1 \"Shaddoll Beast\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2200",
+  "defense": "1700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "5"
+}

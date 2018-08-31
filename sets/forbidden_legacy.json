@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Forbidden Legacy",
+    "type": "Special Edition Promo Cards",
+    "date": "2005-10-01",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "FL1",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Blue-Eyes White Dragon",
+        "set_number": "FL1-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician",
+        "set_number": "FL1-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Kuriboh",
+        "set_number": "FL1-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Naturia Cliff",
+  "number": "33866130",
+  "is_illegal": false,
+  "text": "When this card is sent from the field to the Graveyard, you can Special Summon 1 Level 4 or lower \"Naturia\" monster from your Deck to your side of the field in face-up Attack Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1500",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

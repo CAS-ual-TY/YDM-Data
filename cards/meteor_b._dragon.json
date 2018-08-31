@@ -1,0 +1,24 @@
+{
+  "name": "Meteor B. Dragon",
+  "number": "90660762",
+  "is_illegal": false,
+  "text": "\"Red-Eyes B. Dragon\" + \"Meteor Dragon\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3500",
+  "defense": "2000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

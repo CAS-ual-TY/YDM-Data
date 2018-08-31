@@ -1,0 +1,11 @@
+{
+  "name": "Enemy Controller",
+  "number": "98045062",
+  "is_illegal": false,
+  "text": "Activate 1 of these effects.\nâ—? Target 1 face-up monster your opponent controls; change that target's battle position.\nâ—? Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}

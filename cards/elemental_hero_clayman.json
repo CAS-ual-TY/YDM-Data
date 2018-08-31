@@ -1,0 +1,24 @@
+{
+  "name": "Elemental HERO Clayman",
+  "number": "84327329",
+  "is_illegal": false,
+  "text": "An Elemental HERO with a clay body built-to-last. He'll preserve his Elemental HERO colleagues at any cost.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "800",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

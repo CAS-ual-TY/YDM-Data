@@ -1,0 +1,24 @@
+{
+  "name": "Mermail Abysstrite",
+  "number": "59170782",
+  "is_illegal": false,
+  "text": "3 Level 3 monsters\nDuring either player's turn, when your opponent targets exactly 1 face-up \"Mermail\" monster you control for an attack, or with a Spell/Trap effect that could have targeted this card (except during the Damage Step): You can detach 1 Xyz Material from this card; that attack/effect now targets this card. When this card is destroyed and sent to the Graveyard: You can target 1 \"Mermail\" monster in your Graveyard, except \"Mermail Abysstrite\"; Special Summon that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "1600",
+  "defense": "2800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

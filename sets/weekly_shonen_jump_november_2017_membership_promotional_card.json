@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Weekly Shonen Jump November 2017 membership promotional card",
+    "type": "Shonen Jump Promo Cards",
+    "date": "2017-12-01",
+    "distribution": "shonen_jump_promo_cards",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Linkuriboh",
+        "set_number": "JUMP-EN082",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

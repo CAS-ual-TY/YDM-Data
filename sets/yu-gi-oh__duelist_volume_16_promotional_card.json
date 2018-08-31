@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Duelist Volume 16 promotional card",
+    "type": "Shonen Jump",
+    "date": "2006-08-01",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Yu-Jo Friendship",
+        "set_number": "JUMP-EN007",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

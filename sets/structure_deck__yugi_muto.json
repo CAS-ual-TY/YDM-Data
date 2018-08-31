@@ -1,0 +1,464 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Structure Deck: Yugi Muto",
+    "type": "Structure Deck",
+    "date": "2016-06-18",
+    "distribution": "",
+    "prefix": "SDMY",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Alpha The Electromagnet Warrior",
+        "set_number": "SDMY-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Beta The Electromagnet Warrior",
+        "set_number": "SDMY-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Gamma The Electromagnet Warrior",
+        "set_number": "SDMY-EN003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Berserkion the Electromagna Warrior",
+        "set_number": "SDMY-EN004",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Kuribohrn",
+        "set_number": "SDMY-EN005",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Valkyrion the Magna Warrior",
+        "set_number": "SDMY-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Alpha The Magnet Warrior",
+        "set_number": "SDMY-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Beta The Magnet Warrior",
+        "set_number": "SDMY-EN008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gamma The Magnet Warrior",
+        "set_number": "SDMY-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician",
+        "set_number": "SDMY-EN010",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician Girl",
+        "set_number": "SDMY-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Buster Blader",
+        "set_number": "SDMY-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gaia The Fierce Knight",
+        "set_number": "SDMY-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Curse of Dragon",
+        "set_number": "SDMY-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jack's Knight",
+        "set_number": "SDMY-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Queen's Knight",
+        "set_number": "SDMY-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "King's Knight",
+        "set_number": "SDMY-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Berfomet",
+        "set_number": "SDMY-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gazelle the King of Mythical Beasts",
+        "set_number": "SDMY-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Obnoxious Celtic Guard",
+        "set_number": "SDMY-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magnetic Field",
+        "set_number": "SDMY-EN021",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Magic Inheritance",
+        "set_number": "SDMY-EN022",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Magic Attack",
+        "set_number": "SDMY-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Magic Curtain",
+        "set_number": "SDMY-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mystic Box",
+        "set_number": "SDMY-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Monster Reborn",
+        "set_number": "SDMY-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Swords of Revealing Light",
+        "set_number": "SDMY-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Card Destruction",
+        "set_number": "SDMY-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Card of Sanctity",
+        "set_number": "SDMY-EN029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spell Shattering Arrow",
+        "set_number": "SDMY-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Polymerization",
+        "set_number": "SDMY-EN031",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "De-Fusion",
+        "set_number": "SDMY-EN032",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magnet Conversion",
+        "set_number": "SDMY-EN033",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Magician's Circle",
+        "set_number": "SDMY-EN034",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mirror Force",
+        "set_number": "SDMY-EN035",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magic Cylinder",
+        "set_number": "SDMY-EN036",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magical Hats",
+        "set_number": "SDMY-EN037",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lightforce Sword",
+        "set_number": "SDMY-EN038",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chain Destruction",
+        "set_number": "SDMY-EN039",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Soul Rope",
+        "set_number": "SDMY-EN040",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Imperion Magnum the Superconductive Battlebot",
+        "set_number": "SDMY-EN041",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Arcana Knight Joker",
+        "set_number": "SDMY-EN042",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Paladin",
+        "set_number": "SDMY-EN043",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gaia the Dragon Champion",
+        "set_number": "SDMY-EN044",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chimera the Flying Mythical Beast",
+        "set_number": "SDMY-EN045",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

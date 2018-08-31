@@ -1,0 +1,24 @@
+{
+  "name": "Spirit of the Harp",
+  "number": "80770678",
+  "is_illegal": false,
+  "text": "A spirit that soothes the soul with the music of its heavenly harp.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "800",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Cyberse Wizard",
+  "number": "36033786",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 Attack Position opponent's monster; change it to Defense Position, and if you do, for the rest of this turn, your monsters cannot attack, except to attack that monster, and if your Cyberse monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1800",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

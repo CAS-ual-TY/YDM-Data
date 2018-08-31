@@ -1,0 +1,24 @@
+{
+  "name": "Number C9: Chaos Dyson Sphere",
+  "number": "32559361",
+  "is_illegal": false,
+  "text": "3 Level 10 monsters\nAt the start of the Damage Step, if this card battles an opponent's monster: You can attach that monster to this card as a face-up Xyz Material. Once per turn: You can inflict 300 damage to your opponent for each Xyz Material attached to this card. If this card has \"Number 9: Dyson Sphere\" as an Xyz Material, it gains this effect.\nâ—? Once per turn: You can detach any number of Xyz Materials from this card; inflict 800 damage to your opponent for each.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "3600",
+  "defense": "3200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "10"
+}

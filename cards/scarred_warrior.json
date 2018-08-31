@@ -1,0 +1,24 @@
+{
+  "name": "Scarred Warrior",
+  "number": "45298492",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nYour opponent cannot target face-up Warrior-Type monsters for attacks, except this one. Once per turn, if this card would be destroyed by battle, it is not destroyed.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2100",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "5"
+}

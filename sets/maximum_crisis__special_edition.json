@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Maximum Crisis: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2017-06-09",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "MACR",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Kachi Kochi Dragon",
+        "set_number": "MACR-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Number S0: Utopic ZEXAL",
+        "set_number": "MACR-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Emerging Emergency Rescute Rescue",
+        "set_number": "MACR-ENSE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Boogie Trap",
+        "set_number": "MACR-ENSE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

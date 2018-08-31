@@ -1,0 +1,24 @@
+{
+  "name": "Gravekeeper's Shaman",
+  "number": "58139128",
+  "is_illegal": false,
+  "text": "This card gains 200 DEF for each \"Gravekeeper's\" monster in your Graveyard. Negate all monster effects that activate in the Graveyard, except \"Gravekeeper's\" monsters. While \"Necrovalley\" is on the field, your opponent cannot activate Field Spell Cards, also Field Spell Cards on the field cannot be destroyed by your opponent's card effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1500",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

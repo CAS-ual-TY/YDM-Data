@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Hobby League 6",
+    "type": "Duelist League Promo Cards",
+    "date": "2008-06-21",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "HL06",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Nobleman of Crossout",
+        "set_number": "HL06-EN001",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Limiter Removal",
+        "set_number": "HL06-EN002",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "D.D. Warrior Lady",
+        "set_number": "HL06-EN003",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Reinforcement of the Army",
+        "set_number": "HL06-EN004",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Call of the Haunted",
+        "set_number": "HL06-EN005",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Shining Angel",
+        "set_number": "HL06-EN006",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      }
+    ]
+  }
+}

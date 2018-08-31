@@ -1,0 +1,11 @@
+{
+  "name": "Attraffic Control",
+  "number": "46083380",
+  "is_illegal": false,
+  "text": "If your opponent controls 3 or more monsters, they cannot declare an attack.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Continuous"
+}

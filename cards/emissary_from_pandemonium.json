@@ -1,0 +1,24 @@
+{
+  "name": "Emissary from Pandemonium",
+  "number": "42685062",
+  "is_illegal": false,
+  "text": "This card cannot be Special Summoned. You can Normal Summon this card with 1 Tribute. If you do, it becomes Level 5 and its original ATK and DEF are halved.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2600",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "7"
+}

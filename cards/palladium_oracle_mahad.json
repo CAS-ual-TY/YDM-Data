@@ -1,0 +1,24 @@
+{
+  "name": "Palladium Oracle Mahad",
+  "number": "71703785",
+  "is_illegal": false,
+  "text": "When you draw this card: You can reveal this card; Special Summon it from your hand. If this card battles a DARK monster, its ATK is doubled during the Damage Step only. If this card is destroyed by battle or card effect: You can Special Summon 1 \"Dark Magician\" from your hand, Deck, or Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2500",
+  "defense": "2100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

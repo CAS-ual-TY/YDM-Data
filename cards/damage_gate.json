@@ -1,0 +1,11 @@
+{
+  "name": "Damage Gate",
+  "number": "87106146",
+  "is_illegal": false,
+  "text": "When you take battle damage: Target 1 monster in your Graveyard with ATK less than or equal to the amount of damage you took; Special Summon that target.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

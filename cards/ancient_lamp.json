@@ -1,0 +1,24 @@
+{
+  "name": "Ancient Lamp",
+  "number": "54912977",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can Special Summon \"La Jinn the Mystical Genie of the Lamp\" from your hand. This card must be face-up on the field to activate and to resolve this effect. Before damage calculation, if this card is being attacked by an opponent's monster, and was face-down at the start of the Damage Step: You can target 1 monster your opponent controls, except the attacking monster; the attacking monster attacks it instead, and you proceed to damage calculation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "900",
+  "defense": "1400",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tindangle Base Gardna",
+  "number": "94365540",
+  "is_illegal": false,
+  "text": "If you control a Set monster, you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"Tindangle Base Gardna\" once per turn this way. If a monster(s) is Normal or Special Summoned to a zone an opponent's Link Monster points to while this monster is on the field (except during the Damage Step): You can Tribute this card; Special Summon 1 \"Tindangle\" monster from your hand or Deck in Attack Position or face-down Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "2300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

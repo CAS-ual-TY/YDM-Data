@@ -1,0 +1,24 @@
+{
+  "name": "Sacred Phoenix of Nephthys",
+  "number": "61441708",
+  "is_illegal": false,
+  "text": "During your next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Special Summon this card from the Graveyard. When you do: Destroy all Spell and Trap Cards on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "2400",
+  "defense": "1600",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

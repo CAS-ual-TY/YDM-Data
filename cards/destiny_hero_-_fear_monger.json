@@ -1,0 +1,24 @@
+{
+  "name": "Destiny HERO - Fear Monger",
+  "number": "80744121",
+  "is_illegal": false,
+  "text": "During your Standby Phase, if this card is in your Graveyard because it was destroyed by battle and sent there since your last Standby Phase: Target 1 \"Destiny HERO\" monster in your Graveyard, except a \"Destiny HERO - Fear Monger\"; Special Summon that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

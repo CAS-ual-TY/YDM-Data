@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Hobby League 3",
+    "type": "Duelist League Promo Cards",
+    "date": "2006-12-21",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "HL03",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Giant Rat",
+        "set_number": "HL03-EN001",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Creature Swap",
+        "set_number": "HL03-EN002",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Trap Hole",
+        "set_number": "HL03-EN003",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Spear Dragon",
+        "set_number": "HL03-EN004",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Mystic Tomato",
+        "set_number": "HL03-EN005",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Royal Decree",
+        "set_number": "HL03-EN006",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Balter the Terrible",
+        "set_number": "HL03-EN007",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      }
+    ]
+  }
+}

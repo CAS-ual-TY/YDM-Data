@@ -1,0 +1,24 @@
+{
+  "name": "Mekk-Knight Orange Sunset",
+  "number": "93020401",
+  "is_illegal": false,
+  "text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Amber Shade\" once per turn this way. If an opponent's card in this card's column is destroyed by battle or leaves the field: You can Special Summon 1 \"Jack Knight\" monster from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "800",
+  "defense": "3000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

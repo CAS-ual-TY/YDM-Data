@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Primal Origin Plus",
+    "type": "Special Edition Promo Cards",
+    "date": "2014-06-21",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "PRIO",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Sylvan Snapdrassinagon",
+        "set_number": "PRIO-ENPL1",
+        "rarities": [
+          "Starfoil Rare"
+        ],
+        "count": {
+          "Starfoil Rare": 1
+        }
+      }
+    ]
+  }
+}

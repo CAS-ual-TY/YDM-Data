@@ -1,0 +1,224 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Turbo Pack: Booster Seven",
+    "type": "Booster Pack",
+    "date": "2012-01-01",
+    "distribution": "booster_pack",
+    "prefix": "TU07",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Ally of Justice Catastor",
+        "set_number": "TU07-EN000",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Book of Moon",
+        "set_number": "TU07-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ninja Grandmaster Sasuke",
+        "set_number": "TU07-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Yellow Gadget",
+        "set_number": "TU07-EN003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "X-Saber Pashuul",
+        "set_number": "TU07-EN004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Horn of the Phantom Beast",
+        "set_number": "TU07-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Horus",
+        "set_number": "TU07-EN006",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Lightning Warrior",
+        "set_number": "TU07-EN007",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Primal Seed",
+        "set_number": "TU07-EN008",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Big Evolution Pill",
+        "set_number": "TU07-EN009",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Tail Swipe",
+        "set_number": "TU07-EN010",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Geartown",
+        "set_number": "TU07-EN011",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Seiyaryu",
+        "set_number": "TU07-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Serpent Night Dragon",
+        "set_number": "TU07-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Kotodama",
+        "set_number": "TU07-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gokipon",
+        "set_number": "TU07-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Goe Goe the Gallant Ninja",
+        "set_number": "TU07-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Herald of Orange Light",
+        "set_number": "TU07-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Sirocco the Dawn",
+        "set_number": "TU07-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ninjitsu Art of Transformation",
+        "set_number": "TU07-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ninjitsu Art of Decoy",
+        "set_number": "TU07-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Meklord Army of Wisel",
+  "number": "39648965",
+  "is_illegal": false,
+  "text": "This card gains 100 ATK for each \"Meklord\" monster on the field, except this card. Once per turn, when another \"Meklord\" monster you control declares an attack on a Defense Position monster your opponent controls: You can activate this effect; during that battle, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1800",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

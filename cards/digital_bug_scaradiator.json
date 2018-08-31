@@ -1,0 +1,24 @@
+{
+  "name": "Digital Bug Scaradiator",
+  "number": "12615446",
+  "is_illegal": false,
+  "text": "2 or more Level 3 LIGHT Insect-Type monsters\nOnce per turn, during either player's turn: You can detach 2 Xyz Materials from this card, then target 1 monster your opponent controls; change its battle position, and if you do, it has its effects negated until the end of this turn. Once per turn, when this card destroys an opponent's monster by battle and sends it to the Graveyard: You can attach that destroyed monster to this card as Xyz Material.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1800",
+  "defense": "1400",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

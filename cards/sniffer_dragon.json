@@ -1,0 +1,24 @@
+{
+  "name": "Sniffer Dragon",
+  "number": "27877771",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Sniffer Dragon\" from your Deck to your hand. You can only use this effect of \"Sniffer Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "800",
+  "defense": "400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

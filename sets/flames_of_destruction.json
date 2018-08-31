@@ -1,0 +1,850 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Flames of Destruction",
+    "type": "Booster Pack",
+    "date": "2018-01-13",
+    "distribution": "booster_pack",
+    "prefix": "FLOD",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Protron",
+        "set_number": "FLOD-EN001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Prompt Horn",
+        "set_number": "FLOD-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Backup Operator",
+        "set_number": "FLOD-EN003",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Link Streamer",
+        "set_number": "FLOD-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Degrade Buster",
+        "set_number": "FLOD-EN005",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Nightshade",
+        "set_number": "FLOD-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Mandrake",
+        "set_number": "FLOD-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Rhodode",
+        "set_number": "FLOD-EN008",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Gouki Octostretch",
+        "set_number": "FLOD-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gouki Hugbear",
+        "set_number": "FLOD-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Defrag Dragon",
+        "set_number": "FLOD-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Background Dragon",
+        "set_number": "FLOD-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tindangle Trinity",
+        "set_number": "FLOD-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Altergeist Multifaker",
+        "set_number": "FLOD-EN014",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Altergeist Pixiel",
+        "set_number": "FLOD-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mekk-Knight Avram",
+        "set_number": "FLOD-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Knightmare Corruptor Iblee",
+        "set_number": "FLOD-EN017",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "World Legacy - \"World Lance\"",
+        "set_number": "FLOD-EN018",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elementsaber Aina",
+        "set_number": "FLOD-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elementsaber Makani",
+        "set_number": "FLOD-EN020",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elementsaber Nalu",
+        "set_number": "FLOD-EN021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elementsaber Malo",
+        "set_number": "FLOD-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elementsaber Lapauila",
+        "set_number": "FLOD-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elementsaber Molehu",
+        "set_number": "FLOD-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elementsaber Lapauila Mana",
+        "set_number": "FLOD-EN025",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Forceaurage the Elemental Lord",
+        "set_number": "FLOD-EN026",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Batteryman Solar ",
+        "set_number": "FLOD-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Watch Cat",
+        "set_number": "FLOD-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Transfamiliar",
+        "set_number": "FLOD-EN029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Outroll of the Haunted Sea",
+        "set_number": "FLOD-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yajiro Invader",
+        "set_number": "FLOD-EN031",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Iron Dragon Tiamaton",
+        "set_number": "FLOD-EN032",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ghost Belle & Haunted Mansion",
+        "set_number": "FLOD-EN033",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Boycotton",
+        "set_number": "FLOD-EN034",
+        "rarities": [
+          "Short Print"
+        ],
+        "count": {
+          "Short Print": 1
+        }
+      },
+      {
+        "card_name": "Red Hared Hassty Horse",
+        "set_number": "FLOD-EN034",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Topologic Trisbaena",
+        "set_number": "FLOD-EN036",
+        "rarities": [
+          "Secret Rare",
+          "Holographic Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Holographic Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Space Insulator",
+        "set_number": "FLOD-EN037",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Bella Madonna",
+        "set_number": "FLOD-EN038",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Bloom",
+        "set_number": "FLOD-EN039",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Delfiendium",
+        "set_number": "FLOD-EN040",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Gouki The Master Ogre",
+        "set_number": "FLOD-EN041",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Altergeist Kidolga",
+        "set_number": "FLOD-EN042",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Knightmare Mermaid",
+        "set_number": "FLOD-EN043",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Knightmare Goblin",
+        "set_number": "FLOD-EN044",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Knightmare Cerberus",
+        "set_number": "FLOD-EN045",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Knightmare Phoenix",
+        "set_number": "FLOD-EN046",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Knightmare Unicorn",
+        "set_number": "FLOD-EN047",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Knightmare Gryphon",
+        "set_number": "FLOD-EN048",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Wind-Up Maintenance Zenmaicon",
+        "set_number": "FLOD-EN049",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Vampire Sucker",
+        "set_number": "FLOD-EN050",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Fire Fighting Daruma Doll",
+        "set_number": "FLOD-EN051",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Greatfly",
+        "set_number": "FLOD-EN052",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cybersal Cyclone",
+        "set_number": "FLOD-EN053",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Light Arena",
+        "set_number": "FLOD-EN054",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Trickstar Bouquet",
+        "set_number": "FLOD-EN055",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Gouki Face Turn",
+        "set_number": "FLOD-EN056",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "World Legacy End",
+        "set_number": "FLOD-EN057",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "World Legacy Inheritor",
+        "set_number": "FLOD-EN058",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "World Legacy Nightmare",
+        "set_number": "FLOD-EN059",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Palace of the Elemental Lords",
+        "set_number": "FLOD-EN060",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Restoration of the Monarchs",
+        "set_number": "FLOD-EN061",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sekka's Light",
+        "set_number": "FLOD-EN062",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Link Bound",
+        "set_number": "FLOD-EN063",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Staring Contest",
+        "set_number": "FLOD-EN064",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Designator From the Grave",
+        "set_number": "FLOD-EN065",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Selective Reborn",
+        "set_number": "FLOD-EN066",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Limit Code",
+        "set_number": "FLOD-EN067",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Red Reboot",
+        "set_number": "FLOD-EN068",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gergonne's End",
+        "set_number": "FLOD-EN069",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Altergeist Emulatelf",
+        "set_number": "FLOD-EN070",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Resistance Against the World Legacy",
+        "set_number": "FLOD-EN072",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "World Legacy Echo",
+        "set_number": "FLOD-EN073",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental Training",
+        "set_number": "FLOD-EN074",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Darklord Divinity",
+        "set_number": "FLOD-EN075",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Network Trap Hole",
+        "set_number": "FLOD-EN076",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Infinite Transience",
+        "set_number": "FLOD-EN077",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ruthless Drop Off",
+        "set_number": "FLOD-EN078",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mamemaki",
+        "set_number": "FLOD-EN079",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shrub Serpent",
+        "set_number": "FLOD-EN080",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      }
+    ]
+  }
+}

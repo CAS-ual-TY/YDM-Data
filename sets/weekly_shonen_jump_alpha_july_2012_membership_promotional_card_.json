@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Weekly Shonen Jump Alpha July 2012 membership promotional card ",
+    "type": "Shonen Jump",
+    "date": "2012-08-27",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Slifer the Sky Dragon",
+        "set_number": "JUMP-EN061",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

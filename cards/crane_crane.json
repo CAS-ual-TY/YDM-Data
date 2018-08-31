@@ -1,0 +1,24 @@
+{
+  "name": "Crane Crane",
+  "number": "28637168",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 Level 3 monster in your GY; Special Summon that target, but it has its effects negated. You can only use this effect of \"Crane Crane\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "300",
+  "defense": "900",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Jormungardr the Nordic Serpent",
+  "number": "64203620",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. If an \"Aesir\" monster is on the field, you can Special Summon this card (from your hand) to your opponent's side of the field in Defense Position. If an \"Aesir\" monster is not on the field, destroy this card. If this face-up Defense Position card you control is changed to face-up Attack Position: Take 3000 damage. This effect can only be used once while this card is face-up on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "3000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

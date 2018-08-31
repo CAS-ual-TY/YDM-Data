@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Circuit Break Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2017-12-08",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CIBR",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Stardust Chronicle Spark Dragon",
+        "set_number": "CIBR-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Winged Dragon of Ra - Sphere Mode",
+        "set_number": "CIBR-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Lockout Gardna",
+        "set_number": "CIBR-ENSE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Parallel Port Armor",
+        "set_number": "CIBR-ENSE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

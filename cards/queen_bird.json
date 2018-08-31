@@ -1,0 +1,24 @@
+{
+  "name": "Queen Bird",
+  "number": "73081602",
+  "is_illegal": false,
+  "text": "This monster attacks enemies using its huge beak.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1200",
+  "defense": "2000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

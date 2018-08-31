@@ -1,0 +1,24 @@
+{
+  "name": "Flower Cardian Lightshower",
+  "number": "42291297",
+  "is_illegal": false,
+  "text": "1 Tuner + 3 non-Tuner monsters\nYour opponent cannot target \"Flower Cardian\" monsters you control with card effects, also those monsters cannot be destroyed by card effects. During your opponent's Draw Phase, if they draw a card(s) for their normal draw: Inflict 1500 damage to your opponent. Once per turn, during your opponent's End Phase: Activate 1 of these effects;\nâ—? Skip the Draw Phase of your next turn.\nâ—? This card has its other effects negated until your opponent's next Standby Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3000",
+  "defense": "3000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

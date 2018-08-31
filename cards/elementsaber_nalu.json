@@ -1,0 +1,24 @@
+{
+  "name": "Elementsaber Nalu",
+  "number": "46425662",
+  "is_illegal": false,
+  "text": "Once per turn: You can send 1 \"Elementsaber\" monster from your hand to the GY, then target 1 \"Elementsaber\" or \"Elemental Lord\" monster in your GY, except \"Elementsaber Nalu\"; add it to your hand. Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1500",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

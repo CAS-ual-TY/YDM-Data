@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Crossed Souls Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2015-05-09",
+    "distribution": "tournament_promo_cards",
+    "prefix": "CROS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Sea Dragoons of Draconia",
+        "set_number": "CROS-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

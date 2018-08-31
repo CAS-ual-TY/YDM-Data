@@ -1,0 +1,11 @@
+{
+  "name": "Boot Sector Launch",
+  "number": "36668118",
+  "is_illegal": false,
+  "text": "All \"Rokket\" monsters on the field gain 300 ATK/DEF. You can only use the following effect of \"Revolve Boot Sector\" once per turn. You can activate 1 of these effects;\nâ—? Special Summon up to 2 \"Rokket\" monsters with different names from your hand in Defense Position.\nâ—? If your opponent controls more monsters than you do: Special Summon \"Rokket\" monsters with different names from your GY in Defense Position, up to the surplus.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Field"
+}

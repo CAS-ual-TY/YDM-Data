@@ -1,0 +1,24 @@
+{
+  "name": "The Agent of Mystery - Earth",
+  "number": "91188343",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned, you can add 1 \"The Agent\" monster from your Deck to your hand, except \"The Agent of Mystery - Earth\". While \"The Sanctuary in the Sky\" is face-up on the field, you can add 1 \"Master Hyperion\" from your Deck to your hand instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1000",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

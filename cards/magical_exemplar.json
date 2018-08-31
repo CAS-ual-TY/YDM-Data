@@ -1,0 +1,24 @@
+{
+  "name": "Magical Exemplar",
+  "number": "6061630",
+  "is_illegal": false,
+  "text": "Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell Card resolves. Once per turn: You can remove any number of Spell Counters from this card; Special Summon 1 Spellcaster-Type monster from your hand or Graveyard whose Level is equal to the number of Spell Counters you removed.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1700",
+  "defense": "1400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

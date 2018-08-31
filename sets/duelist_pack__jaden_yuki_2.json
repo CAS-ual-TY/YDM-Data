@@ -1,0 +1,314 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Pack: Jaden Yuki 2",
+    "type": "Duelist Pack",
+    "date": "2006-10-26",
+    "distribution": "duelist_pack",
+    "prefix": "DP03",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Elemental HERO Neos",
+        "set_number": "DP03-EN001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Bladedge",
+        "set_number": "DP03-EN002",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Wildheart",
+        "set_number": "DP03-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hero Kid",
+        "set_number": "DP03-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Neo-Spacian Aqua Dolphin",
+        "set_number": "DP03-EN005",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Neo-Spacian Flare Scarab",
+        "set_number": "DP03-EN006",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Neo-Spacian Dark Panther",
+        "set_number": "DP03-EN007",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Chrysalis Dolphin",
+        "set_number": "DP03-EN008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Card Trooper",
+        "set_number": "DP03-EN009",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Wildedge",
+        "set_number": "DP03-EN010",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Wild Wingman",
+        "set_number": "DP03-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Aqua Neos",
+        "set_number": "DP03-EN012",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Flare Neos",
+        "set_number": "DP03-EN013",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Dark Neos",
+        "set_number": "DP03-EN014",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyclone Boomerang",
+        "set_number": "DP03-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "H - Heated Heart",
+        "set_number": "DP03-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "E - Emergency Call",
+        "set_number": "DP03-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "R - Righteous Justice",
+        "set_number": "DP03-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "O - Oversoul",
+        "set_number": "DP03-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hero Flash!!",
+        "set_number": "DP03-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Contact",
+        "set_number": "DP03-EN021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fake Hero",
+        "set_number": "DP03-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Common Soul",
+        "set_number": "DP03-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Neo Space",
+        "set_number": "DP03-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Light Laser",
+        "set_number": "DP03-EN025",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Burial from a Different Dimension",
+        "set_number": "DP03-EN026",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Hero Barrier",
+        "set_number": "DP03-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Miracle Kids",
+        "set_number": "DP03-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Edge Hammer",
+        "set_number": "DP03-EN029",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Kid Guard",
+        "set_number": "DP03-EN030",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

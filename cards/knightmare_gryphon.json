@@ -1,0 +1,29 @@
+{
+  "name": "Knightmare Gryphon",
+  "number": "65330383",
+  "is_illegal": false,
+  "text": "2+ monsters with different names\nIf this card is Link Summoned: You can discard 1 card, then target 1 Spell/Trap in your GY; Set it to your field, but it cannot be activated this turn, then, if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Knightmare Gryphon\" once per turn. Special Summoned monsters on the field cannot activate their effects, unless they are linked.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Top",
+    "Right",
+    "Bottom"
+  ],
+  "link_number": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ultimate Insect LV7",
+  "number": "19877898",
+  "is_illegal": false,
+  "text": "If this card was Special Summoned by the effect of \"Ultimate Insect LV5\", while it remains on the field all your opponent's monsters lose 700 ATK and DEF.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "2600",
+  "defense": "1200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

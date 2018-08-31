@@ -1,0 +1,24 @@
+{
+  "name": "True King Lithosagym, the Disaster",
+  "number": "30539496",
+  "is_illegal": false,
+  "text": "If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up on your field, including an EARTH monster, and if you do, Special Summon this card, and if you do that, and both destroyed monsters were EARTH, you can also look at your opponent's Extra Deck and banish up to 3 monsters from it with different names. If this card is destroyed by card effect: You can Special Summon 1 non-EARTH Wyrm-Type monster from your Graveyard. You can only use each effect of \"True King Lithosagym, the Disaster\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2500",
+  "defense": "2300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "9"
+}

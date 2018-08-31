@@ -1,0 +1,29 @@
+{
+  "name": "Trickstar Bella Madonna",
+  "number": "41302052",
+  "is_illegal": false,
+  "text": "2+ \"Trickstar\" monsters\nWhile this Link Summoned card points to no monsters, it is unaffected by other cards' activated effects. If this card points to no monsters: You can inflict 200 damage to your opponent for each \"Trickstar\" monster in your GY with a different name. You can only use this effect of \"Trickstar Bella Madonna\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Top",
+    "Right",
+    "Bottom-Left",
+    "Bottom"
+  ],
+  "link_number": "4"
+}

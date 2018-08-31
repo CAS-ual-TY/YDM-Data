@@ -1,0 +1,24 @@
+{
+  "name": "Darklord Tezcatlipoca",
+  "number": "88234365",
+  "is_illegal": false,
+  "text": "If a \"Darklord\" monster(s) you control would be destroyed by battle or card effect, you can discard this card instead. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use this effect of \"Darklord Tezcatlipoca\" once per turn. You can only Special Summon \"Darklord Tezcatlipoca(s)\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2800",
+  "defense": "2100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "9"
+}

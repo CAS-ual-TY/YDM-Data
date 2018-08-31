@@ -1,0 +1,24 @@
+{
+  "name": "Gouki Riscorpio",
+  "number": "60461077",
+  "is_illegal": false,
+  "text": "If you control no monsters, or all monsters you control are \"Gouki\" monsters, you can Normal Summon this card without Tributing. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Riscorpio\". You can only use this effect of \"Gouki Riscorpio\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2300",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

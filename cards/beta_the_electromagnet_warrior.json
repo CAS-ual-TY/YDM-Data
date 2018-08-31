@@ -1,0 +1,24 @@
+{
+  "name": "Beta The Electromagnet Warrior",
+  "number": "79418928",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 Level 4 or lower \"Magnet Warrior\" monster from your Deck to your hand, except \"Beta The Electromagnet Warrior\". You can only use this effect of \"Beta The Electromagnet Warrior\" once per turn. During your opponent's turn: You can Tribute this card; Special Summon 1 Level 4 \"Magnet Warrior\" monster from your Deck (this is a Quick Effect).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1500",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

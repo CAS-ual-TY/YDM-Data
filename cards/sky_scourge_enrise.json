@@ -1,0 +1,24 @@
+{
+  "name": "Sky Scourge Enrise",
+  "number": "11458071",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 3 LIGHT Fairy-Type monsters and 1 DARK Fiend-Type monster in your Graveyard. Once per turn, you can remove from play 1 face-up monster on the field. If you activate this effect, this card cannot attack during this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2400",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

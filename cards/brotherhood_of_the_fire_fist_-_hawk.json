@@ -1,0 +1,24 @@
+{
+  "name": "Brotherhood of the Fire Fist - Hawk",
+  "number": "17475251",
+  "is_illegal": false,
+  "text": "If this card in its owner's possession is destroyed by an opponent's card (either by battle or by card effect): You can Set 1 \"Fire Formation\" Spell Card directly from your Deck. While you control a \"Fire Formation\" Spell/Trap Card, all \"Fire Fist\" monsters you control gain 500 ATK and DEF.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "200",
+  "defense": "1500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

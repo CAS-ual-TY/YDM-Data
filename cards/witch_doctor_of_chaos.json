@@ -1,0 +1,25 @@
+{
+  "name": "Witch Doctor of Chaos",
+  "number": "75946257",
+  "is_illegal": false,
+  "text": "FLIP: Select 1 Monster Card from you or your opponent's Graveyard. Remove it from play.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "2"
+}

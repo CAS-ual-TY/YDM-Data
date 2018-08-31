@@ -1,0 +1,11 @@
+{
+  "name": "Lucky Punch",
+  "number": "36378044",
+  "is_illegal": false,
+  "text": "Once per turn, when an opponent's monster declares an attack: You can toss a coin 3 times. If the result is 3 heads, draw 3 cards, but if the result is 3 tails, destroy this card. If this face-up card on the field is destroyed: You lose 6000 Life Points.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

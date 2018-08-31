@@ -1,0 +1,24 @@
+{
+  "name": "Beckoned by the World Chalice",
+  "number": "58400390",
+  "is_illegal": false,
+  "text": "His battle with the Mekkstrosities never seems to end. Even when their forest was invaded by Mekkstrocious Insects, he stood his ground and inspired the other defenders around him.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1800",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

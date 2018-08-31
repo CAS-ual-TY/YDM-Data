@@ -1,0 +1,24 @@
+{
+  "name": "Toy Magician",
+  "number": "58132856",
+  "is_illegal": false,
+  "text": "You can Set this card face-down in your Spell & Trap Card Zone as a Spell Card. If this face-down card in your Spell & Trap Card Zone is destroyed by an opponent's card effect and sent to the Graveyard, Special Summon it during the End Phase. When this card is Flip Summoned, destroy Spell or Trap Cards on the field equal to the number of \"Toy Magicians\" on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1600",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

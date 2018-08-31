@@ -1,0 +1,24 @@
+{
+  "name": "Raiden, Hand of the Lightsworn",
+  "number": "77558536",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can send the top 2 cards of your Deck to the GY, then if any \"Lightsworn\" monsters were sent to the GY by this effect, this card gains 200 ATK until the end of your opponent's turn. You can only use this effect of \"Raiden, Hand of the Lightsworn\" once per turn. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1700",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "4"
+}

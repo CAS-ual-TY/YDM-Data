@@ -1,0 +1,24 @@
+{
+  "name": "Block Dragon",
+  "number": "94689206",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Graveyard) by banishing 3 EARTH monsters from your hand and/or Graveyard, and cannot be Special Summoned by other ways. Rock-Type monsters you control cannot be destroyed, except by battle. If this card is sent from the field to the Graveyard: You can add up to 3 Rock-Type monsters from your Deck to your hand, whose total Levels equal 8. You can only use this effect of \"Block Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2500",
+  "defense": "3000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

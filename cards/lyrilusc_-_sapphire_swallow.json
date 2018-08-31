@@ -1,0 +1,24 @@
+{
+  "name": "Lyrilusc - Sapphire Swallow",
+  "number": "60954556",
+  "is_illegal": false,
+  "text": "If you control a Winged Beast-Type monster: You can Special Summon both this card and 1 Level 1 Winged Beast-Type monster from your hand. You can only use this effect of \"Lyrilusc - Sapphire Swallow\" once per turn. A WIND Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\nâ—? If it is Xyz Summoned: You can target 1 \"Lyrilusc\" monster in your Graveyard; attach it to this card as Xyz Material.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "100",
+  "defense": "0",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

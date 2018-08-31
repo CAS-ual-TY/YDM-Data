@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Power of Chaos: Joey the Passion",
+    "type": "Video Game Promo Cards",
+    "date": "2004-06-29",
+    "distribution": "video_game_promo_cards",
+    "prefix": "PCJ",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Red-Eyes B. Dragon",
+        "set_number": "PCJ-EN001",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Sebek's Blessing",
+        "set_number": "PCJ-EN002",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Sword of Dragon's Soul",
+        "set_number": "PCJ-EN003",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

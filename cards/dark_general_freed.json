@@ -1,0 +1,24 @@
+{
+  "name": "Dark General Freed",
+  "number": "70676581",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned. Negate any Spell effects that target a face-up DARK monster(s) you control and if you do, destroy that Spell Card. During your Draw Phase, instead of conducting your normal draw: You can add 1 Level 4 DARK monster from your Deck to your hand. This card must be face-up on the field to activate and to resolve this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2300",
+  "defense": "1700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

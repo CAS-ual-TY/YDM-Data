@@ -1,0 +1,11 @@
+{
+  "name": "Prideful Roar",
+  "number": "66518841",
+  "is_illegal": false,
+  "text": "During damage calculation, if your monster battles an opponent's monster with a higher ATK: Pay Life Points equal to the difference in ATK; your monster gains ATK equal to that difference +300, during damage calculation only.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

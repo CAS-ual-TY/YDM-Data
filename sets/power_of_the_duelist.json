@@ -1,0 +1,654 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Power of the Duelist",
+    "type": "Booster Pack",
+    "date": "2006-05-18",
+    "distribution": "booster_pack",
+    "prefix": "POTD",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Elemental HERO Neos",
+        "set_number": "POTD-EN001",
+        "rarities": [
+          "Normal Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sabersaurus",
+        "set_number": "POTD-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Neo-Spacian Aqua Dolphin",
+        "set_number": "POTD-EN003",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Neo-Spacian Flare Scarab",
+        "set_number": "POTD-EN004",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Neo-Spacian Dark Panther",
+        "set_number": "POTD-EN005",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Chrysalis Dolphin",
+        "set_number": "POTD-EN006",
+        "rarities": [
+          "Normal Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rallis the Star Bird",
+        "set_number": "POTD-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Submarineroid",
+        "set_number": "POTD-EN008",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Ambulanceroid",
+        "set_number": "POTD-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Decoyroid",
+        "set_number": "POTD-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rescueroid",
+        "set_number": "POTD-EN011",
+        "rarities": [
+          "Normal Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Double Dude",
+        "set_number": "POTD-EN012",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Defender",
+        "set_number": "POTD-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Dogma",
+        "set_number": "POTD-EN014",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Blade Master",
+        "set_number": "POTD-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Fear Monger",
+        "set_number": "POTD-EN016",
+        "rarities": [
+          "Normal Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Dasher",
+        "set_number": "POTD-EN017",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Ptera",
+        "set_number": "POTD-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Black Stego",
+        "set_number": "POTD-EN019",
+        "rarities": [
+          "Normal Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ultimate Tyranno",
+        "set_number": "POTD-EN020",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Miracle Jurassic Egg",
+        "set_number": "POTD-EN021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Babycerasaurus",
+        "set_number": "POTD-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bitelon",
+        "set_number": "POTD-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Alien Grey",
+        "set_number": "POTD-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Alien Skull",
+        "set_number": "POTD-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Alien Hunter",
+        "set_number": "POTD-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Alien Warrior",
+        "set_number": "POTD-EN027",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Alien Mother",
+        "set_number": "POTD-EN028",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cosmic Horror Gangi'el",
+        "set_number": "POTD-EN029",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Flying Saucer Muusik'i",
+        "set_number": "POTD-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Aqua Neos",
+        "set_number": "POTD-EN031",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Flare Neos",
+        "set_number": "POTD-EN032",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Dark Neos",
+        "set_number": "POTD-EN033",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Chimeratech Overdragon",
+        "set_number": "POTD-EN034",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ambulance Rescueroid",
+        "set_number": "POTD-EN035",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Super Vehicroid Jumbo Drill",
+        "set_number": "POTD-EN036",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Contact",
+        "set_number": "POTD-EN037",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fake Hero",
+        "set_number": "POTD-EN038",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spell Calling",
+        "set_number": "POTD-EN039",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Vehicroid Connection Zone",
+        "set_number": "POTD-EN040",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D - Spirit",
+        "set_number": "POTD-EN041",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Overload Fusion",
+        "set_number": "POTD-EN042",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyclone Blade",
+        "set_number": "POTD-EN043",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Future Fusion",
+        "set_number": "POTD-EN044",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Common Soul",
+        "set_number": "POTD-EN045",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Neo Space",
+        "set_number": "POTD-EN046",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Mausoleum of the Emperor",
+        "set_number": "POTD-EN047",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark City",
+        "set_number": "POTD-EN048",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny Mirage",
+        "set_number": "POTD-EN049",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D - Chain",
+        "set_number": "POTD-EN050",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Crop Circles",
+        "set_number": "POTD-EN051",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Paths of Destiny",
+        "set_number": "POTD-EN052",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Orbital Bombardment",
+        "set_number": "POTD-EN053",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Royal Writ of Taxation",
+        "set_number": "POTD-EN054",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wonder Garage",
+        "set_number": "POTD-EN055",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Supercharge",
+        "set_number": "POTD-EN056",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyber Summon Blaster",
+        "set_number": "POTD-EN057",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Fossil Excavation",
+        "set_number": "POTD-EN058",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Synthetic Seraphim",
+        "set_number": "POTD-EN059",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Brainwashing Beam",
+        "set_number": "POTD-EN060",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

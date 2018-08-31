@@ -1,0 +1,24 @@
+{
+  "name": "Fiendish Rhino Warrior",
+  "number": "81035362",
+  "is_illegal": false,
+  "text": "Fiend-Type monsters you control, except \"Fiendish Rhino Warrior\", cannot be destroyed by battle or card effects. If this card is sent to the Graveyard: You can send 1 Fiend-Type monster from your Deck to the Graveyard, except \"Fiendish Rhino Warrior\". You can only use this effect of \"Fiendish Rhino Warrior\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1400",
+  "defense": "900",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Vampire Vamp",
+  "number": "82962242",
+  "is_illegal": false,
+  "text": "Once per turn, when this card or a \"Vampire\" monster is Normal Summoned to your side of the field: You can target 1 face-up monster your opponent controls, whose ATK is higher than this card's; equip it to this card. This card gains ATK equal to the combined original ATK of the monsters equipped to it by this effect. If this card is sent to the Graveyard, while equipped with a card by this effect: Special Summon this card from the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

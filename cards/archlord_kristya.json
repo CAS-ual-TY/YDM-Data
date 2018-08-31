@@ -1,0 +1,24 @@
+{
+  "name": "Archlord Kristya",
+  "number": "59509952",
+  "is_illegal": false,
+  "text": "If you have exactly 4 Fairy-Type monsters in your Graveyard, you can Special Summon this card (from your hand). If Summoned this way: Target 1 Fairy-Type monster in your Graveyard; add that target to your hand. Neither player can Special Summon monsters. If this face-up card would be sent from the field to the Graveyard, place it on top of the Deck, instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2800",
+  "defense": "2300",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

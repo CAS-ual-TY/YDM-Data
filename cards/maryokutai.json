@@ -1,0 +1,24 @@
+{
+  "name": "Maryokutai",
+  "number": "71466592",
+  "is_illegal": false,
+  "text": "You can only activate this card's effect during your opponent's turn. When your opponent activates a Spell Card, Tribute this face-up card to negate the activation of the Spell Card and destroy it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "900",
+  "defense": "900",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

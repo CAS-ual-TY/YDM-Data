@@ -1,0 +1,24 @@
+{
+  "name": "SPYRAL Tough",
+  "number": "20584712",
+  "is_illegal": false,
+  "text": "This card's name becomes \"SPYRAL Super Agent\" while it is on the field or in the Graveyard. Once per turn: You can declare 1 card type (Monster, Spell, or Trap) and target 1 card your opponent controls; reveal the top card of your opponent's Deck, and if you do, destroy the targeted card if the revealed card is the declared type.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1900",
+  "defense": "1500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

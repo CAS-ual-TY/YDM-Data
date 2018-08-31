@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "2014 Mega-Tins",
+    "type": "Special Edition Promo Cards",
+    "date": "2014-08-28",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT11",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Brotherhood of the Fire Fist - Tiger King",
+        "set_number": "CT11-EN001",
+        "rarities": [
+          "Platinum Secret Rare"
+        ],
+        "count": {
+          "Platinum Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Bujintei Susanowo",
+        "set_number": "CT11-EN002",
+        "rarities": [
+          "Platinum Secret Rare"
+        ],
+        "count": {
+          "Platinum Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Brotherhood of the Fire Fist - Gorilla",
+        "set_number": "CT11-EN003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 47: Nightmare Shark",
+        "set_number": "CT11-EN004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Bujingi Crane",
+        "set_number": "CT11-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Archfiend Commander",
+        "set_number": "CT11-EN006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Searchlightman",
+  "number": "67646312",
+  "is_illegal": false,
+  "text": "FLIP: Your opponent cannot Set (or flip face-down) any cards for the rest of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

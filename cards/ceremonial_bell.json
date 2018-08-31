@@ -1,0 +1,24 @@
+{
+  "name": "Ceremonial Bell",
+  "number": "20228463",
+  "is_illegal": false,
+  "text": "As long as this card remains face-up on the field, both players must show their respective hands.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "defense": "1850",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

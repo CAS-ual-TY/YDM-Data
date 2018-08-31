@@ -1,0 +1,24 @@
+{
+  "name": "Alien Skull",
+  "number": "25920413",
+  "is_illegal": false,
+  "text": "You can Tribute 1 face-up Level 3 or lower monster on your opponent's side of the field to Special Summon this card to your opponent's side of the field. If you Special Summon the monster this way, place 1 A-Counter on this card, and you cannot Normal Summon or Set the same turn. (If a monster with an A-Counter battles an \"Alien\" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1600",
+  "defense": "1800",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

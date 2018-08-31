@@ -1,0 +1,24 @@
+{
+  "name": "Red Ogre",
+  "number": "68722455",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can send any number of cards from your hand to the Graveyard, then target the same number of cards on the field; return those targets to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2800",
+  "defense": "2100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

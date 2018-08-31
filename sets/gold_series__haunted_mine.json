@@ -1,0 +1,564 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Gold Series: Haunted Mine",
+    "type": "Booster Pack",
+    "date": "2012-06-06",
+    "distribution": "booster_gold_series",
+    "prefix": "GLD5",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Blue-Eyes White Dragon",
+        "set_number": "GLD5-EN001",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Patrician of Darkness",
+        "set_number": "GLD5-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pyramid Turtle",
+        "set_number": "GLD5-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Scorpion Burglars",
+        "set_number": "GLD5-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Don Zaloog",
+        "set_number": "GLD5-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Helpoemer",
+        "set_number": "GLD5-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Scorpion - Cliff the Trap Remover",
+        "set_number": "GLD5-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Despair from the Dark",
+        "set_number": "GLD5-EN008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fear from the Dark",
+        "set_number": "GLD5-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Scorpion - Chick the Yellow",
+        "set_number": "GLD5-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Scorpion - Gorg the Strong",
+        "set_number": "GLD5-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Scorpion - Meanae the Thorn",
+        "set_number": "GLD5-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ryu Kokki",
+        "set_number": "GLD5-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Vampire Lady",
+        "set_number": "GLD5-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Double Coston",
+        "set_number": "GLD5-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Regenerating Mummy",
+        "set_number": "GLD5-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Mimic LV1",
+        "set_number": "GLD5-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Mimic LV3",
+        "set_number": "GLD5-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zombie Master",
+        "set_number": "GLD5-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gernia",
+        "set_number": "GLD5-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Goblin Zombie",
+        "set_number": "GLD5-EN021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Lady in Wight",
+        "set_number": "GLD5-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Red Ogre",
+        "set_number": "GLD5-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gorz the Emissary of Darkness",
+        "set_number": "GLD5-EN024",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Bone Crusher",
+        "set_number": "GLD5-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fabled Grimro",
+        "set_number": "GLD5-EN026",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Master Hyperion",
+        "set_number": "GLD5-EN027",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Grapha, Dragon Lord of Dark World",
+        "set_number": "GLD5-EN028",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Sephylon, the Ultimate Timelord",
+        "set_number": "GLD5-EN029",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Herald of Perfection",
+        "set_number": "GLD5-EN030",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Brionac, Dragon of the Ice Barrier",
+        "set_number": "GLD5-EN031",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Naturia Beast",
+        "set_number": "GLD5-EN032",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Naturia Barkion",
+        "set_number": "GLD5-EN033",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Formula Synchron",
+        "set_number": "GLD5-EN034",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+        "set_number": "GLD5-EN035",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 39: Utopia",
+        "set_number": "GLD5-EN036",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Hole",
+        "set_number": "GLD5-EN037",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Mystical Space Typhoon",
+        "set_number": "GLD5-EN038",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Book of Life",
+        "set_number": "GLD5-EN039",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Call of the Mummy",
+        "set_number": "GLD5-EN040",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spellbook Organization",
+        "set_number": "GLD5-EN041",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mustering of the Dark Scorpions",
+        "set_number": "GLD5-EN042",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pyramid of Wonders",
+        "set_number": "GLD5-EN043",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dawn of the Herald",
+        "set_number": "GLD5-EN044",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Solemn Judgment",
+        "set_number": "GLD5-EN045",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Call of the Haunted",
+        "set_number": "GLD5-EN046",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Physical Double",
+        "set_number": "GLD5-EN047",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hidden Spellbook",
+        "set_number": "GLD5-EN048",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zoma the Spirit",
+        "set_number": "GLD5-EN049",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Embodiment of Apophis",
+        "set_number": "GLD5-EN050",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Machine King - 3000 B.C.",
+        "set_number": "GLD5-EN051",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Starlight Road",
+        "set_number": "GLD5-EN052",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Tiki Curse",
+        "set_number": "GLD5-EN053",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tiki Soul",
+        "set_number": "GLD5-EN054",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Copy Knight",
+        "set_number": "GLD5-EN055",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "F.A. Auto Navigator",
+  "number": "39271553",
+  "is_illegal": false,
+  "text": "If this card is in your hand or GY: You can target 1 \"F.A.\" monster you control whose current Level is higher than its original Level; Special Summon this card, and if you do, reduce that target's Level by the difference between its current and original Level, and if you do that, this card's Level become equal to the amount reduced. If this card is Normal or Special Summoned: You can add 1 \"F.A.\" Field Spell from your Deck to your hand. You can only use each effect of \"F.A. Auto Navigator\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

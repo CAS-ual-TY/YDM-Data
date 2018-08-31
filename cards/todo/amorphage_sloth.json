@@ -1,0 +1,28 @@
+{
+  "name": "Amorphage Sloth",
+  "number": "32687071",
+  "is_illegal": false,
+  "text": "Neither player can Special Summon monsters from the Extra Deck, except \"Amorphage\" monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2250",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "While you control an \"Amorphage\" monster, neither player can add cards from their Deck to their hand except by drawing them. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+  "stars": "6"
+}

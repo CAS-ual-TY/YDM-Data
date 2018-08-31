@@ -1,0 +1,24 @@
+{
+  "name": "Interplanetary Invader "A"",
+  "number": "14729426",
+  "is_illegal": false,
+  "text": "Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "0",
+  "defense": "500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Vision HERO Adoration",
+  "number": "45170821",
+  "is_illegal": false,
+  "text": "2 \"HERO\" monsters\nOnce per turn: You can target 1 face-up monster your opponent controls and 1 other \"HERO\" monster you control; the opponent's targeted monster loses ATK and DEF equal to the ATK of your targeted monster, until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2800",
+  "defense": "2100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

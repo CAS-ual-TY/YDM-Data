@@ -1,0 +1,24 @@
+{
+  "name": "Skull Meister",
+  "number": "67750322",
+  "is_illegal": false,
+  "text": "During either player's turn, when a card effect is activated in your opponent's Graveyard, you can send this card from your hand to the Graveyard to negate the effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1700",
+  "defense": "400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

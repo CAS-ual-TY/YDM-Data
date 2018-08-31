@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! ZEXAL Volume 9 promotional card",
+    "type": "Manga Promo",
+    "date": "2015-10-03",
+    "distribution": "manga_promo",
+    "prefix": "YZ09",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Gagaga Head",
+        "set_number": "YZ09-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

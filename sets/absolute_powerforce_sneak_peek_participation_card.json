@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Absolute Powerforce Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2010-02-06",
+    "distribution": "tournament_promo_cards",
+    "prefix": "ABPF",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Gravekeeper's Priestess",
+        "set_number": "ABPF-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

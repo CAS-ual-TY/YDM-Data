@@ -1,0 +1,24 @@
+{
+  "name": "T.G. Rush Rhino",
+  "number": "36687247",
+  "is_illegal": false,
+  "text": "If this card attacks, it gains 400 ATK during the Damage Step only. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Rush Rhino\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1600",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

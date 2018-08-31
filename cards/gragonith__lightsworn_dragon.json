@@ -1,0 +1,24 @@
+{
+  "name": "Gragonith, Lightsworn Dragon",
+  "number": "21785144",
+  "is_illegal": false,
+  "text": "This card gains 300 ATK and DEF for each \"Lightsworn\" monster with a different name in your Graveyard. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. During each of your End Phases: Send the top 3 cards of your Deck to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2000",
+  "defense": "1600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

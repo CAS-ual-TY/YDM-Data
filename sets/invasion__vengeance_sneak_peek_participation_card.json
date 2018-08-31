@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Invasion: Vengeance Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2016-10-29",
+    "distribution": "tournament_promo_cards",
+    "prefix": "INOV",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Space Dragster",
+        "set_number": "INOV-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

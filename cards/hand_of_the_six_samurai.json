@@ -1,0 +1,24 @@
+{
+  "name": "Hand of the Six Samurai",
+  "number": "78792195",
+  "is_illegal": false,
+  "text": "If you control another face-up \"Six Samurai\" monster: You can Tribute 1 \"Six Samurai\" monster to target 1 monster on the field; destroy that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "defense": "1000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

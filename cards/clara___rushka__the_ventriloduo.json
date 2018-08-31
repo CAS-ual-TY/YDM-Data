@@ -1,0 +1,26 @@
+{
+  "name": "Clara & Rushka, the Ventriloduo",
+  "number": "1482001",
+  "is_illegal": false,
+  "text": "1 Normal Summoned/Set monster\nCannot be Link Summoned, except during the Main Phase 2.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Top"
+  ],
+  "link_number": "1"
+}

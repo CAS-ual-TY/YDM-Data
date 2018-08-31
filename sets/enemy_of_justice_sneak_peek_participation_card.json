@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Enemy of Justice Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2006-05-13",
+    "distribution": "tournament_promo_cards",
+    "prefix": "SP2",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Toon Dark Magician Girl",
+        "set_number": "SP2-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

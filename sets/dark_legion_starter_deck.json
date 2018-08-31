@@ -1,0 +1,304 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Dark Legion Starter Deck",
+    "type": "Starter Deck",
+    "date": "2015-05-29",
+    "distribution": "",
+    "prefix": "YS15",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "D/D/D Dragon King Pendragon",
+        "set_number": "YS15-ENL00",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Beast of Talwar",
+        "set_number": "YS15-ENL01",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Archfiend Soldier",
+        "set_number": "YS15-ENL02",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Dragon Dwelling in the Cave",
+        "set_number": "YS15-ENL03",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gravi-Crush Dragon",
+        "set_number": "YS15-ENL04",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Goblin Elite Attack Force",
+        "set_number": "YS15-ENL05",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Axe Dragonute",
+        "set_number": "YS15-ENL06",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lancer Lindwurm",
+        "set_number": "YS15-ENL07",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mad Archfiend",
+        "set_number": "YS15-ENL08",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fabled Ashenveil",
+        "set_number": "YS15-ENL09",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lancer Dragonute",
+        "set_number": "YS15-ENL10",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Theban Nightmare",
+        "set_number": "YS15-ENL11",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Exploder Dragon",
+        "set_number": "YS15-ENL12",
+        "rarities": [
+          "Shatterfoil Rare"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1
+        }
+      },
+      {
+        "card_name": "Grave Squirmer",
+        "set_number": "YS15-ENL13",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Hole",
+        "set_number": "YS15-ENL14",
+        "rarities": [
+          "Shatterfoil Rare"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1
+        }
+      },
+      {
+        "card_name": "Smashing Ground",
+        "set_number": "YS15-ENL15",
+        "rarities": [
+          "Shatterfoil Rare"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1
+        }
+      },
+      {
+        "card_name": "Monster Reincarnation",
+        "set_number": "YS15-ENL16",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mystical Space Typhoon",
+        "set_number": "YS15-ENL17",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rush Recklessly",
+        "set_number": "YS15-ENL18",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Axe of Despair",
+        "set_number": "YS15-ENL19",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Malevolent Nuzzler",
+        "set_number": "YS15-ENL20",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Banner of Courage",
+        "set_number": "YS15-ENL21",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mirror Force",
+        "set_number": "YS15-ENL22",
+        "rarities": [
+          "Shatterfoil Rare"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1
+        }
+      },
+      {
+        "card_name": "Magic Cylinder",
+        "set_number": "YS15-ENL23",
+        "rarities": [
+          "Shatterfoil Rare"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1
+        }
+      },
+      {
+        "card_name": "Trap Hole",
+        "set_number": "YS15-ENL24",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dust Tornado",
+        "set_number": "YS15-ENL25",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mask of Weakness",
+        "set_number": "YS15-ENL26",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Call of the Haunted",
+        "set_number": "YS15-ENL27",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Negate Attack",
+        "set_number": "YS15-ENL28",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

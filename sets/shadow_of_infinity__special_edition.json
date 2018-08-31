@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shadow of Infinity: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2006-04-01",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "SOI",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Acid Trap Hole",
+        "set_number": "SOI-ENSE1",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Riryoku",
+        "set_number": "SOI-ENSE2",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Windstorm of Etaqua",
+        "set_number": "SOI-ENSE3",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Mesmeric Control",
+        "set_number": "SOI-ENSE4",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

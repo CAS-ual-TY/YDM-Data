@@ -1,0 +1,25 @@
+{
+  "name": "B-Buster Drake",
+  "number": "77411244",
+  "is_illegal": false,
+  "text": "Once per turn, you can either: Target 1 LIGHT Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is unaffected by your opponent's Spell effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is sent from the field to the Graveyard: You can add 1 Union monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Union",
+    "Effect"
+  ],
+  "stars": "4"
+}

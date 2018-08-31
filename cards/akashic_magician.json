@@ -1,0 +1,27 @@
+{
+  "name": "Akashic Magician",
+  "number": "28776350",
+  "is_illegal": false,
+  "text": "2 monsters with the same Type, except Tokens\nYou can only Link Summon \"Akashic Magician(s)\" once per turn. If this card is Link Summoned: Return all monsters this card points to to the hand. Once per turn: You can declare 1 card name; excavate cards from the top of your Deck, equal to the total Link Rating of the Link Monsters co-linked to this card, then if you excavated any copies of the declared card, add them to your hand, also send the remaining cards to the GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Top",
+    "Bottom"
+  ],
+  "link_number": "2"
+}

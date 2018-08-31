@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! World Championship 2014",
+    "type": "Tournament Promo Cards",
+    "date": "2014-08-11",
+    "distribution": "tournament_promo_cards",
+    "prefix": "2014",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "The Twin Kings, Founders of the Empire",
+        "set_number": "2014-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Leonardo's Silver Skyship",
+        "set_number": "2014-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

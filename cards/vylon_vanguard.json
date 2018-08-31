@@ -1,0 +1,24 @@
+{
+  "name": "Vylon Vanguard",
+  "number": "87836938",
+  "is_illegal": false,
+  "text": "When this card is destroyed by a card effect and sent to the Graveyard: You can draw 1 card for each Equip Card that was equipped to this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1400",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! ARC-V Volume 1",
+    "type": "Manga Promo",
+    "date": "2016-04-04",
+    "distribution": "manga_promo",
+    "prefix": "YA01",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Odd-Eyes Phantom Dragon",
+        "set_number": "YA01-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

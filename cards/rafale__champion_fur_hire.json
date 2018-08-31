@@ -1,0 +1,24 @@
+{
+  "name": "Rafale, Champion Fur Hire",
+  "number": "38916526",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned: You can excavate the top cards of your Deck equal to the number of monsters \"Fur Hire\" you control with different names, except \"Rafale, Champion Fur Hire\", and if you do, add 1 of them to your hand, also shuffle the rest back into your Deck. When your opponent activates a monster effect (Quick Effect): You can discard 1 card \"Fur Hire\"; negate the activation. You can only use each effect of \"Rafale, Champion Fur Hire\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2800",
+  "defense": "2200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

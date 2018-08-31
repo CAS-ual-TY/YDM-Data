@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Noble Knights of the Round Table Power-Up Pack",
+    "type": "Power-Up Pack",
+    "date": "2014-11-20",
+    "distribution": "power-up_pack",
+    "prefix": "NKRT",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Effect Veiler",
+        "set_number": "NKRT-EN039",
+        "rarities": [
+          "Platinum Rare"
+        ],
+        "count": {
+          "Platinum Rare": 1
+        }
+      },
+      {
+        "card_name": "Mystical Space Typhoon",
+        "set_number": "NKRT-EN040",
+        "rarities": [
+          "Platinum Rare"
+        ],
+        "count": {
+          "Platinum Rare": 1
+        }
+      },
+      {
+        "card_name": "Gold Sarcophagus",
+        "set_number": "NKRT-EN041",
+        "rarities": [
+          "Platinum Rare"
+        ],
+        "count": {
+          "Platinum Rare": 1
+        }
+      },
+      {
+        "card_name": "Forbidden Lance",
+        "set_number": "NKRT-EN042",
+        "rarities": [
+          "Platinum Rare"
+        ],
+        "count": {
+          "Platinum Rare": 1
+        }
+      },
+      {
+        "card_name": "Torrential Tribute",
+        "set_number": "NKRT-EN043",
+        "rarities": [
+          "Platinum Rare"
+        ],
+        "count": {
+          "Platinum Rare": 1
+        }
+      },
+      {
+        "card_name": "Compulsory Evacuation Device",
+        "set_number": "NKRT-EN044",
+        "rarities": [
+          "Platinum Rare"
+        ],
+        "count": {
+          "Platinum Rare": 1
+        }
+      }
+    ]
+  }
+}

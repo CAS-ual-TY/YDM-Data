@@ -1,0 +1,24 @@
+{
+  "name": "Dreiath III, the True Dracocavalry General",
+  "number": "94982447",
+  "is_illegal": false,
+  "text": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap Card you control, instead of a monster. Your opponent cannot target face-up \"True Draco\" or \"True King\" monsters on the field with card effects, except this one, also they cannot be destroyed by your opponent's card effects. If this face-up Tribute Summoned monster leaves the field: You can Special Summon 1 \"True Draco\" or \"True King\" monster from your Deck in Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2100",
+  "defense": "2800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

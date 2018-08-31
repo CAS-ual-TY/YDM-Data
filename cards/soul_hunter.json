@@ -1,0 +1,24 @@
+{
+  "name": "Soul Hunter",
+  "number": "72869010",
+  "is_illegal": false,
+  "text": "\"Lord of the Lamp\" + \"Invader from Another Dimension\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2200",
+  "defense": "1800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Duck Dummy",
+  "number": "43803845",
+  "is_illegal": false,
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with these effects.\nâ—? Cannot be destroyed by card effects. Neither player can target this card with card effects.\nâ—? The attacks from your opponent's monsters become direct attacks.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Gemini"
+  ],
+  "stars": "1"
+}

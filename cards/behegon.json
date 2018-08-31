@@ -1,0 +1,24 @@
+{
+  "name": "Behegon",
+  "number": "94022093",
+  "is_illegal": false,
+  "text": "With an enormous maw and massive teeth, this monstrosity is one dangerous and strange serpent from the deep.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1350",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

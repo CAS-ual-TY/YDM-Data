@@ -1,0 +1,24 @@
+{
+  "name": "Sinister Serpent",
+  "number": "8131171",
+  "is_illegal": false,
+  "text": "During your Standby Phase, if this card is in your Graveyard: You can add it to your hand, also banish 1 \"Sinister Serpent\" from your Graveyard during your opponent's next End Phase. You can only use this effect of \"Sinister Serpent\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "300",
+  "defense": "250",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

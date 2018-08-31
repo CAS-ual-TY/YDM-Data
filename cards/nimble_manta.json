@@ -1,0 +1,24 @@
+{
+  "name": "Nimble Manta",
+  "number": "46384403",
+  "is_illegal": false,
+  "text": "When this card is sent from the field to the Graveyard by a card effect: You can Special Summon any number of \"Nimble Manta\" from your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "800",
+  "defense": "100",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

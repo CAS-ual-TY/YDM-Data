@@ -1,0 +1,24 @@
+{
+  "name": "X-Saber Urbellum",
+  "number": "80108118",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2200",
+  "defense": "1300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}

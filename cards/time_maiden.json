@@ -1,0 +1,24 @@
+{
+  "name": "Time Maiden",
+  "number": "27107590",
+  "is_illegal": false,
+  "text": "If you control no monsters, you can Special Summon this card (from your hand). This card can be treated as 2 Tributes for the Tribute Summon of a \"Timelord\" monster. You can Tribute this card; add 1 \"Timelord\" monster with 0 ATK from your Deck to your hand. You can banish this card from your GY; Special Summon 1 \"Timelord\" monster with 0 ATK from your Deck, ignoring its Summoning conditions. You cannot Special Summon other monsters during the turn you activate this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

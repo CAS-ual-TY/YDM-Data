@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist League Series 6",
+    "type": "Duelist League Promo Cards",
+    "date": "2004-12-01",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "DL6",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Toon Gemini Elf",
+        "set_number": "DL6-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

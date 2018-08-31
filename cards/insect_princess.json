@@ -1,0 +1,24 @@
+{
+  "name": "Insect Princess",
+  "number": "37957847",
+  "is_illegal": false,
+  "text": "While this card is face-up on the field, battle positions of all face-up Insect-Type monsters on your opponent's side of the field are changed into Attack Position. Each time this card destroys an Insect-Type monster as a result of battle, increase the ATK of this card by 500 points.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1900",
+  "defense": "1200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

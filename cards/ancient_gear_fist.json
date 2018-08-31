@@ -1,0 +1,11 @@
+{
+  "name": "Ancient Gear Fist",
+  "number": "40830387",
+  "is_illegal": false,
+  "text": "Equip only to an \"Ancient Gear\" monster. At the end of the Damage Step, if the equipped monster battled a monster and is still on the field: Destroy the monster it battled.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Equip"
+}

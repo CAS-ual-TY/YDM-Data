@@ -1,0 +1,24 @@
+{
+  "name": "Tri-Edge Levia",
+  "number": "68836428",
+  "is_illegal": false,
+  "text": "3 Level 3 monsters\nBanish any monster destroyed by battle with this card. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; it loses 800 ATK, also its effects are negated. These changes last until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "1800",
+  "defense": "1500",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Witty Phantom",
+  "number": "36304921",
+  "is_illegal": false,
+  "text": "Dressed in a night-black tuxedo, this creature presides over the darkness.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1400",
+  "defense": "1300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

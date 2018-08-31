@@ -1,0 +1,24 @@
+{
+  "name": "Subterror Fiendess",
+  "number": "74762582",
+  "is_illegal": false,
+  "text": "During either player's turn, when your opponent activates a card or effect: You can send this card from your hand or field to the Graveyard, then target 1 \"Subterror\" monster you control; negate the activation, then change the targeted monster to face-down Defense Position. You can target 1 face-up monster you control; change it to face-down Defense Position, and if you do, Special Summon 1 \"Subterror\" monster from your hand or Graveyard, in face-up or face-down Defense Position. You can only use each effect of \"Subterror Fiendess\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "800",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

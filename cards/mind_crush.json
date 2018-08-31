@@ -1,0 +1,11 @@
+{
+  "name": "Mind Crush",
+  "number": "15800838",
+  "is_illegal": false,
+  "text": "Declare 1 card name; if that card is in your opponent's hand, they must discard all copies of it, otherwise you discard 1 random card.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

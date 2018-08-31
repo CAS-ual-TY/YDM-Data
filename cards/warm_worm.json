@@ -1,0 +1,24 @@
+{
+  "name": "Warm Worm",
+  "number": "16751086",
+  "is_illegal": false,
+  "text": "If this card is destroyed, send the top 3 cards of your opponent's Deck to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "600",
+  "defense": "1400",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

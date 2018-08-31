@@ -1,0 +1,24 @@
+{
+  "name": "Man-eating Black Shark",
+  "number": "80727036",
+  "is_illegal": false,
+  "text": "\"Sea Kamen\" + \"Gruesome Goo\" + \"Amazon of the Seas\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "2100",
+  "defense": "1300",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "5"
+}

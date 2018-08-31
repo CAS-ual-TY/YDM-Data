@@ -1,0 +1,24 @@
+{
+  "name": "SPYRAL GEAR - Drone",
+  "number": "4474060",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can look at the top 3 cards of your opponent's Deck, and if you do, place them on top of their Deck in any order. During either player's turn: You can Tribute this card, then target 1 \"SPYRAL\" monster you control; it gains 500 ATK for each card your opponent controls. You can banish this card and 1 \"SPYRAL\" card from your Graveyard, then target 1 \"SPYRAL Super Agent\" in your Graveyard; add it to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

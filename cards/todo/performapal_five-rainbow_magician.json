@@ -1,0 +1,28 @@
+{
+  "name": "Performapal Five-Rainbow Magician",
+  "number": "19619755",
+  "is_illegal": false,
+  "text": "If either player Sets a Spell/Trap on your field while this card is in your GY (except during the Damage Step): You can place this card in your Pendulum Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "You cannot Pendulum Summon, except from the Extra Deck. This effect cannot be negated. Each player applies 1 of these effects based on the number of Set cards in their Spell & Trap Zones.\nâ—? 0: All monsters they control cannot attack or activate their effects.\nâ—? 4 or more: The ATK of all monsters they control become double their original ATK.",
+  "stars": "1"
+}

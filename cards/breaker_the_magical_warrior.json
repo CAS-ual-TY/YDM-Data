@@ -1,0 +1,24 @@
+{
+  "name": "Breaker the Magical Warrior",
+  "number": "71413901",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). This card gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap Card on the field; destroy that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1600",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Burning Algae",
+  "number": "41859700",
+  "is_illegal": false,
+  "text": "When this card is sent to the Graveyard, increase your opponent's Life Points by 1000 points.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "500",
+  "defense": "1500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

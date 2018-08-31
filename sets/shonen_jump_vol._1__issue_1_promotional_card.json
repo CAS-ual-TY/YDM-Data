@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump Vol. 1, Issue 1 promotional card",
+    "type": "Shonen Jump",
+    "date": "2002-11-26",
+    "distribution": "shonen_jump",
+    "prefix": "JMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Blue-Eyes White Dragon",
+        "set_number": "JMP-001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

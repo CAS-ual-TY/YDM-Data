@@ -1,0 +1,24 @@
+{
+  "name": "Dungeon Worm",
+  "number": "51228280",
+  "is_illegal": false,
+  "text": "Hidden under the floors of a labyrinth, it swallows any who pass above.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1800",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

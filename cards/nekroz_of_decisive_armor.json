@@ -1,0 +1,25 @@
+{
+  "name": "Nekroz of Decisive Armor",
+  "number": "88240999",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned without using any Level 10 monsters, and cannot be Special Summoned by other ways. You can only use each of these effects of \"Nekroz of Decisive Armor\" once per turn.\nâ—? During either player's turn: You can discard this card, then target 1 \"Nekroz\" monster you control; it gains 1000 ATK and DEF until the end of this turn.\nâ—? You can target 1 Set card your opponent controls; destroy it, and if you do, banish it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3300",
+  "defense": "2300",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "10"
+}

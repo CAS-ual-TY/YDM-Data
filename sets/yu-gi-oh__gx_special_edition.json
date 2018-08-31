@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! GX Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2006-04-01",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "GSE",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Elemental HERO Wildheart",
+        "set_number": "GSE-EN001",
+        "rarities": [
+          "Ultra Secret Rare"
+        ],
+        "count": {
+          "Ultra Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

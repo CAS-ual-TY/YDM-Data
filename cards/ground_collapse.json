@@ -1,0 +1,11 @@
+{
+  "name": "Ground Collapse",
+  "number": "90502999",
+  "is_illegal": false,
+  "text": "Select 2 Monster Card Zones on the field. Neither player can use the selected zones. You cannot select a zone that is occupied by a Monster Card.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Continuous"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Atlantean Pikeman",
+  "number": "26976414",
+  "is_illegal": false,
+  "text": "The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "1400",
+  "defense": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "2"
+}

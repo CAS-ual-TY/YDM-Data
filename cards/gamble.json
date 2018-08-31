@@ -1,0 +1,11 @@
+{
+  "name": "Gamble",
+  "number": "37313786",
+  "is_illegal": false,
+  "text": "You can only activate this card when your opponent's hand is 6 or more cards and your hand is 2 or less. Toss a coin and call heads or tails. If you call it right, draw until your hand has 5 cards. If you call it wrong, skip your next turn.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

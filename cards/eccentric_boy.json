@@ -1,0 +1,24 @@
+{
+  "name": "Eccentric Boy",
+  "number": "16825874",
+  "is_illegal": false,
+  "text": "When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 monster in your hand. The Synchro Monster that used this card as a Synchro Material Monster cannot activate its effects, its effect(s) is negated, and is removed from play when removed from the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "800",
+  "defense": "200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

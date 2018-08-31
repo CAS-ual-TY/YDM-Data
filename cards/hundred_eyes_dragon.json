@@ -1,0 +1,24 @@
+{
+  "name": "Hundred Eyes Dragon",
+  "number": "95453143",
+  "is_illegal": false,
+  "text": "1 DARK Tuner + 1 or more non-Tuner Fiend-Type monsters\nOnce per turn: You can banish 1 Level 6 or lower DARK Effect Monster from your Graveyard; until the End Phase, this card's name becomes that banished monster's, and replace this effect with that banished monster's original effects. If this card is destroyed and sent to the Graveyard: Add 1 \"Earthbound Immortal\" monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

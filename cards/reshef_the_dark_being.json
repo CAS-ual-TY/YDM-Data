@@ -1,0 +1,25 @@
+{
+  "name": "Reshef the Dark Being",
+  "number": "62420419",
+  "is_illegal": false,
+  "text": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Final Ritual of the Ancients\". Once per turn, by discarding 1 Spell Card from your hand, take control of 1 monster on your opponent's side of the field until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2500",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Super Quantal Fairy Alphan",
+  "number": "58753372",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 \"Super Quant\" monster you control; all face-up monsters you currently control become that monster's Level. You can Tribute this card; reveal 3 \"Super Quant\" monsters with different names from your Deck, your opponent randomly picks 1 for you to Special Summon to your field, and you send the rest to the Graveyard. You can only use this effect of \"Super Quantal Fairy Alphan\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

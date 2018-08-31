@@ -1,0 +1,11 @@
+{
+  "name": "Energy Drain",
+  "number": "56916805",
+  "is_illegal": false,
+  "text": "Select 1 face-up monster on your side of the field. Increase the ATK and DEF of the monster by an amount equal to the number of cards in your opponent's hand x 200 points, until the End Phase.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

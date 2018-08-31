@@ -1,0 +1,24 @@
+{
+  "name": "Ignister Prominence, the Blasting Dracoslayer",
+  "number": "18239909",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner Pendulum Monsters\nOnce per turn: You can target 1 Pendulum Monster on the field or 1 card in the Pendulum Zone; destroy it, and if you do, shuffle 1 card on the field into the Deck. Once per turn: You can Special Summon 1 \"Dracoslayer\" monster from your Deck in Defense Position, but it cannot be used as a Synchro Material for a Summon.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2850",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

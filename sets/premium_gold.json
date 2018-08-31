@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Premium Gold",
+    "type": "Gold Series",
+    "date": "2014-03-27",
+    "distribution": "",
+    "prefix": "PGLD",
+    "sub_sets": [
+	      "Premium Gold - Slot 1",
+	      "Premium Gold - Slot 2",
+	      "Premium Gold - Slot 3"
+	      ],
+    "load": true,
+    "cards": []
+  }
+}

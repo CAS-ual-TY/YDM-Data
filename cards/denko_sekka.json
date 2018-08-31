@@ -1,0 +1,24 @@
+{
+  "name": "Denko Sekka",
+  "number": "13974207",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned. While you control no Set Spells/Traps, neither player can Set Spells/Traps nor activate Spell/Trap Cards that are Set on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "1700",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

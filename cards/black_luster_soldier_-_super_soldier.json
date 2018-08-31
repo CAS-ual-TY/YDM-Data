@@ -1,0 +1,25 @@
+{
+  "name": "Black Luster Soldier - Super Soldier",
+  "number": "54484652",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Super Soldier Ritual\". If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to its ATK in the Graveyard. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 \"Gaia The Fierce Knight\" monster from your hand, Deck, or Graveyard. You can only Special Summon \"Black Luster Soldier - Super Soldier(s)\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "8"
+}

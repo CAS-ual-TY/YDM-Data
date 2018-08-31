@@ -1,0 +1,614 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Star Pack 2014",
+    "type": "Star Pack",
+    "date": "2014-02-21",
+    "distribution": "star_pack",
+    "prefix": "SP14",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Gogogo Golem",
+        "set_number": "SP14-EN001",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Daybreaker",
+        "set_number": "SP14-EN002",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gogogo Giant",
+        "set_number": "SP14-EN003",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "ZW - Unicorn Spear",
+        "set_number": "SP14-EN004",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shocktopus",
+        "set_number": "SP14-EN005",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Photon Lizard",
+        "set_number": "SP14-EN006",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Photon Thrasher",
+        "set_number": "SP14-EN007",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Photon Crusher",
+        "set_number": "SP14-EN008",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Reverse Buster",
+        "set_number": "SP14-EN009",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tasuke Knight",
+        "set_number": "SP14-EN010",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gagaga Gardna",
+        "set_number": "SP14-EN011",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cardcar D",
+        "set_number": "SP14-EN012",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hammer Shark",
+        "set_number": "SP14-EN013",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jumbo Drill",
+        "set_number": "SP14-EN014",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rocket Arrow Express",
+        "set_number": "SP14-EN015",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Aye-Iron",
+        "set_number": "SP14-EN016",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tin Goldfish",
+        "set_number": "SP14-EN017",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dododo Warrior",
+        "set_number": "SP14-EN018",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zubaba Buster",
+        "set_number": "SP14-EN019",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Twin Photon Lizard",
+        "set_number": "SP14-EN020",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Thunder End Dragon",
+        "set_number": "SP14-EN021",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Number C39: Utopia Ray",
+        "set_number": "SP14-EN022",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Number 32: Shark Drake",
+        "set_number": "SP14-EN023",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Photon Strike Bounzer",
+        "set_number": "SP14-EN024",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Photon Papilloperative",
+        "set_number": "SP14-EN025",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Number 25: Force Focus",
+        "set_number": "SP14-EN026",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Number 7: Lucky Straight",
+        "set_number": "SP14-EN027",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Muzurhythm the String Djinn",
+        "set_number": "SP14-EN028",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Temtempo the Percussion Djinn",
+        "set_number": "SP14-EN029",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Melomelody the Brass Djinn",
+        "set_number": "SP14-EN030",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Maestroke the Symphony Djinn",
+        "set_number": "SP14-EN031",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cross Attack",
+        "set_number": "SP14-EN032",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gagagabolt",
+        "set_number": "SP14-EN033",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Star Light, Star Bright",
+        "set_number": "SP14-EN034",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bound Wand",
+        "set_number": "SP14-EN035",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mini-Guts",
+        "set_number": "SP14-EN036",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Xyz Effect",
+        "set_number": "SP14-EN037",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Xyz Reflect",
+        "set_number": "SP14-EN038",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Morphing Jar #2",
+        "set_number": "SP14-EN039",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magical Merchant",
+        "set_number": "SP14-EN040",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Reasoning",
+        "set_number": "SP14-EN041",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ma'at",
+        "set_number": "SP14-EN042",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chimeratech Overdragon",
+        "set_number": "SP14-EN043",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Malefic Truth Dragon",
+        "set_number": "SP14-EN044",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Guldfaxe of the Nordic Beasts",
+        "set_number": "SP14-EN045",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Svartalf of the Nordic Alfar",
+        "set_number": "SP14-EN046",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Valkyrie of the Nordic Ascendant",
+        "set_number": "SP14-EN047",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Thor, Lord of the Aesir",
+        "set_number": "SP14-EN048",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Loki, Lord of the Aesir",
+        "set_number": "SP14-EN049",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Odin, Father of the Aesir",
+        "set_number": "SP14-EN050",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

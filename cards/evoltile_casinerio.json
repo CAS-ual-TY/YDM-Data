@@ -1,0 +1,24 @@
+{
+  "name": "Evoltile Casinerio",
+  "number": "56240989",
+  "is_illegal": false,
+  "text": "At the end of the Battle Phase, if this card destroyed an opponent's monster by battle: You can Tribute this card; Special Summon 2 Level 6 or lower FIRE Dinosaur-Type monsters with the same name from your Deck. Their effects are negated and they are banished during the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1600",
+  "defense": "400",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

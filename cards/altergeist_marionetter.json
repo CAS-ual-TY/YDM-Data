@@ -1,0 +1,24 @@
+{
+  "name": "Altergeist Marionetter",
+  "number": "53143898",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can Set 1 \"Altergeist\" Trap directly from your Deck to your Spell & Trap Zone. You can target 1 \"Altergeist\" card you control and 1 \"Altergeist\" monster in your GY; send that card on the field to the GY, and if you do, Special Summon that other monster from your GY. You can only use this effect of \"Altergeist Marionetter\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1600",
+  "defense": "1700",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

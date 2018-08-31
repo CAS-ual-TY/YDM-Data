@@ -1,0 +1,24 @@
+{
+  "name": "Invoked Magellanica",
+  "number": "48791583",
+  "is_illegal": false,
+  "text": "\"Aleister the Invoker\" + 1 EARTH monster",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "3000",
+  "defense": "3300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

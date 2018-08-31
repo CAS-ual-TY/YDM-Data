@@ -1,0 +1,24 @@
+{
+  "name": "Dragunity Phalanx",
+  "number": "59755122",
+  "is_illegal": false,
+  "text": "Once per turn, while this card is equipped to a monster as an Equip Card by a card effect, you can Special Summon this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "500",
+  "defense": "1100",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

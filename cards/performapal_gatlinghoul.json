@@ -1,0 +1,24 @@
+{
+  "name": "Performapal Gatlinghoul",
+  "number": "49820233",
+  "is_illegal": false,
+  "text": "1 \"Performapal\" monster + 1 Level 5 or higher DARK monster\nIf this card is Fusion Summoned: You can inflict 200 damage to your opponent for each card on the field, then, if this card was Fusion Summoned using a Pendulum Monster as Material, destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. You can only use this effect of \"Performapal Gatlinghoul\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2900",
+  "defense": "900",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

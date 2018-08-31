@@ -1,0 +1,24 @@
+{
+  "name": "Naturia Dragonfly",
+  "number": "70083723",
+  "is_illegal": false,
+  "text": "This card cannot be destroyed by battle with a monster that has 2000 or more ATK. This card gains 200 ATK for each \"Naturia\" monster in your Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1200",
+  "defense": "400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

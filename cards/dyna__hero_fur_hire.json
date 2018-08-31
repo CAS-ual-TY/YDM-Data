@@ -1,0 +1,24 @@
+{
+  "name": "Dyna, Hero Fur Hire",
+  "number": "25123713",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned: You can banish cards from your opponent's GY, up to the number of monsters \"Fur Hire\" you control with different names. You can only use this effect of \"Dyna, Hero Fur Hire\" once per turn. Monsters your opponent controls cannot target monsters \"Fur Hire\" you control for attacks, except this one.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "2500",
+  "defense": "1400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

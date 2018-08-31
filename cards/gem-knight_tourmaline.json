@@ -1,0 +1,24 @@
+{
+  "name": "Gem-Knight Tourmaline",
+  "number": "54620698",
+  "is_illegal": false,
+  "text": "He channels mystic energies and changes them into fighting strength through the power of Tourmaline. Many admire his way of life.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "1600",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

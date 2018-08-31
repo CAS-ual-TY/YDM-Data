@@ -1,0 +1,24 @@
+{
+  "name": "Gogogo Golem - Golden Form",
+  "number": "2948263",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Gogogo\" monster, and cannot be Special Summoned by other ways. This card's ATK becomes double the original ATK of the Tributed monster. Any battle damage your opponent takes from attacks involving this card is halved. Once per turn, during either player's turn, if a monster effect is activated on your opponent's side of the field: This card loses exactly 1500 ATK, and if it does, negate that effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "0",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

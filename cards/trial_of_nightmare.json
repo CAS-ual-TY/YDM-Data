@@ -1,0 +1,24 @@
+{
+  "name": "Trial of Nightmare",
+  "number": "77827521",
+  "is_illegal": false,
+  "text": "This fiend passes judgment on enemies that are locked in coffins.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1300",
+  "defense": "900",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

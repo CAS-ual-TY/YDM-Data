@@ -1,0 +1,646 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Elemental Energy",
+    "type": "Booster Pack",
+    "date": "2005-08-11",
+    "distribution": "booster_pack",
+    "prefix": "EEN",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Zure, Knight of Dark World",
+        "set_number": "EEN-EN001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "V-Tiger Jet",
+        "set_number": "EEN-EN002",
+        "rarities": [
+          "Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blade Skater",
+        "set_number": "EEN-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Queen's Knight",
+        "set_number": "EEN-EN004",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Jack's Knight",
+        "set_number": "EEN-EN005",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "King's Knight",
+        "set_number": "EEN-EN006",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Bladedge",
+        "set_number": "EEN-EN007",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Wildheart",
+        "set_number": "EEN-EN008",
+        "rarities": [
+          "Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Reborn Zombie",
+        "set_number": "EEN-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chthonian Soldier",
+        "set_number": "EEN-EN010",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "W-Wing Catapult",
+        "set_number": "EEN-EN011",
+        "rarities": [
+          "Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Infernal Incinerator",
+        "set_number": "EEN-EN012",
+        "rarities": [
+          "Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hydrogeddon",
+        "set_number": "EEN-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Oxygeddon",
+        "set_number": "EEN-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Water Dragon",
+        "set_number": "EEN-EN015",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Etoile Cyber",
+        "set_number": "EEN-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "B.E.S. Tetran",
+        "set_number": "EEN-EN017",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Nanobreaker",
+        "set_number": "EEN-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rapid-Fire Magician",
+        "set_number": "EEN-EN019",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Beiige, Vanguard of Dark World",
+        "set_number": "EEN-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Broww, Huntsman of Dark World",
+        "set_number": "EEN-EN021",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Brron, Mad King of Dark World",
+        "set_number": "EEN-EN022",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Sillva, Warlord of Dark World",
+        "set_number": "EEN-EN023",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Goldd, Wu-Lord of Dark World",
+        "set_number": "EEN-EN024",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Scarr, Scout of Dark World",
+        "set_number": "EEN-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Familiar-Possessed - Aussa",
+        "set_number": "EEN-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Familiar-Possessed - Eria",
+        "set_number": "EEN-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Familiar-Possessed - Hiita",
+        "set_number": "EEN-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Familiar-Possessed - Wynn",
+        "set_number": "EEN-EN029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "VW-Tiger Catapult",
+        "set_number": "EEN-EN030",
+        "rarities": [
+          "Parallel Rare",
+          "Common"
+        ],
+        "count": {
+          "Parallel Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "VWXYZ-Dragon Catapult Cannon",
+        "set_number": "EEN-EN031",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyber Blader",
+        "set_number": "EEN-EN032",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Rampart Blaster",
+        "set_number": "EEN-EN033",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Tempest",
+        "set_number": "EEN-EN034",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Wildedge",
+        "set_number": "EEN-EN035",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Shining Flare Wingman",
+        "set_number": "EEN-EN036",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Pot of Avarice",
+        "set_number": "EEN-EN037",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark World Lightning",
+        "set_number": "EEN-EN038",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Level Modulation",
+        "set_number": "EEN-EN039",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ojamagic",
+        "set_number": "EEN-EN040",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ojamuscle",
+        "set_number": "EEN-EN041",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Feather Shot",
+        "set_number": "EEN-EN042",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Bonding - H2O",
+        "set_number": "EEN-EN043",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chthonian Alliance",
+        "set_number": "EEN-EN044",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Armed Changer",
+        "set_number": "EEN-EN045",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Branch!",
+        "set_number": "EEN-EN046",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Boss Rush",
+        "set_number": "EEN-EN047",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gateway to Dark World",
+        "set_number": "EEN-EN048",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hero Barrier",
+        "set_number": "EEN-EN049",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Chthonian Blast",
+        "set_number": "EEN-EN050",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "The Forces of Darkness",
+        "set_number": "EEN-EN051",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Deal",
+        "set_number": "EEN-EN052",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Simultaneous Loss",
+        "set_number": "EEN-EN053",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Weed Out",
+        "set_number": "EEN-EN054",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The League of Uniform Nomenclature",
+        "set_number": "EEN-EN055",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Roll Out!",
+        "set_number": "EEN-EN056",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chthonian Polymer",
+        "set_number": "EEN-EN057",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Feather Wind",
+        "set_number": "EEN-EN058",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Non-Fusion Area",
+        "set_number": "EEN-EN059",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Level Limit - Area A",
+        "set_number": "EEN-EN060",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,614 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Spirit Warriors",
+    "type": "Booster Pack",
+    "date": "2017-11-16",
+    "distribution": "booster_pack",
+    "prefix": "SPWA",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Secret Six Samurai - Fuma",
+        "set_number": "SPWA-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Secret Six Samurai - Genba",
+        "set_number": "SPWA-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Secret Six Samurai - Hatsume",
+        "set_number": "SPWA-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Secret Six Samurai - Doji",
+        "set_number": "SPWA-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Secret Six Samurai - Kizaru",
+        "set_number": "SPWA-EN005",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Secret Six Samurai - Rihan",
+        "set_number": "SPWA-EN006",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Secret Skills of the Six Samurai",
+        "set_number": "SPWA-EN007",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "The Six Shinobi",
+        "set_number": "SPWA-EN008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Grandmaster of the Six Samurai",
+        "set_number": "SPWA-EN009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Legendary Six Samurai - Kizan",
+        "set_number": "SPWA-EN010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Legendary Six Samurai - Shi En",
+        "set_number": "SPWA-EN011",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Shadow of the Six Samurai - Shien",
+        "set_number": "SPWA-EN012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Six Samurai United",
+        "set_number": "SPWA-EN013",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Gateway of the Six",
+        "set_number": "SPWA-EN014",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Shien's Smoke Signal",
+        "set_number": "SPWA-EN015",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musketeer Caspar",
+        "set_number": "SPWA-EN016",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musketeer Doc",
+        "set_number": "SPWA-EN017",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musketeer Kidbrave",
+        "set_number": "SPWA-EN018",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musketeer Starfire",
+        "set_number": "SPWA-EN019",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musketeer Calamity",
+        "set_number": "SPWA-EN020",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musketeer Wild",
+        "set_number": "SPWA-EN021",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musket Mastermind Zakiel",
+        "set_number": "SPWA-EN022",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musket - Steady Hands",
+        "set_number": "SPWA-EN023",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musket - Cross-Domination",
+        "set_number": "SPWA-EN024",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musket - Desperado",
+        "set_number": "SPWA-EN025",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musket - Dancing Needle",
+        "set_number": "SPWA-EN026",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musket - Fiendish Deal",
+        "set_number": "SPWA-EN027",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Musket - Last Stand",
+        "set_number": "SPWA-EN028",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Painter Snow",
+        "set_number": "SPWA-EN029",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Painter Rain",
+        "set_number": "SPWA-EN030",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Painter Cloud",
+        "set_number": "SPWA-EN031",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Painter Sun",
+        "set_number": "SPWA-EN032",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Painter Thunder",
+        "set_number": "SPWA-EN033",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Painter Aurora",
+        "set_number": "SPWA-EN034",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Painter Rainbow",
+        "set_number": "SPWA-EN035",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Snowy Canvas",
+        "set_number": "SPWA-EN036",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Rainy Canvas",
+        "set_number": "SPWA-EN037",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Cloudy Canvas",
+        "set_number": "SPWA-EN038",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Sunny Canvas",
+        "set_number": "SPWA-EN039",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Thundery Canvas",
+        "set_number": "SPWA-EN040",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "The Weather Auroral Canvas",
+        "set_number": "SPWA-EN041",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Hand of the Six Samurai",
+        "set_number": "SPWA-EN042",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Legendary Six Samurai - Kageki",
+        "set_number": "SPWA-EN043",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Legendary Six Samurai - Shinai",
+        "set_number": "SPWA-EN044",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Legendary Six Samurai - Mizuho",
+        "set_number": "SPWA-EN045",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Shien's Advisor",
+        "set_number": "SPWA-EN046",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Honest",
+        "set_number": "SPWA-EN047",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Asceticism of the Six Samurai",
+        "set_number": "SPWA-EN048",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Shien's Dojo",
+        "set_number": "SPWA-EN049",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Photon Veil",
+        "set_number": "SPWA-EN050",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Constellar Belt",
+        "set_number": "SPWA-EN051",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Return of the Six Samurai",
+        "set_number": "SPWA-EN052",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Backs to the Wall",
+        "set_number": "SPWA-EN053",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Double-Edged Sword Technique",
+        "set_number": "SPWA-EN054",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Musakani Magatama",
+        "set_number": "SPWA-EN055",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Battleguard Howling",
+        "set_number": "SPWA-EN056",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Beckoning Light",
+        "set_number": "SPWA-EN057",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Scrap-Iron Scarecrow",
+        "set_number": "SPWA-EN058",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Scrap-Iron Statue",
+        "set_number": "SPWA-EN059",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Miraculous Descent",
+        "set_number": "SPWA-EN060",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

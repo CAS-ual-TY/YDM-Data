@@ -1,0 +1,24 @@
+{
+  "name": "CXyz Simon the Great Moral Leader",
+  "number": "41147577",
+  "is_illegal": false,
+  "text": "3 Level 7 monsters\nThis card is unaffected by other monster effects. If this card has \"Norito the Moral Leader\" as an Xyz Material, it gains this effect.\nâ—? Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; change its battle position, and if you do, negate its effects until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "7"
+}

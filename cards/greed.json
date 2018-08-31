@@ -1,0 +1,11 @@
+{
+  "name": "Greed",
+  "number": "89405199",
+  "is_illegal": false,
+  "text": "Each time a player draws cards because of a card effect, they take 500 damage during the End Phase for each card drawn by the card effect.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Predaplant Spinodionaea",
+  "number": "52792430",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. After damage calculation, if this card battled a monster with an equal or lower Level: You can Special Summon 1 \"Predaplant\" monster from your Deck, except \"Predaplant Spinodionaea\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "1800",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

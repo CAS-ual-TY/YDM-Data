@@ -1,0 +1,24 @@
+{
+  "name": "Dinoster Power, the Mighty Dracoslayer",
+  "number": "22638495",
+  "is_illegal": false,
+  "text": "1 \"Dracoslayer\" Pendulum Monster + 1 Pendulum Monster\nMust first be Special Summoned (from your Extra Deck) by Tributing the above cards. (You do not use \"Polymerization\".) Pendulum Monster Cards in your Monster Zones and Pendulum Zones cannot be destroyed by battle or your opponent's card effects. Once per turn: You can Special Summon 1 \"Dracoslayer\" Pendulum Monster from your hand or Graveyard, but it cannot be used as a Fusion Material.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2000",
+  "defense": "2950",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

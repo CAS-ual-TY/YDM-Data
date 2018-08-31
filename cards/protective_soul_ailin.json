@@ -1,0 +1,25 @@
+{
+  "name": "Protective Soul Ailin",
+  "number": "11678191",
+  "is_illegal": false,
+  "text": "Once per turn, you can equip this card to an \"Indomitable Fighter Lei Lei\" you control, OR unequip it to Special Summon this card in face-up Attack Position. When equipped to a monster by this card's effect, you can change that monster's battle position once per turn. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Union",
+    "Effect"
+  ],
+  "stars": "1"
+}

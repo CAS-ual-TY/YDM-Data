@@ -1,0 +1,24 @@
+{
+  "name": "Counselor Lily",
+  "number": "5519829",
+  "is_illegal": false,
+  "text": "When this card is sent to the Graveyard for a Synchro Summon, you can pay 500 Life Points to have that Synchro Monster gain 1000 ATK until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "400",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

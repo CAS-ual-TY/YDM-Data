@@ -1,0 +1,24 @@
+{
+  "name": "Thousand-Eyes Idol",
+  "number": "27125110",
+  "is_illegal": false,
+  "text": "A wicked entity that controls the hearts of men, its thousand eyes are able to see and expand the negative influences in an individual's soul.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "1"
+}

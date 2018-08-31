@@ -1,0 +1,24 @@
+{
+  "name": "Geo Genex",
+  "number": "33972299",
+  "is_illegal": false,
+  "text": "\"Genex Controller\" + 1 or more non-Tuner EARTH monsters\nOnce per turn, if you control a face-up Level 4 or lower \"Genex\" monster(s), you can switch the original ATK and DEF of this card until the End Phase, for as long as you control a face-up Level 4 or lower \"Genex\" monster(s).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1800",
+  "defense": "2800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "6"
+}

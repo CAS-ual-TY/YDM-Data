@@ -1,0 +1,24 @@
+{
+  "name": "Dragonecro Nethersoul Dragon",
+  "number": "8198620",
+  "is_illegal": false,
+  "text": "2 Zombie-Type monsters\nMust first be Fusion Summoned. Monsters cannot be destroyed by battle with this card. At the end of the Damage Step, if this card battled a monster that has an original Level: That monster's ATK becomes 0, also, if that monster is still face-up on the field, Special Summon 1 \"Dark Soul Token\" (Zombie-Type/DARK/Level ?/ATK ?/DEF 0). (When Summoned, its Level and ATK become equal to the original Level and ATK of that monster.) You can only control 1 \"Dragonecro Nethersoul Dragon\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

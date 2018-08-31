@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "The Dark Illusion Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2016-07-30",
+    "distribution": "tournament_promo_cards",
+    "prefix": "TDIL",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Magical Something",
+        "set_number": "TDIL-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

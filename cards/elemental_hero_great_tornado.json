@@ -1,0 +1,24 @@
+{
+  "name": "Elemental HERO Great Tornado",
+  "number": "3642509",
+  "is_illegal": false,
+  "text": "1 \"Elemental HERO\" monster + 1 WIND monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card is Fusion Summoned: Halve the ATK and DEF of all face-up monsters your opponent currently controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2800",
+  "defense": "2200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

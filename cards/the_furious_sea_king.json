@@ -1,0 +1,24 @@
+{
+  "name": "The Furious Sea King",
+  "number": "18710707",
+  "is_illegal": false,
+  "text": "Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "800",
+  "defense": "700",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

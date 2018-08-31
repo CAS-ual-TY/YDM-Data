@@ -1,0 +1,24 @@
+{
+  "name": "Mermail Abyssteus",
+  "number": "22446869",
+  "is_illegal": false,
+  "text": "You can discard 1 other WATER monster to the GY; Special Summon this card from your hand. If Summoned this way: Add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1700",
+  "defense": "2400",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

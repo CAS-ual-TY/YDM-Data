@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Pack: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2007-03-09",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "DPK",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Blockman",
+        "set_number": "DPK-ENSE1",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Treasure Map",
+        "set_number": "DPK-ENSE2",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Hero Spirit",
+        "set_number": "DPK-ENSE3",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

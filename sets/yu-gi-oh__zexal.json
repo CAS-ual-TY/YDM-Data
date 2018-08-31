@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! ZEXAL",
+    "type": "Manga Promo",
+    "date": "2013-09-20",
+    "distribution": "manga_promo",
+    "prefix": "YZ02",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Number 50: Blackship of Corn",
+        "set_number": "YZ02-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

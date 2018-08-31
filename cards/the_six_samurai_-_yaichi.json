@@ -1,0 +1,24 @@
+{
+  "name": "The Six Samurai - Yaichi",
+  "number": "64398890",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 Set Spell/Trap Card; destroy that target. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. This card cannot declare an attack during the turn this effect is activated. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1300",
+  "defense": "800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

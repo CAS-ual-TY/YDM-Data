@@ -1,0 +1,24 @@
+{
+  "name": "Vylon Stella",
+  "number": "38679204",
+  "is_illegal": false,
+  "text": "If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. At the end of the Damage Step, if the equipped monster battled an opponent's monster: Destroy that opponent's monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1400",
+  "defense": "200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

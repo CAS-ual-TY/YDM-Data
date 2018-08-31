@@ -1,0 +1,24 @@
+{
+  "name": "Droll & Lock Bird",
+  "number": "94145021",
+  "is_illegal": false,
+  "text": "During either player's turn, if your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase): You can send this card from your hand to the Graveyard; for the rest of this turn, neither player can add a card(s) from their Deck to their hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

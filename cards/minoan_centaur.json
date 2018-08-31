@@ -1,0 +1,24 @@
+{
+  "name": "Minoan Centaur",
+  "number": "43708640",
+  "is_illegal": false,
+  "text": "This card cannot be Special Summoned. You can Tribute this card to Special Summon 2 Level 4 Beast-Warrior-Type Normal Monsters from your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1800",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Scrap Beast",
+  "number": "19139516",
+  "is_illegal": false,
+  "text": "If this face-up Defense Position card is targeted for an attack, at the end of the Battle Phase: Destroy this card. If this card is destroyed by the effect of a \"Scrap\" card and sent to the Graveyard: You can target 1 \"Scrap\" monster in your Graveyard, except \"Scrap Beast\"; add that target to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1600",
+  "defense": "1300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "4"
+}

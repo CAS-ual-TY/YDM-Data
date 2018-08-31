@@ -1,0 +1,24 @@
+{
+  "name": "Archfiend Zombie-Skull",
+  "number": "59969392",
+  "is_illegal": false,
+  "text": "\"Plaguespreader Zombie\" + 2+ non-Tuner Zombie monsters\nZombie monsters you control cannot be destroyed by card effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2500",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "6"
+}

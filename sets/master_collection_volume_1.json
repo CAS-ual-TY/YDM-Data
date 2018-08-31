@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Master Collection Volume 1",
+    "type": "Master Collection",
+    "date": "2004-12-01",
+    "distribution": "master_collection",
+    "prefix": "MC1",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Exodia the Forbidden One",
+        "set_number": "MC1-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Barrel Dragon",
+        "set_number": "MC1-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Relinquished",
+        "set_number": "MC1-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Thousand-Eyes Restrict",
+        "set_number": "MC1-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Necrofear",
+        "set_number": "MC1-EN005",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Ruler Ha Des",
+        "set_number": "MC1-EN006",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

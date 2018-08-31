@@ -1,0 +1,24 @@
+{
+  "name": "Maiden with Eyes of Blue",
+  "number": "88241506",
+  "is_illegal": false,
+  "text": "When this card is targeted for an attack: You can negate the attack, and if you do, change the battle position of this card, then you can Special Summon 1 \"Blue-Eyes White Dragon\" from your hand, Deck, or Graveyard. During either player's turn, when a card or effect is activated that targets this face-up card: You can Special Summon 1 \"Blue-Eyes White Dragon\" from your hand, Deck, or Graveyard. You can only use 1 \"Maiden with Eyes of Blue\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

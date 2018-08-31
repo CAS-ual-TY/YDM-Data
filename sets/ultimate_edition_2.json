@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Ultimate Edition 2",
+    "type": "Special Edition Promo Cards",
+    "date": "2006-11-11",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "UE02",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Dragon Master Knight",
+        "set_number": "UE02-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

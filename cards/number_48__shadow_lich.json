@@ -1,0 +1,24 @@
+{
+  "name": "Number 48: Shadow Lich",
+  "number": "1426714",
+  "is_illegal": false,
+  "text": "2 Level 3 monsters\nOnce per turn, during your opponent's turn: You can detach 1 Xyz Material from this card; Special Summon 1 \"Phantom Token\" (Fiend-Type/DARK/Level 1/ATK 500/DEF 500). (This is a Quick Effect.) While you control a \"Phantom Token\", your opponent cannot target this card for attacks. This card gains 500 ATK for each \"Phantom Token\" you control.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1800",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

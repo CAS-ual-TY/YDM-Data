@@ -1,0 +1,24 @@
+{
+  "name": "Evolsaur Vulcano",
+  "number": "54266211",
+  "is_illegal": false,
+  "text": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: You can target 1 \"Evolsaur\" monster in your Graveyard; Special Summon that target. It cannot declare an attack.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1200",
+  "defense": "1000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

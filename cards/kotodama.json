@@ -1,0 +1,24 @@
+{
+  "name": "Kotodama",
+  "number": "19406822",
+  "is_illegal": false,
+  "text": "If there are face-up monsters with the same name on the field, destroy those monsters. (If a monster is Summoned or flipped-face up that has the same name as a monster that is already face-up on the field, the new face-up monster is destroyed. If they are Summoned or flipped face-up at the same time, they are all destroyed.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "0",
+  "defense": "1600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

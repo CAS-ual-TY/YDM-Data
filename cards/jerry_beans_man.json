@@ -1,0 +1,24 @@
+{
+  "name": "Jerry Beans Man",
+  "number": "23635815",
+  "is_illegal": false,
+  "text": "Jerry, a bean soldier, believes he is the strongest warrior in the world, but his true abilities are still untested.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "1750",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

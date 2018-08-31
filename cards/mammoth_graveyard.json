@@ -1,0 +1,24 @@
+{
+  "name": "Mammoth Graveyard",
+  "number": "40374923",
+  "is_illegal": false,
+  "text": "A mammoth that protects the graves of its pack and is absolutely merciless when facing grave-robbers.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1200",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

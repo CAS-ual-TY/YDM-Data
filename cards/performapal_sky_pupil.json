@@ -1,0 +1,24 @@
+{
+  "name": "Performapal Sky Pupil",
+  "number": "122520",
+  "is_illegal": false,
+  "text": "During either player's turn: You can return 1 Level 5 or higher \"Performapal\" monster you control to the hand; Special Summon this card from your hand. You can only use this effect of \"Performapal Sky Pupil\" once per turn. If this card battles an opponent's monster, that monster has its effects negated until the end of the Damage Step. Before damage calculation, if this card attacked an opponent's monster while you control another \"Performapal\" monster: You can destroy that opponent's monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "800",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

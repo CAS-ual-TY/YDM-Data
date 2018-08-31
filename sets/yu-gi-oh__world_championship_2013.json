@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! World Championship 2013",
+    "type": "Tournament Promo Cards",
+    "date": "2013-08-11",
+    "distribution": "tournament_promo_cards",
+    "prefix": "2013",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Grandopolis, The Eternal Golden City",
+        "set_number": "2013-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "E☆HERO Pit Boss",
+        "set_number": "2013-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

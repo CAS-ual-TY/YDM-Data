@@ -1,0 +1,24 @@
+{
+  "name": "Evoltile Lagosucho",
+  "number": "3283679",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can send 1 \"Evolsaur\" monster from your Deck to the Graveyard. When this card is flipped face-up: You can Special Summon 1 \"Evoltile\" monster from your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1200",
+  "defense": "500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

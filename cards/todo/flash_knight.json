@@ -1,0 +1,28 @@
+{
+  "name": "Flash Knight",
+  "number": "17390179",
+  "is_illegal": false,
+  "text": "The power of the pendulum flashes forth from this shining knight.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1800",
+  "defense": "600",
+  "attribute": "LIGHT",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Normal"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "",
+  "stars": "4"
+}

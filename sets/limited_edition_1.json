@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Limited Edition 1",
+    "type": "Shonen Jump Promo Cards",
+    "date": "2008-01-16",
+    "distribution": "shonen_jump_promo_cards",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Blast Sphere",
+        "set_number": "JUMP-EN019",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Copycat",
+        "set_number": "JUMP-EN020",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Relieve Monster",
+        "set_number": "JUMP-EN021",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Cloning",
+        "set_number": "JUMP-EN022",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

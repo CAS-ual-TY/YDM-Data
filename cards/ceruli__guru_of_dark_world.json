@@ -1,0 +1,24 @@
+{
+  "name": "Ceruli, Guru of Dark World",
+  "number": "7623640",
+  "is_illegal": false,
+  "text": "If this card is discarded to the Graveyard by a card effect: Special Summon this card from the Graveyard to your opponent's side of the field in face-up Defense Position. When this card is Special Summoned by the effect of a \"Dark World\" card: Your opponent must discard 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "100",
+  "defense": "300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

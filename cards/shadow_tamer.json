@@ -1,0 +1,25 @@
+{
+  "name": "Shadow Tamer",
+  "number": "37620434",
+  "is_illegal": false,
+  "text": "(This card is always treated as an \"Archfiend\" card.)\nFLIP: Target 1 Fiend-Type monster your opponent controls; take control of that target until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "800",
+  "defense": "700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

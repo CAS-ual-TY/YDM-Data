@@ -1,0 +1,24 @@
+{
+  "name": "Bird of Paradise Lost",
+  "number": "84845628",
+  "is_illegal": false,
+  "text": "This card gains 100 ATK and DEF for each Tuner monster in your Graveyard. Once per turn: You can send 1 Tuner monster from your hand to the Graveyard, then target 1 monster your opponent controls; take control of it until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2700",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lady of the Lake",
+  "number": "10736540",
+  "is_illegal": false,
+  "text": "Cannot be used as a Synchro Material, except for the Synchro Summon of a Warrior-Type monster. If this card is used for a Synchro Summon, banish it. When this card is Normal Summoned: You can target 1 \"Noble Knight\" Normal Monster in your Graveyard; Special Summon that target. If this card is in your Graveyard: You can target 1 Level 5 \"Noble Knight\" monster you control; reduce its Level by 1, and if you do, Special Summon this card from the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "200",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

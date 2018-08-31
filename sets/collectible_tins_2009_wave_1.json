@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Collectible Tins 2009 Wave 1",
+    "type": "Special Edition Promo Cards",
+    "date": "2009-08-18",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT06",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Power Tool Dragon",
+        "set_number": "CT06-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Ancient Fairy Dragon",
+        "set_number": "CT06-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

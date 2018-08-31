@@ -1,0 +1,25 @@
+{
+  "name": "Chewbone",
+  "number": "7392745",
+  "is_illegal": false,
+  "text": "FLIP: Special Summon 3 \"Chewbone Jr. Tokens\" (Zombie-Type/EARTH/Level 1/ATK 100/DEF 300) to your opponent's field in Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "300",
+  "defense": "300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

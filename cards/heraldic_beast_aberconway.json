@@ -1,0 +1,24 @@
+{
+  "name": "Heraldic Beast Aberconway",
+  "number": "60316373",
+  "is_illegal": false,
+  "text": "If this card is in the Graveyard: You can banish another \"Heraldic Beast Aberconway\" from your Graveyard to target 1 \"Heraldic Beast\" monster in your Graveyard; add that target to your hand. You can only use the effect of \"Heraldic Beast Aberconway\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1800",
+  "defense": "900",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

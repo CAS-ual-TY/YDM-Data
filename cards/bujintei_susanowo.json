@@ -1,0 +1,24 @@
+{
+  "name": "Bujintei Susanowo",
+  "number": "75840616",
+  "is_illegal": false,
+  "text": "2 Level 4 \"Bujin\" monsters\nThis card can attack all monsters your opponent controls once each. Once per turn: You can detach 1 Xyz Material from this card; take 1 \"Bujin\" monster from your Deck, and either add it to your hand or send it to the Graveyard. You can only control 1 \"Bujintei Susanowo\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "2400",
+  "defense": "1600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

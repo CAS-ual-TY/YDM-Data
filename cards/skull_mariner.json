@@ -1,0 +1,24 @@
+{
+  "name": "Skull Mariner",
+  "number": "5265750",
+  "is_illegal": false,
+  "text": "A pirate ship that appears out of the mist and sinks any seagoing vessels.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "defense": "900",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

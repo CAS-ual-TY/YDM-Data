@@ -1,0 +1,11 @@
+{
+  "name": "Skull Dice",
+  "number": "126218",
+  "is_illegal": false,
+  "text": "Roll a six-sided die. All monsters your opponent currently controls lose ATK and DEF equal to the result x 100, until the End Phase.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

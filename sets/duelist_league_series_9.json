@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist League Series 9",
+    "type": "Duelist League Promo Cards",
+    "date": "2006-01-03",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "DL9",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Last Day of Witch",
+        "set_number": "DL9-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

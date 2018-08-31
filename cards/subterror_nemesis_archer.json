@@ -1,0 +1,24 @@
+{
+  "name": "Subterror Nemesis Archer",
+  "number": "39581190",
+  "is_illegal": false,
+  "text": "At the start of the Damage Step, if this card attacks an opponent's face-down Defense Position monster, and you control another \"Subterror\" monster: You can shuffle that opponent's monster into the Deck. If this card on the field is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon 1 \"Subterror\" monster from your Deck in face-up or face-down Defense Position. You can only use each effect of \"Subterror Nemesis Archer\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1600",
+  "defense": "1400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Weekly Shonen Jump January 2018 ",
+    "type": "Shonen Jump",
+    "date": "2018-02-01",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Trickstar Crimson Heart",
+        "set_number": "JUMP-EN083",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

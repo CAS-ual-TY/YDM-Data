@@ -1,0 +1,24 @@
+{
+  "name": "Madolche Cruffssant",
+  "number": "89521713",
+  "is_illegal": false,
+  "text": "When this card in your possession is destroyed by your opponent's card (either by battle or by effect) and sent to your Graveyard: Shuffle this card into the Deck. Once per turn: You can target 1 face-up \"Madolche\" card you control, except this card; return it to the hand, and if you do, increase this card's Level by 1 and ATK by 300.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1500",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

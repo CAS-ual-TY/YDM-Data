@@ -1,0 +1,24 @@
+{
+  "name": "The Phantom Knights of Silent Boots",
+  "number": "36426778",
+  "is_illegal": false,
+  "text": "If you control a \"The Phantom Knights\" monster, you can Special Summon this card (from your hand).  You can only Special Summon \"The Phantom Knights of Silent Boots\" once per turn this way. You can banish this card from your Graveyard; add 1 \"Phantom Knights\" Spell/Trap Card from your Deck to your hand. You can only use this effect of \"The Phantom Knights of Silent Boots\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "200",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

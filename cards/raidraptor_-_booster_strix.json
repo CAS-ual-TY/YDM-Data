@@ -1,0 +1,24 @@
+{
+  "name": "Raidraptor - Booster Strix",
+  "number": "73977033",
+  "is_illegal": false,
+  "text": "When a \"Raidraptor\" monster you control is targeted for an attack by an opponent's monster: You can banish this card from your hand; destroy the attacking monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "100",
+  "defense": "1700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

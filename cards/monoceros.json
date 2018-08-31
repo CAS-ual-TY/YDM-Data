@@ -1,0 +1,24 @@
+{
+  "name": "Monoceros",
+  "number": "58807980",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 Spell Card from your hand. When you Synchro Summon using this card and a Beast-Type Tuner monster as the Synchro Material Monsters, you can select 1 Beast-Type Tuner monster used for the Synchro Summon and Special Summon it from the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

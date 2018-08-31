@@ -1,0 +1,11 @@
+{
+  "name": "Gift Exchange",
+  "number": "82257940",
+  "is_illegal": false,
+  "text": "Each player banishes 1 card from their Deck, face-down. During the End Phase of this turn, each player adds the card banished by their opponent to their hand.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Normal"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Super Quantum Blue Layer",
+  "number": "12369277",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned: You can add 1 \"Super Quant\" card from your Deck to your hand, except \"Super Quantum Blue Layer\". If this card is sent to the Graveyard: You can target up to 3 \"Super Quant\" cards in your Graveyard; shuffle them into the Deck. You can only use each effect of \"Super Quantum Blue Layer\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "1200",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

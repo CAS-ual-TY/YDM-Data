@@ -1,0 +1,24 @@
+{
+  "name": "Blue Thunder T-45",
+  "number": "14089428",
+  "is_illegal": false,
+  "text": "If this card destroys an opponent's monster by battle: Special Summon 1 \"Thunder Option Token\" (Machine-Type/LIGHT/Level 4/ATK 1500/DEF 1500). This Token cannot be Tributed for a Tribute Summon.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1700",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Championship Series 2011 Prize Card",
+    "type": "Tournament Promo Cards",
+    "date": "2012-06-03",
+    "distribution": "tournament_promo_cards",
+    "prefix": "YCSW",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Blood Mefist",
+        "set_number": "YCSW-EN004",
+        "rarities": [
+          "Ultra Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

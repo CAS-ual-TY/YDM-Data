@@ -1,0 +1,24 @@
+{
+  "name": "Anthrosaurus",
+  "number": "89904598",
+  "is_illegal": false,
+  "text": "Dis man-like dinosawz gotta high I.Q., even tho he's lackin' in da strength depawtment. (Kinda like yooz, if ya had a high I.Q.! Nyaah!)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1000",
+  "defense": "850",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

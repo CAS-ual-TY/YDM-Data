@@ -1,0 +1,24 @@
+{
+  "name": "Masked HERO Anki",
+  "number": "59642500",
+  "is_illegal": false,
+  "text": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. This card can attack your opponent directly, but when it does so using this effect, the battle damage inflicted to your opponent is halved. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can add 1 \"Change\" Quick-Play Spell Card from your Deck to your hand. You can only use this effect of \"Masked HERO Anki\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2800",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

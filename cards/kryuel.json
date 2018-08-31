@@ -1,0 +1,24 @@
+{
+  "name": "Kryuel",
+  "number": "82642348",
+  "is_illegal": false,
+  "text": "When this card is sent to the Graveyard as a result of battle, toss a coin and call it. If you call it right, destroy 1 monster on your opponent's side of the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1000",
+  "defense": "1700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

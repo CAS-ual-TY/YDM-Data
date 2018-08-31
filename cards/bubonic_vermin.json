@@ -1,0 +1,25 @@
+{
+  "name": "Bubonic Vermin",
+  "number": "6104968",
+  "is_illegal": false,
+  "text": "FLIP: You can Special Summon 1 \"Bubonic Vermin\" from your Deck in face-down Defense Position. Then shuffle your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "900",
+  "defense": "600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

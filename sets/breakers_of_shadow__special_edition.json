@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Breakers of Shadow: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2016-02-25",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "BOSH",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Beast-Eyes Pendulum Dragon",
+        "set_number": "BOSH-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 23: Lancelot, Dark Knight of the Underworld",
+        "set_number": "BOSH-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Beacon of White",
+        "set_number": "BOSH-ENSE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Forge of the True Dracos",
+        "set_number": "BOSH-ENSE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

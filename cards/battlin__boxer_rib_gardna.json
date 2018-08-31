@@ -1,0 +1,24 @@
+{
+  "name": "Battlin' Boxer Rib Gardna",
+  "number": "24184846",
+  "is_illegal": false,
+  "text": "During either player's turn: You can banish this card from your hand or Graveyard, then target 1 \"Battlin' Boxer\" monster you control; banish it until your next Standby Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "100",
+  "defense": "1400",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

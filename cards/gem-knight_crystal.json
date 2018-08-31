@@ -1,0 +1,24 @@
+{
+  "name": "Gem-Knight Crystal",
+  "number": "76908448",
+  "is_illegal": false,
+  "text": "A Gem-Knight officer of high rank, who has optimized the use of the crystal powers. Despite his ability to overwhelm most opponents, he's wary of stretching himself too thin, and opts for solidarity with his comrades.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2450",
+  "defense": "1950",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Black Dragon Collapserpent",
+  "number": "61901281",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT monster from your Graveyard, and cannot be Special Summoned by other ways. You can only Special Summon \"Black Dragon Collapserpent\" once per turn this way. If this card is sent from the field to the Graveyard: You can add 1 \"White Dragon Wyverburster\" from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1800",
+  "defense": "1700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Predaplant Moray Nepenthes",
+  "number": "22011689",
+  "is_illegal": false,
+  "text": "This card gains 200 ATK for each Predator Counter on the field. When this card destroys an opponent's monster by battle: You can equip that monster to this card. Once per turn: You can target 1 Monster Card equipped to this card by this card's effect; destroy it, and if you do, gain LP equal to its original ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "1600",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

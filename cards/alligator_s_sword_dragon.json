@@ -1,0 +1,24 @@
+{
+  "name": "Alligator's Sword Dragon",
+  "number": "3366982",
+  "is_illegal": false,
+  "text": "\"Baby Dragon\" + \"Alligator's Sword\"\nThis card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1700",
+  "defense": "1500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "5"
+}

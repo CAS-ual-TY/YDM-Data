@@ -1,0 +1,24 @@
+{
+  "name": "Supersonic Skull Flame",
+  "number": "63804806",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing 1 \"Skull Flame\" in your Graveyard from play. Once per turn, you can inflict 400 damage to your opponent for each \"Burning Skull Head\" in your Graveyard. When this card is sent from the field to the Graveyard, you can Special Summon 1 \"Skull Flame\" from your Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2600",
+  "defense": "2000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

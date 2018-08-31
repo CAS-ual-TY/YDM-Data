@@ -1,0 +1,826 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Revolution",
+    "type": "Booster Pack",
+    "date": "2010-04-17",
+    "distribution": "booster_pack",
+    "prefix": "DREV",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Earthquake Giant",
+        "set_number": "DREV-EN001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Effect Veiler",
+        "set_number": "DREV-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Dash Warrior",
+        "set_number": "DREV-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Damage Eater",
+        "set_number": "DREV-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "A/D Changer",
+        "set_number": "DREV-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Stronghold Guardian",
+        "set_number": "DREV-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Playful Possum",
+        "set_number": "DREV-EN007",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Egotistical Ape",
+        "set_number": "DREV-EN008",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Uni-Horned Familiar",
+        "set_number": "DREV-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Monoceros",
+        "set_number": "DREV-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D.D. Unicorn Knight",
+        "set_number": "DREV-EN011",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Unibird",
+        "set_number": "DREV-EN012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Bicorn Re'em",
+        "set_number": "DREV-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mine Mole",
+        "set_number": "DREV-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Trident Warrior",
+        "set_number": "DREV-EN015",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Delta Flyer",
+        "set_number": "DREV-EN016",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Rhinotaurus",
+        "set_number": "DREV-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hypnocorn",
+        "set_number": "DREV-EN018",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Scrap Chimera",
+        "set_number": "DREV-EN019",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Scrap Goblin",
+        "set_number": "DREV-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Scrap Beast",
+        "set_number": "DREV-EN021",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Scrap Hunter",
+        "set_number": "DREV-EN022",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Scrap Golem",
+        "set_number": "DREV-EN023",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Wattbetta",
+        "set_number": "DREV-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wattlemur",
+        "set_number": "DREV-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wattpheasant",
+        "set_number": "DREV-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Naturia Mosquito",
+        "set_number": "DREV-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Naturia Beans",
+        "set_number": "DREV-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Naturia Bamboo Shoot",
+        "set_number": "DREV-EN029",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Sage",
+        "set_number": "DREV-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Trainee",
+        "set_number": "DREV-EN031",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Queen",
+        "set_number": "DREV-EN032",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Lock Cat",
+        "set_number": "DREV-EN033",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elephun",
+        "set_number": "DREV-EN034",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Synchro Fusionist",
+        "set_number": "DREV-EN035",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Ambitious Gofer",
+        "set_number": "DREV-EN036",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Final Psychic Ogre",
+        "set_number": "DREV-EN037",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Dragon Knight Draco-Equiste",
+        "set_number": "DREV-EN038",
+        "rarities": [
+          "Holographic Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Holographic Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ultimate Axon Kicker",
+        "set_number": "DREV-EN039",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Thunder Unicorn",
+        "set_number": "DREV-EN040",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Voltic Bicorn",
+        "set_number": "DREV-EN041",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Lightning Tricorn",
+        "set_number": "DREV-EN042",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Scrap Dragon",
+        "set_number": "DREV-EN043",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Wattchimera",
+        "set_number": "DREV-EN044",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Blind Spot Strike",
+        "set_number": "DREV-EN045",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Double Cyclone",
+        "set_number": "DREV-EN046",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Scrapyard",
+        "set_number": "DREV-EN047",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Scrapstorm",
+        "set_number": "DREV-EN048",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Scrap Sheen",
+        "set_number": "DREV-EN049",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wattcine",
+        "set_number": "DREV-EN050",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Naturia Forest",
+        "set_number": "DREV-EN051",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Landoise's Luminous Moss",
+        "set_number": "DREV-EN052",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Village",
+        "set_number": "DREV-EN053",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Fighting Spirit",
+        "set_number": "DREV-EN054",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Unicorn Beacon",
+        "set_number": "DREV-EN055",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Beast Rage",
+        "set_number": "DREV-EN056",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Miracle Synchro Fusion",
+        "set_number": "DREV-EN057",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pestilence",
+        "set_number": "DREV-EN058",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cursed Armaments",
+        "set_number": "DREV-EN059",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Wiseman's Chalice",
+        "set_number": "DREV-EN060",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Summoning Curse",
+        "set_number": "DREV-EN061",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Pot of Duality",
+        "set_number": "DREV-EN062",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Desperate Tag",
+        "set_number": "DREV-EN063",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Battle Instinct",
+        "set_number": "DREV-EN064",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Howl of the Wild",
+        "set_number": "DREV-EN065",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Parallel Selection",
+        "set_number": "DREV-EN066",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Reanimation Wave",
+        "set_number": "DREV-EN067",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Barrier Wave",
+        "set_number": "DREV-EN068",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chain Whirlwind",
+        "set_number": "DREV-EN069",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Scrap Rage",
+        "set_number": "DREV-EN070",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wattcannon",
+        "set_number": "DREV-EN071",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Willpower",
+        "set_number": "DREV-EN072",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Queen's Pawn",
+        "set_number": "DREV-EN073",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Beast Rising",
+        "set_number": "DREV-EN074",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Horn of the Phantom Beast",
+        "set_number": "DREV-EN075",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Paradox Fusion",
+        "set_number": "DREV-EN076",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Solemn Warning",
+        "set_number": "DREV-EN077",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Anti-Magic Prism",
+        "set_number": "DREV-EN078",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chivalry",
+        "set_number": "DREV-EN079",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Light of Destruction",
+        "set_number": "DREV-EN080",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      }
+    ]
+  }
+}

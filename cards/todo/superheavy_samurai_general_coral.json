@@ -1,0 +1,28 @@
+{
+  "name": "Superheavy Samurai General Coral",
+  "number": "78274190",
+  "is_illegal": false,
+  "text": "If you have no Spell/Trap Cards in your Graveyard: You can Tribute up to 2 \"Superheavy Samurai\" monsters; draw that many cards. You can only use this effect of \"Superheavy Samurai General Coral\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "300",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "While you have a Spell/Trap Card(s) in your Graveyard, this card's Pendulum Scale becomes 4. Once per turn, when a \"Superheavy Samurai\" monster you control destroys an opponent's monster by battle: You can activate this effect; that monster can make a second attack in a row (even if this card leaves the field).",
+  "stars": "1"
+}

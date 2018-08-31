@@ -1,0 +1,24 @@
+{
+  "name": "B. Skull Dragon",
+  "number": "11901678",
+  "is_illegal": false,
+  "text": "\"Summoned Skull\" + \"Red-Eyes B. Dragon\"\n\n\n\n(This card is always treated as an \"Archfiend\" card.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3200",
+  "defense": "2500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "9"
+}

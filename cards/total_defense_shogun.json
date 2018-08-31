@@ -1,0 +1,24 @@
+{
+  "name": "Total Defense Shogun",
+  "number": "75372290",
+  "is_illegal": false,
+  "text": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned successfully. This card can attack while it is in Defense Position. If this card attacks while in Defense Position, apply the ATK of this card for damage calculation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1550",
+  "defense": "2500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

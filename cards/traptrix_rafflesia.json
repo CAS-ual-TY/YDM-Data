@@ -1,0 +1,24 @@
+{
+  "name": "Traptrix Rafflesia",
+  "number": "6511113",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nThis card is unaffected by Trap effects while it has Xyz Material. \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", cannot be destroyed by battle or card effects. Your opponent cannot target \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", with card effects. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 \"Hole\" Normal Trap Card that meets its activation conditions from your Deck to the Graveyard; this effect becomes that Trap Card's effect when that card is activated.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "300",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Batteryman Industrial Strength",
+  "number": "19441018",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 2 \"Batteryman\" monsters from your Graveyard. Once per turn, you can remove from play 1 Thunder-Type monster from your Graveyard to destroy 1 monster and 1 Spell or Trap Card on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "2600",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

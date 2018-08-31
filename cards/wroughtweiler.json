@@ -1,0 +1,24 @@
+{
+  "name": "Wroughtweiler",
+  "number": "6480253",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard: Target 1 \"Elemental HERO\" card and 1 \"Polymerization\" in your Graveyard; add both those targets to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "800",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

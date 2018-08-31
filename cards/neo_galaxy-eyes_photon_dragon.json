@@ -1,0 +1,24 @@
+{
+  "name": "Neo Galaxy-Eyes Photon Dragon",
+  "number": "39272762",
+  "is_illegal": false,
+  "text": "3 Level 8 monsters\nIf this card is Xyz Summoned using \"Galaxy-Eyes Photon Dragon\" as any of its materials: All other face-up cards currently on the field have their effects negated. Once per turn: You can detach 1 material from this card; detach all materials from monsters your opponent controls, then this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "4500",
+  "defense": "3000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "8"
+}

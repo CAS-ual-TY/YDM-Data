@@ -1,0 +1,24 @@
+{
+  "name": "X-Saber Uruz",
+  "number": "26993374",
+  "is_illegal": false,
+  "text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Tribute this card to return the destroyed card to the top of its owner's Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1600",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

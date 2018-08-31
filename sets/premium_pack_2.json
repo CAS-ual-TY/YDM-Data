@@ -1,0 +1,234 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Premium Pack 2",
+    "type": "Booster Pack",
+    "date": "1999-12-18",
+    "distribution": "premium_pack",
+    "prefix": "PP02",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Super War-Lion",
+        "set_number": "PP02-EN001",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "War-Lion Ritual",
+        "set_number": "PP02-EN002",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Sengenjin",
+        "set_number": "PP02-EN003",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Woodsman",
+        "set_number": "PP02-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Knospe",
+        "set_number": "PP02-EN005",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Poison Rose",
+        "set_number": "PP02-EN006",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Heat",
+        "set_number": "PP02-EN007",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Lady Heat",
+        "set_number": "PP02-EN008",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Terra Firma",
+        "set_number": "PP02-EN009",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Inferno",
+        "set_number": "PP02-EN010",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Rose Bud",
+        "set_number": "PP02-EN011",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Hero's Bond",
+        "set_number": "PP02-EN012",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Terra Firma Fravity",
+        "set_number": "PP02-EN013",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Voltic",
+        "set_number": "PP02-EN014",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Carrierroid",
+        "set_number": "PP02-EN015",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Mezuki",
+        "set_number": "PP02-EN016",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Evil Dragon Ananta",
+        "set_number": "PP02-EN017",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Athena",
+        "set_number": "PP02-EN018",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Hecatrice",
+        "set_number": "PP02-EN019",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Valhalla, Hall of the Fallen",
+        "set_number": "PP02-EN020",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

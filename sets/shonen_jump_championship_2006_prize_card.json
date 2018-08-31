@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump Championship 2006 Prize Card",
+    "type": "Tournament Promo Cards",
+    "date": "2006-05-06",
+    "distribution": "tournament_promo_cards",
+    "prefix": "SJC",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Shrink",
+        "set_number": "SJC-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Fairy Tail - Sleeper",
+  "number": "42921475",
+  "is_illegal": false,
+  "text": "FLIP: You can Special Summon 1 monster from your hand.\nDuring either player's turn, when your opponent activates a Normal Spell/Trap Card: You can Tribute 1 other monster; the activated effect becomes \"Change 1 face-up monster your opponent controls to face-down Defense Position\". You can only use this effect of \"Fairy Tail - Sleeper\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1850",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Frontline Observer",
+  "number": "12451640",
+  "is_illegal": false,
+  "text": "During the End Phase, if this card was Normal Summoned this turn: You can add 1 EARTH Pendulum Monster from your Deck to your hand. If this card was Normal Summoned, during the End Phase of the Summoning player's next turn: You can Tribute this card; add 1 EARTH monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

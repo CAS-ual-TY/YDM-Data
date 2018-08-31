@@ -1,0 +1,24 @@
+{
+  "name": "The Phantom Knights of Cursed Javelin",
+  "number": "12219047",
+  "is_illegal": false,
+  "text": "2 Level 2 monsters\nYou can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; until the end of this turn, change its ATK to 0, also it has its effects negated. This effect can be activated during either player's turn, if this card has a \"The Phantom Knights\" card as Xyz Material. You can only use this effect of \"The Phantom Knights of Cursed Javelin\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "2"
+}

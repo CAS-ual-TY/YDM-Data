@@ -1,0 +1,24 @@
+{
+  "name": "Samsara, Dragon of Rebirth",
+  "number": "29143726",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is destroyed by battle and sent to the Graveyard, or if this card you control is sent to your Graveyard by an opponent's card effect: You can target 1 monster in either player's Graveyard, except \"Samsara, Dragon of Rebirth\"; Special Summon it. You can only use this effect of \"Samsara, Dragon of Rebirth\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "100",
+  "defense": "2600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "5"
+}

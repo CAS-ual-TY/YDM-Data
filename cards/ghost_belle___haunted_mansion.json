@@ -1,0 +1,24 @@
+{
+  "name": "Ghost Belle & Haunted Mansion",
+  "number": "73642296",
+  "is_illegal": false,
+  "text": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that activation.\nâ—? Add a card(s) from the GY to the hand, Deck, and/or Extra Deck.\nâ—? Special Summon a Monster Card(s) from the GY.\nâ—? Banish a card(s) from the GY.\nYou can only use this effect of \"Ghost Belle & Haunted Mansion\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "0",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

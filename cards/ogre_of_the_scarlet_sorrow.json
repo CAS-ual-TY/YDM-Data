@@ -1,0 +1,24 @@
+{
+  "name": "Ogre of the Scarlet Sorrow",
+  "number": "82670878",
+  "is_illegal": false,
+  "text": "During your opponent's turn, when your opponent declares a second direct attack during the same Battle Phase, you can Special Summon this card from your hand. When you do, this card's ATK and DEF becomes equal to the ATK and DEF of the first monster that attacked directly this turn, if it is still face-up on the field. The turn this card is Special Summoned with this effect, your opponent cannot select monsters other than this card as an attack target while this card is face-up on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

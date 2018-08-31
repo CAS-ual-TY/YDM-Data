@@ -1,0 +1,11 @@
+{
+  "name": "Second Coin Toss",
+  "number": "36562627",
+  "is_illegal": false,
+  "text": "When a coin toss is performed, you can choose to redo the coin toss. (If the toss involved multiple coin flips, redo all of them.) You can only use the effect of \"Second Coin Toss\" once per turn.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Continuous"
+}

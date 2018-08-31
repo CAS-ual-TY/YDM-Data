@@ -1,0 +1,24 @@
+{
+  "name": "Queen Dragun Djinn",
+  "number": "90726340",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nDragon-Type monsters you control cannot be destroyed by battle, except \"Queen Dragun Djinn\". Once per turn: You can detach 1 Xyz Material from this card to target 1 Level 5 or higher Dragon-Type monster in your Graveyard; Special Summon that target. It cannot attack this turn, and its effects are negated.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2200",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

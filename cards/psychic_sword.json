@@ -1,0 +1,11 @@
+{
+  "name": "Psychic Sword",
+  "number": "92346415",
+  "is_illegal": false,
+  "text": "Equip only to a Psychic-Type monster. While your LP is lower than your opponent's, the equipped monster gains ATK equal to the difference (max. 2000).",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Equip"
+}

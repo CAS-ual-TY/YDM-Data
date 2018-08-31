@@ -1,0 +1,24 @@
+{
+  "name": "Blade Garoodia the Cubic Beast",
+  "number": "78509901",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 2 \"Cubic\" monsters you control to the Graveyard. If Summoned this way, this card gains 2000 ATK. This card can make a second attack during each Battle Phase. When this card destroys a monster by battle: You can target up to 3 \"Vijam the Cubic Seed\" in your Graveyard; send this card to the Graveyard, and if you do, Special Summon them, then you can add 1 \"Buster Gundil the Cubic Behemoth\" from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Edge Imp Chain",
+  "number": "61173621",
+  "is_illegal": false,
+  "text": "When this card declares an attack: You can add 1 \"Edge Imp Chain\" from your Deck to your hand. If this card is sent from the hand or field to the Graveyard: You can add 1 \"Frightfur\" card from your Deck to your hand. You can only use 1 \"Edge Imp Chain\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1200",
+  "defense": "1800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

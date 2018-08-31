@@ -1,0 +1,24 @@
+{
+  "name": "Stream, Dragon Ruler of Droplets",
+  "number": "27415516",
+  "is_illegal": false,
+  "text": "You can discard this card AND 1 Dragon-Type or WATER monster; Special Summon 1 \"Tidal, Dragon Ruler of Waterfalls\" from your Deck. It cannot attack this turn. You can only use the effect of \"Stream, Dragon Ruler of Droplets\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1600",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

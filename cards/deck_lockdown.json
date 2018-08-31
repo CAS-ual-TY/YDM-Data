@@ -1,0 +1,11 @@
+{
+  "name": "Deck Lockdown",
+  "number": "1149109",
+  "is_illegal": false,
+  "text": "Neither player can add cards from their Deck to their hand except by drawing them. Monsters cannot be Special Summoned from the Main Deck. Destroy this card during your 2nd Standby Phase after activation.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Continuous"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Number 18: Heraldry Patriarch",
+  "number": "23649496",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nOnce per Chain, during either player's turn, if 2 or more monsters with the same name are on the field: You can detach 1 Xyz Material from this card; choose 1 monster among those with the same name, and destroy all other monsters with that name. While this card remains face-up on the field, your opponent cannot Summon monsters with the same name as any of the monster(s) chosen for this card's effect. If this card is sent to the Graveyard: You can send 2 \"Heraldic Beast\" monsters from your Deck to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "2200",
+  "defense": "2200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

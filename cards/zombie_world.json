@@ -1,0 +1,11 @@
+{
+  "name": "Zombie World",
+  "number": "4064256",
+  "is_illegal": false,
+  "text": "All monsters on the field and in every Graveyard become Zombie-Type monsters. Neither player can Tribute Summon monsters, except Zombie-Type monsters.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Field"
+}

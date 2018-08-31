@@ -1,0 +1,24 @@
+{
+  "name": "Superheavy Samurai Ogre Shutendoji",
+  "number": "36953371",
+  "is_illegal": false,
+  "text": "1 Machine-Type Tuner + 1 or more non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. When this card is Synchro Summoned, while you have no Spell/Trap Cards in your Graveyard: You can destroy all Spell and Trap Cards your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "500",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Silver Dragon Value Box",
+    "type": "Starter Deck",
+    "date": "2013-09-13",
+    "distribution": "",
+    "prefix": "SDBE",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Azure-Eyes Silver Dragon",
+        "set_number": "SDBE-EN040",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      }
+    ]
+  }
+}

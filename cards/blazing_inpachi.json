@@ -1,0 +1,24 @@
+{
+  "name": "Blazing Inpachi",
+  "number": "5464695",
+  "is_illegal": false,
+  "text": "A wicked wooden spirit now burning in flames. Its fire attack is powerful, but it will soon be nothing but ashes.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "1850",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

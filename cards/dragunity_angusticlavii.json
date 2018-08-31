@@ -1,0 +1,24 @@
+{
+  "name": "Dragunity Angusticlavii",
+  "number": "88361177",
+  "is_illegal": false,
+  "text": "If this card is equipped with a Dragon-Type \"Dragunity\" monster, during battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "2100",
+  "defense": "1000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

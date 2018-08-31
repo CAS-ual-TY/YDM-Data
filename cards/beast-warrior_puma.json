@@ -1,0 +1,24 @@
+{
+  "name": "Beast-Warrior Puma",
+  "number": "16796157",
+  "is_illegal": false,
+  "text": "You can Tribute this card; add 1 \"D.D. Esper Star Sparrow\" from your Deck or Graveyard to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1600",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

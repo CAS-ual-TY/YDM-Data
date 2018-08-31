@@ -1,0 +1,24 @@
+{
+  "name": "Sephylon, the Ultimate Timelord",
+  "number": "8967776",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 10 or more monsters in your Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can Special Summon 1 Level 8 or higher Fairy-Type monster from your hand or Graveyard, but its effects are negated, also its ATK becomes 4000.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "4000",
+  "defense": "4000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

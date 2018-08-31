@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Elemental Energy Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2005-11-05",
+    "distribution": "tournament_promo_cards",
+    "prefix": "SP1",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Exchange of the Spirit",
+        "set_number": "SP1-EN004",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

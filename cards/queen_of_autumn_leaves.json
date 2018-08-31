@@ -1,0 +1,24 @@
+{
+  "name": "Queen of Autumn Leaves",
+  "number": "4179849",
+  "is_illegal": false,
+  "text": "Queen of the Emerald Forest and wife of the Spirit King, she lives surrounded by vivid red leaves.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "1800",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

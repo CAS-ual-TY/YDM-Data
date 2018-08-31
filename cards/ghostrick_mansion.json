@@ -1,0 +1,11 @@
+{
+  "name": "Ghostrick Mansion",
+  "number": "99795159",
+  "is_illegal": false,
+  "text": "Monsters cannot attack face-down Defense Position monsters, but can attack directly if all monsters their opponent controls are face-down Defense Position. All effect damage, and battle damage inflicted by monsters other than \"Ghostrick\" monsters, is halved.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Field"
+}

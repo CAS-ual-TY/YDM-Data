@@ -1,0 +1,24 @@
+{
+  "name": "Naturia Butterfly",
+  "number": "42110434",
+  "is_illegal": false,
+  "text": "Once per turn, when your opponent's monster declares an attack, you can send the top card of your Deck to the Graveyard and negate that attack.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "500",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

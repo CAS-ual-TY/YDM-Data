@@ -1,0 +1,24 @@
+{
+  "name": "Performapal Longphone Bull",
+  "number": "92170894",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned: You can add 1 \"Performapal\" monster from your Deck to your hand, except a Pendulum Monster. You can only use this effect of \"Performapal Longphone Bull\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1600",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

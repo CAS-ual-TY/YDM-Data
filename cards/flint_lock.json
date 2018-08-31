@@ -1,0 +1,24 @@
+{
+  "name": "Flint Lock",
+  "number": "83812099",
+  "is_illegal": false,
+  "text": "Once per turn, you can equip a \"Flint\" on the field to this card. You can take any \"Flint\" equipped to this card and equip it to another face-up monster. This card can only be equipped with one \"Flint\" at a time. While equipped with \"Flint\", this card is unaffected by \"Flint's\" effect and cannot be destroyed by battle.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

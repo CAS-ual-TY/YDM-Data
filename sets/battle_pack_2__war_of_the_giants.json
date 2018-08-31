@@ -1,0 +1,2588 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Battle Pack 2: War of the Giants",
+    "type": "Battle Pack",
+    "date": "2013-06-27",
+    "distribution": "bp02",
+    "prefix": "BP02",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Luster Dragon",
+        "set_number": "BP02-EN001",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gene-Warped Warwolf",
+        "set_number": "BP02-EN002",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Frostosaurus",
+        "set_number": "BP02-EN003",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Alexandrite Dragon",
+        "set_number": "BP02-EN004",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magician of Faith",
+        "set_number": "BP02-EN005",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Maha Vailo",
+        "set_number": "BP02-EN006",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyber Jar",
+        "set_number": "BP02-EN007",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Goblin Attack Force",
+        "set_number": "BP02-EN008",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Fiend Megacyber",
+        "set_number": "BP02-EN009",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Revival Jam",
+        "set_number": "BP02-EN010",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Kycoo the Ghost Destroyer",
+        "set_number": "BP02-EN011",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bazoo the Soul-Eater",
+        "set_number": "BP02-EN012",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gilasaurus",
+        "set_number": "BP02-EN013",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zombyra the Dark",
+        "set_number": "BP02-EN014",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sinister Serpent",
+        "set_number": "BP02-EN015",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Airknight Parshath",
+        "set_number": "BP02-EN016",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Twin-Headed Behemoth",
+        "set_number": "BP02-EN017",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Injection Fairy Lily",
+        "set_number": "BP02-EN018",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Helping Robo for Combat",
+        "set_number": "BP02-EN019",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Little-Winguard",
+        "set_number": "BP02-EN020",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D.D. Warrior Lady",
+        "set_number": "BP02-EN021",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Zolga",
+        "set_number": "BP02-EN022",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician of Chaos",
+        "set_number": "BP02-EN023",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Hyper Hammerhead",
+        "set_number": "BP02-EN024",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mataza the Zapper",
+        "set_number": "BP02-EN025",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Guardian Angel Joan",
+        "set_number": "BP02-EN026",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Slate Warrior",
+        "set_number": "BP02-EN027",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "D.D. Assailant",
+        "set_number": "BP02-EN028",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Ninja Grandmaster Sasuke",
+        "set_number": "BP02-EN029",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pitch-Black Warwolf",
+        "set_number": "BP02-EN030",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mirage Dragon",
+        "set_number": "BP02-EN031",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Big Shield Gardna",
+        "set_number": "BP02-EN032",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Toon Gemini Elf",
+        "set_number": "BP02-EN033",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chiron the Mage",
+        "set_number": "BP02-EN034",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Golem",
+        "set_number": "BP02-EN035",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Gyroid",
+        "set_number": "BP02-EN036",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Steamroid",
+        "set_number": "BP02-EN037",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Drillroid",
+        "set_number": "BP02-EN038",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyber Dragon",
+        "set_number": "BP02-EN039",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Goblin Elite Attack Force",
+        "set_number": "BP02-EN040",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Exarion Universe",
+        "set_number": "BP02-EN041",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mythical Beast Cerberus",
+        "set_number": "BP02-EN042",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Treeborn Frog",
+        "set_number": "BP02-EN043",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Submarineroid",
+        "set_number": "BP02-EN044",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ultimate Tyranno",
+        "set_number": "BP02-EN045",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Super Conductor Tyranno",
+        "set_number": "BP02-EN046",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Brain Crusher",
+        "set_number": "BP02-EN047",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Card Trooper",
+        "set_number": "BP02-EN048",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blockman",
+        "set_number": "BP02-EN049",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spell Striker",
+        "set_number": "BP02-EN050",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Winged Rhynos",
+        "set_number": "BP02-EN051",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Necro Gardna",
+        "set_number": "BP02-EN052",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Herald of Creation",
+        "set_number": "BP02-EN053",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Evil HERO Malicious Edge",
+        "set_number": "BP02-EN054",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Truckroid",
+        "set_number": "BP02-EN055",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Knight",
+        "set_number": "BP02-EN056",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dragon Ice",
+        "set_number": "BP02-EN057",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Copycat",
+        "set_number": "BP02-EN058",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyber Valley",
+        "set_number": "BP02-EN059",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Zerato",
+        "set_number": "BP02-EN060",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Belial - Marquis of Darkness",
+        "set_number": "BP02-EN061",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Doomcaliber Knight",
+        "set_number": "BP02-EN062",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Exodius the Ultimate Forbidden Lord",
+        "set_number": "BP02-EN063",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Valkyria",
+        "set_number": "BP02-EN064",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Phantom Dragon",
+        "set_number": "BP02-EN065",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Shield Warrior",
+        "set_number": "BP02-EN066",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Resonator",
+        "set_number": "BP02-EN067",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Krebons",
+        "set_number": "BP02-EN068",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "The Tricky",
+        "set_number": "BP02-EN069",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Splendid Venus",
+        "set_number": "BP02-EN070",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Plaguespreader Zombie",
+        "set_number": "BP02-EN071",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Machine Lord Ür",
+        "set_number": "BP02-EN072",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mosaic Manticore",
+        "set_number": "BP02-EN073",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Botanical Lion",
+        "set_number": "BP02-EN074",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blizzard Dragon",
+        "set_number": "BP02-EN075",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Des Mosquito",
+        "set_number": "BP02-EN076",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dandylion",
+        "set_number": "BP02-EN077",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fortress Warrior",
+        "set_number": "BP02-EN078",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Twin-Sword Marauder",
+        "set_number": "BP02-EN079",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Beast King Barbaros",
+        "set_number": "BP02-EN080",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Hedge Guard",
+        "set_number": "BP02-EN081",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Card Guard",
+        "set_number": "BP02-EN082",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "White Night Dragon",
+        "set_number": "BP02-EN083",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Beast Machine King Barbaros Ür",
+        "set_number": "BP02-EN084",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Evocator Chevalier",
+        "set_number": "BP02-EN085",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Battle Fader",
+        "set_number": "BP02-EN086",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Oracle of the Sun",
+        "set_number": "BP02-EN087",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Samurai of the Ice Barrier",
+        "set_number": "BP02-EN088",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jurrac Titano",
+        "set_number": "BP02-EN089",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Darklord Desire",
+        "set_number": "BP02-EN090",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Power Giant",
+        "set_number": "BP02-EN091",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Anarchist Monk Ranshin",
+        "set_number": "BP02-EN092",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ape Fighter",
+        "set_number": "BP02-EN093",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tanngrisnir of the Nordic Beasts",
+        "set_number": "BP02-EN094",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chaos Hunter",
+        "set_number": "BP02-EN095",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Axe Dragonute",
+        "set_number": "BP02-EN096",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Vylon Soldier",
+        "set_number": "BP02-EN097",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Zephyros the Elite",
+        "set_number": "BP02-EN098",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zubaba Knight",
+        "set_number": "BP02-EN099",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gogogo Golem",
+        "set_number": "BP02-EN100",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Needle Sunfish",
+        "set_number": "BP02-EN101",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shocktopus",
+        "set_number": "BP02-EN102",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Photon Thrasher",
+        "set_number": "BP02-EN103",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Interplanetarypurplythorny Dragon",
+        "set_number": "BP02-EN104",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tour Bus From the Underworld",
+        "set_number": "BP02-EN105",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Vylon Tetra",
+        "set_number": "BP02-EN106",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Vylon Stella",
+        "set_number": "BP02-EN107",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Vylon Prism",
+        "set_number": "BP02-EN108",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Photon Wyvern",
+        "set_number": "BP02-EN109",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Tasuke Knight",
+        "set_number": "BP02-EN110",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gagaga Gardna",
+        "set_number": "BP02-EN111",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cardcar D",
+        "set_number": "BP02-EN112",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Flame Tiger",
+        "set_number": "BP02-EN113",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tardy Orc",
+        "set_number": "BP02-EN114",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bull Blader",
+        "set_number": "BP02-EN115",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Solar Wind Jammer",
+        "set_number": "BP02-EN116",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mermail Abyssmegalo",
+        "set_number": "BP02-EN117",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Dododo Bot",
+        "set_number": "BP02-EN118",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bacon Saver",
+        "set_number": "BP02-EN119",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amarylease",
+        "set_number": "BP02-EN120",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hyper-Ancient Shark Megalodon",
+        "set_number": "BP02-EN121",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Pyrotech Mech - Shiryu",
+        "set_number": "BP02-EN122",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Aye-Iron",
+        "set_number": "BP02-EN123",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mecha Phantom Beast Hamstrat",
+        "set_number": "BP02-EN124",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Obelisk the Tormentor",
+        "set_number": "BP02-EN125",
+        "rarities": [
+          "Mosaic Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1
+        }
+      },
+      {
+        "card_name": "The Winged Dragon of Ra",
+        "set_number": "BP02-EN126",
+        "rarities": [
+          "Mosaic Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1
+        }
+      },
+      {
+        "card_name": "Slifer the Sky Dragon",
+        "set_number": "BP02-EN127",
+        "rarities": [
+          "Mosaic Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1
+        }
+      },
+      {
+        "card_name": "Monster Reborn",
+        "set_number": "BP02-EN128",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Pot of Greed",
+        "set_number": "BP02-EN129",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Shield & Sword",
+        "set_number": "BP02-EN130",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Axe of Despair",
+        "set_number": "BP02-EN131",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Malevolent Nuzzler",
+        "set_number": "BP02-EN132",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rush Recklessly",
+        "set_number": "BP02-EN133",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Horn of the Unicorn",
+        "set_number": "BP02-EN134",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Premature Burial",
+        "set_number": "BP02-EN135",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Scapegoat",
+        "set_number": "BP02-EN136",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Graceful Charity",
+        "set_number": "BP02-EN137",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Book of Moon",
+        "set_number": "BP02-EN138",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Reasoning",
+        "set_number": "BP02-EN139",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Autonomous Action Unit",
+        "set_number": "BP02-EN140",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Big Bang Shot",
+        "set_number": "BP02-EN141",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Riryoku",
+        "set_number": "BP02-EN142",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gravity Axe - Grarl",
+        "set_number": "BP02-EN143",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Enemy Controller",
+        "set_number": "BP02-EN144",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Earthquake",
+        "set_number": "BP02-EN145",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shrink",
+        "set_number": "BP02-EN146",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Swords of Concealing Light",
+        "set_number": "BP02-EN147",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Nightmare's Steelcage",
+        "set_number": "BP02-EN148",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mausoleum of the Emperor",
+        "set_number": "BP02-EN149",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Card Trader",
+        "set_number": "BP02-EN150",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Fiend's Sanctuary",
+        "set_number": "BP02-EN151",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Union Attack",
+        "set_number": "BP02-EN152",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fighting Spirit",
+        "set_number": "BP02-EN153",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Star Blast",
+        "set_number": "BP02-EN154",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Forbidden Chalice",
+        "set_number": "BP02-EN155",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Reptilianne Rage",
+        "set_number": "BP02-EN156",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rocket Pilder",
+        "set_number": "BP02-EN157",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Half Shut",
+        "set_number": "BP02-EN158",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cursed Armaments",
+        "set_number": "BP02-EN159",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pot of Duality",
+        "set_number": "BP02-EN160",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Axe of Fools",
+        "set_number": "BP02-EN161",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Forbidden Lance",
+        "set_number": "BP02-EN162",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blustering Winds",
+        "set_number": "BP02-EN163",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ego Boost",
+        "set_number": "BP02-EN164",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shard of Greed",
+        "set_number": "BP02-EN165",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Full-Force Strike",
+        "set_number": "BP02-EN166",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Photon Sanctuary",
+        "set_number": "BP02-EN167",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Forbidden Dress",
+        "set_number": "BP02-EN168",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Reverse Trap",
+        "set_number": "BP02-EN169",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Waboku",
+        "set_number": "BP02-EN170",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Call of the Haunted",
+        "set_number": "BP02-EN171",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Mirror Wall",
+        "set_number": "BP02-EN172",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Metalmorph",
+        "set_number": "BP02-EN173",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mask of Weakness",
+        "set_number": "BP02-EN174",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Reckless Greed",
+        "set_number": "BP02-EN175",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Rope of Life",
+        "set_number": "BP02-EN176",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Windstorm of Etaqua",
+        "set_number": "BP02-EN177",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zero Gravity",
+        "set_number": "BP02-EN178",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "A Hero Emerges",
+        "set_number": "BP02-EN179",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Embodiment of Apophis",
+        "set_number": "BP02-EN180",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Draining Shield",
+        "set_number": "BP02-EN181",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Curse of Anubis",
+        "set_number": "BP02-EN182",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Labyrinth of Nightmare",
+        "set_number": "BP02-EN183",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Threatening Roar",
+        "set_number": "BP02-EN184",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rising Energy",
+        "set_number": "BP02-EN185",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magical Arm Shield",
+        "set_number": "BP02-EN186",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shattered Axe",
+        "set_number": "BP02-EN187",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Stronghold the Moving Fortress",
+        "set_number": "BP02-EN188",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Strike Slash",
+        "set_number": "BP02-EN189",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "No Entry!!",
+        "set_number": "BP02-EN190",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cloning",
+        "set_number": "BP02-EN191",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sinister Seeds",
+        "set_number": "BP02-EN192",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Metal Reflect Slime",
+        "set_number": "BP02-EN193",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zoma the Spirit",
+        "set_number": "BP02-EN194",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Miniaturize",
+        "set_number": "BP02-EN195",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spacegate",
+        "set_number": "BP02-EN196",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Overworked",
+        "set_number": "BP02-EN197",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Kunai with Chain",
+        "set_number": "BP02-EN198",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Prideful Roar",
+        "set_number": "BP02-EN199",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Time Machine",
+        "set_number": "BP02-EN200",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Half or Nothing",
+        "set_number": "BP02-EN201",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Miracle Locus",
+        "set_number": "BP02-EN202",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Skill Successor",
+        "set_number": "BP02-EN203",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Power Frame",
+        "set_number": "BP02-EN204",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Damage Gate",
+        "set_number": "BP02-EN205",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Miracle's Wake",
+        "set_number": "BP02-EN206",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Half Counter",
+        "set_number": "BP02-EN207",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Golden Apples",
+        "set_number": "BP02-EN208",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Tiki Curse",
+        "set_number": "BP02-EN209",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tiki Soul",
+        "set_number": "BP02-EN210",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Impenetrable Attack",
+        "set_number": "BP02-EN211",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Memory of an Adversary",
+        "set_number": "BP02-EN212",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Dimension Gate",
+        "set_number": "BP02-EN213",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spikeshield with Chain",
+        "set_number": "BP02-EN214",
+        "rarities": [
+          "Mosaic Rare",
+          "Rare"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Breakthrough Skill",
+        "set_number": "BP02-EN215",
+        "rarities": [
+          "Mosaic Rare",
+          "Common"
+        ],
+        "count": {
+          "Mosaic Rare": 1,
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

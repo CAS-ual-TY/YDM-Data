@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Pack Collection Tin 2009",
+    "type": "Special Edition Promo Cards",
+    "date": "2009-03-03",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "DPCT",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Stardust Dragon/Assault Mode",
+        "set_number": "DPCT-EN003",
+        "rarities": [
+          "Secret Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

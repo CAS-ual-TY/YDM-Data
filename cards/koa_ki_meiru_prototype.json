@@ -1,0 +1,24 @@
+{
+  "name": "Koa'ki Meiru Prototype",
+  "number": "176392",
+  "is_illegal": false,
+  "text": "If a face-up \"Koa'ki Meiru\" monster(s) on the field would be destroyed during the End Phase, you can destroy this card instead. When a face-up \"Koa'ki Meiru\" monster(s) on the field is destroyed during the End Phase, you can Special Summon 1 \"Koa'ki Meiru Token\" (Rock-Type/EARTH/Level 4/ATK 1800/DEF 1800).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1800",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

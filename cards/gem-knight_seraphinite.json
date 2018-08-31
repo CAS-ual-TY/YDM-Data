@@ -1,0 +1,24 @@
+{
+  "name": "Gem-Knight Seraphinite",
+  "number": "3113836",
+  "is_illegal": false,
+  "text": "1 \"Gem-Knight\" monster + 1 LIGHT monster\nMust first be Fusion Summoned with the above Fusion Material Monsters. During your Main Phase, you can Normal Summon/Set 1 monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2300",
+  "defense": "1400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "5"
+}

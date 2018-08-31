@@ -1,0 +1,24 @@
+{
+  "name": "Worm Erokin",
+  "number": "14936691",
+  "is_illegal": false,
+  "text": "This card cannot be Special Summoned. Once per turn, select 1 face-up Reptile-Type \"Worm\" monster on the field and change it into face-down Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "2400",
+  "defense": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

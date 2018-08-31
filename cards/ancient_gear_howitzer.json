@@ -1,0 +1,24 @@
+{
+  "name": "Ancient Gear Howitzer",
+  "number": "87182127",
+  "is_illegal": false,
+  "text": "2 \"Ancient Gear\" monsters\nUnaffected by other cards' effects. During your Main Phase: You can inflict 1000 damage to your opponent. You can only use this effect of \"Ancient Gear Howitzer\" once per turn. If this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"Ancient Gear\" monster from your Deck, ignoring its Summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

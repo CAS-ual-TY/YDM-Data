@@ -1,0 +1,24 @@
+{
+  "name": "Ally of Justice Core Destroyer",
+  "number": "36629203",
+  "is_illegal": false,
+  "text": "If this card attacks or is attacked by a LIGHT monster, destroy that monster at the start of the Damage Step (without damage calculation).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1200",
+  "defense": "200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

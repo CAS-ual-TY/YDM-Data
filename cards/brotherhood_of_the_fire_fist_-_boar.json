@@ -1,0 +1,24 @@
+{
+  "name": "Brotherhood of the Fire Fist - Boar",
+  "number": "66762372",
+  "is_illegal": false,
+  "text": "Cannot be used as a Synchro Material Monster, except for the Synchro Summon of a FIRE monster. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 \"Fire Fist\" monster from your Deck, except \"Brotherhood of the Fire Fist - Boar\". Once per turn, when a \"Fire Fist\" monster is Special Summoned from your Extra Deck: You can Set 1 \"Fire Formation\" Spell Card directly from your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1100",
+  "defense": "1400",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "4"
+}

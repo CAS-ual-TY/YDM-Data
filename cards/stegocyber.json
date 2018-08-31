@@ -1,0 +1,24 @@
+{
+  "name": "Stegocyber",
+  "number": "99733359",
+  "is_illegal": false,
+  "text": "During damage calculation, if your opponent's monster attacks while this card is in your Graveyard: You can pay 1000 LP; Special Summon this card, and if you do, you take no battle damage from that battle, but banish this card when it leaves the field (this is a Quick Effect). You can only use this effect of \"Stegocyber\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1200",
+  "defense": "2400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

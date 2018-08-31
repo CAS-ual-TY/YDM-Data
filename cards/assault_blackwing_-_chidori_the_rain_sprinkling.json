@@ -1,0 +1,24 @@
+{
+  "name": "Assault Blackwing - Chidori the Rain Sprinkling",
+  "number": "23338098",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned using a \"Blackwing\" monster as Material, it is treated as a Tuner monster while face-up on the field. This card gains 300 ATK for each \"Blackwing\" monster in your Graveyard. When this card is destroyed and sent to the Graveyard: You can target 1 Winged Beast-Type Synchro Monster in your Graveyard, except \"Assault Blackwing - Chidori the Rain Sprinkling\"; Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "2600",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}

@@ -1,0 +1,114 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Pack Collection Tin 2010",
+    "type": "Special Edition Promo Cards",
+    "date": "2010-03-05",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "DPCT",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Starlight Road",
+        "set_number": "DPCT-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Junk Synchron",
+        "set_number": "DPCT-ENY01",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Quillbolt Hedgehog",
+        "set_number": "DPCT-ENY02",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Synchro Blast Wave",
+        "set_number": "DPCT-ENY03",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Drill Synchron",
+        "set_number": "DPCT-ENY04",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Speed Warrior",
+        "set_number": "DPCT-ENY05",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Advance Draw",
+        "set_number": "DPCT-ENY06",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Level Eater",
+        "set_number": "DPCT-ENY07",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "One for One",
+        "set_number": "DPCT-ENY08",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Scrap-Iron Scarecrow",
+        "set_number": "DPCT-ENY09",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

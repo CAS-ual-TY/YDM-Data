@@ -1,0 +1,25 @@
+{
+  "name": "Cyber Angel Vrash",
+  "number": "78316184",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can destroy as many face-up monsters your opponent controls as possible that were Special Summoned from the Extra Deck, and if you do, inflict 1000 damage to your opponent for each, and if you do that, this card can make a second attack during each Battle Phase this turn. Once per turn, during either player's turn, when a card or effect is activated that would destroy a card on the field: You can shuffle 1 Ritual Monster from your Graveyard into the Deck; negate the activation, and if you do, destroy that card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "3000",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "10"
+}

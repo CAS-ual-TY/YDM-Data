@@ -1,0 +1,24 @@
+{
+  "name": "Master Kyonshee",
+  "number": "24530661",
+  "is_illegal": false,
+  "text": "A wandering Kyonshee searching for a strong rival to defeat. They say he was known as the master of all martial arts.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1750",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

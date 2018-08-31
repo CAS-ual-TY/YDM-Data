@@ -1,0 +1,24 @@
+{
+  "name": "Keeper of the Shrine",
+  "number": "66752837",
+  "is_illegal": false,
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a Dragon-Type monster. While this card is in your hand or Graveyard, if a face-up Dragon-Type monster on the field, except \"Keeper of the Shrine\", is sent to the Graveyard by a card effect or because it was destroyed by battle: You can Special Summon this card, then, if that monster sent to the Graveyard is a Normal Monster, you can add 1 Dragon-Type Normal Monster from your Graveyard to your hand. You can only use this effect of \"Keeper of the Shrine\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "0",
+  "defense": "2100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

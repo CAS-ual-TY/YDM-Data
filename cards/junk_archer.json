@@ -1,0 +1,24 @@
+{
+  "name": "Junk Archer",
+  "number": "42810973",
+  "is_illegal": false,
+  "text": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nOnce per turn: You can target 1 monster your opponent controls; banish it. During the End Phase of this turn, return it to your opponent's side of the field, in the same battle position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2300",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}

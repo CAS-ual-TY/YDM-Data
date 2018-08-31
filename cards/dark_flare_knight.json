@@ -1,0 +1,24 @@
+{
+  "name": "Dark Flare Knight",
+  "number": "13722870",
+  "is_illegal": false,
+  "text": "\"Dark Magician\" + \"Flame Swordsman\"\nYou take no Battle Damage from battles involving this card. When this card is destroyed by battle and sent to the Graveyard: Special Summon 1 \"Mirage Knight\" from your hand or Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2200",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

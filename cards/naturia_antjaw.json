@@ -1,0 +1,24 @@
+{
+  "name": "Naturia Antjaw",
+  "number": "99150062",
+  "is_illegal": false,
+  "text": "When your opponent Special Summons a monster(s), you can Special Summon 1 Level 3 or lower \"Naturia\" monster from your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "400",
+  "defense": "200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

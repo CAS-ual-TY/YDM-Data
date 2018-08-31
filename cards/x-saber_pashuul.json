@@ -1,0 +1,24 @@
+{
+  "name": "X-Saber Pashuul",
+  "number": "23093604",
+  "is_illegal": false,
+  "text": "This card cannot be destroyed by battle. During each of your opponent's Standby Phases: You take 1000 damage. You must control this card in face-up Defense Position to activate and to resolve this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "100",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

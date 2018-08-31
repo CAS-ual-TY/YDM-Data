@@ -1,0 +1,24 @@
+{
+  "name": "Dark Requiem Xyz Dragon",
+  "number": "1621413",
+  "is_illegal": false,
+  "text": "3 Level 5 monsters\nIf this card has \"Dark Rebellion Xyz Dragon\" as Xyz Material, it gains these effects.\nâ—? Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; change its ATK to 0, and if you do, this card gains ATK equal to that monster's original ATK.\nâ—? During either player's turn, when your opponent activates a monster effect: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card, then you can Special Summon 1 Xyz Monster from your Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

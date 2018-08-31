@@ -1,0 +1,24 @@
+{
+  "name": "Doomcaliber Knight",
+  "number": "78700060",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned. During either player's turn, if a monster effect is activated: Tribute this face-up card; negate the activation, and if you do, destroy that monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1900",
+  "defense": "1800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

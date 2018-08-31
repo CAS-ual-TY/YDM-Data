@@ -1,0 +1,24 @@
+{
+  "name": "Ronintoadin",
+  "number": "1357146",
+  "is_illegal": false,
+  "text": "Cannot be used as a Synchro Material. This card's name becomes \"Des Frog\" while it is on the field. If this card is in your Graveyard: You can banish 1 \"Frog\" monster from your Graveyard; Special Summon this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "100",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

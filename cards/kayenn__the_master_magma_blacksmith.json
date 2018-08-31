@@ -1,0 +1,24 @@
+{
+  "name": "Kayenn, the Master Magma Blacksmith",
+  "number": "51554871",
+  "is_illegal": false,
+  "text": "You can banish this card from your Graveyard; all face-up \"Laval\" monsters you currently control gain 400 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1200",
+  "defense": "200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

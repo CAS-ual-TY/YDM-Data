@@ -1,0 +1,11 @@
+{
+  "name": "Champion's Vigilance",
+  "number": "82382815",
+  "is_illegal": false,
+  "text": "If you control a Level 7 or higher Normal Monster, when a monster would be Summoned OR a Spell/Trap Card is activated: Negate the Summon or activation, and if you do, destroy that card.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

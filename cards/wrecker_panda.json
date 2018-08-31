@@ -1,0 +1,24 @@
+{
+  "name": "Wrecker Panda",
+  "number": "28139785",
+  "is_illegal": false,
+  "text": "Once per turn, during the Standby Phase: You can pay 500 LP; send the top card of your Deck to the Graveyard, and if you do, this card gains ATK and DEF equal to that monster's Level x 200 if it was a monster. If this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can add 1 monster with the lowest Level from your Graveyard to your hand (your choice, if tied).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "800",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

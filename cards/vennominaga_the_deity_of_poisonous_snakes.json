@@ -1,0 +1,24 @@
+{
+  "name": "Vennominaga the Deity of Poisonous Snakes",
+  "number": "8062132",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned or Set. Must first be Special Summoned with \"Rise of the Snake Deity\" and cannot be Special Summoned by other ways except by its own effect. This card gains 500 ATK for each Reptile-Type monster in your Graveyard. This card cannot be targeted by, and is unaffected by, Spell/Trap effects and other Effect Monsters' effects. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other Reptile-Type monster from your Graveyard; Special Summon this card. When this card inflicts Battle Damage to your opponent: Place 1 Hyper-Venom Counter on it. When 3 Hyper-Venom Counters are on this card, you win the Duel.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Hobby League 4",
+    "type": "Duelist League Promo Cards",
+    "date": "2007-06-21",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "HL04",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Exiled Force",
+        "set_number": "HL04-EN001",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Swords of Revealing Light",
+        "set_number": "HL04-EN002",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Asura Priest",
+        "set_number": "HL04-EN003",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Graceful Charity",
+        "set_number": "HL04-EN004",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Kycoo the Ghost Destroyer",
+        "set_number": "HL04-EN005",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Torrential Tribute",
+        "set_number": "HL04-EN006",
+        "rarities": [
+          "Ultra Parallel Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1
+        }
+      }
+    ]
+  }
+}

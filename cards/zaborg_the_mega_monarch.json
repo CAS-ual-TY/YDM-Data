@@ -1,0 +1,24 @@
+{
+  "name": "Zaborg the Mega Monarch",
+  "number": "87602890",
+  "is_illegal": false,
+  "text": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Target 1 monster on the field; destroy it, then, if it was a LIGHT monster, both players send as many cards as possible from their Extra Deck to the Graveyard, but not more than the original Level/Rank of that destroyed monster. If this card was Tribute Summoned by Tributing a LIGHT monster, add this additional effect.\nâ—? You choose the cards your opponent sends to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "2800",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

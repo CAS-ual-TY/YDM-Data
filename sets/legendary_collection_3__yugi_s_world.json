@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Legendary Collection 3: Yugi's World",
+    "type": "Legendary Collection",
+    "date": "2012-09-27",
+    "distribution": "legendary_collection",
+    "prefix": "LC03",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "The Seal of Orichalcos",
+        "set_number": "LC03-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Necrofear",
+        "set_number": "LC03-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Guardian Eatos",
+        "set_number": "LC03-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Five-Headed Dragon",
+        "set_number": "LC03-EN004",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

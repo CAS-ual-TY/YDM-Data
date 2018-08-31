@@ -1,0 +1,24 @@
+{
+  "name": "Little Fairy",
+  "number": "45939611",
+  "is_illegal": false,
+  "text": "Up to twice per turn: You can send 1 card from your hand to the Graveyard; increase this card's Level by 1.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "800",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

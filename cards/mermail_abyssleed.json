@@ -1,0 +1,24 @@
+{
+  "name": "Mermail Abyssleed",
+  "number": "37781520",
+  "is_illegal": false,
+  "text": "You can discard 3 other WATER monsters to the Graveyard; Special Summon this card from your hand. When you do: You can target 1 \"Abyss-\" Spell/Trap Card in your Graveyard; add that target to your hand. You can Tribute 1 other face-up Attack Position \"Mermail\" monster; send 1 random card from your opponent's hand to the Graveyard. You can only use this effect of \"Mermail Abyssleed\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "2700",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

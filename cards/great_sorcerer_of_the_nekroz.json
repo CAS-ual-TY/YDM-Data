@@ -1,0 +1,24 @@
+{
+  "name": "Great Sorcerer of the Nekroz",
+  "number": "27796375",
+  "is_illegal": false,
+  "text": "If this card is Tributed by a card effect: You can add 1 Spellcaster-Type \"Nekroz\" Ritual Monster from your Deck to your hand. If this card is banished: You can send 1 \"Nekroz\" monster from your Deck to the Graveyard, except \"Great Sorcerer of the Nekroz\". You can only use 1 \"Great Sorcerer of the Nekroz\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1500",
+  "defense": "800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

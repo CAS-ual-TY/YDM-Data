@@ -1,0 +1,24 @@
+{
+  "name": "Assault Blackwing - Onimaru the Divine Thunder",
+  "number": "80773359",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned using a \"Blackwing\" monster as Material, it is treated as a Tuner while face-up on the field. Cannot be destroyed by card effects. You can target 1 \"Blackwing\" monster in your Graveyard; this card's Level becomes the same as that monster's. You can only use this effect of \"Assault Blackwing - Onimaru the Divine Thunder\" once per Duel. If this card that was Synchro Summoned using only Synchro Monsters attacks, this card gains 3000 ATK during the Damage Step only.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "3000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "12"
+}

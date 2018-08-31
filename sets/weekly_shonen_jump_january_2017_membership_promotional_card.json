@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Weekly Shonen Jump January 2017 membership promotional card",
+    "type": "Shonen Jump",
+    "date": "2017-01-16",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Odd-Eyes Persona Dragon",
+        "set_number": "JUMP-EN079",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

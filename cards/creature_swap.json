@@ -1,0 +1,11 @@
+{
+  "name": "Creature Swap",
+  "number": "31036355",
+  "is_illegal": false,
+  "text": "Each player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Normal"
+}

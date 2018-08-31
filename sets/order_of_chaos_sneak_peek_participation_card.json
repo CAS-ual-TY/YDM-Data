@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Order of Chaos Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2012-01-14",
+    "distribution": "tournament_promo_cards",
+    "prefix": "ORCS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Inzektor Axe - Zektahawk",
+        "set_number": "ORCS-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

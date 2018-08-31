@@ -1,0 +1,24 @@
+{
+  "name": "Igknight Lancer",
+  "number": "23296404",
+  "is_illegal": false,
+  "text": "While this card is in your hand: You can target 3 \"Igknight\" cards you control; destroy them, and if you do, Special Summon this card. Once per turn: You can target 1 other \"Igknight\" monster you control; return it to the hand, and if you do, place 1 Spell/Trap Card your opponent controls on the bottom of the Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2600",
+  "defense": "1800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

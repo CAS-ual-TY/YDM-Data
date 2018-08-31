@@ -1,0 +1,24 @@
+{
+  "name": "Angel O7",
+  "number": "56784842",
+  "is_illegal": false,
+  "text": "When this card is Tribute Summoned, it gains the following effect: â—? The effects of Effect Monsters cannot be activated.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2500",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

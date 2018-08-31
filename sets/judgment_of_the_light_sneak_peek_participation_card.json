@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Judgment of the Light Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2013-02-21",
+    "distribution": "tournament_promo_cards",
+    "prefix": "JOTL",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Galaxy Serpent",
+        "set_number": "JOTL-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

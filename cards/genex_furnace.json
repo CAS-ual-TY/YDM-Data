@@ -1,0 +1,24 @@
+{
+  "name": "Genex Furnace",
+  "number": "53944920",
+  "is_illegal": false,
+  "text": "If you control a face-up \"Genex Controller\", you can Normal Summon this card without Tributing.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "2000",
+  "defense": "1300",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

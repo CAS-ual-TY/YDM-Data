@@ -1,0 +1,24 @@
+{
+  "name": "Unifrog",
+  "number": "56052205",
+  "is_illegal": false,
+  "text": "This card can attack your opponent directly. When this card successfully attacks directly, if you control a \"Frog\" monster other than \"Frog the Jam\" or \"Unifrog\", you can destroy 1 Spell or Trap your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "400",
+  "defense": "400",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Atlantean Marksman",
+  "number": "706925",
+  "is_illegal": false,
+  "text": "When this card inflicts battle damage to your opponent: You can Special Summon 1 Level 4 or lower \"Atlantean\" Sea Serpent-Type monster from your Deck, except \"Atlantean Marksman\". When this card is sent to the Graveyard to activate a WATER monster's effect: Target 1 Set card your opponent controls; destroy that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "1400",
+  "defense": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

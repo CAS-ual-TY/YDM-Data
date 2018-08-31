@@ -1,0 +1,24 @@
+{
+  "name": "Mermail Abyssdine",
+  "number": "74298287",
+  "is_illegal": false,
+  "text": "When this card is added from your Deck or Graveyard to your hand by a card effect: You can Special Summon this card from your hand. You must control a \"Mermail\" monster to activate and to resolve this effect. When this card is Special Summoned by the effect of a \"Mermail\" monster: You can target 1 Level 3 or lower \"Mermail\" monster in your Graveyard; Special Summon that target. You can only use 1 \"Mermail Abyssdine\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1000",
+  "defense": "200",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Heroic Challenger - Extra Sword",
+  "number": "34143852",
+  "is_illegal": false,
+  "text": "An Xyz Monster that was Summoned using this card as Xyz Material gains this effect.\nâ—? When it is Xyz Summoned: It gains 1000 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

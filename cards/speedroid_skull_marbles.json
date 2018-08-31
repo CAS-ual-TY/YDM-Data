@@ -1,0 +1,24 @@
+{
+  "name": "Speedroid Skull Marbles",
+  "number": "35494087",
+  "is_illegal": false,
+  "text": "Once per turn, during the Standby Phase, if your opponent controls a face-up monster that was Special Summoned from the Extra Deck: You can Special Summon this card from your hand. Cannot be destroyed by battle with a Normal Summoned/Set monster. Your opponent takes any battle damage you would have taken from battles involving this card. You can only use this effect of \"Speedroid Skull Marbles\" once per turn. If you control a face-up monster that is not a \"Speedroid\" monster, destroy this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "3000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

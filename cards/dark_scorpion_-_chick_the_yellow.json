@@ -1,0 +1,24 @@
+{
+  "name": "Dark Scorpion - Chick the Yellow",
+  "number": "61587183",
+  "is_illegal": false,
+  "text": "When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:\nâ—? Target 1 card on the field; return that target to the hand.\nâ—? Look at the top card of their Deck, then return it to the top or bottom of the Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Allure Queen LV3",
+  "number": "87257460",
+  "is_illegal": false,
+  "text": "Once per turn, during your Main Phase, you can select 1 Level 3 or lower monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead. During your Standby Phase, by sending this card to the Graveyard while it's equipped due to its effect, Special Summon 1 \"Allure Queen LV5\" from your hand or Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

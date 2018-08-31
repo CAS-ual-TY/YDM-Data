@@ -1,0 +1,11 @@
+{
+  "name": "Power Wall",
+  "number": "76403456",
+  "is_illegal": false,
+  "text": "During damage calculation, when you would take battle damage from an opponent's attacking monster: Send 1 card from the top of your Deck to the Graveyard for every 500 damage (round up) you are about to take, also you take no battle damage from that battle.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

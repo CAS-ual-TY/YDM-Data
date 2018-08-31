@@ -1,0 +1,24 @@
+{
+  "name": "Guardian of the Throne Room",
+  "number": "47879985",
+  "is_illegal": false,
+  "text": "A robot guard built to protect throne rooms, it is armed with homing missiles.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1650",
+  "defense": "1600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

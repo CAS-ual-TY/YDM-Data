@@ -1,0 +1,28 @@
+{
+  "name": "Gouki Thunder Ogre",
+  "number": "30010480",
+  "is_illegal": false,
+  "text": "2+ \"Gouki\" monsters\nIf a monster(s) this card points to is destroyed by battle or card effect: You can make this card gain 400 ATK. The turn player applies the following effect while this monster is on the field.\nâ—? During their Main Phase, they can Normal Summon 1 monster from their hand to their zone this card points to, in addition to their Normal Summon/Set. (They can only gain this effect once per turn.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Top",
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "3"
+}

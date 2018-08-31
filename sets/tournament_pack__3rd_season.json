@@ -1,0 +1,214 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Tournament Pack: 3rd Season",
+    "type": "Booster Pack",
+    "date": "2003-03-01",
+    "distribution": "booster_pack",
+    "prefix": "TP3",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Needle Worm",
+        "set_number": "TP3-001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Anti Raigeki",
+        "set_number": "TP3-002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Mechanicalchaser",
+        "set_number": "TP3-003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "B. Skull Dragon",
+        "set_number": "TP3-004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Horn of Heaven",
+        "set_number": "TP3-005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Axe Raider",
+        "set_number": "TP3-006",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Kwagar Hercules",
+        "set_number": "TP3-007",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Patrol Robo",
+        "set_number": "TP3-008",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "White Hole",
+        "set_number": "TP3-009",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Dragon Capture Jar",
+        "set_number": "TP3-010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Goblin's Secret Remedy",
+        "set_number": "TP3-011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Final Flame",
+        "set_number": "TP3-012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spirit of the Harp",
+        "set_number": "TP3-013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pot of Greed",
+        "set_number": "TP3-014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Karbonala Warrior",
+        "set_number": "TP3-015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Darkfire Dragon",
+        "set_number": "TP3-016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elegant Egotist",
+        "set_number": "TP3-017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Elf",
+        "set_number": "TP3-018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Little Chimera",
+        "set_number": "TP3-019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bladefly",
+        "set_number": "TP3-020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

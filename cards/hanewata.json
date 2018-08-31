@@ -1,0 +1,24 @@
+{
+  "name": "Hanewata",
+  "number": "20450925",
+  "is_illegal": false,
+  "text": "During either player's turn: You can discard this card; any effect damage you take this turn becomes 0.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "200",
+  "defense": "300",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Number S39: Utopia the Lightning",
+  "number": "56832966",
+  "is_illegal": false,
+  "text": "3 Level 5 LIGHT monsters\nYou can also Xyz Summon this card by using a Rank 4 \"Utopia\" monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Cannot be used as an Xyz Material for an Xyz Summon. If this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. Once per Chain, during damage calculation in either player's turn, if this card battles an opponent's monster while this card has a \"Utopia\" Xyz Monster as Xyz Material: You can detach 2 Xyz Materials from this card; this card's ATK becomes 5000 during that damage calculation only.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

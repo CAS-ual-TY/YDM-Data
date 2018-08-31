@@ -1,0 +1,24 @@
+{
+  "name": "Dragon Queen of Tragic Endings",
+  "number": "80513550",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) while you control 3 or more face-up Continuous Spell Cards. When this attacking card inflicts Battle Damage to your opponent: Your opponent sends 1 card from their hand to the Graveyard, then you draw 1 card. During your Standby Phase, if this card is in your Graveyard and was sent there from the field: You can send 1 face-up Continuous Spell Card you control to the Graveyard; Special Summon this card from the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1900",
+  "defense": "2600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

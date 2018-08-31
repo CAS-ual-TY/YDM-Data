@@ -1,0 +1,24 @@
+{
+  "name": "Battlin' Boxer Headgeared",
+  "number": "79867938",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can send 1 \"Battlin' Boxer\" monster from your Deck to the Graveyard. Once per turn, this face-up Attack Position card cannot be destroyed by battle.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "1800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

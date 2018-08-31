@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "WSJ Jump Pack Spring 2017 promotional card",
+    "type": "Shonen Jump",
+    "date": "2017-01-01",
+    "distribution": "shonen_jump",
+    "prefix": "JMPS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Obelisk the Tormentor",
+        "set_number": "JMPS-EN004",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

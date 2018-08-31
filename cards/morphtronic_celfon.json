@@ -1,0 +1,24 @@
+{
+  "name": "Morphtronic Celfon",
+  "number": "93542102",
+  "is_illegal": false,
+  "text": "â—? While in Attack Position: Once per turn, you can roll a six-sided die. Reveal cards from top of your Deck equal to the roll and Special Summon 1 Level 4 or lower \"Morphtronic\" monster from among them, ignoring the Summoning conditions. Shuffle the rest into the Deck.\nâ—? While in Defense Position: Once per turn, you can roll a six-sided die. Look at cards from top of your Deck equal to the roll, then return them in the same order.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

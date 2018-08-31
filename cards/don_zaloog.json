@@ -1,0 +1,24 @@
+{
+  "name": "Don Zaloog",
+  "number": "76922029",
+  "is_illegal": false,
+  "text": "When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:\nâ—? Discard 1 random card from their hand.\nâ—? Send the top 2 cards of their Deck to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1400",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

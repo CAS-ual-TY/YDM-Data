@@ -1,0 +1,25 @@
+{
+  "name": "Tour Bus To Forbidden Realms",
+  "number": "89732524",
+  "is_illegal": false,
+  "text": "FLIP: Add 1 Fiend-Type monster from your Deck to your hand, except a DARK or LIGHT monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "600",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

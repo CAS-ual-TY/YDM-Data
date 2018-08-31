@@ -1,0 +1,24 @@
+{
+  "name": "Vendread Anima",
+  "number": "70491682",
+  "is_illegal": false,
+  "text": "You can banish this card from your GY, then target 1 of your banished \"Vendread\" monsters, except \"Vendread Anima\"; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. A \"Vendread\" monster Ritual Summoned using this card on the field gains the following effect. You can only use each of the preceding effects of \"Vendread Anima\" once per turn.\nâ—? Banish any monster destroyed by battle with this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

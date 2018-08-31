@@ -1,0 +1,24 @@
+{
+  "name": "Zoa",
+  "number": "24311372",
+  "is_illegal": false,
+  "text": "A monster whose full potential can be achieved when outfitted with \"Metalmorph\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2600",
+  "defense": "1900",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "7"
+}

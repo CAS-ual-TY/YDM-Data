@@ -1,0 +1,24 @@
+{
+  "name": "Predaplant Banksiogre",
+  "number": "22138839",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) by Tributing 1 opponent's monster with a Predator Counter. If this card is sent from the field to the GY: Place 1 Predator Counter on each face-up monster your opponent controls, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "2000",
+  "defense": "100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

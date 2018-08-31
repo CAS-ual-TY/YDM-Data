@@ -1,0 +1,28 @@
+{
+  "name": "Performapal Lizardraw",
+  "number": "73130445",
+  "is_illegal": false,
+  "text": "If another face-up monster you control is destroyed by your opponent's attack or card effect: You can draw cards equal to the number of \"Performapal\" monsters you currently control. You can only use this effect of \"Performapal Lizardraw\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1200",
+  "defense": "600",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "If you have a \"Performapal\" card in your other Pendulum Zone, except \"Performapal Lizardraw\": You can destroy this card, and if you do, draw 1 card. You can only use this effect of \"Performapal Lizardraw\" once per turn.",
+  "stars": "3"
+}

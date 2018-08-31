@@ -1,0 +1,24 @@
+{
+  "name": "Slacker Magician",
+  "number": "58058134",
+  "is_illegal": false,
+  "text": "2 Level 1 monsters\nOnce per turn, this card cannot be destroyed by battle. During either player's turn, when a card or effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "200",
+  "defense": "2100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "1"
+}

@@ -1,0 +1,284 @@
+{
+  "status": "success",
+  "set": {
+    "name": "OTS Tournament Pack 5",
+    "type": "OTS Tournament Pack",
+    "date": "2017-08-05",
+    "distribution": "ots_tournament_pack",
+    "prefix": "OP05",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Ghost Ogre & Snow Rabbit",
+        "set_number": "OP05-EN001",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Whiptail",
+        "set_number": "OP05-EN002",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Terraforming",
+        "set_number": "OP05-EN003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dogoran, the Mad Flame Kaiju",
+        "set_number": "OP05-EN004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Fairy Tail - Snow",
+        "set_number": "OP05-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "SPYRAL Quik-Fix",
+        "set_number": "OP05-EN006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Fairy Tail - Sleeper",
+        "set_number": "OP05-EN007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Ramram",
+        "set_number": "OP05-EN008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ultimate Ancient Gear Golem",
+        "set_number": "OP05-EN009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Swing of Memories",
+        "set_number": "OP05-EN010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Disciples of the True Dracophoenix",
+        "set_number": "OP05-EN011",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Lost Wind",
+        "set_number": "OP05-EN012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "True Draco Apocalypse",
+        "set_number": "OP05-EN013",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Snakeyashi",
+        "set_number": "OP05-EN014",
+        "rarities": [
+          "Short Print"
+        ],
+        "count": {
+          "Short Print": 1
+        }
+      },
+      {
+        "card_name": "Feral Imp",
+        "set_number": "OP05-EN015",
+        "rarities": [
+          "Short Print"
+        ],
+        "count": {
+          "Short Print": 1
+        }
+      },
+      {
+        "card_name": "Mystical Shine Ball",
+        "set_number": "OP05-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Agent of Creation - Venus",
+        "set_number": "OP05-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Kagetokage",
+        "set_number": "OP05-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tin Goldfish",
+        "set_number": "OP05-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Scapeghost",
+        "set_number": "OP05-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fairy Tail - Luna",
+        "set_number": "OP05-EN021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rose Spectre of Dunn",
+        "set_number": "OP05-EN022",
+        "rarities": [
+          "Short Print"
+        ],
+        "count": {
+          "Short Print": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Absolute Zero",
+        "set_number": "OP05-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Scapegoat",
+        "set_number": "OP05-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chain Summoning",
+        "set_number": "OP05-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Secret Village of the Spellcasters",
+        "set_number": "OP05-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Grave of the Super Ancient Organism",
+        "set_number": "OP05-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Trigon",
+  "number": "48568432",
+  "is_illegal": false,
+  "text": "Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR unequip it to Special Summon this card in face-up Attack Position. While equipped to a monster by this effect, if the equipped monster destroys an opponent's monster by battle, select and Special Summon 1 Level 4 or lower LIGHT Machine-Type monster from your Graveyard. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "500",
+  "defense": "1700",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Union",
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Shien's Squire",
+  "number": "33883834",
+  "is_illegal": false,
+  "text": "During damage calculation, in either player's turn, if a \"Six Samurai\" monster you control battles: You can send this card from your hand to the Graveyard; that monster cannot be destroyed by battle this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "300",
+  "defense": "700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

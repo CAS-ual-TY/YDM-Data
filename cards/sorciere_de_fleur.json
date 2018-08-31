@@ -1,0 +1,24 @@
+{
+  "name": "Sorciere de Fleur",
+  "number": "36405256",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned, select 1 monster in your opponent's Graveyard. Special Summon that monster to your side of the field. It cannot attack your opponent directly, and is destroyed during the End Phase of this turn. The effect of \"Sorciere de Fleur\" can only be activated once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2900",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

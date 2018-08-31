@@ -1,0 +1,24 @@
+{
+  "name": "Boot Staggered",
+  "number": "70950698",
+  "is_illegal": false,
+  "text": "When a Cyberse monster is Normal Summoned to your field: You can Special Summon this card from your hand. You can only use this effect of \"Boot Staggered\" once per turn. When this card inflicts battle damage to your opponent: You can Special Summon 1 \"Stag Token\" (Cyberse/EARTH/Level 1/ATK 0/DEF 0).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyverse",
+  "attack": "2300",
+  "defense": "500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

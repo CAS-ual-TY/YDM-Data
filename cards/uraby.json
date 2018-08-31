@@ -1,0 +1,24 @@
+{
+  "name": "Uraby",
+  "number": "1784619",
+  "is_illegal": false,
+  "text": "Fast on its feet, this dinosaur rips enemies to shreds with its sharp claws.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1500",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

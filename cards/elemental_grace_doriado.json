@@ -1,0 +1,24 @@
+{
+  "name": "Elemental Grace Doriado",
+  "number": "32965616",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 6 or more monsters with different Attributes in the GYs. Gains ATK/DEF equal to the number of different Attributes in the GYs x 500. When your opponent would Special Summon a monster(s) (Quick Effect): You can banish 3 monsters from your GY; negate the Summon, and if you do, destroy that monster(s).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "9"
+}

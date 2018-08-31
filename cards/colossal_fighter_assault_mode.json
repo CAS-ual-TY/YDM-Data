@@ -1,0 +1,24 @@
+{
+  "name": "Colossal Fighter/Assault Mode",
+  "number": "38898779",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". When this card is Special Summoned, you can send up to 2 Warrior-Type monsters from your Deck to the Graveyard. All monsters your opponent controls lose 100 ATK for every Warrior-Type monster in your Graveyard. When this card on the field is destroyed, you can Special Summon 1 \"Colossal Fighter\" from your Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3300",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

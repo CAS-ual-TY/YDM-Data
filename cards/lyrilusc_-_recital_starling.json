@@ -1,0 +1,24 @@
+{
+  "name": "Lyrilusc - Recital Starling",
+  "number": "8491961",
+  "is_illegal": false,
+  "text": "2+ Level 1 monsters\nIf this card is Xyz Summoned: You can target 1 face-up monster on the field; it gains 300 ATK/DEF for each material attached to this card. Once per turn: You can detach 1 material from this card; add 1 Level 1 Winged Beast monster from your Deck to your hand. All battle damage you take from battles involving this Xyz Summoned card is also inflicted to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "1"
+}

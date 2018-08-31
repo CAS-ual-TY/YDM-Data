@@ -1,0 +1,1014 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duel Terminal 5",
+    "type": "Duel Terminal",
+    "date": "2011-05-29",
+    "distribution": "duel_terminal",
+    "prefix": "DT05",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Summoned Skull",
+        "set_number": "DT05-EN001",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyberdark Keel",
+        "set_number": "DT05-EN002",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "D.D. Crow",
+        "set_number": "DT05-EN003",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Necro Gardna",
+        "set_number": "DT05-EN004",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Level Eater",
+        "set_number": "DT05-EN005",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Spear Cretin",
+        "set_number": "DT05-EN006",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Maha Vailo",
+        "set_number": "DT05-EN007",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Nimble Momonga",
+        "set_number": "DT05-EN008",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Silent Swordsman LV3",
+        "set_number": "DT05-EN009",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Aussa the Earth Charmer",
+        "set_number": "DT05-EN010",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Slate Warrior",
+        "set_number": "DT05-EN011",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gellenduo",
+        "set_number": "DT05-EN012",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Card Ejector",
+        "set_number": "DT05-EN013",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Ocean",
+        "set_number": "DT05-EN014",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Tualatin",
+        "set_number": "DT05-EN015",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gem-Knight Garnet",
+        "set_number": "DT05-EN016",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gem-Knight Sapphire",
+        "set_number": "DT05-EN017",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gem-Knight Tourmaline",
+        "set_number": "DT05-EN018",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gem-Knight Alexandrite",
+        "set_number": "DT05-EN019",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gem-Armadillo",
+        "set_number": "DT05-EN020",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gem-Merchant",
+        "set_number": "DT05-EN021",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Laval Miller",
+        "set_number": "DT05-EN022",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Soaring Eagle Above the Searing Land",
+        "set_number": "DT05-EN023",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Laval Warrior",
+        "set_number": "DT05-EN024",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Prominence, Molten Swordsman",
+        "set_number": "DT05-EN025",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Laval Forest Sprite",
+        "set_number": "DT05-EN026",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Kayenn, the Master Magma Blacksmith",
+        "set_number": "DT05-EN027",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Laval Burner",
+        "set_number": "DT05-EN028",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Laval Judgment Lord",
+        "set_number": "DT05-EN029",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Vylon Cube",
+        "set_number": "DT05-EN030",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Vylon Vanguard",
+        "set_number": "DT05-EN031",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Vylon Charger",
+        "set_number": "DT05-EN032",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Vylon Soldier",
+        "set_number": "DT05-EN033",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gem-Knight Ruby",
+        "set_number": "DT05-EN034",
+        "rarities": [
+          "Duel Terminal Ultra Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gem-Knight Aquamarine",
+        "set_number": "DT05-EN035",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gem-Knight Topaz",
+        "set_number": "DT05-EN036",
+        "rarities": [
+          "Duel Terminal Ultra Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Lavalval Dragon",
+        "set_number": "DT05-EN037",
+        "rarities": [
+          "Duel Terminal Ultra Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Laval the Greater",
+        "set_number": "DT05-EN038",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Vylon Sigma",
+        "set_number": "DT05-EN039",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Vylon Epsilon",
+        "set_number": "DT05-EN040",
+        "rarities": [
+          "Duel Terminal Ultra Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "My Body as a Shield",
+        "set_number": "DT05-EN041",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Foolish Burial",
+        "set_number": "DT05-EN042",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gem-Knight Fusion",
+        "set_number": "DT05-EN043",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Searing Fire Wall",
+        "set_number": "DT05-EN044",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Vylon Material",
+        "set_number": "DT05-EN045",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Trap Stun",
+        "set_number": "DT05-EN046",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Skill Successor",
+        "set_number": "DT05-EN047",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Kunai with Chain",
+        "set_number": "DT05-EN048",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gem-Enhancement",
+        "set_number": "DT05-EN049",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Molten Whirlwind Wall",
+        "set_number": "DT05-EN050",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Senju of the Thousand Hands",
+        "set_number": "DT05-EN051",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Sonic Bird",
+        "set_number": "DT05-EN052",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Kelbek",
+        "set_number": "DT05-EN053",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Puppet Master",
+        "set_number": "DT05-EN054",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "The Tricky",
+        "set_number": "DT05-EN055",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Silent Swordsman LV5",
+        "set_number": "DT05-EN056",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Wynn the Wind Charmer",
+        "set_number": "DT05-EN057",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Armed Dragon LV10",
+        "set_number": "DT05-EN058",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Volcanic Rocket",
+        "set_number": "DT05-EN059",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Volcanic Counter",
+        "set_number": "DT05-EN060",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Emperor Sem",
+        "set_number": "DT05-EN061",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Krebons",
+        "set_number": "DT05-EN062",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Salvo",
+        "set_number": "DT05-EN063",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gishki Abyss",
+        "set_number": "DT05-EN064",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gishki Vanity",
+        "set_number": "DT05-EN065",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gishki Marker",
+        "set_number": "DT05-EN066",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gishki Chain",
+        "set_number": "DT05-EN067",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gishki Ariel",
+        "set_number": "DT05-EN068",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gishki Shadow",
+        "set_number": "DT05-EN069",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gusto Gulldo",
+        "set_number": "DT05-EN070",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gusto Egul",
+        "set_number": "DT05-EN071",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gusto Thunbolt",
+        "set_number": "DT05-EN072",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Winda, Priestess of Gusto",
+        "set_number": "DT05-EN073",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Caam, Serenity of Gusto",
+        "set_number": "DT05-EN074",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Windaar, Sage of Gusto",
+        "set_number": "DT05-EN075",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Steelswarm Cell",
+        "set_number": "DT05-EN076",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Steelswarm Scout",
+        "set_number": "DT05-EN077",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Steelswarm Gatekeeper",
+        "set_number": "DT05-EN078",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Steelswarm Caller",
+        "set_number": "DT05-EN079",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Steelswarm Mantis",
+        "set_number": "DT05-EN080",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Steelswarm Moth",
+        "set_number": "DT05-EN081",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Steelswarm Girastag",
+        "set_number": "DT05-EN082",
+        "rarities": [
+          "Duel Terminal Ultra Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Steelswarm Caucastag",
+        "set_number": "DT05-EN083",
+        "rarities": [
+          "Duel Terminal Ultra Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Evigishki Mind Augus",
+        "set_number": "DT05-EN084",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Evigishki Soul Ogre",
+        "set_number": "DT05-EN085",
+        "rarities": [
+          "Duel Terminal Ultra Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyberdark Dragon",
+        "set_number": "DT05-EN086",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Magical Android",
+        "set_number": "DT05-EN087",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Thought Ruler Archfiend",
+        "set_number": "DT05-EN088",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Daigusto Gulldos",
+        "set_number": "DT05-EN089",
+        "rarities": [
+          "Duel Terminal Super Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Daigusto Eguls",
+        "set_number": "DT05-EN090",
+        "rarities": [
+          "Duel Terminal Ultra Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Ultra Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Gishki Aquamirror",
+        "set_number": "DT05-EN091",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Contact with Gusto",
+        "set_number": "DT05-EN092",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "First Step Towards Infestation",
+        "set_number": "DT05-EN093",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyberdark Impact!",
+        "set_number": "DT05-EN094",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Star Blast",
+        "set_number": "DT05-EN095",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Aquamirror Meditation",
+        "set_number": "DT05-EN096",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Blessings for Gusto",
+        "set_number": "DT05-EN097",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Infestation Wave",
+        "set_number": "DT05-EN098",
+        "rarities": [
+          "Duel Terminal Rare Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Rare Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Blast Held by a Tribute",
+        "set_number": "DT05-EN099",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Karma Cut",
+        "set_number": "DT05-EN100",
+        "rarities": [
+          "Duel Terminal Normal Parallel Rare"
+        ],
+        "count": {
+          "Duel Terminal Normal Parallel Rare": 1
+        }
+      }
+    ]
+  }
+}

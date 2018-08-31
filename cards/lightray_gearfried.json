@@ -1,0 +1,24 @@
+{
+  "name": "Lightray Gearfried",
+  "number": "4722253",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 5 or more LIGHT monsters with different names in your Graveyard, and cannot be Special Summoned by other ways. Once per turn, during either player's turn, when a Spell/Trap Card is activated: You can banish 1 Warrior-Type monster from your Graveyard; negate the activation, and if you do, destroy it. All face-up monsters you control must be Warrior-Type to activate and to resolve this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2800",
+  "defense": "2200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

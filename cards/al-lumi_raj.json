@@ -1,0 +1,24 @@
+{
+  "name": "Al-Lumi'raj",
+  "number": "25795273",
+  "is_illegal": false,
+  "text": "All monsters on the field lose ATK and DEF equal to their own Level/Rank x 300.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "1600",
+  "defense": "1000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

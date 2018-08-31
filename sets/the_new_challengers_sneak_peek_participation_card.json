@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "The New Challengers Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2014-11-01",
+    "distribution": "tournament_promo_cards",
+    "prefix": "NECH",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Lancephorhynchus",
+        "set_number": "NECH-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

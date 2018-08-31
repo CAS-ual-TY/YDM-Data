@@ -1,0 +1,25 @@
+{
+  "name": "Evilswarm Azzathoth",
+  "number": "42679662",
+  "is_illegal": false,
+  "text": "FLIP: Target 1 Special Summoned monster on the field; shuffle that target into the Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "750",
+  "defense": "1950",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "4"
+}

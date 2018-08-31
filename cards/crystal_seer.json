@@ -1,0 +1,25 @@
+{
+  "name": "Crystal Seer",
+  "number": "82099401",
+  "is_illegal": false,
+  "text": "FLIP: Excavate the top 2 cards of your Deck, add 1 of them to your hand, then place the other on the bottom of your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "1"
+}

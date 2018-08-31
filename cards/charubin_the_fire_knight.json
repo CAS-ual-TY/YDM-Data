@@ -1,0 +1,24 @@
+{
+  "name": "Charubin the Fire Knight",
+  "number": "37421579",
+  "is_illegal": false,
+  "text": "\"Monster Egg\" + \"Hinotama Soul\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "1100",
+  "defense": "800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "3"
+}

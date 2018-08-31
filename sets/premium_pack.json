@@ -1,0 +1,180 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Premium Pack",
+    "type": "Booster Pack",
+    "date": "1999-08-26",
+    "distribution": "premium_pack",
+    "prefix": "PP01",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Magician of Black Chaos",
+        "set_number": "PP01-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Magic Ritual",
+        "set_number": "PP01-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Marshmallon",
+        "set_number": "PP01-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Marshmallon Glasses",
+        "set_number": "PP01-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Gemini Imps",
+        "set_number": "PP01-EN005",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Return Zombie",
+        "set_number": "PP01-EN006",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Shield Crush",
+        "set_number": "PP01-EN007",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Magic Curtain",
+        "set_number": "PP01-EN008",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Legacy of Yata-Garasu",
+        "set_number": "PP01-EN009",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Zera Ritual",
+        "set_number": "PP01-EN010",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Zera the Mant",
+        "set_number": "PP01-EN011",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Javelin Beetle Pact",
+        "set_number": "PP01-EN012",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Javelin Beetle",
+        "set_number": "PP01-EN013",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Metalmorph",
+        "set_number": "PP01-EN014",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Red-Eyes Black Metal Dragon",
+        "set_number": "PP01-EN015",
+        "rarities": [
+          "Super Rare",
+          "Secret Rare"
+        ],
+        "count": {
+          "Super Rare": 1,
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

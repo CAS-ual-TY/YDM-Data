@@ -1,0 +1,24 @@
+{
+  "name": "Dual Assembwurm",
+  "number": "7445307",
+  "is_illegal": false,
+  "text": "If this card is in your hand or GY: You can banish 2 other Cyberse monsters from your hand and/or face-up from your field; Special Summon this card, but its ATK becomes halved. You can only use this effect of \"Dual Assembwurm\" once per turn. Once per turn: You can banish 1 card from your hand; banish 1 monster on the field with ATK less than or equal to this card's.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2800",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

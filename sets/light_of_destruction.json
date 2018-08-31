@@ -1,0 +1,826 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Light of Destruction",
+    "type": "Booster Pack",
+    "date": "2008-02-23",
+    "distribution": "booster_pack",
+    "prefix": "LODT",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Honest",
+        "set_number": "LODT-EN001",
+        "rarities": [
+          "Holographic Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Holographic Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Cross Porter",
+        "set_number": "LODT-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Miracle Flipper",
+        "set_number": "LODT-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Dread Servant",
+        "set_number": "LODT-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Volcanic Queen",
+        "set_number": "LODT-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jinzo - Returner",
+        "set_number": "LODT-EN006",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Jinzo - Lord",
+        "set_number": "LODT-EN007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Arcana Force 0 - The Fool",
+        "set_number": "LODT-EN008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Arcana Force I - The Magician",
+        "set_number": "LODT-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Arcana Force III - The Empress",
+        "set_number": "LODT-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Arcana Force IV - The Emperor",
+        "set_number": "LODT-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Arcana Force VI - The Lovers",
+        "set_number": "LODT-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Arcana Force VII - The Chariot",
+        "set_number": "LODT-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Arcana Force XIV - Temperance",
+        "set_number": "LODT-EN014",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Arcana Force XVIII - The Moon",
+        "set_number": "LODT-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Arcana Force XXI - The World",
+        "set_number": "LODT-EN016",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Arcana Force EX - The Dark Ruler",
+        "set_number": "LODT-EN017",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Jain, Lightsworn Paladin",
+        "set_number": "LODT-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lyla, Lightsworn Sorceress",
+        "set_number": "LODT-EN019",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Garoth, Lightsworn Warrior",
+        "set_number": "LODT-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lumina, Lightsworn Summoner",
+        "set_number": "LODT-EN021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ryko, Lightsworn Hunter",
+        "set_number": "LODT-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wulf, Lightsworn Beast",
+        "set_number": "LODT-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Celestia, Lightsworn Angel",
+        "set_number": "LODT-EN024",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Gragonith, Lightsworn Dragon",
+        "set_number": "LODT-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Judgment Dragon",
+        "set_number": "LODT-EN026",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Valkyria",
+        "set_number": "LODT-EN027",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Substitoad",
+        "set_number": "LODT-EN028",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Unifrog",
+        "set_number": "LODT-EN029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Batteryman Charger",
+        "set_number": "LODT-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Batteryman Industrial Strength",
+        "set_number": "LODT-EN031",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Batteryman Micro-Cell",
+        "set_number": "LODT-EN032",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Goblin Recon Squad",
+        "set_number": "LODT-EN033",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Interplanetary Invader \"A\"",
+        "set_number": "LODT-EN034",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Diskblade Rider",
+        "set_number": "LODT-EN035",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Golden Ladybug",
+        "set_number": "LODT-EN036",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "DUCKER Mobile Cannon",
+        "set_number": "LODT-EN037",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Lady in Wight",
+        "set_number": "LODT-EN038",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Simorgh, Bird of Ancestry",
+        "set_number": "LODT-EN039",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cloudian - Storm Dragon",
+        "set_number": "LODT-EN040",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Phantom Dragon",
+        "set_number": "LODT-EN041",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny End Dragoon",
+        "set_number": "LODT-EN042",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ultimate Ancient Gear Golem",
+        "set_number": "LODT-EN043",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Gladiator Beast Gyzarus",
+        "set_number": "LODT-EN044",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hero Mask",
+        "set_number": "LODT-EN045",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Space Gift",
+        "set_number": "LODT-EN046",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Demise of the Land",
+        "set_number": "LODT-EN047",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "D - Formation",
+        "set_number": "LODT-EN048",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spell Gear",
+        "set_number": "LODT-EN049",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cup of Ace",
+        "set_number": "LODT-EN050",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Light Barrier",
+        "set_number": "LODT-EN051",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Solar Recharge",
+        "set_number": "LODT-EN052",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Realm of Light",
+        "set_number": "LODT-EN053",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Wetlands",
+        "set_number": "LODT-EN054",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Quick Charger",
+        "set_number": "LODT-EN055",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Short Circuit",
+        "set_number": "LODT-EN056",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Light of Redemption",
+        "set_number": "LODT-EN057",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Mystical Cards of Light",
+        "set_number": "LODT-EN058",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Level Tuning",
+        "set_number": "LODT-EN059",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Deck Lockdown",
+        "set_number": "LODT-EN060",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ribbon of Rebirth",
+        "set_number": "LODT-EN061",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Golden Bamboo Sword",
+        "set_number": "LODT-EN062",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Limit Reverse",
+        "set_number": "LODT-EN063",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Hero Blast",
+        "set_number": "LODT-EN064",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Rainbow Gravity",
+        "set_number": "LODT-EN065",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D - Fortune",
+        "set_number": "LODT-EN066",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Reversal of Fate",
+        "set_number": "LODT-EN067",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Tour of Doom",
+        "set_number": "LODT-EN068",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Arcana Call",
+        "set_number": "LODT-EN069",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Light Spiral",
+        "set_number": "LODT-EN070",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Glorious Illusion",
+        "set_number": "LODT-EN071",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Destruction Jammer",
+        "set_number": "LODT-EN072",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Froggy Forcefield",
+        "set_number": "LODT-EN073",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Portable Battery Pack",
+        "set_number": "LODT-EN074",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gladiator Lash",
+        "set_number": "LODT-EN075",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Raging Cloudian",
+        "set_number": "LODT-EN076",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sanguine Swamp",
+        "set_number": "LODT-EN077",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lucky Chance",
+        "set_number": "LODT-EN078",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Summon Limit",
+        "set_number": "LODT-EN079",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Dice Try!",
+        "set_number": "LODT-EN080",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      }
+    ]
+  }
+}

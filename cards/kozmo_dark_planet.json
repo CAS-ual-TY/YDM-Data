@@ -1,0 +1,24 @@
+{
+  "name": "Kozmo Dark Planet",
+  "number": "85991529",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing \"Kozmo\" monsters from your hand whose total Levels equal 10 or more, and cannot be Special Summoned by other ways. Cannot be targeted by an opponent's card effects. During either player's turn, when a Spell Card is activated: You can banish 1 \"Kozmo\" monster from your Graveyard; negate the activation, and if you do, destroy that card. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; add 1 Level 9 or lower \"Kozmo\" monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "4000",
+  "defense": "4000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

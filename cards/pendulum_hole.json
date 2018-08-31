@@ -1,0 +1,11 @@
+{
+  "name": "Pendulum Hole",
+  "number": "68477598",
+  "is_illegal": false,
+  "text": "When a monster(s) would be Pendulum Summoned: Negate the Pendulum Summon, and if you do, shuffle that monster(s) into the Deck.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

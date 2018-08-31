@@ -1,0 +1,24 @@
+{
+  "name": "Lunalight Blue Cat",
+  "number": "11439455",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned: You can target 1 \"Lunalight\" monster you control, except \"Lunalight Blue Cat\"; its ATK becomes double its original ATK until the end of this turn. You can only use this effect of \"Lunalight Blue Cat\" once per turn. If this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Lunalight\" monster from your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1600",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

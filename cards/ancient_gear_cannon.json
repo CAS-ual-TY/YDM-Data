@@ -1,0 +1,24 @@
+{
+  "name": "Ancient Gear Cannon",
+  "number": "80045583",
+  "is_illegal": false,
+  "text": "You can Tribute this card; inflict 500 damage to your opponent, and if you do, neither player can activate Trap Cards during the Battle Phase of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

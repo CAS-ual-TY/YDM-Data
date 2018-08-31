@@ -1,0 +1,11 @@
+{
+  "name": "Unity",
+  "number": "14731897",
+  "is_illegal": false,
+  "text": "Select 1 monster on your side of the field. The DEF of the selected monster becomes equal to the combined original DEF of all face-up monsters on your side of the field, until the end of this turn.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}

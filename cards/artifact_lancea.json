@@ -1,0 +1,24 @@
+{
+  "name": "Artifact Lancea",
+  "number": "34267821",
+  "is_illegal": false,
+  "text": "You can Set this card from your hand to your Spell & Trap Zone as a Spell Card. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your Graveyard: Special Summon it. During your opponent's turn: You can Tribute this card from your hand or face-up from your field; neither player can banish cards for the rest of this turn (this is a Quick Effect).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1700",
+  "defense": "2300",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Manga Ryu-Ran",
+  "number": "38369349",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Cannot be Special Summoned unless you control a face-up \"Toon World\". Must first be Special Summoned (from your hand) by Tributing the same number of monsters needed for a Tribute Summon (normally 2). This card cannot attack the turn it is Special Summoned. You must pay 500 Life Points to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. This card can attack your opponent directly, unless they control a Toon Monster. If they do control one, this card must target a Toon Monster for its attacks.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2200",
+  "defense": "2600",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Toon"
+  ],
+  "stars": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Masked HERO Goka",
+  "number": "58147549",
+  "is_illegal": false,
+  "text": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. This card gains 100 ATK for each \"HERO\" monster in your Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2200",
+  "defense": "1800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

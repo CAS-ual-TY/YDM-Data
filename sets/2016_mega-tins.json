@@ -1,0 +1,134 @@
+{
+  "status": "success",
+  "set": {
+    "name": "2016 Mega-Tins",
+    "type": "Special Edition Promo Cards",
+    "date": "2016-09-01",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT13",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Slifer the Sky Dragon",
+        "set_number": "CT13-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Obelisk the Tormentor",
+        "set_number": "CT13-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician",
+        "set_number": "CT13-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ebon High Magician",
+        "set_number": "CT13-EN004",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "D/D/D Flame King Genghis",
+        "set_number": "CT13-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dragonox, the Empowered Warrior",
+        "set_number": "CT13-EN006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Pendulum Sorcerer",
+        "set_number": "CT13-EN007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Blue-Eyes White Dragon",
+        "set_number": "CT13-EN008",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Blue-Eyes Spirit Dragon",
+        "set_number": "CT13-EN009",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "D/D/D Gust King Alexander",
+        "set_number": "CT13-EN010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Aether, the Evil Empowering Dragon",
+        "set_number": "CT13-EN011",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ghost Ogre & Snow Rabbit",
+        "set_number": "CT13-EN012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

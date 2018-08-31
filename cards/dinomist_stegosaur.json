@@ -1,0 +1,28 @@
+{
+  "name": "Dinomist Stegosaur",
+  "number": "1580833",
+  "is_illegal": false,
+  "text": "If another Pendulum Monster you control battles an opponent's monster, after damage calculation: You can destroy those monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1600",
+  "defense": "1800",
+  "attribute": "WATER",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.",
+  "stars": "4"
+}

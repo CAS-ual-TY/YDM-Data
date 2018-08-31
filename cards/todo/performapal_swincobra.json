@@ -1,0 +1,28 @@
+{
+  "name": "Performapal Swincobra",
+  "number": "93892436",
+  "is_illegal": false,
+  "text": "This card can attack your opponent directly. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "300",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn, when a monster you control inflicts battle damage to your opponent: You can send the top card of your opponent's Deck to the Graveyard.",
+  "stars": "4"
+}

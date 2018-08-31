@@ -1,0 +1,25 @@
+{
+  "name": "Worm Jetelikpse",
+  "number": "84932271",
+  "is_illegal": false,
+  "text": "FLIP: When this card is destroyed and sent to the Graveyard this turn: Special Summon it from the Graveyard in face-up Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1200",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

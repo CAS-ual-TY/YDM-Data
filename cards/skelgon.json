@@ -1,0 +1,24 @@
+{
+  "name": "Skelgon",
+  "number": "32355828",
+  "is_illegal": false,
+  "text": "\"The Snake Hair\" + \"Blackland Fire Dragon\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1700",
+  "defense": "1900",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

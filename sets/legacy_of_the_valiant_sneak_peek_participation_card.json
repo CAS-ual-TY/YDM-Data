@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Legacy of the Valiant Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2014-01-18",
+    "distribution": "tournament_promo_cards",
+    "prefix": "LVAL",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Sylvan Bladefender",
+        "set_number": "LVAL-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

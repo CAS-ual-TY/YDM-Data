@@ -1,0 +1,24 @@
+{
+  "name": "Gora Turtle of Illusion",
+  "number": "42868711",
+  "is_illegal": false,
+  "text": "Negate the effect of Spell and Trap Cards controlled by your opponent that target this face-up card on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1200",
+  "defense": "1400",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dicephoon",
+  "number": "3493058",
+  "is_illegal": false,
+  "text": "Roll a six-sided die and apply the result.\nâ—?2, 3, or 4: Destroy 1 Spell/Trap Card on the field.\nâ—?5: Destroy 2 Spell/Trap Cards on the field.\nâ—?1 or 6: You take 1000 damage.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}

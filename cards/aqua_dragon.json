@@ -1,0 +1,24 @@
+{
+  "name": "Aqua Dragon",
+  "number": "86164529",
+  "is_illegal": false,
+  "text": "\"Fairy Dragon\" + \"Amazon of the Seas\" + \"Zone Eater\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "2250",
+  "defense": "1900",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

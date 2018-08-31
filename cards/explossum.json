@@ -1,0 +1,24 @@
+{
+  "name": "Explossum",
+  "number": "38210374",
+  "is_illegal": false,
+  "text": "You can target 1 face-up Xyz Monster your opponent controls; equip this monster from your hand or your side of the field to that target. If a monster equipped with this card by this effect has no Xyz Materials, destroy that monster. While this card is equipped to a monster, during each of your opponent's Standby Phases: Detach 1 Xyz Material from the equipped monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

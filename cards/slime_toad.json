@@ -1,0 +1,24 @@
+{
+  "name": "Slime Toad",
+  "number": "68638985",
+  "is_illegal": false,
+  "text": "A slime with the head of a frog, it attacks by croaking terribly.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "700",
+  "defense": "500",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "2"
+}

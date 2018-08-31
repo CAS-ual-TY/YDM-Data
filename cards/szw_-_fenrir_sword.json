@@ -1,0 +1,24 @@
+{
+  "name": "SZW - Fenrir Sword",
+  "number": "12927849",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 \"ZW -\" monster you control that is an Equip Card; Special Summon that target in Defense Position. You can target 1 \"Utopia\" monster you control; equip this card from your hand to that target. When the equipped monster destroys an opponent's monster by battle and sends it to the Graveyard: You can target 1 \"ZW -\" monster in your Graveyard; add that target to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1800",
+  "defense": "1100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

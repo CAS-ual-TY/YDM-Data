@@ -1,0 +1,24 @@
+{
+  "name": "Overlay Sentinel",
+  "number": "39229392",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned. When this card is Normal Summoned: Change this card to Defense Position. If you control a face-up Xyz Monster that has Xyz Material: You can banish this card from your Graveyard, then target 1 monster your opponent controls; it loses 500 ATK for each Xyz Material attached to a monster you control.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

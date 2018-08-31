@@ -1,0 +1,24 @@
+{
+  "name": "Morphtronic Lantron",
+  "number": "76865611",
+  "is_illegal": false,
+  "text": "â—? While in Attack Position: Any effect damage you would take from an opponent's card effect is inflicted to your opponent instead.\nâ—? While in Defense Position: When this card is destroyed by battle and sent to the Graveyard, you take no Battle Damage this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "200",
+  "defense": "200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

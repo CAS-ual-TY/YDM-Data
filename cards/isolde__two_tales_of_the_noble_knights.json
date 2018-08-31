@@ -1,0 +1,27 @@
+{
+  "name": "Isolde, Two Tales of the Noble Knights",
+  "number": "59934749",
+  "is_illegal": false,
+  "text": "2 Warrior monsters\nIf this card is Link Summoned: You can add 1 Warrior monster from your Deck to your hand, but for the rest of this turn, you cannot Normal Summon/Set or Special Summon monsters with that name, nor activate their monster effects. You can send any number of Equip Spells with different names from your Deck to the GY; Special Summon 1 Warrior monster from your Deck, whose Level equals the number of cards sent to the GY. You can only use each effect of \"Isolde, Two Tales of the Noble Knights\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

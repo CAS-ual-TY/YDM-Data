@@ -1,0 +1,24 @@
+{
+  "name": "Ray & Temperature",
+  "number": "85309439",
+  "is_illegal": false,
+  "text": "The Sun and the North Wind join hands to deliver a devastating combination of heat and gale-force winds.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ominous Fortunetelling",
+  "number": "56995655",
+  "is_illegal": false,
+  "text": "During your Standby Phase, select 1 random card from your opponent's hand. Call the type of card (Monster, Spell, or Trap). If you call it right, inflict 700 points of damage to your opponent's Life Points. You can use this effect once per turn.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

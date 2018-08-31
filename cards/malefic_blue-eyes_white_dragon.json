@@ -1,0 +1,24 @@
+{
+  "name": "Malefic Blue-Eyes White Dragon",
+  "number": "9433350",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Blue-Eyes White Dragon\" from your Deck. There can only be 1 \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

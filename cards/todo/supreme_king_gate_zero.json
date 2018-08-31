@@ -1,0 +1,28 @@
+{
+  "name": "Supreme King Gate Zero",
+  "number": "96227613",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 other face-up card you control; destroy both it and this card, and if you do, Special Summon 1 Dragon-Type Fusion or Synchro Monster from your Extra Deck, but its ATK and DEF become 0, it has its effects negated, also it cannot be used as a Material for a Synchro or Xyz Summon. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "If you control \"Supreme King Z-ARC\", you take no damage. Once per turn, if you have \"Supreme King Gate Infinity\" in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 \"Polymerization\" Spell Card or \"Fusion\" Spell Card from your Deck to your hand.",
+  "stars": "7"
+}

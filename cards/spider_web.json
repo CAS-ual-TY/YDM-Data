@@ -1,0 +1,11 @@
+{
+  "name": "Spider Web",
+  "number": "69408987",
+  "is_illegal": false,
+  "text": "If a monster declares an attack, it is changed to Defense Position at the end of the Damage Step. It cannot change its battle position until the End Phase of its controller's next turn, while this card remains on the field.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Field"
+}

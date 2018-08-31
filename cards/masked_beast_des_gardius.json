@@ -1,0 +1,24 @@
+{
+  "name": "Masked Beast Des Gardius",
+  "number": "48948935",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 2 monsters, including at least 1 \"Grand Tiki Elder\" or \"Melchid the Four-Face Beast\". When this card is sent from the field to the Graveyard, equip 1 \"The Mask of Remnants\" from your Deck to 1 monster on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "3300",
+  "defense": "2500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

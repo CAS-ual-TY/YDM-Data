@@ -1,0 +1,24 @@
+{
+  "name": "Goyo Emperor",
+  "number": "59255742",
+  "is_illegal": false,
+  "text": "2 EARTH Warrior-Type Synchro Monsters\nWhen this card, or a monster you control that is owned by your opponent, destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your side of the field. When your opponent Special Summons a monster(s), except during the Damage Step: You can Tribute 1 EARTH Warrior-Type Synchro Monster; take control of that monster(s). If this face-up card leaves the field: Return control of all monsters you control to the owner.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3300",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

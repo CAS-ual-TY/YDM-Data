@@ -1,0 +1,24 @@
+{
+  "name": "Spore",
+  "number": "11747708",
+  "is_illegal": false,
+  "text": "If this card is in your Graveyard: You can banish 1 other Plant-Type monster from your Graveyard; Special Summon this card from your Graveyard and increase its Level by the Level of that banished monster. Each player can only activate the effect of \"Spore\" once per Duel.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "400",
+  "defense": "800",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

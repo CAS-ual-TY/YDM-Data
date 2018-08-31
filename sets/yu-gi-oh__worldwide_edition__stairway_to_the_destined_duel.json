@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "type": "Video Game Promo Cards",
+    "date": "2003-04-15",
+    "distribution": "video_game_promo_cards",
+    "prefix": "SDD",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Valkyrion the Magna Warrior",
+        "set_number": "SDD-001",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Sinister Serpent",
+        "set_number": "SDD-002",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Harpie's Feather Duster",
+        "set_number": "SDD-003",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

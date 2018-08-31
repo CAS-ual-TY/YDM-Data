@@ -1,0 +1,24 @@
+{
+  "name": "Valkyrion the Magna Warrior",
+  "number": "75347539",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\", and \"Gamma The Magnet Warrior\" from your hand and/or field. You can Tribute this card, then target 1 \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\", and \"Gamma The Magnet Warrior\" in your Graveyard; Special Summon them.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "3500",
+  "defense": "3850",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

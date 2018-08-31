@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Tactical Evolution: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2007-09-12",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "TAEV",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Masked Beast Des Gardius",
+        "set_number": "TAEV-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Mask of Remnants",
+        "set_number": "TAEV-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

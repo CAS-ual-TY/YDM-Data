@@ -1,0 +1,25 @@
+{
+  "name": "Armored Cybern",
+  "number": "67159705",
+  "is_illegal": false,
+  "text": "Once per turn, you can either: Target 1 \"Cyber Dragon\" you control, or 1 Fusion Monster you control that lists \"Cyber Dragon\" as Fusion Material; equip this card to that target, OR: Unequip this card and Special Summon it. Once per turn, while equipped to a monster by this effect: You can target 1 face-up monster on the field; the equipped monster loses exactly 1000 ATK (even if this card leaves the field), and if it does, destroy that target. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "2000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Union",
+    "Effect"
+  ],
+  "stars": "4"
+}

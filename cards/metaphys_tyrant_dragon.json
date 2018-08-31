@@ -1,0 +1,24 @@
+{
+  "name": "Metaphys Tyrant Dragon",
+  "number": "18743376",
+  "is_illegal": false,
+  "text": "If this card was Special Summoned by the effect of a \"Metaphys\" monster, it is unaffected by Trap effects, also if it attacks a monster, it can make a second attack in a row. If this card is banished, during the Standby Phase of the next turn: You can shuffle this banished card into the Deck; Special Summon 1 \"Metaphys\" monster from your hand, but banish it during the End Phase of the next turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2900",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

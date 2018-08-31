@@ -1,0 +1,24 @@
+{
+  "name": "Majesty Maiden, the True Dracocaster",
+  "number": "95004025",
+  "is_illegal": false,
+  "text": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap Card you control, instead of a monster. Once per turn, during either player's turn, when your opponent activates a card or effect while you control this Tribute Summoned monster: You can add 1 \"True Draco\" or \"True King\" monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2300",
+  "defense": "1500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

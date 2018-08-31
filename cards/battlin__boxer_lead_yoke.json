@@ -1,0 +1,24 @@
+{
+  "name": "Battlin' Boxer Lead Yoke",
+  "number": "23232295",
+  "is_illegal": false,
+  "text": "2 Level 4 \"Battlin' Boxer\" monsters\nIf a \"Battlin' Boxer\" monster(s) you control would be destroyed by battle or by a card effect, you can detach 1 Xyz Material from this card instead of destroying 1 of those monsters. When an Xyz Material(s) is detached from this card: This card gains 800 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2200",
+  "defense": "2000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

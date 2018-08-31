@@ -1,0 +1,24 @@
+{
+  "name": "Hebo, Lord of the River",
+  "number": "90365482",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned. If this card is Normal Summoned or flipped face-up: You can target 1 face-up monster on the field; that target is treated as a Spirit monster, also return that target to the hand during the End Phase. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1800",
+  "defense": "600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Spirit"
+  ],
+  "stars": "4"
+}

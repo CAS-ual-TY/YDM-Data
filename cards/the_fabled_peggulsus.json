@@ -1,0 +1,24 @@
+{
+  "name": "The Fabled Peggulsus",
+  "number": "90616316",
+  "is_illegal": false,
+  "text": "When this card is discarded to the Graveyard, you can Special Summon it face-down on your side of the field. When this card is flipped face-up, you can reveal 1 \"Fabled\" monster in your hand to send 1 \"Fabled\" monster from your Deck to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "100",
+  "defense": "1600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

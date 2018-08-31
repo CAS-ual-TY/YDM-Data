@@ -1,0 +1,11 @@
+{
+  "name": "Psychic Blade",
+  "number": "75539614",
+  "is_illegal": false,
+  "text": "Pay LP in multiples of 100 (max. 2000); equip this card to a monster. It gains that much ATK and DEF. You can only activate 1 \"Psychic Blade\" per turn.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Equip"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tamtam the Melodious Diva",
+  "number": "79757784",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned while you control a \"Melodious\" monster: You can add 1 \"Polymerization\" from your Deck or Graveyard to your hand. If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can target 1 \"Melodious\" monster you control; it loses 500 ATK, and if it does, inflict 500 damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1000",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

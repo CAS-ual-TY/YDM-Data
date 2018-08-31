@@ -1,0 +1,24 @@
+{
+  "name": "Defrag Dragon",
+  "number": "58582979",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) by sending 1 other monster from your hand to the GY. You can only Special Summon \"Defrag Dragon\" once per turn this way. If this card is in the GY: You can banish 3 monsters from your GY with the same name, except \"Defrag Dragon\"; Special Summon this card. You can only use this effect of \"Defrag Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1000",
+  "defense": "600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Aromage Jasmine",
+  "number": "96789758",
+  "is_illegal": false,
+  "text": "During your Main Phase, while your LP is higher than your opponent's, you can Normal Summon 1 Plant-Type monster in addition to your Normal Summon/Set, except \"Aromage Jasmine\". (You can only gain this effect once per turn.) Once per turn, if you gain LP: Draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "100",
+  "defense": "1900",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Naturia Fruitfly",
+  "number": "11390349",
+  "is_illegal": false,
+  "text": "All face-up monsters your opponent controls lose 300 ATK and DEF for each face-up \"Naturia\" monster you control. Once per turn, you can select 1 face-up monster your opponent controls with 0 DEF, and take control of it until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "800",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

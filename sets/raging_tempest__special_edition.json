@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Raging Tempest: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2017-03-17",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "RATE",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Number 22: Zombiestein",
+        "set_number": "RATE-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Masked HERO Blast",
+        "set_number": "RATE-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Kataroost",
+        "set_number": "RATE-ENSE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Baobaboon",
+        "set_number": "RATE-ENSE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

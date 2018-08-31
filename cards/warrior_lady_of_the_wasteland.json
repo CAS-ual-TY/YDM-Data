@@ -1,0 +1,24 @@
+{
+  "name": "Warrior Lady of the Wasteland",
+  "number": "5438492",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH Warrior-Type monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1100",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

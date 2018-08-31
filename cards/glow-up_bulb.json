@@ -1,0 +1,24 @@
+{
+  "name": "Glow-Up Bulb",
+  "number": "67441435",
+  "is_illegal": false,
+  "text": "If this card is in your GY: You can send the top card of your Deck to the GY, and if you do, Special Summon this card. You can only use this effect of \"Glow-Up Bulb\" once per Duel.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

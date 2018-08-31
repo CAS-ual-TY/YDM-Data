@@ -1,0 +1,28 @@
+{
+  "name": "Igknight Gallant",
+  "number": "96802306",
+  "is_illegal": false,
+  "text": "A leader of the most dashing Igknight commando unit. His greatest challenge is keeping the hot tempers of his men under control.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2100",
+  "defense": "2200",
+  "attribute": "FIRE",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Normal"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.",
+  "stars": "6"
+}

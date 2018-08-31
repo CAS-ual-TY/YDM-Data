@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! ARC-V Volume 2",
+    "type": "Manga Promo",
+    "date": "2016-10-04",
+    "distribution": "manga_promo",
+    "prefix": "YA02",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Clear Wing Fast Dragon",
+        "set_number": "YA02-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

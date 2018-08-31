@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Pharaoh Tour 2006",
+    "type": "Tournament Promo Cards",
+    "date": "2006-10-28",
+    "distribution": "tournament_promo_cards",
+    "prefix": "PT02",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Shrink",
+        "set_number": "PT02-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Toon Dark Magician Girl",
+        "set_number": "PT02-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

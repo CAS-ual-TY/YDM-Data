@@ -1,0 +1,11 @@
+{
+  "name": "Graceful Dice",
+  "number": "74137509",
+  "is_illegal": false,
+  "text": "Roll a six-sided die. All monsters you currently control gain ATK and DEF equal to the result x 100, until the End Phase.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}

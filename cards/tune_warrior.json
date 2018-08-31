@@ -1,0 +1,25 @@
+{
+  "name": "Tune Warrior",
+  "number": "74093656",
+  "is_illegal": false,
+  "text": "The Warrior's antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "defense": "200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal",
+    "Tuner"
+  ],
+  "stars": "3"
+}

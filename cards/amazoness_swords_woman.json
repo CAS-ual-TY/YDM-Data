@@ -1,0 +1,24 @@
+{
+  "name": "Amazoness Swords Woman",
+  "number": "94004268",
+  "is_illegal": false,
+  "text": "Your opponent takes any battle damage you would have taken from battles involving this card instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1500",
+  "defense": "1600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

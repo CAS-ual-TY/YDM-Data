@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Clash of Rebellions: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2015-12-11",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CORE",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Ultimaya Tzolkin",
+        "set_number": "CORE-ENSE1",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Tiger",
+        "set_number": "CORE-ENSE2",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      },
+      {
+        "card_name": "Engraver of the Mark",
+        "set_number": "CORE-ENSE3",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      },
+      {
+        "card_name": "Destruction Sword Flash",
+        "set_number": "CORE-ENSE4",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      }
+    ]
+  }
+}

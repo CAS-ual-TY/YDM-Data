@@ -1,0 +1,24 @@
+{
+  "name": "Elephant Statue of Blessing",
+  "number": "85166216",
+  "is_illegal": false,
+  "text": "When this card is sent from your hand to your Graveyard by an opponent's card effect: You gain 2000 Life Points.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1500",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

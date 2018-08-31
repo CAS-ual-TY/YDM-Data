@@ -1,0 +1,24 @@
+{
+  "name": "Neo Space Pathfinder",
+  "number": "19594506",
+  "is_illegal": false,
+  "text": "You can discard this card to the Graveyard to add 1 \"Neo Space\" from your Deck or Graveyard to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1800",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

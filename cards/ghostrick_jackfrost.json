@@ -1,0 +1,24 @@
+{
+  "name": "Ghostrick Jackfrost",
+  "number": "61318483",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. When an opponent's monster declares a direct attack: You can change that opponent's monster to face-down Defense Position, and if you do, Special Summon this card from your hand in face-down Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "800",
+  "defense": "100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

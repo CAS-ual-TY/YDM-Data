@@ -1,0 +1,664 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shadow of Infinity",
+    "type": "Booster Pack",
+    "date": "2006-02-18",
+    "distribution": "booster_pack",
+    "prefix": "SOI",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Uria, Lord of Searing Flames",
+        "set_number": "SOI-EN001",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Hamon, Lord of Striking Thunder",
+        "set_number": "SOI-EN002",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Raviel, Lord of Phantasms",
+        "set_number": "SOI-EN003",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Neo Bubbleman",
+        "set_number": "SOI-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hero Kid",
+        "set_number": "SOI-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cyber Barrier Dragon",
+        "set_number": "SOI-EN006",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyber Laser Dragon",
+        "set_number": "SOI-EN007",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear",
+        "set_number": "SOI-EN008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Cannon",
+        "set_number": "SOI-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Proto-Cyber Dragon",
+        "set_number": "SOI-EN010",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Adhesive Explosive",
+        "set_number": "SOI-EN011",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Machine King Prototype",
+        "set_number": "SOI-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "B.E.S. Covered Core",
+        "set_number": "SOI-EN013",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "D.D. Guide",
+        "set_number": "SOI-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chain Thrasher",
+        "set_number": "SOI-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Disciple of the Forbidden Spell",
+        "set_number": "SOI-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tenkabito Shien",
+        "set_number": "SOI-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Parasitic Ticky",
+        "set_number": "SOI-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gokipon",
+        "set_number": "SOI-EN019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Silent Insect",
+        "set_number": "SOI-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chainsaw Insect",
+        "set_number": "SOI-EN021",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Anteatereatingant",
+        "set_number": "SOI-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Saber Beetle",
+        "set_number": "SOI-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Doom Dozer",
+        "set_number": "SOI-EN024",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Treeborn Frog",
+        "set_number": "SOI-EN025",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Beelze Frog",
+        "set_number": "SOI-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Princess Pikeru",
+        "set_number": "SOI-EN027",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Princess Curran",
+        "set_number": "SOI-EN028",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Memory Crusher",
+        "set_number": "SOI-EN029",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Malice Ascendant",
+        "set_number": "SOI-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Grass Phantom",
+        "set_number": "SOI-EN031",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sand Moth",
+        "set_number": "SOI-EN032",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Divine Dragon - Excelion",
+        "set_number": "SOI-EN033",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ruin, Queen of Oblivion",
+        "set_number": "SOI-EN034",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Demise, King of Armageddon",
+        "set_number": "SOI-EN035",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "D.3.S. Frog",
+        "set_number": "SOI-EN036",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hero Heart",
+        "set_number": "SOI-EN037",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magnet Circle LV2",
+        "set_number": "SOI-EN038",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Factory",
+        "set_number": "SOI-EN039",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Drill",
+        "set_number": "SOI-EN040",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Phantasmal Martyrs",
+        "set_number": "SOI-EN041",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyclone Boomerang",
+        "set_number": "SOI-EN042",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Symbol of Heritage",
+        "set_number": "SOI-EN043",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Trial of the Princesses",
+        "set_number": "SOI-EN044",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Photon Generator Unit",
+        "set_number": "SOI-EN045",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "End of the World",
+        "set_number": "SOI-EN046",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Castle",
+        "set_number": "SOI-EN047",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Samsara",
+        "set_number": "SOI-EN048",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Super Junior Confrontation",
+        "set_number": "SOI-EN049",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Miracle Kids",
+        "set_number": "SOI-EN050",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Attack Reflector Unit",
+        "set_number": "SOI-EN051",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Damage Condenser",
+        "set_number": "SOI-EN052",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Karma Cut",
+        "set_number": "SOI-EN053",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Next to be Lost",
+        "set_number": "SOI-EN054",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Generation Shift",
+        "set_number": "SOI-EN055",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Full Salvo",
+        "set_number": "SOI-EN056",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Success Probability 0%",
+        "set_number": "SOI-EN057",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Option Hunter",
+        "set_number": "SOI-EN058",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Goblin Out of the Frying Pan",
+        "set_number": "SOI-EN059",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Malfunction",
+        "set_number": "SOI-EN060",
+        "rarities": [
+          "Ultimate Rare",
+          "Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Rare": 1
+        }
+      }
+    ]
+  }
+}

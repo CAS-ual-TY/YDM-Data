@@ -1,0 +1,24 @@
+{
+  "name": "Juragedo",
+  "number": "59546797",
+  "is_illegal": false,
+  "text": "During either player's Battle Step: You can Special Summon this card from your hand, and if you do, gain 1000 LP. You can only use this effect of \"Juragedo\" once per turn. During either player's turn: You can Tribute this card, then target 1 face-up monster you control; it gains 1000 ATK until the end of the next turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1700",
+  "defense": "1300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Number C80: Requiem in Berserk",
+  "number": "20563387",
+  "is_illegal": false,
+  "text": "3 Level 5 monsters\nYou can target 1 face-up Xyz Monster you control; equip this monster you control to that target. It gains 2000 ATK. If a monster equipped with this card would be destroyed, destroy this card instead. If this card has \"Number 80: Rhapsody in Berserk\" as an Xyz Material, it gains this effect.\nâ—? You can detach 1 Xyz Material from this card, then target 1 card on the field; banish that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "2015 Mega-Tins",
+    "type": "Special Edition Promo Cards",
+    "date": "2015-09-17",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT12",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Odd-Eyes Pendulum Dragon",
+        "set_number": "CT12-EN001",
+        "rarities": [
+          "Platinum Secret Rare"
+        ],
+        "count": {
+          "Platinum Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Rebellion Xyz Dragon",
+        "set_number": "CT12-EN002",
+        "rarities": [
+          "Platinum Secret Rare"
+        ],
+        "count": {
+          "Platinum Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Elder Entity Norden",
+        "set_number": "CT12-EN003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Majesty's Fiend",
+        "set_number": "CT12-EN004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Old Entity Hastorr",
+        "set_number": "CT12-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Castel, the Skyblaster Musketeer",
+        "set_number": "CT12-EN006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Aromage Cananga",
+  "number": "22174866",
+  "is_illegal": false,
+  "text": "While your LP is higher than your opponent's, face-up monsters your opponent controls lose 500 ATK and DEF. Once per turn, if you gain LP: Target 1 Spell/Trap Card your opponent controls; return it to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "1400",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

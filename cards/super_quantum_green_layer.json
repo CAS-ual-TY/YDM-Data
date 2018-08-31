@@ -1,0 +1,24 @@
+{
+  "name": "Super Quantum Green Layer",
+  "number": "85374678",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned: You can Special Summon 1 \"Super Quant\" monster from your hand. If this card is sent to the Graveyard: You can discard 1 \"Super Quant\" card; draw 1 card. You can only use each effect of \"Super Quantum Green Layer\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1600",
+  "defense": "1400",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

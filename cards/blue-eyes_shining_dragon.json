@@ -1,0 +1,24 @@
+{
+  "name": "Blue-Eyes Shining Dragon",
+  "number": "53347303",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by Tributing 1 \"Blue-Eyes Ultimate Dragon\", and cannot be Special Summoned by other ways. This card gains 300 ATK for each Dragon-Type monster in your Graveyard. During either player's turn, when a card or effect is activated that targets this card (except during the Damage Step): You can negate that effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

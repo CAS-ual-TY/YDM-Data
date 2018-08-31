@@ -1,0 +1,24 @@
+{
+  "name": "Synchron Explorer",
+  "number": "36643046",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 \"Synchron\" monster in your Graveyard; Special Summon that target, but its effects are negated.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

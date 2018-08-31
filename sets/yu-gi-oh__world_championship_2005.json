@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! World Championship 2005",
+    "type": "Tournament Promo Cards",
+    "date": "2005-08-07",
+    "distribution": "tournament_promo_cards",
+    "prefix": "WCS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "King of Destruction - Xexex",
+        "set_number": "WCS-EN501",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Queen of Fate - Eternia",
+        "set_number": "WCS-EN502",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

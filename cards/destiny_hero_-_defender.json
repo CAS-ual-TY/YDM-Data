@@ -1,0 +1,24 @@
+{
+  "name": "Destiny HERO - Defender",
+  "number": "54749427",
+  "is_illegal": false,
+  "text": "During each of your opponent's Standby Phases: Your opponent draws 1 card. This card must be in face-up Defense Position to activate and to resolve this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "100",
+  "defense": "2700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

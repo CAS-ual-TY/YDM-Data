@@ -1,0 +1,24 @@
+{
+  "name": "Heroic Challenger - Ambush Soldier",
+  "number": "92609670",
+  "is_illegal": false,
+  "text": "During your Standby Phase: You can Tribute this card; Special Summon up to 2 \"Heroic Challenger\" monsters from your hand and/or Graveyard, except \"Heroic Challenger - Ambush Soldier\". You can only use this effect of \"Heroic Challenger - Ambush Soldier\" once per turn. When you do: You can banish this card from your Graveyard; make all \"Heroic Challenger\" monsters you currently control become Level 1.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

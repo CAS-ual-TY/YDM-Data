@@ -1,0 +1,24 @@
+{
+  "name": "Ghost Ship",
+  "number": "33347467",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT monster from your Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1900",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

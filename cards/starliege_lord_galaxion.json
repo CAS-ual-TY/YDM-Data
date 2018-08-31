@@ -1,0 +1,24 @@
+{
+  "name": "Starliege Lord Galaxion",
+  "number": "40390147",
+  "is_illegal": false,
+  "text": "2 Level 4 \"Photon\" monsters\nOnce per turn: You can detach 1 or 2 Xyz Materials from this card; apply this effect, depending on the number you detached.\nâ—? 1: Special Summon 1 \"Galaxy-Eyes Photon Dragon\" from your hand.\nâ—? 2: Special Summon 1 \"Galaxy-Eyes Photon Dragon\" from your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "defense": "2100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

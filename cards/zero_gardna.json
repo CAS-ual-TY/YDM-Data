@@ -1,0 +1,24 @@
+{
+  "name": "Zero Gardna",
+  "number": "93816465",
+  "is_illegal": false,
+  "text": "You can Tribute this card to activate its effect. If you do, monsters you control cannot be destroyed by battle, and you take no Battle Damage, during this turn. This effect can be activated during either player's turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

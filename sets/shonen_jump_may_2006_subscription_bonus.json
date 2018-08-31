@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump May 2006 subscription bonus",
+    "type": "Shonen Jump",
+    "date": "2006-05-01",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Unity",
+        "set_number": "JUMP-EN006",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Judgment of the Pharaoh",
+        "set_number": "JUMP-EN007",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Yu-Jo Friendship",
+        "set_number": "JUMP-EN008",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

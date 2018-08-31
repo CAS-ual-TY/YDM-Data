@@ -1,0 +1,11 @@
+{
+  "name": "There Can Be Only One",
+  "number": "24207889",
+  "is_illegal": false,
+  "text": "Each player can only control 1 monster of each Type. Send all other face-up monsters they control to the GY.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

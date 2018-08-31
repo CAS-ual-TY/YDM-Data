@@ -1,0 +1,24 @@
+{
+  "name": "Cobraman Sakuzy",
+  "number": "75109441",
+  "is_illegal": false,
+  "text": "You can flip this card into face-down Defense Position once per turn during your Main Phase. When this card is flipped face-up, look at all Set Spell and Trap Cards on your opponent's side of the field and then return them to their original position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "800",
+  "defense": "1400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

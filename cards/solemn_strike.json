@@ -1,0 +1,11 @@
+{
+  "name": "Solemn Strike",
+  "number": "40605147",
+  "is_illegal": false,
+  "text": "When a monster(s) would be Special Summoned, or a monster effect is activated: Pay 1500 LP; negate the Summon or activation, and if you do, destroy that card.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

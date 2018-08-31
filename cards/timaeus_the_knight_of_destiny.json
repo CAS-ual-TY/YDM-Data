@@ -1,0 +1,24 @@
+{
+  "name": "Timaeus the Knight of Destiny",
+  "number": "53315891",
+  "is_illegal": false,
+  "text": "\"Legendary Knight Timaeus\" + \"Legendary Knight Critias\" + \"Legendary Knight Hermos\"\nMust be Special Summoned (from your Extra Deck) by sending the above cards you control to the Graveyard, and cannot be Special Summoned by other ways. (You do not use \"Polymerization\".) Unaffected by other cards' effects. Once per battle, if this card battles, during damage calculation (in either player's turn): You can make this card's ATK and DEF become equal to the ATK of the monster on the field with the highest ATK (your choice, if tied). When this card is destroyed by battle: You can Special Summon 3 \"Legendary Knight\" monsters from your hand, Deck, and/or Graveyard, ignoring their Summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

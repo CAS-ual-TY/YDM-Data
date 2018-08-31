@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! World Championship Qualifier National Championships 2011",
+    "type": "Tournament Promo Cards",
+    "date": "2011-06-05",
+    "distribution": "tournament_promo_cards",
+    "prefix": "WQ11",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Meklord Astro Mekanikle",
+        "set_number": "WQ11-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "T.G. Hyper Librarian",
+        "set_number": "WQ11-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Meklord Emperor Granel",
+        "set_number": "WQ11-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

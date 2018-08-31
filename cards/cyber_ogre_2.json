@@ -1,0 +1,24 @@
+{
+  "name": "Cyber Ogre 2",
+  "number": "37057012",
+  "is_illegal": false,
+  "text": "\"Cyber Ogre\" + \"Cyber Ogre\"\nA Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. When this card attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2600",
+  "defense": "1900",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "7"
+}

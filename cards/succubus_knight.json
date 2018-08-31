@@ -1,0 +1,24 @@
+{
+  "name": "Succubus Knight",
+  "number": "55291359",
+  "is_illegal": false,
+  "text": "A warrior wizard adept in casting bone-chilling spells.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1650",
+  "defense": "1300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

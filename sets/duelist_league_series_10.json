@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist League Series 10",
+    "type": "Duelist League Promo Cards",
+    "date": "2006-04-28",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "DL10",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Breath of Light",
+        "set_number": "DL10-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

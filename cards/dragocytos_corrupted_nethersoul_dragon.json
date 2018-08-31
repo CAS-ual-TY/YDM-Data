@@ -1,0 +1,24 @@
+{
+  "name": "Dragocytos Corrupted Nethersoul Dragon",
+  "number": "21435914",
+  "is_illegal": false,
+  "text": "1 DARK Tuner + 1 non-Tuner Dragon-Type monster\nCannot be destroyed by battle. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can activate this effect; this card can make a second attack on an opponent's monster in a row. During your Standby Phase: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK, and if it does, inflict damage to your opponent equal to that lost ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "4000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "10"
+}

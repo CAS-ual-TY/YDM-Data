@@ -1,0 +1,24 @@
+{
+  "name": "Old Entity Hastorr",
+  "number": "70913714",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is sent from the Monster Zone to the Graveyard: You can target 1 face-up monster your opponent controls; equip this card from your Graveyard to that monster. That monster cannot attack, also its effects are negated. If this card leaves the field while equipped to an opponent's monster by this effect: Take control of the monster this card was equipped to.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "2300",
+  "defense": "1000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "4"
+}

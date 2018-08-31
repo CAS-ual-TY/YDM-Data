@@ -1,0 +1,24 @@
+{
+  "name": "Galaxy Stealth Dragon",
+  "number": "54358015",
+  "is_illegal": false,
+  "text": "2 Level 4 Dragon-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 Dragon-Type monster from your hand. Your opponent cannot target other \"Galaxy\" cards you control with card effects, also those cards cannot be destroyed by your opponent's card effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2000",
+  "defense": "1600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

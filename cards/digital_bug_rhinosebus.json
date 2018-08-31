@@ -1,0 +1,24 @@
+{
+  "name": "Digital Bug Rhinosebus",
+  "number": "85004150",
+  "is_illegal": false,
+  "text": "2 or more Level 7 LIGHT Insect-Type monsters\nYou can also Xyz Summon this card by detaching 2 Xyz Materials from a Rank 5 or 6 Insect-Type Xyz Monster you control, then using that Xyz Monster as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; destroy the face-up monster(s) your opponent controls with the highest DEF (all, if tied).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "2600",
+  "defense": "2200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "7"
+}

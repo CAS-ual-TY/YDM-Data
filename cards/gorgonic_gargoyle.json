@@ -1,0 +1,24 @@
+{
+  "name": "Gorgonic Gargoyle",
+  "number": "64379261",
+  "is_illegal": false,
+  "text": "When you Normal Summon a Rock-Type monster: You can Special Summon this card from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1000",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

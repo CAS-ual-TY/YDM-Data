@@ -1,0 +1,24 @@
+{
+  "name": "Masked Chameleon",
+  "number": "53573406",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned if you control a Level 5 or higher monster. When this card is Normal Summoned: You can target 1 monster with 0 DEF in your Graveyard; Special Summon that target in face-up Defense Position. Its effects are negated. You cannot Special Summon any other monsters, except from the Extra Deck, during the turn you activate this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1600",
+  "defense": "1100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "4"
+}

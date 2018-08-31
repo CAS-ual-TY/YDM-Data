@@ -1,0 +1,24 @@
+{
+  "name": "Insect Queen",
+  "number": "91512835",
+  "is_illegal": false,
+  "text": "Cannot declare an attack unless you Tribute 1 monster. This card gains 200 ATK for each Insect-Type monster on the field. During the End Phase, if this card destroyed an opponent's monster by battle this turn: Special Summon 1 \"Insect Monster Token\" (Insect-Type/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "2200",
+  "defense": "2400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

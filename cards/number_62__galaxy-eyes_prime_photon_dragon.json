@@ -1,0 +1,24 @@
+{
+  "name": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+  "number": "31801517",
+  "is_illegal": false,
+  "text": "2 Level 8 monsters\nIf this card battles, during damage calculation (Quick Effect): You can detach 1 material from this card once per battle; this card gains ATK equal to the combined Ranks of all Xyz Monsters currently on the field x 200, during that damage calculation only. If this card in its owner's control is destroyed by an opponent's card effect while it has \"Galaxy-Eyes Photon Dragon\" as Xyz Material: You can Special Summon this card during your 2nd Standby Phase after activation and double its ATK. Any battle damage this card inflicts to your opponent is halved unless it has \"Galaxy-Eyes Photon Dragon\" as Xyz Material.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "4000",
+  "defense": "3000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Maiden of the Moonlight",
+  "number": "79629370",
+  "is_illegal": false,
+  "text": "A sorcerer blessed by lunar light with powers far beyond mortal comprehension.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1500",
+  "defense": "1300",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

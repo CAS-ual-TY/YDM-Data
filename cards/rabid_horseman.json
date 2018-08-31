@@ -1,0 +1,24 @@
+{
+  "name": "Rabid Horseman",
+  "number": "94905343",
+  "is_illegal": false,
+  "text": "\"Battle Ox\" + \"Mystic Horseman\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "2000",
+  "defense": "1700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

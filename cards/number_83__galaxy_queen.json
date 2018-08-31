@@ -1,0 +1,24 @@
+{
+  "name": "Number 83: Galaxy Queen",
+  "number": "48928529",
+  "is_illegal": false,
+  "text": "3 Level 1 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; until the opponent's next End Phase, the monsters you currently control cannot be destroyed by battle, and if they attack a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "1"
+}

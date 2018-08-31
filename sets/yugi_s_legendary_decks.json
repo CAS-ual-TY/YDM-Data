@@ -1,0 +1,1106 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yugi's Legendary Decks",
+    "type": "Shonen Jump",
+    "date": "2015-11-13",
+    "distribution": "shonen_jump",
+    "prefix": "YGLD",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Electromagnetic Turtle",
+        "set_number": "YGLD-ENA00",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Luster Soldier",
+        "set_number": "YGLD-ENA01",
+        "rarities": [
+          "Ultra Rare",
+          "Common"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Black Luster Soldier - Envoy of the Beginning",
+        "set_number": "YGLD-ENA02",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician",
+        "set_number": "YGLD-ENA03",
+        "rarities": [
+          "Ultra Rare",
+          "Common"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician Girl",
+        "set_number": "YGLD-ENA04",
+        "rarities": [
+          "Ultra Rare",
+          "Common"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gaia The Fierce Knight",
+        "set_number": "YGLD-ENA05",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Summoned Skull",
+        "set_number": "YGLD-ENA06",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Curse of Dragon",
+        "set_number": "YGLD-ENA07",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Catapult Turtle",
+        "set_number": "YGLD-ENA08",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Celtic Guardian",
+        "set_number": "YGLD-ENA09",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Winged Dragon, Guardian of the Fortress #1",
+        "set_number": "YGLD-ENA10",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Feral Imp",
+        "set_number": "YGLD-ENA11",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Beaver Warrior",
+        "set_number": "YGLD-ENA12",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Griffore",
+        "set_number": "YGLD-ENA13",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mystical Elf",
+        "set_number": "YGLD-ENA14",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Giant Soldier of Stone",
+        "set_number": "YGLD-ENA15",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mammoth Graveyard",
+        "set_number": "YGLD-ENA16",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Exodia the Forbidden One",
+        "set_number": "YGLD-ENA17",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Right Leg of the Forbidden One",
+        "set_number": "YGLD-ENA18",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Left Leg of the Forbidden One",
+        "set_number": "YGLD-ENA19",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Right Arm of the Forbidden One",
+        "set_number": "YGLD-ENA20",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Left Arm of the Forbidden One",
+        "set_number": "YGLD-ENA21",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Kuriboh",
+        "set_number": "YGLD-ENA22",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Monster Reborn",
+        "set_number": "YGLD-ENA23",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Swords of Revealing Light",
+        "set_number": "YGLD-ENA24",
+        "rarities": [
+          "Ultra Rare",
+          "Common"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mystic Box",
+        "set_number": "YGLD-ENA25",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Brain Control",
+        "set_number": "YGLD-ENA26",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Monster Recovery",
+        "set_number": "YGLD-ENA27",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spell Shattering Arrow",
+        "set_number": "YGLD-ENA28",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Horn of the Unicorn",
+        "set_number": "YGLD-ENA29",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mystical Moon",
+        "set_number": "YGLD-ENA30",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Burning Land",
+        "set_number": "YGLD-ENA31",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Multiply",
+        "set_number": "YGLD-ENA32",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Detonate",
+        "set_number": "YGLD-ENA33",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Makiu, the Magical Mist",
+        "set_number": "YGLD-ENA34",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Polymerization",
+        "set_number": "YGLD-ENA35",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Black Luster Ritual",
+        "set_number": "YGLD-ENA36",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mirror Force",
+        "set_number": "YGLD-ENA37",
+        "rarities": [
+          "Ultra Rare",
+          "Common"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magical Hats",
+        "set_number": "YGLD-ENA38",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Eye of Truth",
+        "set_number": "YGLD-ENA39",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shift",
+        "set_number": "YGLD-ENA40",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gaia the Dragon Champion",
+        "set_number": "YGLD-ENA41",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Renewal",
+        "set_number": "YGLD-ENB00",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Valkyrion the Magna Warrior",
+        "set_number": "YGLD-ENB01",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Buster Blader",
+        "set_number": "YGLD-ENB04",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Archfiend of Gilfer",
+        "set_number": "YGLD-ENB05",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jack's Knight",
+        "set_number": "YGLD-ENB06",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Queen's Knight",
+        "set_number": "YGLD-ENB07",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "King's Knight",
+        "set_number": "YGLD-ENB08",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Berfomet",
+        "set_number": "YGLD-ENB09",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gazelle the King of Mythical Beasts",
+        "set_number": "YGLD-ENB10",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Alpha The Magnet Warrior",
+        "set_number": "YGLD-ENB11",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Beta The Magnet Warrior",
+        "set_number": "YGLD-ENB12",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gamma The Magnet Warrior",
+        "set_number": "YGLD-ENB13",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Big Shield Gardna",
+        "set_number": "YGLD-ENB14",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Magic Curtain",
+        "set_number": "YGLD-ENB18",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Thousand Knives",
+        "set_number": "YGLD-ENB19",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magic Formula",
+        "set_number": "YGLD-ENB20",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magical Dimension",
+        "set_number": "YGLD-ENB21",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Diffusion Wave-Motion",
+        "set_number": "YGLD-ENB22",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Double Spell",
+        "set_number": "YGLD-ENB23",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ectoplasmer",
+        "set_number": "YGLD-ENB24",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Soul Taker",
+        "set_number": "YGLD-ENB25",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pot of Greed",
+        "set_number": "YGLD-ENB26",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Card Destruction",
+        "set_number": "YGLD-ENB27",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Exchange",
+        "set_number": "YGLD-ENB28",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "De-Fusion",
+        "set_number": "YGLD-ENB31",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magic Cylinder",
+        "set_number": "YGLD-ENB35",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spellbinding Circle",
+        "set_number": "YGLD-ENB36",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lightforce Sword",
+        "set_number": "YGLD-ENB37",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chain Destruction",
+        "set_number": "YGLD-ENB38",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Soul Rope",
+        "set_number": "YGLD-ENB39",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tragedy",
+        "set_number": "YGLD-ENB40",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chimera the Flying Mythical Beast",
+        "set_number": "YGLD-ENB41",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Black Illusion",
+        "set_number": "YGLD-ENC00",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Magician of Black Chaos",
+        "set_number": "YGLD-ENC01",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician of Chaos",
+        "set_number": "YGLD-ENC02",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Gandora the Dragon of Destruction",
+        "set_number": "YGLD-ENC03",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Silent Magician LV8",
+        "set_number": "YGLD-ENC04",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Silent Magician LV4",
+        "set_number": "YGLD-ENC05",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Silent Swordsman LV7",
+        "set_number": "YGLD-ENC06",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Silent Swordsman LV5",
+        "set_number": "YGLD-ENC07",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Silent Swordsman LV3",
+        "set_number": "YGLD-ENC08",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Tricky",
+        "set_number": "YGLD-ENC12",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Green Gadget",
+        "set_number": "YGLD-ENC16",
+        "rarities": [
+          "Ultra Rare",
+          "Common"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Red Gadget",
+        "set_number": "YGLD-ENC17",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yellow Gadget",
+        "set_number": "YGLD-ENC18",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Skilled Dark Magician",
+        "set_number": "YGLD-ENC19",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Skilled White Magician",
+        "set_number": "YGLD-ENC20",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blockman",
+        "set_number": "YGLD-ENC21",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Marshmallon",
+        "set_number": "YGLD-ENC22",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gold Sarcophagus",
+        "set_number": "YGLD-ENC26",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Card of Sanctity",
+        "set_number": "YGLD-ENC27",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Magic Attack",
+        "set_number": "YGLD-ENC29",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magicians Unite",
+        "set_number": "YGLD-ENC30",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dedication through Light and Darkness",
+        "set_number": "YGLD-ENC31",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Black Magic Ritual",
+        "set_number": "YGLD-ENC32",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tricky Spell 4",
+        "set_number": "YGLD-ENC33",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Emblem of Dragon Destroyer",
+        "set_number": "YGLD-ENC34",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Marshmallon Glasses",
+        "set_number": "YGLD-ENC35",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magician's Circle",
+        "set_number": "YGLD-ENC37",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shattered Axe",
+        "set_number": "YGLD-ENC38",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Stronghold the Moving Fortress",
+        "set_number": "YGLD-ENC39",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Miracle Restoring",
+        "set_number": "YGLD-ENC40",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Paladin",
+        "set_number": "YGLD-ENC41",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Slifer the Sky Dragon",
+        "set_number": "YGLD-ENG01",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Obelisk the Tormentor",
+        "set_number": "YGLD-ENG02",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "The Winged Dragon of Ra",
+        "set_number": "YGLD-ENG03",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

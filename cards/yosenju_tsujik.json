@@ -1,0 +1,24 @@
+{
+  "name": "Yosenju Tsujik",
+  "number": "25244515",
+  "is_illegal": false,
+  "text": "During the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of these effects of \"Yosenju Tsujik\" once per turn.\nâ—? During either player's Damage Step, when a \"Yosenju\" monster you control battles an opponent's monster: You can discard this card; that monster you control gains 1000 ATK until the end of this turn.\nâ—? You can target 1 \"Yosenju\" monster on the field; it gains 1000 ATK until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1000",
+  "defense": "0",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

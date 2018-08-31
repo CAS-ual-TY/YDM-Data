@@ -1,0 +1,24 @@
+{
+  "name": "Vylon Ohm",
+  "number": "5237827",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: Target 1 Equip Spell Card in your Graveyard; banish that target, and if you do, add it to your hand during your next Standby Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1500",
+  "defense": "200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

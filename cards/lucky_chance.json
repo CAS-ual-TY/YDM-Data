@@ -1,0 +1,11 @@
+{
+  "name": "Lucky Chance",
+  "number": "96012004",
+  "is_illegal": false,
+  "text": "When an Effect Monster's effect that requires only 1 coin toss is activated, call Heads or Tails. If you call it right, draw 1 card.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

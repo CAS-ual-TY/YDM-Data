@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump May 2010 subscription bonus",
+    "type": "Shonen Jump",
+    "date": "2010-05-01",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "The Tyrant Neptune",
+        "set_number": "JUMP-EN041",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Transforming Sphere",
+        "set_number": "JUMP-EN042",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

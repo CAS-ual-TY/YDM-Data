@@ -1,0 +1,24 @@
+{
+  "name": "The Tyrant Neptune",
+  "number": "88071625",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned. You can Tribute Summon this card by Tributing 1 monster. This card gains the total original ATK and DEF of the monster(s) Tributed for its Tribute Summon. When this card is Tribute Summoned: Target 1 Effect Monster in the Graveyard that was Tributed for the Tribute Summon; this card's name becomes that target's name, and this card gains that target's effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

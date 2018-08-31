@@ -1,0 +1,24 @@
+{
+  "name": "Sentry Soldier of Stone",
+  "number": "57354389",
+  "is_illegal": false,
+  "text": "If all monsters you control are Rock-Type monsters (min. 1) while this card is in your Graveyard: You can Special Summon this card. You can only use this effect of \"Sentry Soldier of Stone\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1300",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

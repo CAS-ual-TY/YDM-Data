@@ -1,0 +1,24 @@
+{
+  "name": "Hitotsu-Me Giant",
+  "number": "76184692",
+  "is_illegal": false,
+  "text": "A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1200",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

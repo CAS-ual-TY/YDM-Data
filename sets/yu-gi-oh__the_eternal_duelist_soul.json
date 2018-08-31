@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! The Eternal Duelist Soul",
+    "type": "Video Game Promo Cards",
+    "date": "2002-10-15",
+    "distribution": "video_game_promo_cards",
+    "prefix": "EDS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Exchange",
+        "set_number": "EDS-001",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Graceful Dice",
+        "set_number": "EDS-002",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Skull Dice",
+        "set_number": "EDS-003",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

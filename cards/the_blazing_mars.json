@@ -1,0 +1,24 @@
+{
+  "name": "The Blazing Mars",
+  "number": "15033525",
+  "is_illegal": false,
+  "text": "While this card is in your hand or Graveyard: You can banish 3 other monsters from your Graveyard; Special Summon this card, also you cannot Special Summon other monsters for the rest of this turn. During your Main Phase 1: You can send all other monsters you control to the Graveyard; inflict 500 damage to your opponent for each monster sent to the Graveyard. You can only use each effect of \"The Blazing Mars\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "2600",
+  "defense": "2200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

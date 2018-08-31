@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Trading Card Game Tour 2004",
+    "type": "Tournament Promo Cards",
+    "date": "2004-06-19",
+    "distribution": "tournament_promo_cards",
+    "prefix": "EM1",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Machine King",
+        "set_number": "EM1-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

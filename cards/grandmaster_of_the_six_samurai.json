@@ -1,0 +1,24 @@
+{
+  "name": "Grandmaster of the Six Samurai",
+  "number": "83039729",
+  "is_illegal": false,
+  "text": "You can only control 1 face-up \"Grandmaster of the Six Samurai\". If you control a face-up \"Six Samurai\" monster, you can Special Summon this card (from your hand). When this card is destroyed by your opponent's card effect: Target 1 \"Six Samurai\" monster in your Graveyard; add that target to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2100",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

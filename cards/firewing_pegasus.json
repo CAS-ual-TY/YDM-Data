@@ -1,0 +1,24 @@
+{
+  "name": "Firewing Pegasus",
+  "number": "27054370",
+  "is_illegal": false,
+  "text": "A heavenly stallion soaring through the skies on crimson wings.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2250",
+  "defense": "1800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "6"
+}

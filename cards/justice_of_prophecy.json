@@ -1,0 +1,24 @@
+{
+  "name": "Justice of Prophecy",
+  "number": "26732909",
+  "is_illegal": false,
+  "text": "During your End Phase, if you activated a \"Spellbook\" Spell Card previously this turn: You can banish this card from the field; add both 1 Level 5 or higher LIGHT or DARK Spellcaster-Type monster and 1 \"Spellbook\" Spell Card from your Deck to your hand. You can only use the effect of \"Justice of Prophecy\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1600",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

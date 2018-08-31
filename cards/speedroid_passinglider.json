@@ -1,0 +1,28 @@
+{
+  "name": "Speedroid Passinglider",
+  "number": "26420373",
+  "is_illegal": false,
+  "text": "If there are no monsters on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Speedroid Passinglider\" once per turn this way. When this card is Tribute Summoned: You can target 1 Level 4 or lower \"Speedroid\" monster in your GY; Special Summon it. Your opponent's monsters cannot target \"Speedroid\" monsters for attacks, except this one.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2200",
+  "defense": "2000",
+  "attribute": "WIND",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn: You can send 1 \"Speedroid\" Tuner from your hand or face-up from your field to the GY; increase or reduce (min. 1) this card's Pendulum Scale by the original Level of the sent monster until the end of this turn.",
+  "stars": "5"
+}

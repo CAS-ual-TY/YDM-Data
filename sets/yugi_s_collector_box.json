@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yugi's Collector Box",
+    "type": "Misc",
+    "date": "2017-09-15",
+    "distribution": "misc",
+    "prefix": "YUCB",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Dark Magician",
+        "set_number": "YUCB-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

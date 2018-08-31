@@ -1,0 +1,24 @@
+{
+  "name": "Priestess with Eyes of Blue",
+  "number": "36734924",
+  "is_illegal": false,
+  "text": "During either player's turn, when a card or effect is activated that targets this face-up card: You can send 1 Effect Monster you control to the Graveyard, and if you do, add up to 2 \"Blue-Eyes\" monsters with different names from your Deck to your hand. If this card is in your Graveyard: You can target 1 \"Blue-Eyes\" monster you control; shuffle it into the Deck, and if you do, Special Summon this card. You can only use 1 \"Priestess with Eyes of Blue\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

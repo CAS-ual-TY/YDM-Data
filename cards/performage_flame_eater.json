@@ -1,0 +1,24 @@
+{
+  "name": "Performage Flame Eater",
+  "number": "4807253",
+  "is_illegal": false,
+  "text": "During either player's turn, when a card or effect is activated that would inflict damage to you: You can activate this effect; you cannot Special Summon monsters for the rest of this turn, except \"Performage\" monsters, also Special Summon this card from your hand, and if you do, make that effect damage to you 0. If Summoned this way, banish it when it leaves the field. If this card is Normal or Special Summoned: Each player takes 500 damage.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1200",
+  "defense": "1600",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

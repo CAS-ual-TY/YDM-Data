@@ -1,0 +1,24 @@
+{
+  "name": "Armed Dragon LV7",
+  "number": "73879377",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\", and cannot be Special Summoned by other ways. You can send 1 monster from your hand to the Graveyard; destroy all face-up monsters your opponent controls with ATK less than or equal to the sent monster's ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2800",
+  "defense": "1000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

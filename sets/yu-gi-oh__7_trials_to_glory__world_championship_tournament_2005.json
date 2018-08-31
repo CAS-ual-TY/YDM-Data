@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005",
+    "type": "Video Game Promo Cards",
+    "date": "2005-02-15",
+    "distribution": "video_game_promo_cards",
+    "prefix": "WC5",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Silent Swordsman LV7",
+        "set_number": "WC5-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Kaibaman",
+        "set_number": "WC5-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Mind Control",
+        "set_number": "WC5-EN003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,860 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Raging Tempest",
+    "type": "Booster Pack",
+    "date": "2016-10-08",
+    "distribution": "booster_pack",
+    "prefix": "RATE",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Dragoncaller Magician",
+        "set_number": "RATE-EN001",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Handstandaccoon",
+        "set_number": "RATE-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Dag Daggerman",
+        "set_number": "RATE-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Laugh Maker",
+        "set_number": "RATE-EN004",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Speedroid Gum Prize",
+        "set_number": "RATE-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Speedroid Horse Stilts",
+        "set_number": "RATE-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Windwitch - Ice Bell",
+        "set_number": "RATE-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Windwitch - Snow Bell",
+        "set_number": "RATE-EN008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fusion Parasite",
+        "set_number": "RATE-EN009",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyber Tutubon",
+        "set_number": "RATE-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cipher Etranger",
+        "set_number": "RATE-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Flower Cardian Cherry Blossom with Curtain",
+        "set_number": "RATE-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Hunting Hound",
+        "set_number": "RATE-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Ratpier",
+        "set_number": "RATE-EN014",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Bunnyblast",
+        "set_number": "RATE-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Whiptail",
+        "set_number": "RATE-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Thoroughblade",
+        "set_number": "RATE-EN017",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Ramram",
+        "set_number": "RATE-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "True King Lithosagym, the Disaster",
+        "set_number": "RATE-EN019",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Crystron Rion",
+        "set_number": "RATE-EN020",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Crystron Sulfefnir",
+        "set_number": "RATE-EN021",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Shinobird Crow",
+        "set_number": "RATE-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shinobird Crane",
+        "set_number": "RATE-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shinobird Pigeon",
+        "set_number": "RATE-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Envoy of Chaos",
+        "set_number": "RATE-EN025",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Spiritual Beast Tamer Winda",
+        "set_number": "RATE-EN026",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Tierra, Source of Destruction",
+        "set_number": "RATE-EN027",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Miscellaneousaurus",
+        "set_number": "RATE-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Apprentice Piper",
+        "set_number": "RATE-EN029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hebo, Lord of the River",
+        "set_number": "RATE-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yokotuner",
+        "set_number": "RATE-EN031",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Eater of Millions",
+        "set_number": "RATE-EN032",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wightprincess",
+        "set_number": "RATE-EN033",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Metrognome",
+        "set_number": "RATE-EN034",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Fairy Tail - Rella",
+        "set_number": "RATE-EN035",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyber Angel Natasha",
+        "set_number": "RATE-EN036",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Shinobaroness Peacock",
+        "set_number": "RATE-EN037",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Shinobaron Peacock",
+        "set_number": "RATE-EN038",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Brave-Eyes Pendulum Dragon",
+        "set_number": "RATE-EN039",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Windwitch - Crystal Bell",
+        "set_number": "RATE-EN040",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Chaos Ancient Gear Giant",
+        "set_number": "RATE-EN041",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Howitzer",
+        "set_number": "RATE-EN042",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Windwitch - Winter Bell",
+        "set_number": "RATE-EN043",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Stealth Ninja",
+        "set_number": "RATE-EN044",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Flower Cardian Lightflare",
+        "set_number": "RATE-EN045",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Crystron Quariongandrax",
+        "set_number": "RATE-EN046",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Shiranui Sunsaga",
+        "set_number": "RATE-EN047",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Odd-Eyes Raging Dragon",
+        "set_number": "RATE-EN048",
+        "rarities": [
+          "Secret Rare",
+          "Holographic Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Holographic Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Neo Galaxy-Eyes Cipher Dragon",
+        "set_number": "RATE-EN049",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Heavy Armored Train Ironwolf",
+        "set_number": "RATE-EN050",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Broadbull",
+        "set_number": "RATE-EN051",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Tigermortar",
+        "set_number": "RATE-EN052",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Drident",
+        "set_number": "RATE-EN053",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Boarbow",
+        "set_number": "RATE-EN054",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Machine Angel Absolute Ritual",
+        "set_number": "RATE-EN055",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rank-Up-Magic Cipher Ascension",
+        "set_number": "RATE-EN056",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Recardination",
+        "set_number": "RATE-EN057",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zodiac Sign",
+        "set_number": "RATE-EN058",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Barrage",
+        "set_number": "RATE-EN059",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Shinobird's Calling",
+        "set_number": "RATE-EN060",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shinobird Power Spot",
+        "set_number": "RATE-EN061",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Super Soldier Synthesis",
+        "set_number": "RATE-EN062",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Super Quantal Alphan Spike",
+        "set_number": "RATE-EN063",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ritual Beast Return",
+        "set_number": "RATE-EN064",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Foolish Burial Goods",
+        "set_number": "RATE-EN065",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "That Grass Looks Greener",
+        "set_number": "RATE-EN066",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Terminal World NEXT",
+        "set_number": "RATE-EN067",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Lost Wind",
+        "set_number": "RATE-EN068",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cipher Spectrum",
+        "set_number": "RATE-EN069",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient Gear Reborn",
+        "set_number": "RATE-EN070",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Zoodiac Combo",
+        "set_number": "RATE-EN071",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shinobird Salvation",
+        "set_number": "RATE-EN072",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Beginning of Heaven and Earth",
+        "set_number": "RATE-EN073",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shiranui Style Samsara",
+        "set_number": "RATE-EN074",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Majespecter Gust",
+        "set_number": "RATE-EN075",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Void Feast",
+        "set_number": "RATE-EN076",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Purushaddoll Aeon",
+        "set_number": "RATE-EN077",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Full Force Virus",
+        "set_number": "RATE-EN078",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Switcheroroo",
+        "set_number": "RATE-EN079",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Massivemorph",
+        "set_number": "RATE-EN080",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      }
+    ]
+  }
+}

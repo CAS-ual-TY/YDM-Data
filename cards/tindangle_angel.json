@@ -1,0 +1,25 @@
+{
+  "name": "Tindangle Angel",
+  "number": "68860936",
+  "is_illegal": false,
+  "text": "FLIP: You can Special Summon 1 Flip monster from your hand or GY in face-down Defense Position, except \"Tindangle Angel\", then if this effect is activated during your opponent's Battle Phase, end the Battle Phase. You can only use this effect of \"Tindangle Angel\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "500",
+  "defense": "1800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "4"
+}

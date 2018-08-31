@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Weekly Shonen Jump July 2016 membership promotional card",
+    "type": "Shonen Jump",
+    "date": "2016-07-04",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Number S0: Utopic ZEXAL",
+        "set_number": "JUMP-EN077",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

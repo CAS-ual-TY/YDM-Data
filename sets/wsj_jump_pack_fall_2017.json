@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "WSJ Jump Pack Fall 2017",
+    "type": "Magazine Promo",
+    "date": "2017-08-01",
+    "distribution": "magazine_promo",
+    "prefix": "JMPS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Slifer the Sky Dragon",
+        "set_number": "JMPS-EN005",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

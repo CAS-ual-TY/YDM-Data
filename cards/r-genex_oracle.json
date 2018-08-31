@@ -1,0 +1,24 @@
+{
+  "name": "R-Genex Oracle",
+  "number": "10178757",
+  "is_illegal": false,
+  "text": "If this card is added from your Deck to your hand by the effect of a \"Genex\" monster, you can Special Summon this card. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a \"Genex\" monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "300",
+  "defense": "300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

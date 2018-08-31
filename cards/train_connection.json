@@ -1,0 +1,11 @@
+{
+  "name": "Train Connection",
+  "number": "60879050",
+  "is_illegal": false,
+  "text": "Must be equipped to an EARTH Machine-Type monster, by banishing 2 Level 10 or higher Machine-Type monsters from your Graveyard, and cannot be equipped by other ways. The equipped monster's ATK becomes double its original ATK, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. Other monsters you control cannot attack.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Equip"
+}

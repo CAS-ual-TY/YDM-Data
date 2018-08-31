@@ -1,0 +1,24 @@
+{
+  "name": "Morphtronic Smartfon",
+  "number": "15521027",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Morphtronic\" monster from your Graveyard.\nâ—?While in Attack Position: Once per turn: You can roll a six-sided die, excavate that many cards from the top of your Deck, add 1 excavated \"Morphtronic\" card to your hand, also shuffle the rest back into the Deck.\nâ—?While in Defense Position: Once per turn: You can roll a six-sided die, look at that many cards from the top of your Deck, then place all of them on either the top or the bottom of the Deck, but in any order.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

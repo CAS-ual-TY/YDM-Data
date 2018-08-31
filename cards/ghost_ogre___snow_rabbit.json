@@ -1,0 +1,24 @@
+{
+  "name": "Ghost Ogre & Snow Rabbit",
+  "number": "59438930",
+  "is_illegal": false,
+  "text": "During either player's turn, when a monster on the field activates its effect, or when a Spell/Trap Card that is already face-up on the field activates its effect: You can send this card from your hand or field to the Graveyard; destroy that card on the field. You can only use this effect of \"Ghost Ogre & Snow Rabbit\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "0",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

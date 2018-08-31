@@ -1,0 +1,24 @@
+{
+  "name": "Big Belly Knight",
+  "number": "32696942",
+  "is_illegal": false,
+  "text": "If this card is detached from an Xyz Monster and sent to the Graveyard to activate that monster's effect: You can Special Summon 1 Level 3 or lower monster from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "1600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dragon Buster Destruction Sword",
+  "number": "76218313",
+  "is_illegal": false,
+  "text": "You can target 1 \"Buster Blader\" you control; equip this monster from your hand or your side of the field to that target. While this card is equipped to a monster, your opponent cannot Special Summon monsters from the Extra Deck. While this card is equipped to a monster: You can Special Summon this equipped card. You can only use this effect of \"Dragon Buster Destruction Sword\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "400",
+  "defense": "300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

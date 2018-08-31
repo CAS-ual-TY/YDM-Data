@@ -1,0 +1,24 @@
+{
+  "name": "Fabled Dianaira",
+  "number": "53199020",
+  "is_illegal": false,
+  "text": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 \"Fabled\" monster. Once per turn, the effect of the first Normal Spell Card your opponent activates becomes \"Your opponent discards 1 card\". (\"Your opponent\" means the controller of this monster.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2800",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

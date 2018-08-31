@@ -1,0 +1,24 @@
+{
+  "name": "Wightprince",
+  "number": "57473560",
+  "is_illegal": false,
+  "text": "If this card is sent to the Graveyard: You can send 1\"Skull Servant\" and 1 \"The Lady in Wight\" from your hand and/or Deck to the Graveyard. You can banish 2 \"Skull Servants\" and this card from your Graveyard; Special Summon 1 \"King of the Skull Servants\" from your Deck. This card's name becomes \"Skull Servant\" while it is in the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

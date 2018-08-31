@@ -1,0 +1,25 @@
+{
+  "name": "Wall of Ivy",
+  "number": "30069398",
+  "is_illegal": false,
+  "text": "FLIP: Special Summon 1 \"Ivy Token\" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0) in Defense Position to your opponent's side of the field. When this Token is destroyed, its controller takes 300 damage.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "300",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "2"
+}

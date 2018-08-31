@@ -1,0 +1,24 @@
+{
+  "name": "Superheavy Samurai Swordsman",
+  "number": "77013169",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned: You can change its battle position. If a \"Superheavy Samurai\" monster you control battles an opponent's monster, after damage calculation: The opponent's monster's ATK and DEF become 0.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

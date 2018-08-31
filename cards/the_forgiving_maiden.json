@@ -1,0 +1,24 @@
+{
+  "name": "The Forgiving Maiden",
+  "number": "84080938",
+  "is_illegal": false,
+  "text": "Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "850",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

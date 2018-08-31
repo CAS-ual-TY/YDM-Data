@@ -1,0 +1,11 @@
+{
+  "name": "Trap Jammer",
+  "number": "19252988",
+  "is_illegal": false,
+  "text": "When your opponent activates a Trap Card during the Battle Phase: Negate the activation, and if you do, destroy it.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

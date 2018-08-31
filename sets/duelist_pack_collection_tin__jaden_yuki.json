@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Pack Collection Tin: Jaden Yuki",
+    "type": "Special Edition Promo Cards",
+    "date": "2008-03-23",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "DPCT",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Elemental HERO Prisma",
+        "set_number": "DPCT-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

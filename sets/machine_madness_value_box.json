@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Machine Madness Value Box",
+    "type": "Starter Deck",
+    "date": "2014-02-28",
+    "distribution": "",
+    "prefix": "SD10",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Ancient Gear Gadjiltron Dragon",
+        "set_number": "SD10-EN001",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      },
+      {
+        "card_name": "Cyber Dragon Nova",
+        "set_number": "SDCR-EN038",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      },
+      {
+        "card_name": "Machina Fortress",
+        "set_number": "SDMM-EN001",
+        "rarities": [
+          "Unknown"
+        ],
+        "count": {
+          "Unknown": 1
+        }
+      }
+    ]
+  }
+}

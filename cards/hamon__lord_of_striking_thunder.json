@@ -1,0 +1,24 @@
+{
+  "name": "Hamon, Lord of Striking Thunder",
+  "number": "32491822",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Continuous Spell Cards you control to the Graveyard, and cannot be Special Summoned by other ways. If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 1000 damage to your opponent. While this card is in face-up Defense Position, monsters your opponent controls cannot target monsters for attacks, except this one.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "4000",
+  "defense": "4000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

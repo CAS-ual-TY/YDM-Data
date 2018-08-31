@@ -1,0 +1,24 @@
+{
+  "name": "Mirror Force Dragon",
+  "number": "84687358",
+  "is_illegal": false,
+  "text": "Must be Special Summoned with \"The Fang of Critias\", using \"Mirror Force\", and cannot be Special Summoned by other ways. When a monster(s) you control is targeted for an attack or by an opponent's card effect (except during the Damage Step): You can destroy all cards your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2800",
+  "defense": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

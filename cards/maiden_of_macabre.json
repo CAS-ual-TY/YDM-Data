@@ -1,0 +1,24 @@
+{
+  "name": "Maiden of Macabre",
+  "number": "84055227",
+  "is_illegal": false,
+  "text": "Each time this card destroys a monster by battle, place 1 Spell Counter on this card. This card gains 200 ATK for every Spell Counter on it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1700",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Beatrice, Lady of the Eternal",
+  "number": "27552504",
+  "is_illegal": false,
+  "text": "2 Level 6 monsters / You can also Xyz Summon this card by sending 1 \"Burning Abyss\" monster from your hand to the Graveyard, then using 1 \"Dante\" monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) If Summoned this way, the following effect cannot be activated this turn. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; send 1 card from your Deck to the Graveyard. If this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can Special Summon 1 \"Burning Abyss\" monster from your Extra Deck, ignoring its Summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2500",
+  "defense": "2800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "6"
+}

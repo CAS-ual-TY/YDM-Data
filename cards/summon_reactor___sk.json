@@ -1,0 +1,24 @@
+{
+  "name": "Summon Reactorãƒ»SK",
+  "number": "89493368",
+  "is_illegal": false,
+  "text": "The first time a monster(s) is Summoned to your opponent's side of the field each turn, inflict 800 damage to your opponent. During the Battle Phase of the turn this effect is activated, you can negate the attack of 1 monster your opponent controls. You can send 1 face-up \"Trap Reactorãƒ»Y FI\", 1 face-up \"Spell Reactorãƒ»RE\" and this face-up card you control to the Graveyard to Special Summon 1 \"Flying Fortress SKY FIRE\" from your hand, Deck, or Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2000",
+  "defense": "1400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

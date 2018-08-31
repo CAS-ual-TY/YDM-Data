@@ -1,0 +1,25 @@
+{
+  "name": "Evigishki Mind Augus",
+  "number": "11877465",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned or Set. Must first be Ritual Summoned. You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. When this card is Ritual Summoned: Target up to 5 cards in any Graveyard(s); shuffle those targets to the Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "6"
+}

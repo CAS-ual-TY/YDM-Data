@@ -1,0 +1,24 @@
+{
+  "name": "Protector with Eyes of Blue",
+  "number": "72855441",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 1 LIGHT Tuner monster from your hand. You can target 1 Effect Monster you control; send it to the Graveyard, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your hand. You can only use this effect of \"Protector with Eyes of Blue\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "800",
+  "defense": "1300",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

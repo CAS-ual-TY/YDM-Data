@@ -1,0 +1,24 @@
+{
+  "name": "Odin, Father of the Aesir",
+  "number": "93483212",
+  "is_illegal": false,
+  "text": "1 \"Nordic Ascendant\" Tuner + 2 or more non-Tuner monsters\nOnce per turn: You can make this card be unaffected by Spell/Trap effects until the the end of this turn. During the End Phase, if this face-up card you controlled was destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard this turn: You can banish 1 \"Nordic Ascendant\" Tuner monster from your Graveyard; Special Summon this card. When Summoned this way: You can draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "4000",
+  "defense": "3500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "10"
+}

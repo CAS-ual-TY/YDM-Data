@@ -1,0 +1,24 @@
+{
+  "name": "Steelswarm Roach",
+  "number": "37926346",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nDuring either player's turn, when a Level 5 or higher monster would be Special Summoned: You can detach 1 Xyz Material from this card; negate the Special Summon, and if you do, destroy it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1900",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

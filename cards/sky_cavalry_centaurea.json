@@ -1,0 +1,24 @@
+{
+  "name": "Sky Cavalry Centaurea",
+  "number": "36776089",
+  "is_illegal": false,
+  "text": "2 Level 2 monsters\nThis card cannot be destroyed by battle while it has Xyz Material. At the end of the Damage Step, if this card battled an opponent's monster: You can detach 1 Xyz Material from this card; return the opponent's monster from the field to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "2000",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "2"
+}

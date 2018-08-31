@@ -1,0 +1,24 @@
+{
+  "name": "Kaiser Dragon",
+  "number": "94566432",
+  "is_illegal": false,
+  "text": "\"Winged Dragon, Guardian of the Fortress #1\" + \"Fairy Dragon\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2300",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "7"
+}

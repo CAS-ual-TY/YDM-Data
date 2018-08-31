@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Generation Force Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2011-08-06",
+    "distribution": "tournament_promo_cards",
+    "prefix": "GENF",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Xyz Veil",
+        "set_number": "GENF-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

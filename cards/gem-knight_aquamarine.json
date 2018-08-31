@@ -1,0 +1,24 @@
+{
+  "name": "Gem-Knight Aquamarine",
+  "number": "13108445",
+  "is_illegal": false,
+  "text": "\"Gem-Knight Sapphire\" + 1 \"Gem-Knight\" monster\nMust first be Fusion Summoned with the above Fusion Material Monsters. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. When this card is sent from the field to the Graveyard: Target 1 card your opponent controls; return that target to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1400",
+  "defense": "2600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

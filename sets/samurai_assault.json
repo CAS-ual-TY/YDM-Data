@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Samurai Assault",
+    "type": "Special Edition Promo Cards",
+    "date": "2011-12-06",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "SAAS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Elder of the Six Samurai",
+        "set_number": "SAAS-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

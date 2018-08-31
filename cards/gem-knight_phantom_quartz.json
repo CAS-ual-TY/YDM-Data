@@ -1,0 +1,27 @@
+{
+  "name": "Gem-Knight Phantom Quartz",
+  "number": "24484270",
+  "is_illegal": false,
+  "text": "2 \"Gem-\" monsters\nIf this card is Link Summoned: You can add 1 \"Gem-Knight\" card from your Deck to your hand. You can pay 1000 LP; Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, by shuffling Fusion Materials in your possession listed on it into your Deck, that are banished or in the GY, but it cannot attack directly this turn. You can only use each effect of \"Gem-Knight Phantom Quartz\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1450",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

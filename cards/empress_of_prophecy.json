@@ -1,0 +1,24 @@
+{
+  "name": "Empress of Prophecy",
+  "number": "770365",
+  "is_illegal": false,
+  "text": "2 Level 5 Spellcaster-Type monsters\nThis card gains 300 ATK for each Xyz Material attached to a monster you control. Once per turn: You can detach 1 Xyz Material from this card; shuffle your Deck, then excavate the top 5 cards of your Deck, destroy monsters on the field up to the number of \"Spellbook\" cards excavated, also, after that, place the excavated cards on the top of the Deck in any order.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2000",
+  "defense": "1700",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

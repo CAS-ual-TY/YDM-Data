@@ -1,0 +1,24 @@
+{
+  "name": "Lunalight Purple Butterfly",
+  "number": "48427163",
+  "is_illegal": false,
+  "text": "You can send this card from your hand or field to the Graveyard, then target 1 \"Lunalight\" monster you control; it gains 1000 ATK until the end of this turn. You can banish this card from your Graveyard; Special Summon 1 \"Lunalight\" monster from your hand. You can only use this effect of \"Lunalight Purple Butterfly\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

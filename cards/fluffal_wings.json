@@ -1,0 +1,24 @@
+{
+  "name": "Fluffal Wings",
+  "number": "72413000",
+  "is_illegal": false,
+  "text": "If this card is in your Graveyard and you control \"Toy Vendor\": You can banish this card from your Graveyard, then target 1 \"Fluffal\" monster in your Graveyard; banish it, and if you do, draw 1 card, then you can send 1 \"Toy Vendor\" you control to the Graveyard, and if you do, draw 1 card. You can only use this effect of \"Fluffal Wings\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Circuit Break Sneak Peek Participation Card",
+    "type": "Sneak Peek Participation Cards",
+    "date": "2017-10-14",
+    "distribution": "sneak_peek_participation_cards",
+    "prefix": "CIBR",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Hallohallo",
+        "set_number": "CIBR-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

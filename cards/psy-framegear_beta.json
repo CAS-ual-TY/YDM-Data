@@ -1,0 +1,24 @@
+{
+  "name": "PSY-Framegear Beta",
+  "number": "2810642",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect, and cannot be Special Summoned by other ways. When an opponent's monster declares an attack while you control no monsters: You can Special Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or Graveyard, and if you do, destroy the attacking monster, then end the Battle Phase. During the End Phase, banish the face-up monsters Special Summoned by this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "700",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

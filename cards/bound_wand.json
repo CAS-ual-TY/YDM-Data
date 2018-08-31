@@ -1,0 +1,11 @@
+{
+  "name": "Bound Wand",
+  "number": "53610653",
+  "is_illegal": false,
+  "text": "Equip only to a Spellcaster-Type monster that has a Level. It gains ATK equal to its Level Ã— 100. If the equipped monster is destroyed by your opponent's card (by battle or card effect) and sent to the Graveyard, and this card is sent to the Graveyard as a result: You can Special Summon that monster.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Equip"
+}

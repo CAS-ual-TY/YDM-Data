@@ -1,0 +1,24 @@
+{
+  "name": "Shiranui Solitaire",
+  "number": "94801854",
+  "is_illegal": false,
+  "text": "You can Tribute 1 Zombie-Type monster; Special Summon 1 Zombie-Type Tuner with 0 DEF from your Deck. If this card is banished: You can target 1 of your banished \"Shiranui\" monsters, except \"Shiranui Solitaire\", or up to 2 instead if \"Shiranui Style Synthesis\" is on the field; Special Summon them. You can only use each effect of \"Shiranui Solitaire\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "500",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

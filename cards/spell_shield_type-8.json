@@ -1,0 +1,11 @@
+{
+  "name": "Spell Shield Type-8",
+  "number": "38275183",
+  "is_illegal": false,
+  "text": "Activate 1 of these effects.\nâ—? When a Spell Card is activated that targets exactly 1 monster on the field: Negate the activation, and if you do, destroy it.\nâ—? When a Spell Card is activated: Send 1 Spell Card from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

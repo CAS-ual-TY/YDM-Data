@@ -1,0 +1,24 @@
+{
+  "name": "Madolche Chouxvalier",
+  "number": "75363626",
+  "is_illegal": false,
+  "text": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. Your opponent cannot target face-up \"Madolche\" monsters you control for attacks, except \"Madolche Chouxvalier\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1700",
+  "defense": "1300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

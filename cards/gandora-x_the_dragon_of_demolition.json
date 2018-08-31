@@ -1,0 +1,24 @@
+{
+  "name": "Gandora-X the Dragon of Demolition",
+  "number": "71525232",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned from the hand: You can destroy as many other monsters on the field as possible, and if you do, inflict damage to your opponent equal to the highest original ATK on the field among those destroyed monsters (your choice, if tied). This card's ATK becomes equal to the damage inflicted to your opponent by this effect. Once per turn, during your End Phase: Halve your LP.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

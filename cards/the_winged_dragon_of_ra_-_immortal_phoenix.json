@@ -1,0 +1,24 @@
+{
+  "name": "The Winged Dragon of Ra - Immortal Phoenix",
+  "number": "10000090",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If \"The Winged Dragon of Ra\" is sent from the field to your Graveyard while this card is in your Graveyard: Special Summon this card. Cards and effects cannot be activated in response to this effect's activation. This card is unaffected by other cards' effects. You can pay 1000 LP; send 1 monster on the field to the Graveyard. Once per turn, during the End Phase: Send this card to the Graveyard, and if you do, Special Summon 1 \"The Winged Dragon of Ra - Sphere Mode\" from your hand, Deck, or Graveyard, ignoring its Summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Divine-Beast",
+  "attack": "4000",
+  "defense": "4000",
+  "attribute": "DIVINE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

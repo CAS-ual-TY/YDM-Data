@@ -1,0 +1,24 @@
+{
+  "name": "Phantasmal Lord Ultimitl Bishbaalkin",
+  "number": "90884403",
+  "is_illegal": false,
+  "text": "(This card's original Level is always treated as 12.)\nCannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 Level 8 or higher monsters you control with the same Level to the Graveyard (1 Tuner and 1 non-Tuner), and cannot be Special Summoned by other ways. Cannot be destroyed by card effects. This card gains 1000 ATK for each monster on the field. Once per turn, during either player's Main Phase: You can Special Summon the same number of \"Utchatzimime Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) on each player's field in Defense Position, so as to Summon as many as possible, also this card cannot attack for the rest of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "12"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Engraver of the Mark",
+  "number": "50078320",
+  "is_illegal": false,
+  "text": "During either player's turn, when your opponent activates a card or effect by declaring exactly 1 card name: You can send this card from your hand to the Graveyard; declare 1 other card name. The card name your opponent declared becomes the card name declared by this effect. Once per turn, during either player's turn: You can target 1 face-up card on the field; destroy it during the End Phase of the next turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1800",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

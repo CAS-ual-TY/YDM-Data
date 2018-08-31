@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump December 2011 subscription bonus",
+    "type": "Shonen Jump",
+    "date": "2011-12-01",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Sephylon, the Ultimate Timelord",
+        "set_number": "JUMP-EN054",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Shooting Quasar Dragon",
+        "set_number": "JUMP-EN055",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

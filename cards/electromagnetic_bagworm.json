@@ -1,0 +1,25 @@
+{
+  "name": "Electromagnetic Bagworm",
+  "number": "7914843",
+  "is_illegal": false,
+  "text": "FLIP: Target 1 Machine-Type monster your opponent controls; take control of that target until your next End Phase.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "200",
+  "defense": "1400",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Number 42: Galaxy Tomahawk",
+  "number": "10389142",
+  "is_illegal": false,
+  "text": "2 Level 7 monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; Special Summon as many \"Battle Eagle Tokens\" (Machine-Type/WIND/Level 6/ATK 2000/DEF 0) as possible, destroy them during the End Phase of this turn, also your opponent takes no further battle damage this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "3000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "7"
+}

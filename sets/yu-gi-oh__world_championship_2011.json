@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! World Championship 2011",
+    "type": "Tournament Promo Cards",
+    "date": "2011-08-14",
+    "distribution": "tournament_promo_cards",
+    "prefix": "2011",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "King Landia the Goldfang",
+        "set_number": "2011-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Queen Nereia the Silvercrown",
+        "set_number": "2011-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

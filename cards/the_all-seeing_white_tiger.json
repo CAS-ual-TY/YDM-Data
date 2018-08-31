@@ -1,0 +1,24 @@
+{
+  "name": "The All-Seeing White Tiger",
+  "number": "32269855",
+  "is_illegal": false,
+  "text": "A proud ruler of the jungle that some fear and others respect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1300",
+  "defense": "500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

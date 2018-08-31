@@ -1,0 +1,24 @@
+{
+  "name": "Black Luster Soldier - Envoy of the Evening Twilight",
+  "number": "77498348",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing all LIGHT monsters or all DARK monsters from your Graveyard, while you have an equal number of each in your Graveyard, and cannot be Special Summoned by other ways. While face-up on the field, this card is also LIGHT-Attribute. When this card is Special Summoned: You can activate the appropriate effect, based on the Attribute of the monsters banished for the Special Summon. You cannot conduct your Battle Phase the turn you activate this effect.\nâ—? LIGHT: Target 1 monster on the field; banish it.\nâ—? DARK: Banish 1 random card from your opponent's hand face-down, until your opponent's End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

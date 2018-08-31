@@ -1,0 +1,24 @@
+{
+  "name": "Ancient Elf",
+  "number": "93221206",
+  "is_illegal": false,
+  "text": "This elf is rumored to have lived for thousands of years. He leads an army of spirits against his enemies.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1450",
+  "defense": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

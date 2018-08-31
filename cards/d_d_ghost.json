@@ -1,0 +1,24 @@
+{
+  "name": "D/D Ghost",
+  "number": "33334269",
+  "is_illegal": false,
+  "text": "If this card is sent to the Graveyard: You can target 1 \"D/D\" monster or \"Dark Contract\" card in your Graveyard, except \"D/D Ghost\"; send 1 card from your Deck to the Graveyard with that name. If this card is banished: You can target 1 of your banished \"D/D\" monsters or \"Dark Contract\" cards, except \"D/D Ghost\"; return it to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "600",
+  "defense": "300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

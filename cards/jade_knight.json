@@ -1,0 +1,24 @@
+{
+  "name": "Jade Knight",
+  "number": "44364207",
+  "is_illegal": false,
+  "text": "While this card is in Attack Position, Machine-Type monsters you control with 1200 or less ATK cannot be destroyed by Trap effects. When this card is destroyed by battle and sent to the Graveyard: You can add 1 Level 4 LIGHT Machine-Type monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "The Trojan Horse",
+  "number": "38479725",
+  "is_illegal": false,
+  "text": "When Tribute Summoning an EARTH monster, you can treat this 1 monster as 2 Tributes.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1600",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Luster Dragon #2",
+  "number": "17658803",
+  "is_illegal": false,
+  "text": "This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2400",
+  "defense": "1400",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "6"
+}

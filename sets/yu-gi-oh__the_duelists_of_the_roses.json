@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! The Duelists of the Roses",
+    "type": "Video Game Promo Cards",
+    "date": "2003-02-16",
+    "distribution": "video_game_promo_cards",
+    "prefix": "DOR",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Alpha The Magnet Warrior",
+        "set_number": "DOR-001",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Beta The Magnet Warrior",
+        "set_number": "DOR-002",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Gamma The Magnet Warrior",
+        "set_number": "DOR-003",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

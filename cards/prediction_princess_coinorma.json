@@ -1,0 +1,25 @@
+{
+  "name": "Prediction Princess Coinorma",
+  "number": "32231618",
+  "is_illegal": false,
+  "text": "FLIP: You can Special Summon 1 Level 3 or higher Flip monster from your hand or Deck in face-down Defense Position, also you cannot activate monster effects for the rest of this turn, except \"Prediction Princess\" monsters'.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "800",
+  "defense": "1400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Charming Resort Staff",
+  "number": "64753157",
+  "is_illegal": false,
+  "text": "When an attack is declared involving a \"SPYRAL Super Agent\" you control and an opponent's face-up monster: You can change the ATK of the opponent's monster to 0. If this card is destroyed by battle or card effect: You can Special Summon 1 \"SPYRAL Super Agent\" from your Deck. If a \"SPYRAL Super Agent\" you control is destroyed by battle or sent to the Graveyard while this card is in your Graveyard: You can banish this card from your Graveyard; return 1 \"SPYRAL Super Agent\" from your Graveyard to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "300",
+  "defense": "200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

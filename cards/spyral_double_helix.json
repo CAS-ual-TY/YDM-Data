@@ -1,0 +1,27 @@
+{
+  "name": "SPYRAL Double Helix",
+  "number": "1322368",
+  "is_illegal": false,
+  "text": "2 \"SPYRAL\" monsters\nThis card's name becomes \"SPYRAL Super Agent\" while on the field or in the GY. You can declare 1 card type (Monster, Spell, or Trap); reveal the top card of your opponent's Deck, and if you do, and its type matches the declared type, take 1 \"SPYRAL\" monster from your Deck or GY, and either add it to your hand or Special Summon it to your zone this card points to. You can only use this effect of \"SPYRAL Double Helix\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1900",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Bottom"
+  ],
+  "link_number": "2"
+}

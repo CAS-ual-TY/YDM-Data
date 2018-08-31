@@ -1,0 +1,24 @@
+{
+  "name": "Fabled Dyf",
+  "number": "86840720",
+  "is_illegal": false,
+  "text": "When a \"Fabled\" monster(s) is sent from the hand to your Graveyard, you can Tribute this card to select 1 of those monster(s) and Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1400",
+  "defense": "1700",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

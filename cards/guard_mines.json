@@ -1,0 +1,11 @@
+{
+  "name": "Guard Mines",
+  "number": "88928798",
+  "is_illegal": false,
+  "text": "Activate only when a card is activated with an effect that would target and destroy 1 monster you control. Negate the effect and destroy that card. Then inflict 500 damage to your opponent.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

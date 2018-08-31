@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "The Duelist Genesis: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2008-10-07",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "TDGS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Eradicator Epidemic Virus",
+        "set_number": "TDGS-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Gladiator Beast Heraklinos",
+        "set_number": "TDGS-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

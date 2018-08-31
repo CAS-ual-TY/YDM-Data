@@ -1,0 +1,104 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Collectible Tins 2012 Wave 2",
+    "type": "Special Edition Promo Cards",
+    "date": "2012-10-25",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT09",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Ninja Grandmaster Hanzo",
+        "set_number": "CT09-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Hieratic Sun Dragon Overlord of Heliopolis",
+        "set_number": "CT09-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Maxx \"C\"",
+        "set_number": "CT09-EN012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Tour Guide From the Underworld",
+        "set_number": "CT09-EN013",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 16: Shock Master",
+        "set_number": "CT09-EN014",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Rescue Rabbit",
+        "set_number": "CT09-EN015",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Malefic Truth Dragon",
+        "set_number": "CT09-EN016",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "X-Saber Souza",
+        "set_number": "CT09-EN017",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Leviair the Sea Dragon",
+        "set_number": "CT09-EN018",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

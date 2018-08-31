@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny",
+    "type": "Video Game Promo Cards",
+    "date": "2003-11-18",
+    "distribution": "video_game_promo_cards",
+    "prefix": "PCY",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Windstorm of Etaqua",
+        "set_number": "PCY-001",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Anti-Spell Fragrance",
+        "set_number": "PCY-002",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Thousand Knives",
+        "set_number": "PCY-003",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician",
+        "set_number": "PCY-004",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Kuriboh",
+        "set_number": "PCY-005",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Master of Oz",
+  "number": "27134689",
+  "is_illegal": false,
+  "text": "\"Big Koala\" + \"Des Kangaroo\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "4200",
+  "defense": "3700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "9"
+}

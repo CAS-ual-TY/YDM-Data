@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Primal Origin: Deluxe Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2014-06-12",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "PRIO",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Sylvan Snapdrassinagon",
+        "set_number": "PRIO-ENDE1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "And the Band Played On",
+        "set_number": "PRIO-ENDE2",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "The Agent of Entropy - Uranus",
+        "set_number": "PRIO-ENDE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Re-Cover",
+        "set_number": "PRIO-ENDE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

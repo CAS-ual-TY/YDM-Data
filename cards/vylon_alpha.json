@@ -1,0 +1,24 @@
+{
+  "name": "Vylon Alpha",
+  "number": "56768355",
+  "is_illegal": false,
+  "text": "1 \"Vylon\" Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 Equip Spell Card in your Graveyard; equip that target to this card. While this card is equipped with an Equip Card, it cannot be destroyed by Spell/Trap effects, except for Equip Cards.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2200",
+  "defense": "1100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "9"
+}

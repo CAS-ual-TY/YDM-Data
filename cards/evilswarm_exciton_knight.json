@@ -1,0 +1,24 @@
+{
+  "name": "Evilswarm Exciton Knight",
+  "number": "46772449",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nOnce per chain, during your Main Phase or your opponent's Battle Phase, if your opponent has more total cards in their hand and field than you do (Quick Effect): You can detach 1 material from this card; destroy all other cards on the field, also your opponent takes no further damage this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1900",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

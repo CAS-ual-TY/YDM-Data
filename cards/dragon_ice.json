@@ -1,0 +1,24 @@
+{
+  "name": "Dragon Ice",
+  "number": "64262809",
+  "is_illegal": false,
+  "text": "When your opponent Special Summons a monster (except during the Damage Step): You can discard 1 card; Special Summon this card from your hand or Graveyard. There can only be 1 \"Dragon Ice\" on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1800",
+  "defense": "2200",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

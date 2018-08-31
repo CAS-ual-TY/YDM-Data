@@ -1,0 +1,24 @@
+{
+  "name": "Gravekeeper's Oracle",
+  "number": "25524823",
+  "is_illegal": false,
+  "text": "You can Tribute 3 monsters or 1 \"Gravekeeper's\" monster to Tribute Summon (but not Set) this card. When this card is Tribute Summoned: You can activate any of these effects, and resolve in sequence, up to the number of \"Gravekeeper's\" monsters Tributed for the Summon.\nâ—? This card gains ATK equal to the combined Levels that all monsters Tributed for its Tribute Summon had on the field x 100.\nâ—? Destroy all Set monsters your opponent controls.\nâ—? All monsters your opponent currently controls lose 2000 ATK and DEF.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2000",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

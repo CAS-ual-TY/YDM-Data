@@ -1,0 +1,24 @@
+{
+  "name": "Gash the Dust Lord",
+  "number": "19012345",
+  "is_illegal": false,
+  "text": "When this card inflicts battle damage to your opponent: Increase the Level of this card by 1 (max. 12).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1000",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

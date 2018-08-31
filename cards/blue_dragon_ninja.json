@@ -1,0 +1,24 @@
+{
+  "name": "Blue Dragon Ninja",
+  "number": "14568951",
+  "is_illegal": false,
+  "text": "Once per turn, during either player's turn: You can discard 1 \"Ninja\" monster and 1 \"Ninjitsu Art\" card to target 1 face-up monster your opponent controls; this turn, that monster's effects are negated, also that monster cannot attack.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "2100",
+  "defense": "1200",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

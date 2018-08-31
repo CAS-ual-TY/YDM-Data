@@ -1,0 +1,24 @@
+{
+  "name": "Bunilla",
+  "number": "69380702",
+  "is_illegal": false,
+  "text": "This rabbit's got a sweet tooth! He's on a quest for the world's sweetest carrot, and just wants to nibble carrots all day today, tomorrow, and the day after that!",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "150",
+  "defense": "2050",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "1"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Begone, Knave!",
+  "number": "20374520",
+  "is_illegal": false,
+  "text": "If a monster inflicts Battle Damage to a player, return the monster to its owner's hand.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

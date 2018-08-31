@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Photon Shockwave Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2011-11-05",
+    "distribution": "tournament_promo_cards",
+    "prefix": "PHSW",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Alexandrite Dragon",
+        "set_number": "PHSW-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

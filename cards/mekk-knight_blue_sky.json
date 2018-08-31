@@ -1,0 +1,24 @@
+{
+  "name": "Mekk-Knight Blue Sky",
+  "number": "20537097",
+  "is_illegal": false,
+  "text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Azure Sky\" once per turn this way. If this card is Normal or Special Summoned from the hand: You can add \"Jack Knight\" monsters with different names from your Deck to your hand, except \"Jack Knight of the Azure Sky\", equal to the number of your opponent's cards in this card's column. You can only use this effect of \"Jack Knight of the Azure Sky\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "2000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

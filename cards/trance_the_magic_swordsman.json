@@ -1,0 +1,24 @@
+{
+  "name": "Trance the Magic Swordsman",
+  "number": "14214060",
+  "is_illegal": false,
+  "text": "A peculiar magician with considerable abilities. Supposedly, he's just returned from a trip to outer space.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2600",
+  "defense": "200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "King of the Beasts",
+  "number": "67757079",
+  "is_illegal": false,
+  "text": "You can Tribute 1 face-up \"Moja\" you control to Special Summon this card from your hand or Graveyard. There can only be 1 face-up \"King of the Beasts\" on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2500",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

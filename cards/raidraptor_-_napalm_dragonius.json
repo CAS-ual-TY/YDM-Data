@@ -1,0 +1,24 @@
+{
+  "name": "Raidraptor - Napalm Dragonius",
+  "number": "60508057",
+  "is_illegal": false,
+  "text": "Once per turn: You can inflict 600 damage to your opponent, also monsters in your possession cannot activate their effects for the rest of this turn, except \"Raidraptor\" monsters. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"Raidraptor\" monster from your Deck, but it has its effects negated.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

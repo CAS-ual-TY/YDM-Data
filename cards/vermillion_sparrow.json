@@ -1,0 +1,24 @@
+{
+  "name": "Vermillion Sparrow",
+  "number": "35752363",
+  "is_illegal": false,
+  "text": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "1900",
+  "defense": "1500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "5"
+}

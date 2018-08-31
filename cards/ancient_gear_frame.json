@@ -1,0 +1,24 @@
+{
+  "name": "Ancient Gear Frame",
+  "number": "1278431",
+  "is_illegal": false,
+  "text": "You can discard 1 card; add 1 \"Ancient Gear Golem\", or 1 Spell/Trap that specifically lists the card \"Ancient Gear Golem\" in its text, from your Deck to your hand. You can only use this effect of \"Ancient Gear Frame\" once per turn. If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon up to 3 \"Ancient Gear Golem\" and/or \"Ancient Gear Golem - Ultimate Pound\" from your hand, ignoring their Summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1600",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

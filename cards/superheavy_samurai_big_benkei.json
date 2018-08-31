@@ -1,0 +1,24 @@
+{
+  "name": "Superheavy Samurai Big Benkei",
+  "number": "3117804",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned: You can change its battle position. \"Superheavy Samurai\" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "3500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

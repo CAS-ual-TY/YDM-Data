@@ -1,0 +1,24 @@
+{
+  "name": "Hi-Speedroid Hagoita",
+  "number": "21516908",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nDuring either player's turn: You can Tribute this card; increase the Levels of all monsters currently on the field by 1, until the end of this turn. If this card is in your Graveyard and you control a \"Speedroid\" Tuner monster: You can Special Summon this card, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Hi-Speedroid Hagoita\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2000",
+  "defense": "1000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "5"
+}

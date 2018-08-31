@@ -1,0 +1,24 @@
+{
+  "name": "Cosmic Blazar Dragon",
+  "number": "21123811",
+  "is_illegal": false,
+  "text": "1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned, and cannot be Special Summoned by other ways. You can banish this card until the End Phase to activate 1 of these Quick Effects;\nâ—? When your opponent activates a card or effect: Negate the activation, and if you do, destroy that card.\nâ—? When your opponent would Summon a monster(s): Negate the Summon, and if you do, destroy that monster(s).\nâ—? When an opponent's monster declares an attack: Negate the attack, then end the Battle Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "4000",
+  "defense": "4000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "12"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! GX Volume 6 promotional card",
+    "type": "Manga Promo",
+    "date": "2009-11-04",
+    "distribution": "manga_promo",
+    "prefix": "YG06",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Elemental HERO The Shining",
+        "set_number": "YG06-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

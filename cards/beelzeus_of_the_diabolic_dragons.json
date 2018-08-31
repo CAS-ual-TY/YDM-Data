@@ -1,0 +1,24 @@
+{
+  "name": "Beelzeus of the Diabolic Dragons",
+  "number": "8763963",
+  "is_illegal": false,
+  "text": "1 DARK Tuner + 2 or more non-Tuner monsters\nCannot be destroyed by battle or card effects. Other monsters you control cannot attack. Once per turn: You can target 1 monster your opponent controls; any battle damage your opponent takes from attacks involving this card this turn is halved, also, change that monster's ATK to 0, and if you do, gain LP equal to its original ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "4000",
+  "defense": "4000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "10"
+}

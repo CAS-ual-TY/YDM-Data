@@ -1,0 +1,24 @@
+{
+  "name": "Naturia Vein",
+  "number": "16940215",
+  "is_illegal": false,
+  "text": "You can Tribute this card and 1 \"Naturia\" monster to negate the activation of your opponent's Spell or Trap Card, and destroy it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "200",
+  "defense": "300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Beat, Bladesman Fur Hire",
+  "number": "93850652",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Beat, Bladesman Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can add 1 monster \"Fur Hire\" from your Deck to your hand, except \"Beat, Bladesman Fur Hire\". You can only use each effect of \"Beat, Bladesman Fur Hire\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1200",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

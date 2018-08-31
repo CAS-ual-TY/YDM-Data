@@ -1,0 +1,24 @@
+{
+  "name": "Condemned Maiden",
+  "number": "68018709",
+  "is_illegal": false,
+  "text": "During your opponent's turn, you can activate 1 Quick-Play Spell Card from your hand. You can only use this effect of \"Condemned Maiden\" once per Duel.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "100",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

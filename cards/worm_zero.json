@@ -1,0 +1,24 @@
+{
+  "name": "Worm Zero",
+  "number": "74506079",
+  "is_illegal": false,
+  "text": "2 or more Reptile-Type \"Worm\" monsters\nFor each Fusion Material Monster with a different name used to Fusion Summon this card, it gains 500 ATK, and also gains these effects:\nâ—?2+: Once per turn, you can select 1 Reptile-Type monster in your Graveyard, and Special Summon it in face-down Defense Position.\nâ—?4+: You can remove from play 1 Reptile-Type monster from your Graveyard to send 1 monster on the field to the Graveyard.\nâ—?6+: Once per turn, you can draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Soul of Purity and Light",
+  "number": "77527210",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Normal Set. This card can only be Special Summoned by removing from play 2 LIGHT monsters in your Graveyard. All monsters your opponent controls lose 300 ATK during their Battle Phase only.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2000",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

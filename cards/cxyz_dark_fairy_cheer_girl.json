@@ -1,0 +1,24 @@
+{
+  "name": "CXyz Dark Fairy Cheer Girl",
+  "number": "23454876",
+  "is_illegal": false,
+  "text": "3 Level 5 monsters\nWhen this card is sent from the field to the Graveyard: Draw 1 card. If this card has \"Fairy Cheer Girl\" as an Xyz Material, it gains this effect.\nâ—? When this card destroys an opponent's monster by battle and remains on the field: You can detach 1 Xyz Material from this card; inflict 400 damage to your opponent for each card in your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2500",
+  "defense": "1900",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

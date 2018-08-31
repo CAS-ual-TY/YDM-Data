@@ -1,0 +1,24 @@
+{
+  "name": "Roc from the Valley of Haze",
+  "number": "28143906",
+  "is_illegal": false,
+  "text": "When this card is sent directly from your hand to the Graveyard, add this card to the Deck and shuffle it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "2400",
+  "defense": "1400",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

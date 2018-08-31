@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Spellcaster's Command Structure Deck: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2009-03-31",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "SDSC",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Magician's Valkyria",
+        "set_number": "SDSC-ENSE1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Piranha Army",
+  "number": "50823978",
+  "is_illegal": false,
+  "text": "The Battle Damage this card inflicts by attacking your opponent's Life Points directly is doubled.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "800",
+  "defense": "200",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

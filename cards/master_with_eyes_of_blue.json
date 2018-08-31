@@ -1,0 +1,24 @@
+{
+  "name": "Master with Eyes of Blue",
+  "number": "45644898",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 Level 1 LIGHT Tuner monster in your Graveyard; add it to your hand. You can shuffle this card from your Graveyard into the Deck, then target 1 Effect Monster you control; send it to the Graveyard, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your Graveyard, other than the sent monster. You can only use this effect of \"Master with Eyes of Blue\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "300",
+  "defense": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

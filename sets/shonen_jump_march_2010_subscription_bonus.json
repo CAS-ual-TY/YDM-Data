@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump March 2010 subscription bonus",
+    "type": "Shonen Jump",
+    "date": "2010-03-01",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Genesis Dragon",
+        "set_number": "JUMP-EN034",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Orichalcos Shunoros",
+        "set_number": "JUMP-EN035",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

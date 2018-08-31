@@ -1,0 +1,24 @@
+{
+  "name": "Cat's Ear Tribe",
+  "number": "95841282",
+  "is_illegal": false,
+  "text": "The original ATK of your opponent's monster(s) that battles with this card during his/her turn becomes 200 points during the Damage Step.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "200",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

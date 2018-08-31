@@ -1,0 +1,28 @@
+{
+  "name": "Performapal Trumpanda",
+  "number": "32787239",
+  "is_illegal": false,
+  "text": "When your Pendulum Monster is targeted for an attack: You can negate the attack. You can only use this effect of \"Performapal Trumpanda\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "800",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn: You can increase this card's Pendulum Scale by 1 (max. 12).",
+  "stars": "3"
+}

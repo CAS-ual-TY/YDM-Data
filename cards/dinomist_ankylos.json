@@ -1,0 +1,28 @@
+{
+  "name": "Dinomist Ankylos",
+  "number": "32134638",
+  "is_illegal": false,
+  "text": "Banish any monster destroyed by battle with a \"Dinomist\" monster you control.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "Pendulum Scale = 6",
+  "pendulum_right": "Pendulum Scale = 6",
+  "pendulum_text": "Once, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.",
+  "stars": "4"
+}

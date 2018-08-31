@@ -1,0 +1,24 @@
+{
+  "name": "Madolche Puddingcess Chocolat-a-la-Mode",
+  "number": "44311445",
+  "is_illegal": false,
+  "text": "2 Level 5 EARTH monsters\nYou can also Xyz Summon this card by using a Rank 4 or lower \"Madolche\" Xyz Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Once per turn: You can target 1 \"Madolche\" card in your Graveyard; shuffle it into the Deck. While this card has \"Madolche Puddingcess\" as Xyz Material, when a \"Madolche\" card(s) in your Graveyard is shuffled into the Main Deck (except during the Damage Step): You can detach 1 Xyz Material from this card; Special Summon 1 \"Madolche\" monster from your Deck in Attack Position or face-down Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2500",
+  "defense": "2200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

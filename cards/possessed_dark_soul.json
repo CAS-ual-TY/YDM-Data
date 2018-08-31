@@ -1,0 +1,24 @@
+{
+  "name": "Possessed Dark Soul",
+  "number": "52860176",
+  "is_illegal": false,
+  "text": "You can Tribute this face-up card; take control of all face-up Level 3 or lower monsters your opponent currently controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1200",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

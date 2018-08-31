@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! World Championship 2015",
+    "type": "Tournament Promo Cards",
+    "date": "2015-08-16",
+    "distribution": "tournament_promo_cards",
+    "prefix": "2015",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Kuzunoha, the Onmyojin",
+        "set_number": "2015-EN001",
+        "rarities": [
+          "Extra Secret Rare"
+        ],
+        "count": {
+          "Extra Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Sakyo, Swordmaster of the Far East",
+        "set_number": "2015-EN002",
+        "rarities": [
+          "Extra Secret Rare"
+        ],
+        "count": {
+          "Extra Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

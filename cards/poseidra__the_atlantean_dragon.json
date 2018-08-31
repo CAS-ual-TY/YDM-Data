@@ -1,0 +1,24 @@
+{
+  "name": "Poseidra, the Atlantean Dragon",
+  "number": "47826112",
+  "is_illegal": false,
+  "text": "You can Tribute 3 Level 3 or lower WATER monsters; Special Summon this card from your hand or Graveyard. When you do: Return all Spell and Trap Cards on the field to the hand, and if you do, if 3 or more cards are returned to the hand by this effect, all monsters your opponent currently controls lose 300 ATK for each.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "2800",
+  "defense": "1600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

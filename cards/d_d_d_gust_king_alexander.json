@@ -1,0 +1,24 @@
+{
+  "name": "D/D/D Gust King Alexander",
+  "number": "987311",
+  "is_illegal": false,
+  "text": "1 \"D/D\" Tuner + 1 or more non-Tuner monsters\nIf another \"D/D\" monster(s) is Normal or Special Summoned to your field, while you control this face-up card (except during the Damage Step): You can target 1 Level 4 or lower \"D/D\" monster in your Graveyard; Special Summon it. You can only use this effect of \"D/D/D Gust King Alexander\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}

@@ -1,0 +1,612 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Star Pack Battle Royal",
+    "type": "Star Pack",
+    "date": "2017-03-10",
+    "distribution": "star_pack",
+    "prefix": "SP17",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "The Legendary Fisherman",
+        "set_number": "SP17-EN001",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fluffal Leo",
+        "set_number": "SP17-EN002",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mayosenju Daibak",
+        "set_number": "SP17-EN003",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yosenju Kama 1",
+        "set_number": "SP17-EN004",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yosenju Kama 2",
+        "set_number": "SP17-EN005",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yosenju Kama 3",
+        "set_number": "SP17-EN006",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yosenju Shinchu L",
+        "set_number": "SP17-EN007",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yosenju Shinchu R",
+        "set_number": "SP17-EN008",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Big Waraji",
+        "set_number": "SP17-EN009",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Gigagloves",
+        "set_number": "SP17-EN010",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Battleball",
+        "set_number": "SP17-EN011",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Soulbuster Gauntlet",
+        "set_number": "SP17-EN012",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Soprano the Melodious Songstress",
+        "set_number": "SP17-EN013",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fluffal Sheep",
+        "set_number": "SP17-EN014",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Edge Imp Saw",
+        "set_number": "SP17-EN015",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Thunderhino",
+        "set_number": "SP17-EN016",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Xiangke Magician",
+        "set_number": "SP17-EN017",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Xiangsheng Magician",
+        "set_number": "SP17-EN018",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Drummerilla",
+        "set_number": "SP17-EN019",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Opera the Melodious Diva",
+        "set_number": "SP17-EN020",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Crystal Rose",
+        "set_number": "SP17-EN021",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Speedroid Terrortop",
+        "set_number": "SP17-EN022",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Speedroid Tri-Eyed Dice",
+        "set_number": "SP17-EN023",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Speedroid Double Yoyo",
+        "set_number": "SP17-EN024",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Secondonkey",
+        "set_number": "SP17-EN025",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D/D Swirl Slime",
+        "set_number": "SP17-EN026",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D/D Necro Slime",
+        "set_number": "SP17-EN027",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Legendary Fisherman III",
+        "set_number": "SP17-EN028",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D/D/D Oblivion King Abyss Ragnarok",
+        "set_number": "SP17-EN029",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Solo the Melodious Songstress",
+        "set_number": "SP17-EN030",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Score the Melodious Diva",
+        "set_number": "SP17-EN031",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Odd-Eyes Light Phoenix",
+        "set_number": "SP17-EN032",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Odd-Eyes Unicorn",
+        "set_number": "SP17-EN033",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Fireflux",
+        "set_number": "SP17-EN034",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Schuberta the Melodious Maestra",
+        "set_number": "SP17-EN035",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bloom Diva the Melodious Choir",
+        "set_number": "SP17-EN036",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Leo",
+        "set_number": "SP17-EN037",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Sheep",
+        "set_number": "SP17-EN038",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Chimera",
+        "set_number": "SP17-EN039",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D/D/D Oracle King d'Arc",
+        "set_number": "SP17-EN040",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bloom Prima the Melodious Choir",
+        "set_number": "SP17-EN041",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Ogre Shutendoji",
+        "set_number": "SP17-EN042",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hi-Speedroid Kendama",
+        "set_number": "SP17-EN043",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Odd-Eyes Rebellion Dragon",
+        "set_number": "SP17-EN044",
+        "rarities": [
+          "Starfoil Rare"
+        ],
+        "count": {
+          "Starfoil Rare": 1
+        }
+      },
+      {
+        "card_name": "D/D/D Duo-Dawn King Kali Yuga",
+        "set_number": "SP17-EN045",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Fusion",
+        "set_number": "SP17-EN046",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pianissimo",
+        "set_number": "SP17-EN047",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Speed Recovery",
+        "set_number": "SP17-EN048",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Urgent Tuning",
+        "set_number": "SP17-EN049",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yosenjus' Secret Move",
+        "set_number": "SP17-EN050",
+        "rarities": [
+          "Starfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Starfoil Rare": 1,
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

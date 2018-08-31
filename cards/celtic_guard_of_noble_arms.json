@@ -1,0 +1,24 @@
+{
+  "name": "Celtic Guard of Noble Arms",
+  "number": "45531624",
+  "is_illegal": false,
+  "text": "Cannot attack while you have any cards in your hand. Once per turn: You can Special Summon 1 \"Celtic Guard\" monster from your hand. When this attacking card inflicts battle damage to your opponent: You can draw cards equal to the number of \"Celtic Guard\" monsters you control.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2100",
+  "defense": "700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

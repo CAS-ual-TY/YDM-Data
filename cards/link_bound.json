@@ -1,0 +1,11 @@
+{
+  "name": "Link Bound",
+  "number": "51335426",
+  "is_illegal": false,
+  "text": "Target 1 Link Monster you control or in your GY; return it to the Extra Deck, and if you do, draw cards equal to its Link Rating, then place cards from your hand on the bottom of the Deck, in any order, equal to the number of cards you drew. You can only activate 1 \"Link Bound\" per turn.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}

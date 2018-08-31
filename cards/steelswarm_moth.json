@@ -1,0 +1,24 @@
+{
+  "name": "Steelswarm Moth",
+  "number": "22009013",
+  "is_illegal": false,
+  "text": "When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster: You can pay 1000 Life Points to target up to 2 cards your opponent controls; return those targets to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2400",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

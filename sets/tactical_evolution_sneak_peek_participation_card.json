@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Tactical Evolution Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2007-07-31",
+    "distribution": "tournament_promo_cards",
+    "prefix": "TAEV",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Gemini Summoner",
+        "set_number": "TAEV-ENSP1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

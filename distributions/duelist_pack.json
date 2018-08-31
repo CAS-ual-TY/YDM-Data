@@ -1,0 +1,43 @@
+{
+        "array":[
+            {
+                "weight":4,
+                "rarities":[
+                    {
+                        "rarity":"Common",
+                        "count":4
+                    },
+                    {
+                        "rarity":"Rare",
+                        "count":1
+                    }
+                ]
+            },
+            {
+                "weight":1,
+                "rarities":[
+                    {
+                        "rarity":"Common",
+                        "count":4
+                    },
+                    {
+                        "rarity":"Super Rare",
+                        "count":1
+                    }
+                ]
+            },
+            {
+                "weight":1,
+                "rarities":[
+                    {
+                        "rarity":"Common",
+                        "count":4
+                    },
+                    {
+                        "rarity":"Ultra Rare",
+                        "count":1
+                    }
+                ]
+            }
+        ]
+}

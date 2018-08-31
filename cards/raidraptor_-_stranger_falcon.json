@@ -1,0 +1,24 @@
+{
+  "name": "Raidraptor - Stranger Falcon",
+  "number": "15092394",
+  "is_illegal": false,
+  "text": "2 Level 5 monsters\nIf this card has an Xyz Monster as an Xyz Material, it gains this effect.\nâ—? Once per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to its original ATK.\nIf this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 \"Raidraptor\" Xyz Monster in your Graveyard, except \"Raidraptor - Stranger Falcon\"; Special Summon it, and if you do, attach this card to it as Xyz Material.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

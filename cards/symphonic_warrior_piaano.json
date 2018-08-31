@@ -1,0 +1,24 @@
+{
+  "name": "Symphonic Warrior Piaano",
+  "number": "31826057",
+  "is_illegal": false,
+  "text": "Once per turn, you can declare 1 Monster Type and select 1 face-up \"Symphonic Warrior\" monster on the field. That monster becomes that Monster Type. You can declare 1 Monster Type and remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and make it that Monster Type.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "900",
+  "defense": "1300",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

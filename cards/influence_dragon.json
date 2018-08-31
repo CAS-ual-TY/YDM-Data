@@ -1,0 +1,24 @@
+{
+  "name": "Influence Dragon",
+  "number": "54936498",
+  "is_illegal": false,
+  "text": "Once per turn: You can target 1 face-up monster you control; it becomes Dragon-Type until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "300",
+  "defense": "900",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

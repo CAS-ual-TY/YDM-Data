@@ -1,0 +1,24 @@
+{
+  "name": "Number C102: Archfiend Seraph",
+  "number": "67173574",
+  "is_illegal": false,
+  "text": "4 Level 5 LIGHT monsters\nIf this face-up card would be destroyed, you can detach 2 Xyz Materials from this card instead. If the last Xyz Material(s) is detached from this card: Inflict 1500 damage to your opponent. If this card has \"Number 102: Star Seraph Sentry\" as an Xyz Material, it gains this effect.\nâ—? Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; change that target's ATK to 0, and if you do, negate its effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2900",
+  "defense": "2400",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

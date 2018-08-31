@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Rise of Destiny: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2004-12-01",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "RDS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Diffusion Wave-Motion",
+        "set_number": "RDS-ENSE1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician Girl",
+        "set_number": "RDS-ENSE2",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Judgment of Anubis",
+        "set_number": "RDS-ENSE3",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Vampire Lord",
+        "set_number": "RDS-ENSE4",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

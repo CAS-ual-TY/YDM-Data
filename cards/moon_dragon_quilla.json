@@ -1,0 +1,24 @@
+{
+  "name": "Moon Dragon Quilla",
+  "number": "66818682",
+  "is_illegal": false,
+  "text": "\"Supay\" + 1 or more non-Tuner monsters\nIf this card is targeted for an attack: Gain LP equal to half the attacking monster's ATK. If this card on the field is destroyed: You can target 1 \"Sun Dragon Inti\" in your Graveyard; Special Summon that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "6"
+}

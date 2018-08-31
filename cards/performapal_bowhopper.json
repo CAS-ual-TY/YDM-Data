@@ -1,0 +1,24 @@
+{
+  "name": "Performapal Bowhopper",
+  "number": "37745740",
+  "is_illegal": false,
+  "text": "You can Tribute 1 \"Performapal\" monster; inflict damage to your opponent equal to the Level it had on the field x 100 (original Level, if face-down). You can Tribute 1 \"Performapal\" monster, then target 1 \"Performapal\" monster in your Graveyard other than the Tributed monster; add it to your hand. You can only use each effect of \"Performapal Bowhopper\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1500",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Predaplant Ophrys Scorpio",
+  "number": "35272499",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can send 1 monster from your hand to the Graveyard; Special Summon 1 \"Predaplant\" monster from your Deck, except \"Predaplant Ophrys Scorpio\". You can only use this effect of \"Predaplant Ophyrs Scorpio\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "1200",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

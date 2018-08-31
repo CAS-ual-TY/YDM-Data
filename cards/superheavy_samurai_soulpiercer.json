@@ -1,0 +1,24 @@
+{
+  "name": "Superheavy Samurai Soulpiercer",
+  "number": "90361010",
+  "is_illegal": false,
+  "text": "You can target 1 \"Superheavy Samurai\" monster you control; equip this monster from your hand or your side of the field to that target. If it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card is sent from the field to the Graveyard: You can add 1 \"Superheavy Samurai\" monster from your Deck to your hand, except \"Superheavy Samurai Soulpiercer\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1200",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

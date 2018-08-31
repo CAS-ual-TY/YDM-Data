@@ -1,0 +1,24 @@
+{
+  "name": "Photon Leo",
+  "number": "38757297",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can have your opponent shuffle their entire hand into the Deck, then they draw the same number of cards as they shuffled into the Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2100",
+  "defense": "1100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Cockadoodledoo",
+  "number": "42338879",
+  "is_illegal": false,
+  "text": "If there are no monsters on the field, you can Special Summon this card (from your hand) as a Level 3 monster. If your opponent controls a monster and you control no cards, you can Special Summon this card (from your hand) as a Level 4 monster. If this face-up card would leave the field, banish it instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1600",
+  "defense": "2000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "5"
+}

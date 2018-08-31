@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist League Series 2",
+    "type": "Duelist League Promo Cards",
+    "date": "2003-08-01",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "DL2",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "The Masked Beast",
+        "set_number": "DL2-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Necrofear",
+        "set_number": "DL2-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

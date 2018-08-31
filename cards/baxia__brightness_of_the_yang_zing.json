@@ -1,0 +1,24 @@
+{
+  "name": "Baxia, Brightness of the Yang Zing",
+  "number": "83755611",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner Wyrm-Type monsters\nWhen this card is Synchro Summoned: You can target cards on the field, up to the number of different original Attributes of the Wyrm-Type monsters used for the Synchro Summon of this card; shuffle them into the Deck. Once per turn: You can target 1 card you control and 1 Level 4 or lower monster in your Graveyard; destroy that card on the field, and if you do, Special Summon that other monster from the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2300",
+  "defense": "2600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

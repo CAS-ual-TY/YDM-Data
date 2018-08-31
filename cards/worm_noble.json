@@ -1,0 +1,25 @@
+{
+  "name": "Worm Noble",
+  "number": "7700132",
+  "is_illegal": false,
+  "text": "FLIP: If this card is flipped face-up by an opponent's monster's attack, inflict damage to your opponent equal to half the attacking monster's ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1500",
+  "defense": "2400",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "6"
+}

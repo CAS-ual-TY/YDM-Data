@@ -1,0 +1,25 @@
+{
+  "name": "Tindangle Trinity",
+  "number": "11375683",
+  "is_illegal": false,
+  "text": "FLIP: You can Special Summon 1 \"Tindangle Base Gardna\" from your Deck.\nIf this card was flipped face-up, your \"Tindangle\" monsters cannot be destroyed by battle. If this card is sent to the GY as Link Material for the Link Summon of a \"Tindangle\" monster: You can add 1 \"Gergonne's End\" from your Deck to your hand, and if you do, send 1 Spell/Trap from your Deck to the GY. You can only use this effect of \"Tindangle Trinity\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "4"
+}

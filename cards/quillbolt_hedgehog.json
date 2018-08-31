@@ -1,0 +1,24 @@
+{
+  "name": "Quillbolt Hedgehog",
+  "number": "23571046",
+  "is_illegal": false,
+  "text": "If this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field. You must control a Tuner monster to activate and to resolve this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "800",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

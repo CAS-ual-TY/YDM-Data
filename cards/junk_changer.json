@@ -1,0 +1,24 @@
+{
+  "name": "Junk Changer",
+  "number": "1006081",
+  "is_illegal": false,
+  "text": "You can only use the following effect of \"Junk Changer\" once per turn. If this card is Normal or Special Summoned: You can target 1 \"Junk\" monster on the field, then activate 1 of these effects;\nâ—? Increase its Level by 1.\nâ—? Reduce its Level by 1.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1500",
+  "defense": "900",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

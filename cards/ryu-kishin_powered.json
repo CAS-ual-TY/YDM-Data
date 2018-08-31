@@ -1,0 +1,24 @@
+{
+  "name": "Ryu-Kishin Powered",
+  "number": "24611934",
+  "is_illegal": false,
+  "text": "A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1600",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

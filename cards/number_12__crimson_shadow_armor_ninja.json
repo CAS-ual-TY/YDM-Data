@@ -1,0 +1,24 @@
+{
+  "name": "Number 12: Crimson Shadow Armor Ninja",
+  "number": "19333131",
+  "is_illegal": false,
+  "text": "2 Level 5 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; this turn, face-up \"Ninja\" monsters you control cannot be destroyed by battle or by card effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2400",
+  "defense": "1700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

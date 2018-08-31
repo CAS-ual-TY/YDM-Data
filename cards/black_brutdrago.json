@@ -1,0 +1,24 @@
+{
+  "name": "Black Brutdrago",
+  "number": "96029574",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner Gemini monsters\nOnce per turn, you can send 1 Gemini monster from your hand to the Graveyard to select and destroy 1 Spell or Trap Card your opponent controls. When this card is destroyed and sent to the Graveyard, you can select 1 Gemini monster in your Graveyard and Special Summon it. The Special Summoned Gemini monster is treated as an Effect Monster, and gains its effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2600",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

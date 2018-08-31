@@ -1,0 +1,24 @@
+{
+  "name": "Mobius the Mega Monarch",
+  "number": "23689697",
+  "is_illegal": false,
+  "text": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. When this card is Tribute Summoned: You can target up to 3 Spell/Trap Cards on the field; destroy those targets. If this card was Tribute Summoned by Tributing a WATER monster, add this additional effect.\nâ—? Your opponent cannot activate the targeted cards in response to this effect's activation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "2800",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

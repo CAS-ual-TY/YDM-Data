@@ -1,0 +1,24 @@
+{
+  "name": "Galaxy-Eyes Cipher Blade Dragon",
+  "number": "2530830",
+  "is_illegal": false,
+  "text": "3 Level 9 monsters\nYou can also Xyz Summon this card by using a Rank 8 \"Galaxy-Eyes\" Xyz Monster you control as material. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon. Once per turn: You can detach 1 material from this card, then target 1 card on the field; destroy it. If this Xyz Summoned card you control, is destroyed by battle with an opponent's attacking monster, or destroyed by an opponent's card effect, and sent to your GY: You can target 1 \"Galaxy-Eyes Cipher Dragon\" in your GY; Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3200",
+  "defense": "2800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "9"
+}

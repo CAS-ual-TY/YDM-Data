@@ -1,0 +1,24 @@
+{
+  "name": "Ultimate Ancient Gear Golem",
+  "number": "12652643",
+  "is_illegal": false,
+  "text": "\"Ancient Gear Golem\" + 2 \"Ancient Gear\" monsters\nThis card cannot be Special Summoned except by Fusion Summon. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. If this card attacks, your opponent cannot activate Spell or Trap Cards until the end of the Damage Step. If this card is destroyed, you can Special Summon 1 \"Ancient Gear Golem\" from your Graveyard, ignoring the Summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "4400",
+  "defense": "3400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

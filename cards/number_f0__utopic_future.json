@@ -1,0 +1,24 @@
+{
+  "name": "Number F0: Utopic Future",
+  "number": "65305468",
+  "is_illegal": false,
+  "text": "2 Xyz Monsters with the same Rank, except \"Number\" monsters\n(This card's original Rank is always treated as 1.)\nCannot be destroyed by battle, and neither player takes any battle damage from attacks involving this card. At the end of the Damage Step, if this card battled an opponent's monster: You can take control of that opponent's monster until the end of the Battle Phase. If this face-up card on the field would be destroyed by a card effect, you can detach 1 Xyz Material from this card instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "0"
+}

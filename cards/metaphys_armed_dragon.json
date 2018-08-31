@@ -1,0 +1,24 @@
+{
+  "name": "Metaphys Armed Dragon",
+  "number": "89189982",
+  "is_illegal": false,
+  "text": "Usually visible despite its phantom existence.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2800",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "7"
+}

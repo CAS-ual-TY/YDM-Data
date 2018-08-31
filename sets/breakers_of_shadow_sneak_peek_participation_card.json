@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Breakers of Shadow Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2016-01-09",
+    "distribution": "tournament_promo_cards",
+    "prefix": "BOSH",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Steel Cavalry of Dinon",
+        "set_number": "BOSH-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

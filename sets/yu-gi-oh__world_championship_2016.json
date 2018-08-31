@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! World Championship 2016",
+    "type": "Tournament Promo Cards",
+    "date": "2016-08-21",
+    "distribution": "tournament_promo_cards",
+    "prefix": "2016",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Juno, the Celestial Goddess",
+        "set_number": "2016-EN001",
+        "rarities": [
+          "Extra Secret Rare"
+        ],
+        "count": {
+          "Extra Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Shelga, the Tri-Warlord",
+        "set_number": "2016-EN002",
+        "rarities": [
+          "Extra Secret Rare"
+        ],
+        "count": {
+          "Extra Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

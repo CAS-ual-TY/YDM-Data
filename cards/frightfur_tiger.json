@@ -1,0 +1,24 @@
+{
+  "name": "Frightfur Tiger",
+  "number": "464362",
+  "is_illegal": false,
+  "text": "\"Edge Imp Sabres\" + 1 or more \"Fluffal\" monsters\nWhen this card is Fusion Summoned: You can target cards on the field, up to the number of Fusion Materials used for its Fusion Summon; destroy them. All \"Frightfur\" monsters you control gain 300 ATK for each \"Fluffal\" monster and \"Frightfur\" monster you control. You can only control 1 \"Frightfur Tiger\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1900",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

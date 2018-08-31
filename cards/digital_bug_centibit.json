@@ -1,0 +1,24 @@
+{
+  "name": "Digital Bug Centibit",
+  "number": "68950538",
+  "is_illegal": false,
+  "text": "Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of an Insect-Type monster. Once per turn, when this face-up card is changed from Attack Position to Defense Position: You can Special Summon 1 Level 3 Insect-Type monster from your Deck in Defense Position. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\nâ—?This card can attack all Defense Position monsters your opponent controls once each.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1500",
+  "defense": "500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

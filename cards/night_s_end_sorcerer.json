@@ -1,0 +1,24 @@
+{
+  "name": "Night's End Sorcerer",
+  "number": "36107810",
+  "is_illegal": false,
+  "text": "When this card is Special Summoned: You can target up to 2 cards in your opponent's Graveyard; banish them.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1300",
+  "defense": "400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

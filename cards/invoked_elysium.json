@@ -1,0 +1,24 @@
+{
+  "name": "Invoked Elysium",
+  "number": "11270236",
+  "is_illegal": false,
+  "text": "1 \"Invoked\" monster + 1 monster that was Special Summoned from the Extra Deck\nMust first be Fusion Summoned with the above Fusion Materials. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. Once per turn, during either player's turn: You can target 1 \"Invoked\" monster you control or in your Graveyard; banish it and all monsters your opponent controls with the same Attribute as that monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "3200",
+  "defense": "4000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

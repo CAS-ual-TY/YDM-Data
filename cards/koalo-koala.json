@@ -1,0 +1,24 @@
+{
+  "name": "Koalo-Koala",
+  "number": "7243511",
+  "is_illegal": false,
+  "text": "\"Sea Koala\" + \"Tree Otter\"\nYou can send 1 Beast-Type monster from your hand to the Graveyard to target 1 monster your opponent controls; destroy it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2800",
+  "defense": "200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

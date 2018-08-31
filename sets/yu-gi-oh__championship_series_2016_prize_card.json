@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Championship Series 2016 Prize Card",
+    "type": "Tournament Promo Cards",
+    "date": "2017-01-15",
+    "distribution": "tournament_promo_cards",
+    "prefix": "YCSW",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Number 93: Utopia Kaiser",
+        "set_number": "YCSW-EN009",
+        "rarities": [
+          "Ultra Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

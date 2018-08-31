@@ -1,0 +1,24 @@
+{
+  "name": "Atomic Scrap Dragon",
+  "number": "92361635",
+  "is_illegal": false,
+  "text": "1 \"Scrap\" Tuner + 2 or more non-Tuner monsters\nOnce per turn, you can select 1 card you control and up to 3 cards in your opponent's Graveyard. Destroy your selected card and return the opponent's cards to the Deck. When this card is destroyed by your opponent's card (either by battle or by card effect) and sent to the Graveyard, select 1 non-Synchro \"Scrap\" monster from your Graveyard, and Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3200",
+  "defense": "2400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "10"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ryu Senshi",
+  "number": "49868263",
+  "is_illegal": false,
+  "text": "\"Warrior Dai Grepher\" + \"Spirit Ryu\"\nA Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. As long as this card remains face-up on the field, negate the effect of a Normal Trap Card by paying 1000 Life Points. Negate the effects of a Spell Card that targets this card and destroy it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

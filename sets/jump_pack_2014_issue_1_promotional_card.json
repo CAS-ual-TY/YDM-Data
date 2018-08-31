@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Jump Pack 2014 Issue 1 promotional card",
+    "type": "Shonen Jump",
+    "date": "2014-01-31",
+    "distribution": "shonen_jump",
+    "prefix": "JUMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Archfiend Commander",
+        "set_number": "JUMP-EN067",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

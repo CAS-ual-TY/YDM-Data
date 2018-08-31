@@ -1,0 +1,24 @@
+{
+  "name": "Coach King Giantrainer",
+  "number": "30741334",
+  "is_illegal": false,
+  "text": "3 Level 8 monsters\nYou can detach 1 Xyz Material from this card; draw 1 card and show it, then if it was a monster, inflict 800 damage to your opponent. You cannot conduct your Battle Phase the turn you activate this effect. You can only use this effect of \"Coach King Giantrainer\" up to thrice per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2800",
+  "defense": "2000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "8"
+}

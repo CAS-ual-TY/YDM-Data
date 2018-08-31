@@ -1,0 +1,24 @@
+{
+  "name": "The Phantom Knights of Fragile Armor",
+  "number": "36704180",
+  "is_illegal": false,
+  "text": "If a face-up \"The Phantom Knights\" monster(s) you control is destroyed by battle or card effect: You can Special Summon this card from your hand. You can banish this card from your Graveyard and send 1 \"Phantom Knights\" card from your hand to the Graveyard; draw 1 card. You can only use each effect of \"The Phantom Knights of Fragile Armor\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

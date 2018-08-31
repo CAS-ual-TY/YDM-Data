@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "type": "Video Game Promo Cards",
+    "date": "2003-11-04",
+    "distribution": "video_game_promo_cards",
+    "prefix": "TFK",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Zoa",
+        "set_number": "TFK-001",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Metalzoa",
+        "set_number": "TFK-002",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Goblin Fan",
+        "set_number": "TFK-003",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

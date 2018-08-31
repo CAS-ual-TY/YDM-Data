@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Ultimate Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2006-01-01",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "JMP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Blue-Eyes Ultimate Dragon",
+        "set_number": "JMP-EN005",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

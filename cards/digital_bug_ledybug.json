@@ -1,0 +1,24 @@
+{
+  "name": "Digital Bug LEDybug",
+  "number": "83048208",
+  "is_illegal": false,
+  "text": "Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of an Insect-Type monster. Once per turn, when this face-up card is changed from Attack Position to Defense Position: You can add 1 Level 3 Insect-Type monster from your Deck to your hand. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\nâ—? When this card destroys a monster by battle, draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "500",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

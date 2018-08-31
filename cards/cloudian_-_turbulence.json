@@ -1,0 +1,24 @@
+{
+  "name": "Cloudian - Turbulence",
+  "number": "16197610",
+  "is_illegal": false,
+  "text": "This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each \"Cloudian\" monster on the field. You can remove 1 Fog Counter from this card to Special Summon 1 \"Cloudian - Smoke Ball\" from your Deck or from either player's Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "800",
+  "defense": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

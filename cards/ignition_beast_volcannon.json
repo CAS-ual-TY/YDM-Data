@@ -1,0 +1,24 @@
+{
+  "name": "Ignition Beast Volcannon",
+  "number": "10365322",
+  "is_illegal": false,
+  "text": "1 Machine-Type monster + 1 Pyro-Type monster\nWhen this card is Fusion Summoned: You can target 1 monster your opponent controls; destroy that target, also destroy this card, then if both monsters were destroyed, inflict damage to your opponent equal to the ATK of the monster in the Graveyard that was targeted by this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2300",
+  "defense": "1600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

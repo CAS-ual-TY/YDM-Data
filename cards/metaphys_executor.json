@@ -1,0 +1,24 @@
+{
+  "name": "Metaphys Executor",
+  "number": "45148985",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 5 \"Metaphys\" cards with different names from your GY and/or face-up from your field. This face-up card on the field cannot be destroyed, or banished, by card effects. Once per turn, if your opponent controls more cards than you do: You can target 1 of your banished \"Metaphys\" monsters; Special Summon it, but banish it during the End Phase of the next turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Collectible Tins 2009",
+    "type": "Special Edition Promo Cards",
+    "date": "2009-09-22",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT06",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Blackwing - Elphin the Raven",
+        "set_number": "CT06-ENS01",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Earthbound Immortal Aslla piscu",
+        "set_number": "CT06-ENS02",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Earthbound Immortal Chacu Challhua",
+        "set_number": "CT06-ENS03",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "XX-Saber Gottoms",
+        "set_number": "CT06-ENS04",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

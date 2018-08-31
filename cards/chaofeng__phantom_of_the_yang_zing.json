@@ -1,0 +1,24 @@
+{
+  "name": "Chaofeng, Phantom of the Yang Zing",
+  "number": "19048328",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nWhile this Synchro Summoned card is on the field, your opponent cannot activate effects of monsters with the same original Attribute(s) as the \"Yang Zing\" monster(s) used for the Synchro Summon of this card. When this Synchro Summoned card is destroyed by battle or card effect and sent to the Graveyard: You can add 1 Tuner monster from your Deck to your hand. Once per turn, when a monster(s) your opponent controls is destroyed by battle or card effect: You can Special Summon 1 Wyrm-Type monster from your Deck, in Defense Position, whose original Attribute matches the original Attribute that 1 of those destroyed monsters had on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2800",
+  "defense": "2200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "9"
+}

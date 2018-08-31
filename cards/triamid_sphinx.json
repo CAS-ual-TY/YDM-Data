@@ -1,0 +1,24 @@
+{
+  "name": "Triamid Sphinx",
+  "number": "68406755",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Triamid\" card, and cannot be Special Summoned by other ways. If a face-up \"Triamid\" card(s) you control, except \"Triamid Sphinx\", is destroyed by battle or card effect: You can Special Summon this card from your hand. While you control another \"Triamid\" card, this card gains 500 ATK and DEF for each Field Spell Card with a different name in your Graveyard, also monsters your opponent controls cannot attack, except to attack \"Triamid Sphinx\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2500",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

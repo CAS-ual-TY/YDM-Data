@@ -1,0 +1,24 @@
+{
+  "name": "Doppelwarrior",
+  "number": "53855409",
+  "is_illegal": false,
+  "text": "When a monster(s) is Special Summoned from your Graveyard (except during the Damage Step): You can Special Summon this card from your hand. If this card is sent to the Graveyard as a Synchro Material: You can Special Summon 2 \"Doppel Tokens\" (Warrior-Type/DARK/Level 1/ATK 400/DEF 400) in Attack Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "800",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

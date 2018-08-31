@@ -1,0 +1,24 @@
+{
+  "name": "F.A. Hang On Mach",
+  "number": "93449450",
+  "is_illegal": false,
+  "text": "Gains ATK equal to its Level x 300. Unaffected by activated effects from an opponent's monster whose original Level/Rank is lower than this card's Level. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If this card is Level 7 or higher, any card sent to your opponent's GY is banished instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "1800",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

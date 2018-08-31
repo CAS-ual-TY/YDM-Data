@@ -1,0 +1,24 @@
+{
+  "name": "Blackwing - Jetstream the Blue Sky",
+  "number": "87390067",
+  "is_illegal": false,
+  "text": "During damage calculation, you can send this card from your hand to the Graveyard to prevent a \"Blackwing\" monster you control from being destroyed by this battle.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "100",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

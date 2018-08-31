@@ -1,0 +1,24 @@
+{
+  "name": "Yellow-Bellied Oni",
+  "number": "53090623",
+  "is_illegal": false,
+  "text": "When you Xyz Summon a monster: You can Special Summon this card from your hand. Once per turn: You can detach 1 Xyz Material from a monster you control, then target 1 face-up Xyz Monster on the field; reduce its Rank by 1, and if you do, it loses 300 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

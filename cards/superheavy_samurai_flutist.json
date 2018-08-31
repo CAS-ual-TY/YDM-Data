@@ -1,0 +1,24 @@
+{
+  "name": "Superheavy Samurai Flutist",
+  "number": "27978707",
+  "is_illegal": false,
+  "text": "You can Tribute this card; Special Summon 1 \"Superheavy Samurai\" monster from your hand. During either player's turn, when a card or effect is activated that targets a \"Superheavy Samurai\" monster you control: You can banish this card from your Graveyard; negate the activation, and if you do, destroy that card. You can only use each effect of \"Superheavy Samurai Flutist\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "500",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

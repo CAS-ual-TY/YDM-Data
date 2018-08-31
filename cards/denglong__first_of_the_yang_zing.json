@@ -1,0 +1,25 @@
+{
+  "name": "Denglong, First of the Yang Zing",
+  "number": "65536818",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Special Summoned: You can add 1 \"Yang Zing\" card from your Deck to your hand. Once per turn: You can send 1 Wyrm-Type monster from your Deck to the Graveyard; this card's Level becomes the sent monster's. If this face-up card leaves the field: You can Special Summon 1 \"Yang Zing\" monster from your Deck. You can only Special Summon \"Denglong, First of the Yang Zing(s)\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "0",
+  "defense": "2800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Tuner"
+  ],
+  "stars": "5"
+}

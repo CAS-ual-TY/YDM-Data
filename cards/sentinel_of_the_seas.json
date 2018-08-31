@@ -1,0 +1,24 @@
+{
+  "name": "Sentinel of the Seas",
+  "number": "85448931",
+  "is_illegal": false,
+  "text": "A merman warrior that relentlessly attacks those who pollute the seas with their presence.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1300",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

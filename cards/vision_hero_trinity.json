@@ -1,0 +1,24 @@
+{
+  "name": "Vision HERO Trinity",
+  "number": "46759931",
+  "is_illegal": false,
+  "text": "3 \"HERO\" monsters\nDuring the turn this card was Fusion Summoned, its ATK is double its original ATK. This Fusion Summoned card can attack 3 times during each Battle Phase. This card cannot attack your opponent directly.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

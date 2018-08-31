@@ -1,0 +1,27 @@
+{
+  "name": "Duelittle Chimera",
+  "number": "37880706",
+  "is_illegal": false,
+  "text": "2 FIRE monsters\nAll FIRE monsters on the field gain 500 ATK/DEF, also all WATER monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 FIRE monster in your GY; add it to your hand. You can only use this effect of \"Do-Little Chimera\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1400",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

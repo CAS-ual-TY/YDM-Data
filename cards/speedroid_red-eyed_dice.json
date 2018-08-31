@@ -1,0 +1,24 @@
+{
+  "name": "Speedroid Red-Eyed Dice",
+  "number": "16725505",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned: You can target 1 \"Speedroid\" monster you control, except \"Speedroid Red-Eyed Dice\", and declare a Level from 1 to 6; it becomes that Level until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

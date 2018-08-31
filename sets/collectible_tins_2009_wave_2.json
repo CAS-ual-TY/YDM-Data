@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Collectible Tins 2009 Wave 2",
+    "type": "Special Edition Promo Cards",
+    "date": "2009-11-03",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT06",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Majestic Star Dragon",
+        "set_number": "CT06-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Earthbound Immortal Wiraqocha Rasca",
+        "set_number": "CT06-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

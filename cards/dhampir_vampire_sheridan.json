@@ -1,0 +1,24 @@
+{
+  "name": "Dhampir Vampire Sheridan",
+  "number": "32302078",
+  "is_illegal": false,
+  "text": "2+ Level 6 monsters\nIf you use a monster(s), with a Level, that is owned by your opponent for the Xyz Summon of this card, treat it as Level 6. Once per turn: You can detach 1 material from this card, then target 1 card your opponent controls; send it to the GY. Once per turn, if a Monster Card(s) is sent from the field to your opponent's GY by a card effect, or a monster is destroyed by battle and sent to your opponent's GY: You can detach 1 material from this card; Special Summon 1 of those monsters to your field in Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2600",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hero's Rule 2",
+  "number": "85854214",
+  "is_illegal": false,
+  "text": "Negate the activation of a Spell, Trap, or Effect Monster's effect that targets a card(s) in the Graveyard, and destroy it.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

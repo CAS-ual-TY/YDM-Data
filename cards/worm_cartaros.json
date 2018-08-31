@@ -1,0 +1,25 @@
+{
+  "name": "Worm Cartaros",
+  "number": "51043243",
+  "is_illegal": false,
+  "text": "FLIP: Add 1 Level 4 or lower Reptile-Type \"Worm\" monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1200",
+  "defense": "500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "4"
+}

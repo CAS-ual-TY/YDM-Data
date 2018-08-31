@@ -1,0 +1,24 @@
+{
+  "name": "Red-Eyes Baby Dragon",
+  "number": "58257569",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Level 7 or lower \"Red-Eyes\" monster from your Deck, and if you do, equip this card from the GY to it. It gains 300 ATK. If this card is sent to the GY while equipped to a monster: You can add 1 Level 1 Dragon monster from your Deck or GY to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1200",
+  "defense": "700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Double Resonator",
+  "number": "60832978",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can target 1 face-up monster on the field; that target is treated as a Tuner this turn. You can banish this card from your Graveyard, then target 1 Fiend-Type monster you control; that Fiend-Type monster is treated as a Tuner this turn. You can only use this effect of \"Double Resonator\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

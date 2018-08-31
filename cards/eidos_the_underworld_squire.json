@@ -1,0 +1,24 @@
+{
+  "name": "Eidos the Underworld Squire",
+  "number": "59463312",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: During your Main Phase this turn, you can Tribute Summon 1 monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can banish this card from your Graveyard, then target 1 monster with 800 ATK and 1000 DEF in your Graveyard, except \"Eidos the Underworld Squire\"; Special Summon it in Defense Position, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. You can only use this effect of \"Eidos the Underworld Squire\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "800",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Conscription",
+  "number": "31000575",
+  "is_illegal": false,
+  "text": "Excavate the top card of your opponent's Deck, and if it is a monster that can be Normal Summoned/Set, Special Summon it to your side of the field. Otherwise, add that card to your opponent's hand.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

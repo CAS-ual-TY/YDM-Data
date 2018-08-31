@@ -1,0 +1,24 @@
+{
+  "name": "Wall of Illusion",
+  "number": "13945283",
+  "is_illegal": false,
+  "text": "If this card is attacked by a monster, after damage calculation: Return that monster to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1000",
+  "defense": "1850",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

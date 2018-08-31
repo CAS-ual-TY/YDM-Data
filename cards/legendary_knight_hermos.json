@@ -1,0 +1,24 @@
+{
+  "name": "Legendary Knight Hermos",
+  "number": "84565800",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Legend of Heart\", and cannot be Special Summoned by other ways. When this card is Special Summoned: You can target 1 face-up Spell/Trap Card on the field; banish that target. Once per turn, when this card is targeted for an attack: You can target 1 Effect Monster in your Graveyard; until the End Phase of your next turn, this card's name becomes that target's, and replace this effect with that target's original effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2800",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

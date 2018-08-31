@@ -1,0 +1,24 @@
+{
+  "name": "Emperor Sem",
+  "number": "21672573",
+  "is_illegal": false,
+  "text": "Each time you Tribute Summon a monster, each player can select 1 card from their Graveyard and return it to the top of their Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1300",
+  "defense": "2200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

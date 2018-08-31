@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Structure Deck: Dinosaur's Rage Special Set",
+    "type": "Special Edition Promo Cards",
+    "date": "2006-10-25",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "SD09",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Five-Headed Dragon",
+        "set_number": "SD09-ENSS1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Revolution: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2010-09-21",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "DREV",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Drill Warrior",
+        "set_number": "DREV-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Gold Sarcophagus",
+        "set_number": "DREV-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

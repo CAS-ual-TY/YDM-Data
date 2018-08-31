@@ -1,0 +1,24 @@
+{
+  "name": "Mataza the Zapper",
+  "number": "22609617",
+  "is_illegal": false,
+  "text": "This card can make a second attack during each Battle Phase. Control of this face-up card on the field cannot switch.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1300",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

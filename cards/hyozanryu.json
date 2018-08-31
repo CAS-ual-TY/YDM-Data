@@ -1,0 +1,24 @@
+{
+  "name": "Hyozanryu",
+  "number": "62397231",
+  "is_illegal": false,
+  "text": "A dragon created from a massibe diamond that sparkles with blinding light.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2100",
+  "defense": "2800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "7"
+}

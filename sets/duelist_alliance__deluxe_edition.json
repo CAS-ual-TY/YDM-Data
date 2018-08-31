@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Alliance: Deluxe Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2014-09-11",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "DUEA",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Performapal Hip Hippo",
+        "set_number": "DUEA-ENDE1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Yang Zing Unleashed",
+        "set_number": "DUEA-ENDE2",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Soulfire Suit",
+        "set_number": "DUEA-ENDE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Shaddoll Hound",
+        "set_number": "DUEA-ENDE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Deskbot 002",
+        "set_number": "DUEA-ENDE5",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Wonder Balloons",
+        "set_number": "DUEA-ENDE6",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Hexatellarknight",
+        "set_number": "DUEA-ENDE7",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

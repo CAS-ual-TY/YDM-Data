@@ -1,0 +1,24 @@
+{
+  "name": "Digital Bug Cocoondenser",
+  "number": "32465539",
+  "is_illegal": false,
+  "text": "Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of an Insect-Type monster. Once per turn, if this card is in Attack Position: You can target 1 Level 3 Insect-Type monster in your Graveyard; change this card to Defense Position, and if you do, Special Summon that monster in Defense Position. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\nâ—? If this card attacks a Defense Position monster, your opponent's cards and effects cannot be activated until the end of the Damage Step.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "0",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

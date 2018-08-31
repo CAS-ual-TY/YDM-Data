@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Pharaoh Tour 2007",
+    "type": "Tournament Promo Cards",
+    "date": "2007-10-13",
+    "distribution": "tournament_promo_cards",
+    "prefix": "PT03",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Gold Sarcophagus",
+        "set_number": "PT03-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Stratos",
+        "set_number": "PT03-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

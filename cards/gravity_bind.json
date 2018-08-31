@@ -1,0 +1,11 @@
+{
+  "name": "Gravity Bind",
+  "number": "85742772",
+  "is_illegal": false,
+  "text": "Level 4 or higher monsters cannot attack.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

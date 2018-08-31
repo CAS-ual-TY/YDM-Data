@@ -1,0 +1,24 @@
+{
+  "name": "Puny Penguin",
+  "number": "76442347",
+  "is_illegal": false,
+  "text": "When this card is sent from the field to the Graveyard after being flipped face-up: Target 1 \"Penguin\" monster in your Graveyard, except \"Puny Penguin\"; Special Summon that target in face-up Attack Position or face-down Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "400",
+  "defense": "200",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

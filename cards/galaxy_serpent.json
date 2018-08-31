@@ -1,0 +1,25 @@
+{
+  "name": "Galaxy Serpent",
+  "number": "11066358",
+  "is_illegal": false,
+  "text": "Your hopes and dreams will be refreshed if you catch a glimpse of this rare creature in the evening twilight, soaring in the Sea of Stars.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1000",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal",
+    "Tuner"
+  ],
+  "stars": "2"
+}

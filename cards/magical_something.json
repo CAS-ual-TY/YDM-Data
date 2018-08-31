@@ -1,0 +1,24 @@
+{
+  "name": "Magical Something",
+  "number": "43930492",
+  "is_illegal": false,
+  "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card's Level is increased by the number of Spell Counters on this card. You can remove 3 Spell Counters from this card, then target 1 Quick-Play Spell Card in your Graveyard; Set that card to your Spell & Trap Zone. You can only use this effect of \"Magical Something\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1800",
+  "defense": "1300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

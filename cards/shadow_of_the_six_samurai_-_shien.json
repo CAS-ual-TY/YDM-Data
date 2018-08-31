@@ -1,0 +1,24 @@
+{
+  "name": "Shadow of the Six Samurai - Shien",
+  "number": "1828513",
+  "is_illegal": false,
+  "text": "2 Level 4 \"Six Samurai\" monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card to target 1 face-up \"Six Samurai\" monster you control with less than 2000 ATK; its original ATK becomes 2000 until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2500",
+  "defense": "400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

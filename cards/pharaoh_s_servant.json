@@ -1,0 +1,24 @@
+{
+  "name": "Pharaoh's Servant",
+  "number": "52550973",
+  "is_illegal": false,
+  "text": "An apparition of those said to formerly serve the Pharaoh. It has tremendous loyalty that does not waiver.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "900",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "2"
+}

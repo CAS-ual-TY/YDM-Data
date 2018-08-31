@@ -1,0 +1,24 @@
+{
+  "name": "Scrap Hunter",
+  "number": "55624610",
+  "is_illegal": false,
+  "text": "Once per turn, you can select 1 face-up \"Scrap\" monster you control, except this card. Destroy it and send 1 Tuner monster from your Deck to your Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1600",
+  "defense": "400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

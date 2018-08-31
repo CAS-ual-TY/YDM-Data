@@ -1,0 +1,24 @@
+{
+  "name": "Goblin Zombie",
+  "number": "63665875",
+  "is_illegal": false,
+  "text": "When this card inflicts battle damage to your opponent: Send the top card of their Deck to the Graveyard. When this card is sent from the field to the Graveyard: Add 1 Zombie-Type monster with 1200 or less DEF from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1100",
+  "defense": "1050",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

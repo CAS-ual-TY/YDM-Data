@@ -1,0 +1,24 @@
+{
+  "name": "Cyber Dragon Nova",
+  "number": "58069384",
+  "is_illegal": false,
+  "text": "2 Level 5 Machine monsters\nOnce per turn: You can detach 1 material from this card, then target 1 \"Cyber Dragon\" in your GY; Special Summon that target. Once per turn (Quick Effect): You can banish 1 \"Cyber Dragon\" from your hand or face-up from your Monster Zone; this card gains 2100 ATK until the end of this turn. If this card in your possession is sent to your GY by your opponent's card effect: You can Special Summon 1 Machine Fusion Monster from your Extra Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2100",
+  "defense": "1600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

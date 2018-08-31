@@ -1,0 +1,24 @@
+{
+  "name": "Uniflora, Mystical Beast of the Forest",
+  "number": "36318200",
+  "is_illegal": false,
+  "text": "If all the monsters in your Graveyard are Beast-Type: You can Tribute this card; Special Summon 1 Beast-Type monster from your hand or Graveyard, except \"Uniflora, Mystical Beast of the Forest\", but it cannot attack this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "700",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

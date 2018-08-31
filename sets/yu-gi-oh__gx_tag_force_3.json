@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! GX Tag Force 3",
+    "type": "Video Game Promo Cards",
+    "date": "2008-11-27",
+    "distribution": "video_game_promo_cards",
+    "prefix": "GX06",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Gallis the Star Beast",
+        "set_number": "GX06-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Red-Eyes Wyvern",
+        "set_number": "GX06-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Darkness Destroyer",
+        "set_number": "GX06-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

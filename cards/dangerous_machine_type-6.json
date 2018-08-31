@@ -1,0 +1,11 @@
+{
+  "name": "Dangerous Machine Type-6",
+  "number": "76895648",
+  "is_illegal": false,
+  "text": "During each of your Standby Phases: Roll a six-sided die and apply the result.\nâ—? 1: Discard 1 card.\nâ—? 2: Your opponent discards 1 card.\nâ—? 3: Draw 1 card.\nâ—? 4: Your opponent draws 1 card.\nâ—? 5: Destroy 1 monster your opponent controls.\nâ—? 6: Destroy this card.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Continuous"
+}

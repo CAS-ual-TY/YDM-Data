@@ -1,0 +1,24 @@
+{
+  "name": "Red-Eyes Flare Metal Dragon",
+  "number": "44405066",
+  "is_illegal": false,
+  "text": "2 Level 7 monsters\nCannot be destroyed by card effects while it has Xyz Material. While this card has Xyz Material, each time your opponent activates a card or effect, inflict 500 damage to your opponent immediately after it resolves. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 \"Red-Eyes\" Normal Monster in your Graveyard; Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2800",
+  "defense": "2400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "7"
+}

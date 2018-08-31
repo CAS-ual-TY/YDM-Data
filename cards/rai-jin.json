@@ -1,0 +1,24 @@
+{
+  "name": "Rai-Jin",
+  "number": "37829468",
+  "is_illegal": false,
+  "text": "All LIGHT monsters you control gain 100 ATK for each LIGHT monster in your Graveyard. During your End Phase, destroy 1 LIGHT monster you control. There can only be 1 face-up \"Rai-Jin\" on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "0",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

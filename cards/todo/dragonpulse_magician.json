@@ -1,0 +1,28 @@
+{
+  "name": "Dragonpulse Magician",
+  "number": "15146890",
+  "is_illegal": false,
+  "text": "This boy magician has the gift of seeing the natural lines of energy that run through the earth, which his people call the Pulse of the Dragon. His exuberance and skill put him in high regard with his mentor, the \"Dragonpit Magician\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1800",
+  "defense": "900",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Normal"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn, if you have a \"Magician\" card in your other Pendulum Zone: You can discard 1 Pendulum Monster, then target 1 face-up monster on the field; destroy it.",
+  "stars": "4"
+}

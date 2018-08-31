@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! 3D Bonds Beyond Time Theater distribution card",
+    "type": "Promo Cards",
+    "date": "2010-01-23",
+    "distribution": "promo_cards",
+    "prefix": "MOV2",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Malefic Red-Eyes B. Dragon",
+        "set_number": "MOV2-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

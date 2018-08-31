@@ -1,0 +1,24 @@
+{
+  "name": "Seal, Strategist Fur Hire",
+  "number": "20345391",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Seal, Strategist Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can target 1 monster \"Fur Hire\" in your GY; add it to your hand. You can only use each effect of \"Seal, Strategist Fur Hire\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1600",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

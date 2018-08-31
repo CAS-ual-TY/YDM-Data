@@ -1,0 +1,27 @@
+{
+  "name": "Missus Radiant",
+  "number": "3987233",
+  "is_illegal": false,
+  "text": "2 EARTH monsters\nAll EARTH monsters on the field gain 500 ATK and DEF, also all WIND monsters on the field lose 400 ATK and DEF. If this card is destroyed by battle or card effect: You can target 1 EARTH monster in your GY; add it to your hand. You can only use this effect of \"Missus Radiant\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

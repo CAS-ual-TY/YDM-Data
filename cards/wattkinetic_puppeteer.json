@@ -1,0 +1,24 @@
+{
+  "name": "Wattkinetic Puppeteer",
+  "number": "88392300",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can send this card from your hand or field to the GY, then target 1 monster your opponent controls; move that target to another of your opponent's Main Monster Zones.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "1800",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Mist Valley Soldier",
+  "number": "22837504",
+  "is_illegal": false,
+  "text": "While you control this face-up card, any opponent's monster that battles this card, but is not destroyed by the battle, returns to its owner's hand at the end of the Damage Step.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1700",
+  "defense": "300",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "4"
+}

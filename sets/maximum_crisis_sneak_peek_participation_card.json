@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Maximum Crisis Sneak Peek Participation Card",
+    "type": "Sneak Peek Participation Cards",
+    "date": "2017-04-29",
+    "distribution": "sneak_peek_participation_cards",
+    "prefix": "MACR",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Pendulum Switch",
+        "set_number": "MACR-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

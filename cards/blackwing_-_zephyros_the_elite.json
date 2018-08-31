@@ -1,0 +1,24 @@
+{
+  "name": "Blackwing - Zephyros the Elite",
+  "number": "14785765",
+  "is_illegal": false,
+  "text": "If this card is in your Graveyard: You can return 1 face-up card you control to the hand; Special Summon this card, and if you do, take 400 damage. You can only use this effect of \"Blackwing - Zephyros the Elite\" once per Duel.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1600",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

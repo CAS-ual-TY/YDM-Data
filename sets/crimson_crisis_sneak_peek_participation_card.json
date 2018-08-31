@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Crimson Crisis Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2009-02-28",
+    "distribution": "tournament_promo_cards",
+    "prefix": "CRMS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Colossal Fighter/Assault Mode",
+        "set_number": "CRMS-ENSP1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

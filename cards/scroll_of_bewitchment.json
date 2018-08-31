@@ -1,0 +1,11 @@
+{
+  "name": "Scroll of Bewitchment",
+  "number": "10352095",
+  "is_illegal": false,
+  "text": "Select 1 Attribute. Change the Attribute of the equipped monster to the one you select.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Equip"
+}

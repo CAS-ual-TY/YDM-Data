@@ -1,0 +1,24 @@
+{
+  "name": "Root Water",
+  "number": "39004808",
+  "is_illegal": false,
+  "text": "An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "900",
+  "defense": "800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

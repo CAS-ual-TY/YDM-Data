@@ -1,0 +1,25 @@
+{
+  "name": "Tindangle Protector",
+  "number": "67744384",
+  "is_illegal": false,
+  "text": "FLIP: Change up to 3 Set monsters you control to face-up Defense Position, and if they are all \"Tindangle\" monsters, you can add up to that many \"Tindangle\" cards from your Deck to your hand. You can only use this effect of \"Tindangle Apostle\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "800",
+  "defense": "1600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

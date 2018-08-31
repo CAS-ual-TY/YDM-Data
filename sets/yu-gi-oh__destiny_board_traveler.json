@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Destiny Board Traveler",
+    "type": "Video Game Promo Cards",
+    "date": "2004-10-26",
+    "distribution": "video_game_promo_cards",
+    "prefix": "DBT",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Emes the Infinity",
+        "set_number": "DBT-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "D.D. Assailant",
+        "set_number": "DBT-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Twinheaded Beast",
+        "set_number": "DBT-EN003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

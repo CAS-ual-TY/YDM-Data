@@ -1,0 +1,24 @@
+{
+  "name": "The Last Warrior from Another Planet",
+  "number": "86099788",
+  "is_illegal": false,
+  "text": "\"Zombyra the Dark\" + \"Maryokutai\"\nWhen this card is Special Summoned, destroy all monsters on your side of the field except this card. As long as this card remains face-up on the field, neither player can Normal Summon, Flip Summon, or Special Summon any monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2350",
+  "defense": "2300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "7"
+}

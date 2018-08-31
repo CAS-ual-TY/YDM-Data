@@ -1,0 +1,24 @@
+{
+  "name": "Ghostrick Socuteboss",
+  "number": "32224143",
+  "is_illegal": false,
+  "text": "2 Level 2 monsters\nWhile you control another \"Ghostrick\" monster, your opponent cannot target this card for attacks. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field, with ATK less than or equal to the combined ATK of all \"Ghostrick\" monsters on the field; destroy it, and if you do, that Monster Card Zone cannot be used as long as you control a \"Ghostrick\" monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1400",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "2"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Ningirsu the World Chalice Warrior",
+  "number": "30194529",
+  "is_illegal": false,
+  "text": "2+ Link Monsters\nIf this card is Link Summoned: Draw cards equal to the number of \"World Chalice\" monsters this card points to. You can only use this effect of \"Ningirsu the World Chalice Warrior\" once per turn. Once per turn: You can send 1 card from each player's field to the GYs. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Top",
+    "Right"
+  ],
+  "link_number": "3"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Tornado Bird",
+  "number": "71283180",
+  "is_illegal": false,
+  "text": "FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1100",
+  "defense": "1000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "4"
+}

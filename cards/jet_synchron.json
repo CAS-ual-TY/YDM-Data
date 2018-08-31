@@ -1,0 +1,24 @@
+{
+  "name": "Jet Synchron",
+  "number": "9742784",
+  "is_illegal": false,
+  "text": "If this card is sent to the Graveyard as a Synchro Material: You can add 1 \"Junk\" monster from your Deck to your hand. If this card is in your Graveyard: You can send 1 card from your hand to the Graveyard; Special Summon this card, but banish it when it leaves the field. You can only use 1 \"Jet Synchron\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "500",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

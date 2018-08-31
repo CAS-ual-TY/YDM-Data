@@ -1,0 +1,24 @@
+{
+  "name": "Full Armored Black Ray Lancer",
+  "number": "25853045",
+  "is_illegal": false,
+  "text": "3 Level 4 WATER monsters\nYou can also Xyz Summon this card by using a Rank 3 WATER Xyz Monster you control that has no Xyz Materials as the Xyz Material. This card gains 200 ATK for each Xyz Material attached to it. If this face-up card would be destroyed, you can detach all of its Xyz Materials instead. If this card destroys an opponent's monster by battle: You can target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "2100",
+  "defense": "600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

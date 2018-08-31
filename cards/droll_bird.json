@@ -1,0 +1,24 @@
+{
+  "name": "Droll Bird",
+  "number": "97973387",
+  "is_illegal": false,
+  "text": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "600",
+  "defense": "500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "2"
+}

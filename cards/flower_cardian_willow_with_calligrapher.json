@@ -1,0 +1,24 @@
+{
+  "name": "Flower Cardian Willow with Calligrapher",
+  "number": "89818984",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 11 \"Flower Cardian\" monster, except \"Flower Cardian Willow with Calligrapher\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the Graveyard. When this card is used as Synchro Material, you can treat it and all other Synchro Materials (that have a Level) as Level 2 monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "11"
+}

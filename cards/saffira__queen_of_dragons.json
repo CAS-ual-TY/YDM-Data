@@ -1,0 +1,25 @@
+{
+  "name": "Saffira, Queen of Dragons",
+  "number": "56350972",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Hymn of Light\". During the End Phase, if this card was Ritual Summoned this turn, or if a LIGHT monster was sent from the hand or Deck to the Graveyard this turn while this card was face-up on the field: You can activate 1 of these effects;\nâ—? Draw 2 cards, then discard 1 card.\nâ—? Discard 1 random card from your opponent's hand.\nâ—? Add 1 LIGHT monster from your Graveyard to your hand.\nYou can only use 1 \"Saffira, Queen of Dragons\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2500",
+  "defense": "2400",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Number C105: Battlin' Boxer Comet Cestus",
+  "number": "85121942",
+  "is_illegal": false,
+  "text": "4 Level 5 monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the destroyed monster's original ATK. If this card has \"Number 105: Battlin' Boxer Star Cestus\" as an Xyz Material, it gains this effect.\nâ—? Once per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2800",
+  "defense": "2000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "5"
+}

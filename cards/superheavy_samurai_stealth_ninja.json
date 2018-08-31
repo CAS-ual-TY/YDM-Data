@@ -1,0 +1,24 @@
+{
+  "name": "Superheavy Samurai Stealth Ninja",
+  "number": "50065971",
+  "is_illegal": false,
+  "text": "1 Machine-Type Tuner + 1 or more non-Tuner Machine-Type monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. If you have no Spell/Trap Cards in your Graveyard: You can halve this card's original DEF until the end of this turn, and if you do, this card can attack your opponent directly this turn. Once per turn, during the next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: You can Special Summon this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1200",
+  "defense": "2800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}

@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Championship Series 2017 prize card",
+    "type": "Tournament Promo Cards",
+    "date": "2017-08-27",
+    "distribution": "tournament_promo_cards",
+    "prefix": "YCSW",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Number 89: Diablosis the Mind Hacker",
+        "set_number": "YCSW-EN010",
+        "rarities": [
+          "Ultra Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1,
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "GX Next Generation",
+    "type": "Special Edition Promo Cards",
+    "date": "2007-11-03",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "GXNG",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "White-Horned Dragon",
+        "set_number": "GXNG-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

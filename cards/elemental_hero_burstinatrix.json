@@ -1,0 +1,24 @@
+{
+  "name": "Elemental HERO Burstinatrix",
+  "number": "58932615",
+  "is_illegal": false,
+  "text": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1200",
+  "defense": "800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

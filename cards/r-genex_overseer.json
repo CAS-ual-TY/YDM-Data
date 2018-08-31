@@ -1,0 +1,24 @@
+{
+  "name": "R-Genex Overseer",
+  "number": "32744558",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned, you can Special Summon 1 Level 3 or lower \"Genex\" monster from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "200",
+  "defense": "100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

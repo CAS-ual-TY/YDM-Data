@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Starter Deck 2006: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2006-03-21",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "YSD",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Elemental HERO Sparkman",
+        "set_number": "YSD-ENS01",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

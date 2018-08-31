@@ -1,0 +1,24 @@
+{
+  "name": "Aleister the Invoker",
+  "number": "86120751",
+  "is_illegal": false,
+  "text": "During either player's turn: You can send this card from your hand to the Graveyard, then target 1 Fusion Monster you control; it gains 1000 ATK and DEF until the end of this turn. If this card is Normal Summoned or flipped face-up: You can add 1 \"Invocation\" from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1000",
+  "defense": "1800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

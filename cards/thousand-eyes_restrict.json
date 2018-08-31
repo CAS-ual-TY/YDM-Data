@@ -1,0 +1,24 @@
+{
+  "name": "Thousand-Eyes Restrict",
+  "number": "63519819",
+  "is_illegal": false,
+  "text": "\"Relinquished\" + \"Thousand-Eyes Idol\"\nOther monsters on the field cannot change their battle positions or attack. Once per turn: You can target 1 monster your opponent controls; equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card's ATK and DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "1"
+}

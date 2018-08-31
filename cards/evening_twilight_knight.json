@@ -1,0 +1,24 @@
+{
+  "name": "Evening Twilight Knight",
+  "number": "32013448",
+  "is_illegal": false,
+  "text": "A \"Black Luster Soldier\" monster Ritual Summoned using this card gains these effects. You can only use this effect of \"Evening Twilight Knight\" once per turn.\nâ—? Once per turn: You can target 1 monster your opponent controls; banish it.\nâ—? Once per turn: You can banish 1 random card from your opponent's hand face-down, until your opponent's next End Phase.\nIf this card is banished from your Graveyard: You can add 1 Ritual Monster from your Deck to your hand. You can only use this effect of \"Evening Twilight Knight\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "500",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Gravity Warrior",
+  "number": "44035031",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: It gains 300 ATK for each face-up monster your opponent controls. Once per turn, during your opponent's Battle Phase: You can target 1 Defense Position monster your opponent controls; change it to face-up Attack Position, also it must attack this turn, if able.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2100",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "6"
+}

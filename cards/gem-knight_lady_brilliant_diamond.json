@@ -1,0 +1,24 @@
+{
+  "name": "Gem-Knight Lady Brilliant Diamond",
+  "number": "19355597",
+  "is_illegal": false,
+  "text": "3 \"Gem-Knight\" monsters\nMust first be Fusion Summoned with the above Fusion Materials. You can only Special Summon \"Gem-Knight Lady Brilliant Diamond(s)\" once per turn. Once per turn: You can send 1 \"Gem-Knight\" monster you control to the Graveyard, and if you do, Special Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, ignoring its Summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "3400",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

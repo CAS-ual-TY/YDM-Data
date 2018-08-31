@@ -1,0 +1,24 @@
+{
+  "name": "Number 66: Master Key Beetle",
+  "number": "76067258",
+  "is_illegal": false,
+  "text": "2 Level 4 DARK monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 card you control, except this card; while this card is face-up on the field, that card(s) cannot be destroyed by card effects. If this face-up card on the field would be destroyed, you can send one of its targets to the Graveyard instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "2500",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

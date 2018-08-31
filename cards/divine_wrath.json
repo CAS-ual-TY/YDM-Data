@@ -1,0 +1,11 @@
+{
+  "name": "Divine Wrath",
+  "number": "49010598",
+  "is_illegal": false,
+  "text": "When a monster effect is activated: Discard 1 card; negate the activation, and if you do, destroy that monster.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

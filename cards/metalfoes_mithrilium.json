@@ -1,0 +1,24 @@
+{
+  "name": "Metalfoes Mithrilium",
+  "number": "4688231",
+  "is_illegal": false,
+  "text": "1 \"Metalfoes\" monster + 1 Pendulum Monster\nYou can target 2 \"Metalfoes\" cards in your Graveyard and 1 card on the field; shuffle the targets from your Graveyard into the Deck, and if you do, return the target on the field to the hand. You can only use this effect of \"Metalfoes Mithrilium\" once per turn. If this card is sent from the field to the Graveyard: You can Special Summon 1 \"Metalfoes\" Pendulum Monster from your Graveyard or face-up from your Extra Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "2600",
+  "defense": "1000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

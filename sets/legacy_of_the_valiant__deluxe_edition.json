@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Legacy of the Valiant: Deluxe Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2014-03-06",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "LVAL",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Sylvan Peaskeeper",
+        "set_number": "LVAL-ENDE1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Ghostrick Jackfrost",
+        "set_number": "LVAL-ENDE2",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Sylvan Cherubsprout",
+        "set_number": "LVAL-ENDE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Bujintervention",
+        "set_number": "LVAL-ENDE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

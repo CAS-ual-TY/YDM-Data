@@ -1,0 +1,24 @@
+{
+  "name": "Flamvell Magician",
+  "number": "95621257",
+  "is_illegal": false,
+  "text": "While you control an \"Ally of Justice\" monster(s), this card gains 400 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1400",
+  "defense": "200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "4"
+}

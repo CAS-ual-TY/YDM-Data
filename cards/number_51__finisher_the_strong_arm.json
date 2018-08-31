@@ -1,0 +1,24 @@
+{
+  "name": "Number 51: Finisher the Strong Arm",
+  "number": "56292140",
+  "is_illegal": false,
+  "text": "3 Level 3 monsters\nCannot be destroyed by battle. At the end of the Damage Step, if this card battled: You can detach 1 Xyz Material from this card; place 1 Counter on this card (max. 3). At the end of the Battle Phase, if this card battled, and has 3 of these Counters: You can destroy all cards your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2600",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

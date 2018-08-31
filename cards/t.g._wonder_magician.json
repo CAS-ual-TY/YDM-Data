@@ -1,0 +1,25 @@
+{
+  "name": "T.G. Wonder Magician",
+  "number": "98558751",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner \"T.G.\" monsters\nIf this card is Synchro Summoned: Target 1 Spell/Trap Card on the field; destroy that target. If this card on the field is destroyed: Draw 1 card. During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon using this card you control (this is a Quick Effect).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1900",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Tuner"
+  ],
+  "stars": "5"
+}

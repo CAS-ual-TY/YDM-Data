@@ -1,0 +1,24 @@
+{
+  "name": "Perditious Puppeteer",
+  "number": "71564150",
+  "is_illegal": false,
+  "text": "Once per turn: You can discard 1 card; gain control of all face-up Level 3 or lower monsters your opponent controls, until the End Phase. These monsters cannot activate their effects, and cannot be Tributed or used as a Synchro Material Monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2700",
+  "defense": "500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

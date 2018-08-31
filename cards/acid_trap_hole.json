@@ -1,0 +1,11 @@
+{
+  "name": "Acid Trap Hole",
+  "number": "41356845",
+  "is_illegal": false,
+  "text": "Target 1 face-down Defense Position monster on the field; flip it face-up, then destroy it if its DEF is 2000 or less, or return it face-down if its DEF is more than 2000.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

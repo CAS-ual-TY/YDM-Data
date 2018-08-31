@@ -1,0 +1,24 @@
+{
+  "name": "Athena",
+  "number": "48964966",
+  "is_illegal": false,
+  "text": "Each time a Fairy-Type monster(s) is Summoned: Inflict 600 damage to your opponent. Once per turn: You can send 1 face-up Fairy-Type monster you control to the Graveyard, except \"Athena\", then target 1 Fairy-Type monster in your Graveyard, except \"Athena\"; Special Summon that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2600",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

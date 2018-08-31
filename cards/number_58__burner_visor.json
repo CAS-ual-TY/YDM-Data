@@ -1,0 +1,24 @@
+{
+  "name": "Number 58: Burner Visor",
+  "number": "93108839",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nOnce per turn, you can either: Target 1 face-up Xyz Monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in Attack Position. The equipped monster can attack your opponent directly. When the equipped monster inflicts battle damage to your opponent: You can discard 1 card; inflict 500 damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

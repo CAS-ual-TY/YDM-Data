@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Crossed Souls: Advance Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2015-07-02",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CROS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Zefraxa, Flame Beast of the Nekroz",
+        "set_number": "CROS-ENAE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Chosen of Zefra",
+        "set_number": "CROS-ENAE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Wavering Eyes",
+        "set_number": "CROS-ENAE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Return of the Red-Eyes",
+        "set_number": "CROS-ENAE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

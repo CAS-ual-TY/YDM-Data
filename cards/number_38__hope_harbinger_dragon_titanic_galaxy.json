@@ -1,0 +1,24 @@
+{
+  "name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+  "number": "63767246",
+  "is_illegal": false,
+  "text": "2 Level 8 monsters\nOnce per turn, during either player's turn, when a Spell Card or effect is activated on the field: You can negate that effect, and if you do, attach that card to this card as Xyz Material. When an opponent's monster declares an attack: You can detach 1 Xyz Material from this card; change the attack target to this card and perform damage calculation. If a face-up Xyz Monster(s) you control is destroyed by battle or card effect: You can target 1 face-up Xyz Monster you control; it gains ATK equal to 1 of those destroyed monster's original ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "8"
+}

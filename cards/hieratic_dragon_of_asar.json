@@ -1,0 +1,24 @@
+{
+  "name": "Hieratic Dragon of Asar",
+  "number": "30794966",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) by banishing 1 LIGHT Dragon-Type monster and 1 Dragon-Type Normal Monster from your Graveyard. If this face-up card on the field would be destroyed, you can Tribute 1 face-up \"Hieratic\" monster instead, except this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2600",
+  "defense": "700",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

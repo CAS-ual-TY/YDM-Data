@@ -1,0 +1,28 @@
+{
+  "name": "Dinomist Rex",
+  "number": "63251695",
+  "is_illegal": false,
+  "text": "At the end of the Damage Step, if this card attacked: You can Tribute 1 other \"Dinomist\" monster, then activate 1 of these effects;\nâ—? This card can attack an opponent's monster again in a row, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\nâ—? Shuffle 1 card from your opponent's hand (at random) or field into the Deck, then this card gains 100 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2400",
+  "defense": "2200",
+  "attribute": "WATER",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "Pendulum Scale = 6",
+  "pendulum_right": "Pendulum Scale = 6",
+  "pendulum_text": "Once, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card (s) you control, then destroy this card.\n",
+  "stars": "5"
+}

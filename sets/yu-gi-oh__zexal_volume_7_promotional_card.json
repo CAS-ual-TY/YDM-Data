@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! ZEXAL Volume 7 promotional card",
+    "type": "Manga Promo",
+    "date": "2014-08-04",
+    "distribution": "manga_promo",
+    "prefix": "YZ07",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Number 23: Lancelot, Dark Knight of the Underworld",
+        "set_number": "YZ07-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

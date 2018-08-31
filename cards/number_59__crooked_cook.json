@@ -1,0 +1,24 @@
+{
+  "name": "Number 59: Crooked Cook",
+  "number": "82697249",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nWhile you control no other cards on the field, this card is unaffected by other cards' effects. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; destroy as many other cards you control as possible, then this card gains 300 ATK until the end of this turn for each monster destroyed by this effect and sent to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2300",
+  "defense": "200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

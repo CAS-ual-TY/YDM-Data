@@ -1,0 +1,24 @@
+{
+  "name": "Worm Tentacles",
+  "number": "30299166",
+  "is_illegal": false,
+  "text": "Once per turn, you can remove from play 1 Reptile-Type \"Worm\" monster from your Graveyard. If you do, this card can attack twice during this turn's Battle Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1700",
+  "defense": "700",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

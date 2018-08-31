@@ -1,0 +1,24 @@
+{
+  "name": "Windrose the Elemental Lord",
+  "number": "53027855",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WIND monsters in your Graveyard, and cannot be Special Summoned by other ways. When this card is Special Summoned: Destroy all Spell and Trap Cards your opponent controls. You can only use this effect of \"Windrose the Elemental Lord\" once per turn. If this card leaves the field, skip the Battle Phase of your next turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "2800",
+  "defense": "2200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

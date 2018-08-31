@@ -1,0 +1,24 @@
+{
+  "name": "Sky Galloping Gaia the Dragon Champion",
+  "number": "2519690",
+  "is_illegal": false,
+  "text": "1 \"Gaia The Fierce Knight\" monster + 1 Dragon-Type monster\nThis card's name becomes \"Gaia the Dragon Champion\" while it is on the field. If this card is Special Summoned: You can add 1 \"Spiral Spear Strike\" from your Deck or Graveyard to your hand. When this card declares an attack on an opponent's monster: You can change the battle position of that opponent's monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2600",
+  "defense": "2100",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "7"
+}

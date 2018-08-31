@@ -1,0 +1,24 @@
+{
+  "name": "Raidraptor - Ultimate Falcon",
+  "number": "86221741",
+  "is_illegal": false,
+  "text": "3 Level 10 Winged Beast-Type monsters\nUnaffected by other cards' effects. You can detach 1 Xyz Material from this card; for the rest of this turn, all monsters your opponent controls will lose 1000 ATK, also your opponent's cards and effects cannot be activated. If this card has a \"Raidraptor\" monster as Xyz Material, it gains this effect.\nâ—? Once per turn, during the End Phase: You can make all monsters your opponent controls lose 1000 ATK. If your opponent controls no face-up monsters, inflict 1000 damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "3500",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "10"
+}

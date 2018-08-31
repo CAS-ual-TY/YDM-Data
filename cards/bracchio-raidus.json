@@ -1,0 +1,24 @@
+{
+  "name": "Bracchio-raidus",
+  "number": "16507828",
+  "is_illegal": false,
+  "text": "\"Two-Headed King Rex\" + \"Crawling Dragon #2\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "2200",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

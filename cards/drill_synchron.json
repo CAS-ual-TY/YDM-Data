@@ -1,0 +1,24 @@
+{
+  "name": "Drill Synchron",
+  "number": "56286179",
+  "is_illegal": false,
+  "text": "If a Warrior-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect: You can draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "800",
+  "defense": "300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dododo Driver",
+  "number": "85310252",
+  "is_illegal": false,
+  "text": "Up to twice per turn, if this card was Special Summoned by the effect of a \"Dododo\" monster this turn: You can target 1 \"Dododo\" monster you control, then activate 1 of these effects;\nâ—? Increase its Level by 1.\nâ—? Reduce its Level by 1.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1800",
+  "defense": "200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Des Frog",
+  "number": "84451804",
+  "is_illegal": false,
+  "text": "When this card is Tribute Summoned, you can Special Summon \"Des Frog\"(s) from your hand or Deck up to the number of \"T.A.D.P.O.L.E.\"(s) in your Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1900",
+  "defense": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Armor Break",
+  "number": "79649195",
+  "is_illegal": false,
+  "text": "Negate the activation of an Equip Spell Card and destroy it.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

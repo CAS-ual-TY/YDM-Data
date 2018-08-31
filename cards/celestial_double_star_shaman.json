@@ -1,0 +1,25 @@
+{
+  "name": "Celestial Double Star Shaman",
+  "number": "25472513",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 non-Tuner monster\nWhen this card is Synchro Summoned: You can Special Summon up to 4 Level 2 non-Tuner monsters from your hand and/or Graveyard in Defense Position, but they have their effects negated, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of \"Celestial Double Star Shaman\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "100",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Tuner"
+  ],
+  "stars": "2"
+}

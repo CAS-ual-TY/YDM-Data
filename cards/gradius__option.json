@@ -1,0 +1,24 @@
+{
+  "name": "Gradius' Option",
+  "number": "14291024",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This monster can only be Special Summoned by selecting 1 face-up \"Gradius\" on your side of the field. The ATK and DEF of this card becomes the same as the ATK and DEF of the selected \"Gradius\". If the selected \"Gradius\" is removed from the field, destroy this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

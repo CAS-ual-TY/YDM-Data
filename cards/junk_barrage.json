@@ -1,0 +1,11 @@
+{
+  "name": "Junk Barrage",
+  "number": "79068663",
+  "is_illegal": false,
+  "text": "When the equipped monster destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the destroyed monster's ATK in the Graveyard.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Equip"
+}

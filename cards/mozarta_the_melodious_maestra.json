@@ -1,0 +1,24 @@
+{
+  "name": "Mozarta the Melodious Maestra",
+  "number": "3395226",
+  "is_illegal": false,
+  "text": "Once per turn: You can Special Summon 1 LIGHT Fairy-Type monster from your hand. You cannot Special Summon other monsters the turn you activate this effect, except for LIGHT monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2600",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

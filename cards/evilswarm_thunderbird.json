@@ -1,0 +1,24 @@
+{
+  "name": "Evilswarm Thunderbird",
+  "number": "78663366",
+  "is_illegal": false,
+  "text": "During either player's turn, when a card or effect is activated (except during the Damage Step): You can banish this card you control. During the next Standby Phase, return this card banished by this effect to the field, and if you do, it gains 300 ATK. You can only use the effect of \"Evilswarm Thunderbird\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "1650",
+  "defense": "1050",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

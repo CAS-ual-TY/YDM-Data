@@ -1,0 +1,24 @@
+{
+  "name": "Level Warrior",
+  "number": "97385276",
+  "is_illegal": false,
+  "text": "If there are no monsters on the field, you can Normal Summon this card as a Level 2 monster. If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand) as a Level 4 monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "300",
+  "defense": "600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,552 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Labyrinth of Nightmare",
+    "type": "Booster Pack",
+    "date": "2001-07-21",
+    "distribution": "booster_pack",
+    "prefix": "LN",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "The Portrait's Secret",
+        "set_number": "LN-01",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Gross Ghost of Fled Dreams",
+        "set_number": "LN-02",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Headless Knight",
+        "set_number": "LN-03",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Earthbound Spirit",
+        "set_number": "LN-04",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Earl of Demise",
+        "set_number": "LN-05",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Boneheimer",
+        "set_number": "LN-06",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Flame Dancer",
+        "set_number": "LN-07",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spherous Lady",
+        "set_number": "LN-08",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lightning Conger",
+        "set_number": "LN-09",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jowgen the Spiritualist",
+        "set_number": "LN-10",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Kycoo the Ghost Destroyer",
+        "set_number": "LN-11",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Summoner of Illusions",
+        "set_number": "LN-12",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bazoo the Soul-Eater",
+        "set_number": "LN-13",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Necrofear",
+        "set_number": "LN-14",
+        "rarities": [
+          "Ultra Parallel Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Soul of Purity and Light",
+        "set_number": "LN-15",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spirit of Flames",
+        "set_number": "LN-16",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Aqua Spirit",
+        "set_number": "LN-17",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Rock Spirit",
+        "set_number": "LN-18",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Garuda the Wind Spirit",
+        "set_number": "LN-19",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gilasaurus",
+        "set_number": "LN-20",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tornado Bird",
+        "set_number": "LN-21",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dreamsprite",
+        "set_number": "LN-22",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zombyra the Dark",
+        "set_number": "LN-23",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Supply",
+        "set_number": "LN-24",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Maryokutai",
+        "set_number": "LN-25",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Last Warrior from Another Planet",
+        "set_number": "LN-26",
+        "rarities": [
+          "Ultra Parallel Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Collected Power",
+        "set_number": "LN-27",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Spirit of the Silent",
+        "set_number": "LN-28",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Royal Command",
+        "set_number": "LN-29",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Riryoku Field",
+        "set_number": "LN-30",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Skull Lair",
+        "set_number": "LN-31",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Graverobber's Retribution",
+        "set_number": "LN-32",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Deal of Phantom",
+        "set_number": "LN-33",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Destruction Punch",
+        "set_number": "LN-34",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blind Destruction",
+        "set_number": "LN-35",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Emperor's Holiday",
+        "set_number": "LN-36",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Destiny Board",
+        "set_number": "LN-37",
+        "rarities": [
+          "Ultra Parallel Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Parallel Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Spirit Message \"I\"",
+        "set_number": "LN-38",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Spirit Message \"N\"",
+        "set_number": "LN-39",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Spirit Message \"A\"",
+        "set_number": "LN-40",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Spirit Message \"L\"",
+        "set_number": "LN-41",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "The Dark Door",
+        "set_number": "LN-42",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spiritualism",
+        "set_number": "LN-43",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyclon Laser",
+        "set_number": "LN-44",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bait Doll",
+        "set_number": "LN-45",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "De-Fusion",
+        "set_number": "LN-46",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Fusion Gate",
+        "set_number": "LN-47",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ekibyo Drakmord",
+        "set_number": "LN-48",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Miracle Dig",
+        "set_number": "LN-49",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dragonic Attack",
+        "set_number": "LN-50",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spirit Elimination",
+        "set_number": "LN-51",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Vengeful Bog Spirit",
+        "set_number": "LN-52",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician",
+        "set_number": "LN-53",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      }
+    ]
+  }
+}

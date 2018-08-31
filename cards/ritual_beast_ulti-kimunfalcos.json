@@ -1,0 +1,27 @@
+{
+  "name": "Ritual Beast Ulti-Kimunfalcos",
+  "number": "58811192",
+  "is_illegal": false,
+  "text": "2 \"Ritual Beast\" monsters\n\"Ritual Beast\" monsters this card points to gain 600 ATK/DEF. You can banish 1 \"Ritual Beast\" card from your GY; immediately after this effect resolves, Normal Summon 1 \"Ritual Beast\" monster from your hand. You can only use this effect of \"Ritual Beast Ulti-Kimunfalcos\" once per turn. (Quick Effect): You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 \"Ritual Beast Tamer\" monster and 1 \"Spiritual Beast\" monster); Special Summon them in Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "1800",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

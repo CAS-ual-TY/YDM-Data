@@ -1,0 +1,24 @@
+{
+  "name": "The Weather Painter Thunder",
+  "number": "91299846",
+  "is_illegal": false,
+  "text": "You can send 1 face-up Continuous Spell/Trap you control to the GY; place 1 \"Weathery\" Spell/Trap from your Deck in your Spell & Trap Zone face-up. You can only use this effect of \"Thunder Weathery Turmer\" once per turn. Once per turn, during the Standby Phase of the next turn after this card on the field was banished to activate a \"Weathery\" card's effect: You can Special Summon this banished card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1700",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

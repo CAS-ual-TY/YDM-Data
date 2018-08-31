@@ -1,0 +1,24 @@
+{
+  "name": "Spike Seadra",
+  "number": "85326399",
+  "is_illegal": false,
+  "text": "Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "1600",
+  "defense": "1300",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

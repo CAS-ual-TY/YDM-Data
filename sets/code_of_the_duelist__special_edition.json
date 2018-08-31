@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Code of the Duelist: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2017-09-21",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "COTD",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Skull Meister",
+        "set_number": "COTD-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Solemn Strike",
+        "set_number": "COTD-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Mistar Boy",
+        "set_number": "COTD-ENSE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyberse Beacon",
+        "set_number": "COTD-ENSE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Submersible Carrier Aero Shark",
+  "number": "5014629",
+  "is_illegal": false,
+  "text": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; inflict 100 damage to your opponent for each of your banished monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "1900",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

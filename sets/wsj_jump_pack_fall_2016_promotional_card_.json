@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "WSJ Jump Pack Fall 2016 promotional card ",
+    "type": "Shonen Jump",
+    "date": "2016-07-01",
+    "distribution": "shonen_jump",
+    "prefix": "JMPS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Dark Magician",
+        "set_number": "JMPS-EN003 ",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Stardust Overdrive Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2009-10-31",
+    "distribution": "tournament_promo_cards",
+    "prefix": "SOVR",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Koa'ki Meiru Beetle",
+        "set_number": "SOVR-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

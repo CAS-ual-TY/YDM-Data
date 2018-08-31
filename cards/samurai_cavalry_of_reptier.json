@@ -1,0 +1,28 @@
+{
+  "name": "Samurai Cavalry of Reptier",
+  "number": "93124273",
+  "is_illegal": false,
+  "text": "At the start of the Damage Step, if this card attacks an opponent's face-up monster that is not a Pendulum Monster: You can destroy that monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1800",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "",
+  "stars": "4"
+}

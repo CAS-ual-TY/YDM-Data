@@ -1,0 +1,24 @@
+{
+  "name": "Number C6: Chronomaly Chaos Atlandis",
+  "number": "6387204",
+  "is_illegal": false,
+  "text": "3 Level 7 monsters\nIf you activate any of this card's effects, your opponent takes no further damage this turn. Once per turn: You can target 1 monster your opponent controls; equip that target to this card as an Equip Spell Card whose effect makes this card gain 1000 ATK. If this card has \"Number 6: Chronomaly Atlandis\" as an Xyz Material, it gains this effect.\nâ—? You can detach 3 Xyz Materials from this card and send all \"Number\" monsters equipped by this card's effect to the Graveyard (min. 1); make your opponent's Life Points 100.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "3300",
+  "defense": "3300",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "7"
+}

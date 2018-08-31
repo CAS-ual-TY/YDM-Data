@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Light and Darkness Power Pack",
+    "type": "Special Edition Promo Cards",
+    "date": "2007-11-14",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "LDPP",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Light and Darkness Dragon",
+        "set_number": "LDPP-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

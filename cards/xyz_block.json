@@ -1,0 +1,11 @@
+{
+  "name": "Xyz Block",
+  "number": "44487250",
+  "is_illegal": false,
+  "text": "When your opponent activates a monster effect: Detach 1 Xyz Material from a monster you control; negate the activation, and if you do, destroy that monster.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

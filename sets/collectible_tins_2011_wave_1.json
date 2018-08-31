@@ -1,0 +1,104 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Collectible Tins 2011 Wave 1",
+    "type": "Special Edition Promo Cards",
+    "date": "2011-08-25",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT08",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Number 17: Leviathan Dragon",
+        "set_number": "CT08-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Wind-Up Zenmaister",
+        "set_number": "CT08-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Beast King Barbaros",
+        "set_number": "CT08-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Simorgh",
+        "set_number": "CT08-EN006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Stygian Street Patrol",
+        "set_number": "CT08-EN007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Pot of Duality",
+        "set_number": "CT08-EN008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Neo-Parshath, the Sky Paladin",
+        "set_number": "CT08-EN009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Archlord Kristya",
+        "set_number": "CT08-EN010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Gaia",
+        "set_number": "CT08-EN011",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

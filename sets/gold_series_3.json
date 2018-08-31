@@ -1,0 +1,514 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Gold Series 3",
+    "type": "Booster Pack",
+    "date": "2010-06-17",
+    "distribution": "booster_gold_series",
+    "prefix": "GLD3",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Mist Valley Watcher",
+        "set_number": "GLD3-EN001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Vice Dragon",
+        "set_number": "GLD3-EN002",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Archer",
+        "set_number": "GLD3-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Paladin",
+        "set_number": "GLD3-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Fighter",
+        "set_number": "GLD3-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Swords Woman",
+        "set_number": "GLD3-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Blowpiper",
+        "set_number": "GLD3-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Tiger",
+        "set_number": "GLD3-EN008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Malicious",
+        "set_number": "GLD3-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Freya, Spirit of Victory",
+        "set_number": "GLD3-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Nova Summoner",
+        "set_number": "GLD3-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Exploder Dragon",
+        "set_number": "GLD3-EN012",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Goblin Zombie",
+        "set_number": "GLD3-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Prisma",
+        "set_number": "GLD3-EN014",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Dimensional Alchemist",
+        "set_number": "GLD3-EN015",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Judgment Dragon",
+        "set_number": "GLD3-EN016",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Chain Master",
+        "set_number": "GLD3-EN017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mezuki",
+        "set_number": "GLD3-EN018",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Plaguespreader Zombie",
+        "set_number": "GLD3-EN019",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Thunder King Rai-Oh",
+        "set_number": "GLD3-EN020",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Gale the Whirlwind",
+        "set_number": "GLD3-EN021",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Bora the Spear",
+        "set_number": "GLD3-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Sirocco the Dawn",
+        "set_number": "GLD3-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Blizzard the Far North",
+        "set_number": "GLD3-EN024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Shura the Blue Flame",
+        "set_number": "GLD3-EN025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Kalut the Moon Shadow",
+        "set_number": "GLD3-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Infernity Archfiend",
+        "set_number": "GLD3-EN027",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Infernity Dwarf",
+        "set_number": "GLD3-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Infernity Guardian",
+        "set_number": "GLD3-EN029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Reese the Ice Mistress",
+        "set_number": "GLD3-EN030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Numbing Grub in the Ice Barrier",
+        "set_number": "GLD3-EN031",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mist Condor",
+        "set_number": "GLD3-EN032",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mist Valley Windmaster",
+        "set_number": "GLD3-EN033",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Worm Falco",
+        "set_number": "GLD3-EN034",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Worm Gulse",
+        "set_number": "GLD3-EN035",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Worm Hope",
+        "set_number": "GLD3-EN036",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Stardust Dragon",
+        "set_number": "GLD3-EN037",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing Armor Master",
+        "set_number": "GLD3-EN038",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing Armed Wing",
+        "set_number": "GLD3-EN039",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Mystical Space Typhoon",
+        "set_number": "GLD3-EN040",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "My Body as a Shield",
+        "set_number": "GLD3-EN041",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Smashing Ground",
+        "set_number": "GLD3-EN042",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Enemy Controller",
+        "set_number": "GLD3-EN043",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny Draw",
+        "set_number": "GLD3-EN044",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Black Whirlwind",
+        "set_number": "GLD3-EN045",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Amazoness Archers",
+        "set_number": "GLD3-EN046",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dramatic Rescue",
+        "set_number": "GLD3-EN047",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magical Arm Shield",
+        "set_number": "GLD3-EN048",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Icarus Attack",
+        "set_number": "GLD3-EN049",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Aegis of Gaia",
+        "set_number": "GLD3-EN050",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

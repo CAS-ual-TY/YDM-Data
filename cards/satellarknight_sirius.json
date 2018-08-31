@@ -1,0 +1,24 @@
+{
+  "name": "Satellarknight Sirius",
+  "number": "63274863",
+  "is_illegal": false,
+  "text": "If this card is Summoned: You can target 5 \"tellarknight\" monsters in your Graveyard; shuffle all 5 into the Deck, then draw 1 card. You can only use this effect of \"Satellarknight Sirius\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "defense": "900",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

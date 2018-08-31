@@ -1,0 +1,24 @@
+{
+  "name": "Number 80: Rhapsody in Berserk",
+  "number": "93568288",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nYou can target 1 face-up Xyz Monster you control; equip this monster you control to that target. It gains 1200 ATK. You can detach 1 Xyz Material from this card, then target 1 card in your opponent's Graveyard; banish that target. You can use this effect of \"Number 80: Rhapsody in Berserk\" up to twice per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

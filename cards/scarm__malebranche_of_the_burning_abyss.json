@@ -1,0 +1,24 @@
+{
+  "name": "Scarm, Malebranche of the Burning Abyss",
+  "number": "84764038",
+  "is_illegal": false,
+  "text": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Scarm, Malebranche of the Burning Abyss\" per turn, and only once that turn.\nâ—? If you control no Spell/Trap Cards: You can Special Summon this card from your hand.\nâ—? During the End Phase, if this card is in the Graveyard because it was sent there this turn: You can add 1 Level 3 DARK Fiend-Type monster from your Deck to your hand, except \"Scarm, Malebranche of the Burning Abyss\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "800",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Gagagigo",
+  "number": "49003308",
+  "is_illegal": false,
+  "text": "This young evildoer used to have an evil heart, but by meeting a special person, he discovered justice.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1850",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

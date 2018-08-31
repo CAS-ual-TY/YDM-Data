@@ -1,0 +1,24 @@
+{
+  "name": "True King Bahrastos, the Fathomer",
+  "number": "82321037",
+  "is_illegal": false,
+  "text": "If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up on your field, including a WATER monster, and if you do, Special Summon this card, and if you do that, you can banish up to 2 Spell/Trap Cards from your opponent's field and/or Graveyard, if both the destroyed monsters were WATER. If this card is destroyed by card effect: You can Special Summon 1 non-WATER Wyrm-Type monster from your Deck in Defense Position. You can only use each effect of \"True King Bahrastos, the Fathomer\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "1800",
+  "defense": "3000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "9"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Perfectly Ultimate Great Moth",
+  "number": "48579379",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This monster can only be Special Summoned by Tributing \"Petit Moth\" on the 6th of your turns after \"Petit Moth\" has been equipped with \"Cocoon of Evolution\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "3500",
+  "defense": "3000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

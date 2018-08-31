@@ -1,0 +1,24 @@
+{
+  "name": "Castle Gate",
+  "number": "36931229",
+  "is_illegal": false,
+  "text": "This card cannot be destroyed by battle. Once per turn, if this card is in face-up Attack Position, you can Tribute 1 Level 5 or lower monster to inflict damage to your opponent equal to that monster's original ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "0",
+  "defense": "2400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

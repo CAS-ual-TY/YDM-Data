@@ -1,0 +1,26 @@
+{
+  "name": "Trickstar Bloom",
+  "number": "77307161",
+  "is_illegal": false,
+  "text": "1 Level 2 or lower \"Trickstar\" monster\nIf this card is Link Summoned: You can make your opponent draw 1 card. If a face-up \"Trickstar\" monster this card points to is destroyed by battle or card effect: You can inflict 200 damage to your opponent for each card in their hand. You can only use this effect of \"Trickstar Bloom\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom"
+  ],
+  "link_number": "1"
+}

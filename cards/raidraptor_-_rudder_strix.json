@@ -1,0 +1,24 @@
+{
+  "name": "Raidraptor - Rudder Strix",
+  "number": "6552938",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned from the hand by the effect of a \"Raidraptor\" card, or Normal Summoned: You can inflict 600 damage to your opponent. When an opponent's monster declares an attack that targets this card: You can Special Summon up to 2 \"Raidraptor\" monsters from your hand, and if you do, monsters your opponent controls cannot target those monsters for attacks this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "0",
+  "defense": "1600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

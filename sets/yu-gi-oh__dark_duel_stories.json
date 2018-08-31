@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Dark Duel Stories",
+    "type": "Video Game Promo Cards",
+    "date": "2002-03-19",
+    "distribution": "video_game_promo_cards",
+    "prefix": "DDS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Blue-Eyes White Dragon",
+        "set_number": "DDS-001",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician",
+        "set_number": "DDS-002",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Exodia the Forbidden One",
+        "set_number": "DDS-003",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Seiyaryu",
+        "set_number": "DDS-004",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Acid Trap Hole",
+        "set_number": "DDS-005",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Salamandra",
+        "set_number": "DDS-006",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Tindangle Acute Cerberus",
+  "number": "75119040",
+  "is_illegal": false,
+  "text": "3 \"Tindangle\" monsters\nIf you have 3 or more \"Tindangle\" monsters with different names in your GY, including at least 1 \"Tindangle Base Gardna\", this card gains 3000 ATK. Gains 500 ATK for each \"Tindangle\" monster it points to. At the end of the Battle Phase, if this card declared an attack: You can Special Summon 1 \"Tindangle Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Top",
+    "Bottom-Right"
+  ],
+  "link_number": "3"
+}

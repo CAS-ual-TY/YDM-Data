@@ -1,0 +1,24 @@
+{
+  "name": "Sunny Pixie",
+  "number": "73837870",
+  "is_illegal": false,
+  "text": "If this card is sent to the Graveyard for the Synchro Summon of a LIGHT Synchro Monster: Gain 1000 Life Points.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "300",
+  "defense": "400",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

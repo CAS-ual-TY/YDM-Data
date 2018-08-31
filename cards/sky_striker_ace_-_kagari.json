@@ -1,0 +1,26 @@
+{
+  "name": "Sky Striker Ace - Kagari",
+  "number": "63288573",
+  "is_illegal": false,
+  "text": "1 non-FIRE \"Sky Striker Ace\" monster\nIf this card is Special Summoned: You can target 1 \"Sky Striker\" Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY. You can only Special Summon \"Sky Striker Ace - Kagari(s)\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Top-Left"
+  ],
+  "link_number": "1"
+}

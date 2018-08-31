@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! GX Tag Force Evolution",
+    "type": "Video Game Promo Cards",
+    "date": "2007-12-06",
+    "distribution": "video_game_promo_cards",
+    "prefix": "GX05",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Darklord Nurse Reficule",
+        "set_number": "GX05-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Cure",
+        "set_number": "GX05-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Brutal Potion",
+        "set_number": "GX05-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Winged Kuriboh LV10",
+  "number": "98585345",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned or Set. Must be Special Summoned with \"Transcendent Wings\" and cannot be Special Summoned by other ways. During your opponent's Battle Phase: You can Tribute this face-up card; destroy all Attack Position monsters your opponent controls and inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "300",
+  "defense": "200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

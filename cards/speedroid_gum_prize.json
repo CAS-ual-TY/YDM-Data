@@ -1,0 +1,24 @@
+{
+  "name": "Speedroid Gum Prize",
+  "number": "70939418",
+  "is_illegal": false,
+  "text": "During the Battle Phase, if you take battle or effect damage: You can Special Summon this card from your hand. During either player's Battle Phase in which this card was Special Summoned by its effect, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only WIND monsters you control, including this card. If this card is sent to the Graveyard as a Synchro Material: You can send the top card of your Deck to the Graveyard, and if the sent card was a \"Speedroid\" monster, the Synchro Monster that used this card as Synchro Material gains 1000 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "800",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Mystical Shine Ball",
+  "number": "39552864",
+  "is_illegal": false,
+  "text": "A soul of light covered by mystical shine. When you see its beautiful shape, your dream will come true.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "2"
+}

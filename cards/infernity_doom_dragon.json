@@ -1,0 +1,24 @@
+{
+  "name": "Infernity Doom Dragon",
+  "number": "72896720",
+  "is_illegal": false,
+  "text": "1 DARK Tuner + 1 or more non-Tuner monsters\nOnce per turn, if you have no cards in your hand, you can select 1 monster your opponent controls. Destroy that monster and inflict damage to your opponent equal to half its ATK. This card cannot attack during the same turn you activate this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

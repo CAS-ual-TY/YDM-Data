@@ -1,0 +1,24 @@
+{
+  "name": "Number 78: Number Archive",
+  "number": "29085954",
+  "is_illegal": false,
+  "text": "2 Level 1 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; your opponent randomly chooses 1 card in your Extra Deck, and if it is a \"Number\" monster that has a number between \"1\" and \"99\" in its name, Special Summon it by using this face-up card you control as the Xyz Material, but banish that monster during the End Phase, also you cannot Special Summon for the rest of this turn. (This is treated as an Xyz Summon. Xyz Materials attached to this card also become Xyz Materials on the Summoned monster.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "1"
+}

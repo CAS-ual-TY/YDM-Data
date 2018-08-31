@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Pack Collection Tin 2011",
+    "type": "Special Edition Promo Cards",
+    "date": "2011-03-31",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "DPC5",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Underground Arachnid",
+        "set_number": "DPC5-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Zeman the Ape King",
+        "set_number": "DPC5-EN002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Frozen Fitzgerald",
+        "set_number": "DPCT-EN005",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

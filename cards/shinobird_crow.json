@@ -1,0 +1,24 @@
+{
+  "name": "Shinobird Crow",
+  "number": "39817919",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned. Once per turn, during either player's Damage Step, when this card battles an opponent's monster: You can discard 1 Spirit monster; until the end of the Battle Phase, this card gains ATK and DEF equal to the ATK and DEF of the discarded monster. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Spirit"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Super Quantal Mech Beast Grampulse",
+  "number": "85252081",
+  "is_illegal": false,
+  "text": "2 Level 3 monsters\nCannot attack unless it has Xyz Material. Once per turn: You can detach 1 Xyz Material from this card, then target 1 Spell/Trap Card on the field; destroy it. This effect can be activated during either player's turn, if this card has \"Super Quantum Blue Layer\" as Xyz Material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as an Xyz Material.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1800",
+  "defense": "2800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

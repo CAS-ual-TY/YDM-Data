@@ -1,0 +1,24 @@
+{
+  "name": "Amaterasu",
+  "number": "20073910",
+  "is_illegal": false,
+  "text": "Cannot be Normal or Special Summoned. During either player's turn, when your opponent activates a card or effect that targets this face-down monster: You can change this card to face-up Defense Position; draw 1 card. If this card is flipped face-up: Banish all other cards on the field. Once per turn, during the End Phase, if this card was flipped face-up this turn: Return it to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "3000",
+  "defense": "3000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Spirit"
+  ],
+  "stars": "9"
+}

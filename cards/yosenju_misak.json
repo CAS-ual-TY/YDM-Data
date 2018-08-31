@@ -1,0 +1,24 @@
+{
+  "name": "Yosenju Misak",
+  "number": "39853199",
+  "is_illegal": false,
+  "text": "At the start of the Damage Step, if this card battles a face-up non-WIND monster: You can destroy that monster. When this card is Pendulum Summoned: You can target 1 card your opponent controls; destroy it. During the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2300",
+  "defense": "200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

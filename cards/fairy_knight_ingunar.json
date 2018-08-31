@@ -1,0 +1,24 @@
+{
+  "name": "Fairy Knight Ingunar",
+  "number": "19684740",
+  "is_illegal": false,
+  "text": "3 Level 6 monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; return all other cards on the field to the hand. Your opponent cannot activate cards or effects in response to this effect's activation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "2200",
+  "defense": "3000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "6"
+}

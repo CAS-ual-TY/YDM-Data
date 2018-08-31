@@ -1,0 +1,11 @@
+{
+  "name": "Assault Counter",
+  "number": "76407432",
+  "is_illegal": false,
+  "text": "Activate only while you control an \"/Assault Mode\" monster. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect and destroy it.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

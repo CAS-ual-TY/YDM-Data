@@ -1,0 +1,24 @@
+{
+  "name": "Mystery Shell Dragon",
+  "number": "18108166",
+  "is_illegal": false,
+  "text": "Mysterious living matter that suddenly appeared from a different dimension. Its attack paralyzes the target's nerves, and causes intense hallucinations.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2000",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

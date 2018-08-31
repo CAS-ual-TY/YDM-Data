@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "X-Saber Power-Up",
+    "type": "Special Edition Promo Cards",
+    "date": "2010-11-23",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "XSPU",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "XX-Saber Fulhelmknight",
+        "set_number": "XSPU-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Spell Vanishing",
+  "number": "29735721",
+  "is_illegal": false,
+  "text": "Discard 2 cards from your hand. Negate the activation of a Spell Card and destroy it. Also, look at your opponent's hand and Deck and if you find any Spell Cards of the same name as the destroyed Spell Card, send all of them to the Graveyard.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

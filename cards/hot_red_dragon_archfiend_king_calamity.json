@@ -1,0 +1,24 @@
+{
+  "name": "Hot Red Dragon Archfiend King Calamity",
+  "number": "62242678",
+  "is_illegal": false,
+  "text": "2 Tuners + 1 non-Tuner DARK Dragon-Type Synchro Monster\nWhen this card is Synchro Summoned: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK. If this card in its owner's possession is destroyed by an opponent's card (by battle or card effect): You can target 1 Level 8 or lower DARK Dragon-Type Synchro Monster in your Graveyard; Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "4000",
+  "defense": "3500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "12"
+}

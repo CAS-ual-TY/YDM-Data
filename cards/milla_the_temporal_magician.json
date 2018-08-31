@@ -1,0 +1,24 @@
+{
+  "name": "Milla the Temporal Magician",
+  "number": "33225925",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: Target 1 Set card your opponent controls; look at it. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1800",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

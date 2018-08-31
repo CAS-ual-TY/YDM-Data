@@ -1,0 +1,11 @@
+{
+  "name": "Vengeful Bog Spirit",
+  "number": "95220856",
+  "is_illegal": false,
+  "text": "Monsters cannot attack the turn they are Summoned.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Continuous"
+}

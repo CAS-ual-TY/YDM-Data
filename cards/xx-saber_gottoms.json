@@ -1,0 +1,24 @@
+{
+  "name": "XX-Saber Gottoms",
+  "number": "52352005",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more EARTH monsters\nYou can Tribute 1 \"X-Saber\" monster to discard 1 random card from your opponent's hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "3100",
+  "defense": "2600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "9"
+}

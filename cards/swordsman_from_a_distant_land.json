@@ -1,0 +1,24 @@
+{
+  "name": "Swordsman from a Distant Land",
+  "number": "85255550",
+  "is_illegal": false,
+  "text": "If this card attacked an opponent's monster, after damage calculation: Destroy that monster during the 5th End Phase after the attack.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "250",
+  "defense": "250",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

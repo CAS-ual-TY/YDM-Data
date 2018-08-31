@@ -1,0 +1,24 @@
+{
+  "name": "Bujingi Quilin",
+  "number": "69723159",
+  "is_illegal": false,
+  "text": "If you control a Beast-Warrior-Type \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 face-up card your opponent controls; destroy that target. You can only use the effect of \"Bujingi Quilin\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1600",
+  "defense": "900",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

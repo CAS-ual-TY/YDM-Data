@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump Vol. 3, Issue 11 promotional card",
+    "type": "Shonen Jump",
+    "date": "2005-11-01",
+    "distribution": "shonen_jump",
+    "prefix": "SP1",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Embodiment of Apophis",
+        "set_number": "SP1-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

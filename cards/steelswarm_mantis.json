@@ -1,0 +1,24 @@
+{
+  "name": "Steelswarm Mantis",
+  "number": "85505315",
+  "is_illegal": false,
+  "text": "When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster: You can pay 1000 Life Points to target 1 \"Steelswarm\" monster in your Graveyard; Special Summon that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2200",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

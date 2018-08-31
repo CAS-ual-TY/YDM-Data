@@ -1,0 +1,24 @@
+{
+  "name": "B.E.S. Big Core MK-2",
+  "number": "75937826",
+  "is_illegal": false,
+  "text": "If you control no monsters, you can Normal Summon this card without Tributing. When this card is Special Summoned, place 3 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2400",
+  "defense": "1100",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

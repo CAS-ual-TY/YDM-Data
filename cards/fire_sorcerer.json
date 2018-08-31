@@ -1,0 +1,25 @@
+{
+  "name": "Fire Sorcerer",
+  "number": "27132350",
+  "is_illegal": false,
+  "text": "FLIP: Randomly select 2 cards from your hand and remove them from play to inflict 800 points of damage to your opponent's Life Points.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1000",
+  "defense": "1500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "4"
+}

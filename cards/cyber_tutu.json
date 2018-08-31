@@ -1,0 +1,24 @@
+{
+  "name": "Cyber Tutu",
+  "number": "49375719",
+  "is_illegal": false,
+  "text": "If the ATK of each monster your opponent controls is higher than the ATK of this card, this card can attack your opponent directly.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

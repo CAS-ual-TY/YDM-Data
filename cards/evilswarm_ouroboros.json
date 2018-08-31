@@ -1,0 +1,24 @@
+{
+  "name": "Evilswarm Ouroboros",
+  "number": "38273745",
+  "is_illegal": false,
+  "text": "3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects. Each effect can only be used once while this card is face-up on the field.\nâ—? Target 1 card your opponent controls; return that target to the hand.\nâ—? Send 1 random card from your opponent's hand to the Graveyard.\nâ—? Target 1 card in your opponent's Graveyard; banish that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2750",
+  "defense": "1950",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

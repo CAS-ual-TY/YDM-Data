@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist League Demo 2010",
+    "type": "Duelist League Promo Cards",
+    "date": "2009-08-01",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "DLDI",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Man-Eater Bug",
+        "set_number": "DLDI-EN001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Nimble Momonga",
+        "set_number": "DLDI-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Axe of Despair",
+        "set_number": "DLDI-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Enemy Controller",
+        "set_number": "DLDI-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lightning Vortex",
+        "set_number": "DLDI-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Rafflesia Seduction",
+  "number": "31440542",
+  "is_illegal": false,
+  "text": "FLIP: Take control of 1 face-up monster on your opponent's side of the field until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "300",
+  "defense": "900",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "2"
+}

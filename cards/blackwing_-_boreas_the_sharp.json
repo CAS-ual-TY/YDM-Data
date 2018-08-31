@@ -1,0 +1,24 @@
+{
+  "name": "Blackwing - Boreas the Sharp",
+  "number": "16516630",
+  "is_illegal": false,
+  "text": "During your Main Phase 1: You can banish this card from the Graveyard, then target 1 \"Blackwing\" monster you control; if that monster attacks this turn, you take no battle damage from that attack, it is not destroyed by that battle, also destroy the opponent's monster that it battled, after damage calculation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1300",
+  "defense": "900",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

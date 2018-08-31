@@ -1,0 +1,24 @@
+{
+  "name": "Vola-Chemicritter Methydraco",
+  "number": "38026562",
+  "is_illegal": false,
+  "text": "2 Level 8 Gemini monsters\nWhen this card is Xyz Summoned: You can target 1 Gemini monster in your Graveyard; Special Summon it. While this card has Xyz Material, monsters your opponent controls cannot target Gemini monsters you control for attacks, also your opponent cannot target Gemini monsters you control with card effects. When a Gemini monster is Normal Summoned: You can detach 1 Xyz Material from this card; make your opponent send 1 card from their hand or field to the Graveyard (their choice).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "3000",
+  "defense": "3000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "8"
+}

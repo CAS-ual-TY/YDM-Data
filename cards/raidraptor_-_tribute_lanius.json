@@ -1,0 +1,24 @@
+{
+  "name": "Raidraptor - Tribute Lanius",
+  "number": "83236601",
+  "is_illegal": false,
+  "text": "During your Main Phase, if this card was Normal or Special Summoned this turn: You can send 1 \"Raidraptor\" card from your Deck to the Graveyard. During your Main Phase 2, if this card destroyed an opponent's monster by battle this turn: You can add 1 \"Rank-Up-Magic\" Quick-Play Spell Card from your Deck to your hand, also you cannot Special Summon monsters for the rest of this turn, except \"Raidraptor\" monsters. You can only use each effect of \"Raidraptor - Tribute Lanius\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1800",
+  "defense": "400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

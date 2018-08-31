@@ -1,0 +1,24 @@
+{
+  "name": "Number 102: Star Seraph Sentry",
+  "number": "49678559",
+  "is_illegal": false,
+  "text": "3 Level 4 LIGHT monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; halve its ATK, also, negate its effects. If this face-up card on the field would be destroyed, you can detach all of its Xyz Materials instead. If you do, any battle damage you take this turn is halved.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

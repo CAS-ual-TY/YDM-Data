@@ -1,0 +1,960 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Crossed Souls",
+    "type": "Booster Pack",
+    "date": "2015-02-14",
+    "distribution": "booster_pack",
+    "prefix": "CROS",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Phantom Gryphon",
+        "set_number": "CROS-EN001",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Elephammer",
+        "set_number": "CROS-EN002",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Bowhopper",
+        "set_number": "CROS-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Lizardraw",
+        "set_number": "CROS-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Springoose",
+        "set_number": "CROS-EN005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Big Waraji",
+        "set_number": "CROS-EN006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Gigagloves",
+        "set_number": "CROS-EN007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Battleball",
+        "set_number": "CROS-EN008",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Soulbuster Gauntlet",
+        "set_number": "CROS-EN009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Soprano the Melodious Songstress",
+        "set_number": "CROS-EN010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fluffal Sheep",
+        "set_number": "CROS-EN011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Edge Imp Saw",
+        "set_number": "CROS-EN012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Edge Imp Chain",
+        "set_number": "CROS-EN013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Edge Imp Tomahawk",
+        "set_number": "CROS-EN014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Edge Imp Frightfuloid",
+        "set_number": "CROS-EN015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Sharp Lanius",
+        "set_number": "CROS-EN016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Mimicry Lanius",
+        "set_number": "CROS-EN017",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Yosenju Kodam",
+        "set_number": "CROS-EN018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yosenju Oyam",
+        "set_number": "CROS-EN019",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Satellarknight Zefrathuban",
+        "set_number": "CROS-EN020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Stellarknight Zefraxciton",
+        "set_number": "CROS-EN021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shaddoll Zefranaga",
+        "set_number": "CROS-EN022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shaddoll Zefracore",
+        "set_number": "CROS-EN023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zefraxi, Treasure of the Yang Zing",
+        "set_number": "CROS-EN024",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Zefraniu, Secret of the Yang Zing",
+        "set_number": "CROS-EN025",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Zefrasaber, Swordmaster of the Nekroz",
+        "set_number": "CROS-EN026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zefraxa, Flame Beast of the Nekroz",
+        "set_number": "CROS-EN027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ritual Beast Tamer Zeframpilica",
+        "set_number": "CROS-EN028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ritual Beast Tamer Zefrawendi",
+        "set_number": "CROS-EN029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Infernoid Pirmais",
+        "set_number": "CROS-EN030",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Infernoid Sjette",
+        "set_number": "CROS-EN031",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Infernoid Devyaty",
+        "set_number": "CROS-EN032",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ghost Ogre & Snow Rabbit",
+        "set_number": "CROS-EN033",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Magma Dragon",
+        "set_number": "CROS-EN034",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Deskbot 004",
+        "set_number": "CROS-EN035",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Doomdog Octhros",
+        "set_number": "CROS-EN036",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Putrid Pudding Body Buddies",
+        "set_number": "CROS-EN037",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Nekroz of Sophia",
+        "set_number": "CROS-EN038",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Schuberta the Melodious Maestra",
+        "set_number": "CROS-EN039",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Bloom Diva the Melodious Choir",
+        "set_number": "CROS-EN040",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Leo",
+        "set_number": "CROS-EN041",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Sheep",
+        "set_number": "CROS-EN042",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Chimera",
+        "set_number": "CROS-EN043",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "El Shaddoll Anoyatyllis",
+        "set_number": "CROS-EN044",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ritual Beast Ulti-Gaiapelio",
+        "set_number": "CROS-EN045",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Clear Wing Synchro Dragon",
+        "set_number": "CROS-EN046",
+        "rarities": [
+          "Secret Rare",
+          "Holographic Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Holographic Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Chaofeng, Phantom of the Yang Zing",
+        "set_number": "CROS-EN047",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Blaze Falcon",
+        "set_number": "CROS-EN048",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Revolution Falcon",
+        "set_number": "CROS-EN049",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Tellarknight Ptolemaeus",
+        "set_number": "CROS-EN050",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Madolche Puddingcess Chocolat-a-la-Mode",
+        "set_number": "CROS-EN051",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Recasting",
+        "set_number": "CROS-EN052",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fusion Conscription",
+        "set_number": "CROS-EN053",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Factory",
+        "set_number": "CROS-EN054",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Suture Rebirth",
+        "set_number": "CROS-EN055",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Fusion",
+        "set_number": "CROS-EN056",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Rank-Up-Magic Revolution Force",
+        "set_number": "CROS-EN057",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Yosen Whirlwind",
+        "set_number": "CROS-EN058",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zefra Path",
+        "set_number": "CROS-EN059",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Oracle of Zefra",
+        "set_number": "CROS-EN060",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Void Vanishment",
+        "set_number": "CROS-EN061",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Galaxy Cyclone",
+        "set_number": "CROS-EN062",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Harmonic Oscillation",
+        "set_number": "CROS-EN063",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pendulum Rising",
+        "set_number": "CROS-EN064",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Unexpected Dai",
+        "set_number": "CROS-EN065",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Pinch Helper",
+        "set_number": "CROS-EN066",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Melodious Illusion",
+        "set_number": "CROS-EN067",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fluffal Crane",
+        "set_number": "CROS-EN068",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Designer Frightfur",
+        "set_number": "CROS-EN069",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dizzying Winds of Yosen Village",
+        "set_number": "CROS-EN070",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chosen of Zefra",
+        "set_number": "CROS-EN071",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Zefra Divine Strike",
+        "set_number": "CROS-EN072",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Void Purification",
+        "set_number": "CROS-EN073",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jar of Avarice",
+        "set_number": "CROS-EN074",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Lose 1 Turn",
+        "set_number": "CROS-EN075",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Fiend Griefing",
+        "set_number": "CROS-EN076",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Abyss Stungray",
+        "set_number": "CROS-EN077",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Statue of Anguish Pattern",
+        "set_number": "CROS-EN078",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Monster Rebone",
+        "set_number": "CROS-EN079",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Diceversity",
+        "set_number": "CROS-EN080",
+        "rarities": [
+          "Normal Rare"
+        ],
+        "count": {
+          "Normal Rare": 1
+        }
+      },
+      {
+        "card_name": "Mithra the Thunder Vassal",
+        "set_number": "CROS-EN081",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Berlineth the Firestorm Vassal",
+        "set_number": "CROS-EN082",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Landrobe the Rock Vassal",
+        "set_number": "CROS-EN083",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Garum the Storm Vassal",
+        "set_number": "CROS-EN084",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Lucius the Shadow Vassal",
+        "set_number": "CROS-EN085",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Domain of the True Monarchs",
+        "set_number": "CROS-EN086",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Neptabyss, the Atlantean Prince",
+        "set_number": "CROS-EN087",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Fire King Island",
+        "set_number": "CROS-EN088",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chimeratech Rampage Dragon",
+        "set_number": "CROS-EN089",
+        "rarities": [
+          "Secret Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Cyber Dragon Infinity",
+        "set_number": "CROS-EN090",
+        "rarities": [
+          "Secret Rare",
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Secret Rare": 1,
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

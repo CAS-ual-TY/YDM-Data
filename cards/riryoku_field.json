@@ -1,0 +1,11 @@
+{
+  "name": "Riryoku Field",
+  "number": "70344351",
+  "is_illegal": false,
+  "text": "When a Spell Card that targets exactly 1 monster on the field (and no other cards) is activated: Negate the activation, and if you do, destroy it.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

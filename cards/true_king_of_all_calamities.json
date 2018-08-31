@@ -1,0 +1,24 @@
+{
+  "name": "True King of All Calamities",
+  "number": "88581108",
+  "is_illegal": false,
+  "text": "2 or more Level 9 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card and declare 1 Attribute; this turn, all face-up monsters on the field become that Attribute, also all monsters in your opponent's possession with that Attribute cannot activate their effects or attack. Monsters that \"True Draco\" and \"True King\" monsters in your hand would destroy with their effects can be chosen from your opponent's field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "3000",
+  "defense": "3000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "9"
+}

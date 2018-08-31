@@ -1,0 +1,24 @@
+{
+  "name": "Bujingi Ophidian",
+  "number": "94096616",
+  "is_illegal": false,
+  "text": "During your Main Phase 1: You can send this card from your hand to the Graveyard, then target 1 \"Bujin\" monster you control; it can attack your opponent directly this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1700",
+  "defense": "500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

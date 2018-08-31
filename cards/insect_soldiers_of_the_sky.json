@@ -1,0 +1,24 @@
+{
+  "name": "Insect Soldiers of the Sky",
+  "number": "7019529",
+  "is_illegal": false,
+  "text": "The ATK of this card increases by 1000 points whenever it attacks a WIND monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1000",
+  "defense": "800",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

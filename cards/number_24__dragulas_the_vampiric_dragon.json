@@ -1,0 +1,24 @@
+{
+  "name": "Number 24: Dragulas the Vampiric Dragon",
+  "number": "93713837",
+  "is_illegal": false,
+  "text": "2 Level 6 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field that was Special Summoned from the Extra Deck; change it to face-down Defense Position. If this face-up card in its owner's control is sent to your Graveyard or banished by your opponent's card effect: You can Special Summon this card in face-down Defense Position. If this card is flipped face-up: Send 1 card on the field to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2400",
+  "defense": "2800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "6"
+}

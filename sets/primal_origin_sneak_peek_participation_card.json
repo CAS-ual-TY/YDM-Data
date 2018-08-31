@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Primal Origin Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2014-05-10",
+    "distribution": "tournament_promo_cards",
+    "prefix": "PRIO",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Artifact Scythe",
+        "set_number": "PRIO-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

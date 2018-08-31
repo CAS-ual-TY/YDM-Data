@@ -1,0 +1,24 @@
+{
+  "name": "Graydle Slime Jr.",
+  "number": "80250319",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 \"Graydle\" monster in your Graveyard; for the rest of this turn, you cannot Special Summon other monsters, except WATER monsters, also Special Summon that monster, then you can Special Summon from your hand, 1 Aqua-Type monster with the same Level as the monster Special Summoned by this card's effect. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"Graydle\" monster from your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "0",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

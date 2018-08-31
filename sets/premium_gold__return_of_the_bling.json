@@ -1,0 +1,924 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Premium Gold: Return of the Bling",
+    "type": "Gold Series",
+    "date": "2015-03-19",
+    "distribution": "gold_series",
+    "prefix": "PGL2",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Junk Giant",
+        "set_number": "PGL2-EN001",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Absolute King Back Jack",
+        "set_number": "PGL2-EN002",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Rose Lover",
+        "set_number": "PGL2-EN003",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Rose Paladin",
+        "set_number": "PGL2-EN004",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Ghost Charon, the Underworld Boatman",
+        "set_number": "PGL2-EN005",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Kris the Crack of Dawn",
+        "set_number": "PGL2-EN006",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Pinaki the Waxing Moon",
+        "set_number": "PGL2-EN007",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Peropero Cerperus",
+        "set_number": "PGL2-EN008",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Tristan, Knight of the Underworld",
+        "set_number": "PGL2-EN009",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Isolde, Belle of the Underworld",
+        "set_number": "PGL2-EN010",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Masked HERO Anki",
+        "set_number": "PGL2-EN011",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing Tamer - Obsidian Hawk Joe",
+        "set_number": "PGL2-EN012",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Nothung the Starlight",
+        "set_number": "PGL2-EN013",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Dragocytos Corrupted Nethersoul Dragon",
+        "set_number": "PGL2-EN014",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+        "set_number": "PGL2-EN015",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Cat Shark",
+        "set_number": "PGL2-EN016",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 14: Greedy Sarameya",
+        "set_number": "PGL2-EN017",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 21: Frozen Lady Justice",
+        "set_number": "PGL2-EN018",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Parallel Twister",
+        "set_number": "PGL2-EN019",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Stardust Re-Spark",
+        "set_number": "PGL2-EN020",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Santa Claws",
+        "set_number": "PGL2-EN021",
+        "rarities": [
+          "Gold Secret Rare"
+        ],
+        "count": {
+          "Gold Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Right Leg of the Forbidden One",
+        "set_number": "PGL2-EN022",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Left Leg of the Forbidden One",
+        "set_number": "PGL2-EN023",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Right Arm of the Forbidden One",
+        "set_number": "PGL2-EN024",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Left Arm of the Forbidden One",
+        "set_number": "PGL2-EN025",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Exodia the Forbidden One",
+        "set_number": "PGL2-EN026",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Sinister Serpent",
+        "set_number": "PGL2-EN027",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Card Trooper",
+        "set_number": "PGL2-EN028",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Neos Alius",
+        "set_number": "PGL2-EN029",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Dandylion",
+        "set_number": "PGL2-EN030",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Debris Dragon",
+        "set_number": "PGL2-EN031",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Mystical Beast of Serket",
+        "set_number": "PGL2-EN032",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Glow-Up Bulb",
+        "set_number": "PGL2-EN033",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Metaion, the Timelord",
+        "set_number": "PGL2-EN034",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Bujin Yamato",
+        "set_number": "PGL2-EN035",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Traptrix Atrax",
+        "set_number": "PGL2-EN036",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Traptrix Myrmeleo",
+        "set_number": "PGL2-EN037",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Traptrix Nepenthes",
+        "set_number": "PGL2-EN038",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Mathematician",
+        "set_number": "PGL2-EN039",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Sylvan Sagequoia",
+        "set_number": "PGL2-EN040",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Traptrix Dionaea",
+        "set_number": "PGL2-EN041",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Goyo Guardian",
+        "set_number": "PGL2-EN042",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Armades, Keeper of Boundaries",
+        "set_number": "PGL2-EN043",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Lavalval Chain",
+        "set_number": "PGL2-EN044",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Madolche Queen Tiaramisu",
+        "set_number": "PGL2-EN045",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 101: Silent Honor ARK",
+        "set_number": "PGL2-EN046",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Downerd Magician",
+        "set_number": "PGL2-EN047",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Raigeki",
+        "set_number": "PGL2-EN048",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Book of Moon",
+        "set_number": "PGL2-EN049",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Advanced Ritual Art",
+        "set_number": "PGL2-EN050",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Foolish Burial",
+        "set_number": "PGL2-EN051",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Charge of the Light Brigade",
+        "set_number": "PGL2-EN052",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Rekindling",
+        "set_number": "PGL2-EN053",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Preparation of Rites",
+        "set_number": "PGL2-EN054",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Pot of Duality",
+        "set_number": "PGL2-EN055",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Temple of the Kings",
+        "set_number": "PGL2-EN056",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "The Grand Spellbook Tower",
+        "set_number": "PGL2-EN057",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Rank-Up-Magic Barian's Force",
+        "set_number": "PGL2-EN058",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Rank-Up-Magic Numeron Force",
+        "set_number": "PGL2-EN059",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Rank-Up-Magic Astral Force",
+        "set_number": "PGL2-EN060",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Sylvan Charity",
+        "set_number": "PGL2-EN061",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Ceasefire",
+        "set_number": "PGL2-EN062",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Ring of Destruction",
+        "set_number": "PGL2-EN063",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Chain Disappearance",
+        "set_number": "PGL2-EN064",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Compulsory Evacuation Device",
+        "set_number": "PGL2-EN065",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Exchange of the Spirit",
+        "set_number": "PGL2-EN066",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Karma Cut",
+        "set_number": "PGL2-EN067",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Solemn Warning",
+        "set_number": "PGL2-EN068",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Traptrix Trap Hole Nightmare",
+        "set_number": "PGL2-EN069",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Crush Card Virus",
+        "set_number": "PGL2-EN070",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Veil of Darkness",
+        "set_number": "PGL2-EN071",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Prisma",
+        "set_number": "PGL2-EN072",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Gale the Whirlwind",
+        "set_number": "PGL2-EN073",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "My Body as a Shield",
+        "set_number": "PGL2-EN074",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Smashing Ground",
+        "set_number": "PGL2-EN075",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Enemy Controller",
+        "set_number": "PGL2-EN076",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Doomcaliber Knight",
+        "set_number": "PGL2-EN077",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Five-Headed Dragon",
+        "set_number": "PGL2-EN078",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Gladiator Beast Gyzarus",
+        "set_number": "PGL2-EN079",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Blue-Eyes White Dragon",
+        "set_number": "PGL2-EN080",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Gorz the Emissary of Darkness",
+        "set_number": "PGL2-EN081",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Master Hyperion",
+        "set_number": "PGL2-EN082",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Grapha, Dragon Lord of Dark World",
+        "set_number": "PGL2-EN083",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Sephylon, the Ultimate Timelord",
+        "set_number": "PGL2-EN084",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Herald of Perfection",
+        "set_number": "PGL2-EN085",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Naturia Beast",
+        "set_number": "PGL2-EN086",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Naturia Barkion",
+        "set_number": "PGL2-EN087",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Formula Synchron",
+        "set_number": "PGL2-EN088",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Hole",
+        "set_number": "PGL2-EN089",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Call of the Haunted",
+        "set_number": "PGL2-EN090",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Starlight Road",
+        "set_number": "PGL2-EN091",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      }
+    ]
+  }
+}

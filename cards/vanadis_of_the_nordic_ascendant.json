@@ -1,0 +1,24 @@
+{
+  "name": "Vanadis of the Nordic Ascendant",
+  "number": "61777313",
+  "is_illegal": false,
+  "text": "For a Synchro Summon, you can substitute this card for any 1 \"Nordic\" Tuner monster. If this card is used as a Synchro Material, all other Synchro Materials must be \"Nordic\" monsters. Once per turn: You can send 1 \"Nordic\" monster from your Deck to the Graveyard; this card's Level becomes the Level of that monster, until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1200",
+  "defense": "400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Spirit of the Fall Wind",
+  "number": "26517393",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: You can add 1 Flip monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1800",
+  "defense": "900",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

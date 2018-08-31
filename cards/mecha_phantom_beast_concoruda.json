@@ -1,0 +1,24 @@
+{
+  "name": "Mecha Phantom Beast Concoruda",
+  "number": "53451824",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nTokens you control cannot be destroyed by battle or card effects. If this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can  Tribute all Tokens you control, then target 1 Level 4 or lower \"Mecha Phantom Beast\" monster in your Graveyard; Special Summon that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2400",
+  "defense": "1200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}

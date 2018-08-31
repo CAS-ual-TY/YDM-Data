@@ -1,0 +1,24 @@
+{
+  "name": "Cyberdarkness Dragon",
+  "number": "18967507",
+  "is_illegal": false,
+  "text": "5 \"Cyberdark\" Effect Monsters\nMust first be Fusion Summoned. If this card is Special Summoned: You can equip 1 Dragon or Machine monster from your GY to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. When your opponent activates a card or effect (Quick Effect): You can send 1 Equip Card you control to the GY; negate the activation, and if you do, destroy that card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

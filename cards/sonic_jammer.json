@@ -1,0 +1,25 @@
+{
+  "name": "Sonic Jammer",
+  "number": "84550200",
+  "is_illegal": false,
+  "text": "FLIP: Your opponent cannot activate any Spell Cards until the end of the End Phase of the next turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "350",
+  "defense": "650",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "2"
+}

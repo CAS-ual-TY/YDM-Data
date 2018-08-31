@@ -1,0 +1,25 @@
+{
+  "name": "Iron Blacksmith Kotetsu",
+  "number": "73431236",
+  "is_illegal": false,
+  "text": "FLIP: Add 1 Equip Spell Card from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "2"
+}

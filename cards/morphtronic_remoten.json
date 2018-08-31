@@ -1,0 +1,24 @@
+{
+  "name": "Morphtronic Remoten",
+  "number": "57108202",
+  "is_illegal": false,
+  "text": "â—? Once per turn, while in Attack Position: You can target 1 \"Morphtronic\" monster in your Graveyard; banish that target and add 1 \"Morphtronic\" monster with the same Level as the target from your Deck to your hand.\nâ—? Once per turn, while in Defense Position: You can send 1 \"Morphtronic\" monster from your hand to the Graveyard and add 1 other \"Morphtronic\" monster with the same Level as that monster from your Graveyard to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "300",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

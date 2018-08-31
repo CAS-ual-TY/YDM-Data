@@ -1,0 +1,24 @@
+{
+  "name": "Spirit of the Pot of Greed",
+  "number": "4896788",
+  "is_illegal": false,
+  "text": "While this card is in face-up Attack Position on the field, if a player activates \"Pot of Greed\", they can draw 1 more card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Crystron Sulfefnir",
+  "number": "3422200",
+  "is_illegal": false,
+  "text": "If this card is in your hand or Graveyard: You can discard 1 \"Crystron\" card, except \"Crystron Sulfefnir\"; Special Summon this card in Defense Position, then destroy 1 card you control. If this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Crystron\" monster from your Deck in Defense Position. You can only use each effect of \"Crystron Sulfefnir\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2000",
+  "defense": "1500",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

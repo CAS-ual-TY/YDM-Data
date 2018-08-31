@@ -1,0 +1,24 @@
+{
+  "name": "Battle Footballer",
+  "number": "48094997",
+  "is_illegal": false,
+  "text": "A cyborg with high defense power. Originally it was invented for a football machine.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "2100",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

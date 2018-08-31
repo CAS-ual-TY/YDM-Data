@@ -1,0 +1,28 @@
+{
+  "name": "Gaia Saber, the Lightning Shadow",
+  "number": "67598234",
+  "is_illegal": false,
+  "text": "2+ monsters",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Right",
+    "Bottom"
+  ],
+  "link_number": "3"
+}

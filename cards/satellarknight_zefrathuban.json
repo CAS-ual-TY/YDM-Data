@@ -1,0 +1,28 @@
+{
+  "name": "Satellarknight Zefrathuban",
+  "number": "96223501",
+  "is_illegal": false,
+  "text": "If this card is Normal, Flip, or Pendulum Summoned: You can target 1 other \"tellarknight\" or \"Zefra\" card in your Monster Zone or Pendulum Zone, and 1 face-up card your opponent controls; destroy them. You can only use this effect of \"Satellarknight Zefrathuban\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "0",
+  "defense": "2100",
+  "attribute": "LIGHT",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"tellarknight\" and \"Zefra\" monsters. This effect cannot be negated.",
+  "stars": "4"
+}

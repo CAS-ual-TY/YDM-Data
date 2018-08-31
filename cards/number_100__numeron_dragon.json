@@ -1,0 +1,24 @@
+{
+  "name": "Number 100: Numeron Dragon",
+  "number": "57314798",
+  "is_illegal": false,
+  "text": "2 \"Number\" Xyz Monsters with the same name and Rank\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains ATK equal to the combined Ranks of all Xyz Monsters currently on the field x 1000, until the end of your opponent's turn. When this card is destroyed by card effect: You can destroy as many monsters on the field as possible (min. 1), then each player Sets 1 Spell/Trap Card from their Graveyard to their field. When an opponent's monster declares an attack while this card is in your Graveyard and you have no cards in your hand or field: You can Special Summon this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "M-X-Saber Invoker",
+  "number": "4423206",
+  "is_illegal": false,
+  "text": "2 Level 3 monsters\nOnce per turn: You can detach 1 material from this card; Special Summon 1 Level 4 EARTH Warrior or Beast-Warrior monster from your Deck, in Defense Position, but destroy it during the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ojama Black",
+  "number": "79335209",
+  "is_illegal": false,
+  "text": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "0",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "2"
+}

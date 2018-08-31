@@ -1,0 +1,24 @@
+{
+  "name": "Number 47: Nightmare Shark",
+  "number": "31320433",
+  "is_illegal": false,
+  "text": "2 Level 3 monsters\nWhen this card is Special Summoned: You can attach 1 Level 3 WATER monster from your hand or your side of the field to this card as an Xyz Material. Once per turn: You can detach 1 Xyz Material from this card, then target 1 WATER monster you control; this turn, that monster can attack your opponent directly, also other monsters cannot attack.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

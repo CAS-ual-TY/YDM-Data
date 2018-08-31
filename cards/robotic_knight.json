@@ -1,0 +1,24 @@
+{
+  "name": "Robotic Knight",
+  "number": "44203504",
+  "is_illegal": false,
+  "text": "The Commander of Machine-Types, he serves the Machine King. He is famous for the way he controls his troops.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1600",
+  "defense": "1800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

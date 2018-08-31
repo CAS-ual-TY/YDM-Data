@@ -1,0 +1,24 @@
+{
+  "name": "XX-Saber Darksoul",
+  "number": "31383545",
+  "is_illegal": false,
+  "text": "During the End Phase, if this card was sent from your side of the field to your Graveyard this turn: You can add 1 \"X-Saber\" monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Cosmo Queen",
+  "number": "38999506",
+  "is_illegal": false,
+  "text": "Queen of the galaxies and mistress of the stars.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2900",
+  "defense": "2450",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "8"
+}

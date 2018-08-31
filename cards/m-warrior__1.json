@@ -1,0 +1,24 @@
+{
+  "name": "M-Warrior #1",
+  "number": "56342351",
+  "is_illegal": false,
+  "text": "Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

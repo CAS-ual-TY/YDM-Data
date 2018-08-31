@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump Championship 2004 Prize Card",
+    "type": "Tournament Promo Cards",
+    "date": "2004-12-04",
+    "distribution": "tournament_promo_cards",
+    "prefix": "SJC",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Cyber-Stein",
+        "set_number": "SJC-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

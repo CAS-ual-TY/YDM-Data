@@ -1,0 +1,24 @@
+{
+  "name": "Super War-Lion",
+  "number": "33951077",
+  "is_illegal": false,
+  "text": "This card can only be Ritual Summoned with the Ritual Spell Card, \"War-Lion Ritual\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2300",
+  "defense": "2100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual"
+  ],
+  "stars": "7"
+}

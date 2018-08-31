@@ -1,0 +1,24 @@
+{
+  "name": "Dark Titan of Terror",
+  "number": "89494469",
+  "is_illegal": false,
+  "text": "A fiend said to dwell in the world of dreams, it attacks enemies in their sleep.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1300",
+  "defense": "1100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

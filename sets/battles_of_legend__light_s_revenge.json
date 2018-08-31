@@ -1,0 +1,814 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Battles of Legend: Light's Revenge",
+    "type": "Booster Pack",
+    "date": "2017-07-06",
+    "distribution": "booster_pack",
+    "prefix": "BLLR",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Odd-Eyes Lancer Dragon",
+        "set_number": "BLLR-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Odd-Eyes Minitaurus",
+        "set_number": "BLLR-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Odd-Eyes Dissolver",
+        "set_number": "BLLR-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Odd-Eyes Synchron",
+        "set_number": "BLLR-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Five-Rainbow Magician",
+        "set_number": "BLLR-EN005",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Odd-Eyes Venom Dragon",
+        "set_number": "BLLR-EN006",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "D/D/D Super Doom King Bright Armageddon",
+        "set_number": "BLLR-EN007",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "D/D/D Super Doom King Dark Armageddon",
+        "set_number": "BLLR-EN008",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Helper",
+        "set_number": "BLLR-EN009",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Fist",
+        "set_number": "BLLR-EN010",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Steam Train King",
+        "set_number": "BLLR-EN011",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Actor - Curtain Raiser",
+        "set_number": "BLLR-EN012",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Abyss Script - Abysstainment",
+        "set_number": "BLLR-EN013",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Rudder Strix",
+        "set_number": "BLLR-EN014",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Final Fortress Falcon",
+        "set_number": "BLLR-EN015",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Twilight Ninja Jogen",
+        "set_number": "BLLR-EN016",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Twilight Ninja Kagen",
+        "set_number": "BLLR-EN017",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "White Moray",
+        "set_number": "BLLR-EN018",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "White Aura Dolphin",
+        "set_number": "BLLR-EN019",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "White Aura Whale",
+        "set_number": "BLLR-EN020",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Gladiator Beast Noxius",
+        "set_number": "BLLR-EN021",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Gladiator Beast Andabata",
+        "set_number": "BLLR-EN022",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Gladiator Beast Tamer Editor",
+        "set_number": "BLLR-EN023",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Dreamer",
+        "set_number": "BLLR-EN024",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Destiny HERO - Dusktopia",
+        "set_number": "BLLR-EN025",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Vision HERO Witch Raider",
+        "set_number": "BLLR-EN026",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Giant Rex",
+        "set_number": "BLLR-EN027",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Double Evolution Pill",
+        "set_number": "BLLR-EN028",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Spacetime Transcendence",
+        "set_number": "BLLR-EN029",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Jurassic Impact",
+        "set_number": "BLLR-EN030",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Lazion, the Timelord",
+        "set_number": "BLLR-EN031",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Zaphion, the Timelord",
+        "set_number": "BLLR-EN032",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Sadion, the Timelord",
+        "set_number": "BLLR-EN033",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Kamion, the Timelord",
+        "set_number": "BLLR-EN034",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Time Maiden",
+        "set_number": "BLLR-EN035",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Lyla, Lightsworn Sorceress",
+        "set_number": "BLLR-EN036",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Garoth, Lightsworn Warrior",
+        "set_number": "BLLR-EN037",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Lumina, Lightsworn Summoner",
+        "set_number": "BLLR-EN038",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Wulf, Lightsworn Beast",
+        "set_number": "BLLR-EN039",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Celestia, Lightsworn Angel",
+        "set_number": "BLLR-EN040",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Judgment Dragon",
+        "set_number": "BLLR-EN041",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Raiden, Hand of the Lightsworn",
+        "set_number": "BLLR-EN042",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Felis, Lightsworn Archer",
+        "set_number": "BLLR-EN043",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Minerva, the Exalted Lightsworn",
+        "set_number": "BLLR-EN044",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Solar Recharge",
+        "set_number": "BLLR-EN045",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Witch of the Black Forest",
+        "set_number": "BLLR-EN046",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Vanity's Fiend",
+        "set_number": "BLLR-EN047",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Crusader of Endymion",
+        "set_number": "BLLR-EN048",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Cactus Bouncer",
+        "set_number": "BLLR-EN049",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Spellbook Magician of Prophecy",
+        "set_number": "BLLR-EN050",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Mermail Abyssteus",
+        "set_number": "BLLR-EN051",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Denko Sekka",
+        "set_number": "BLLR-EN052",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Galaxy Soldier",
+        "set_number": "BLLR-EN053",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Infernoid Devyaty",
+        "set_number": "BLLR-EN054",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Sage with Eyes of Blue",
+        "set_number": "BLLR-EN055",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Nova Master",
+        "set_number": "BLLR-EN056",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Vision HERO Adoration",
+        "set_number": "BLLR-EN057",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Archfiend Zombie-Skull",
+        "set_number": "BLLR-EN058",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Dragunity Knight - Gae Dearg",
+        "set_number": "BLLR-EN059",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Trishula, Dragon of the Ice Barrier",
+        "set_number": "BLLR-EN060",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "PSY-Framelord Omega",
+        "set_number": "BLLR-EN061",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Crystal Wing Synchro Dragon",
+        "set_number": "BLLR-EN062",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "M-X-Saber Invoker",
+        "set_number": "BLLR-EN063",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Neo Galaxy-Eyes Photon Dragon",
+        "set_number": "BLLR-EN064",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Gaia Dragon, the Thunder Charger",
+        "set_number": "BLLR-EN065",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 11: Big Eye",
+        "set_number": "BLLR-EN066",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 107: Galaxy-Eyes Tachyon Dragon",
+        "set_number": "BLLR-EN067",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Evilswarm Exciton Knight",
+        "set_number": "BLLR-EN068",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Bujintei Tsukuyomi",
+        "set_number": "BLLR-EN069",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+        "set_number": "BLLR-EN070",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "The Phantom Knights of Break Sword",
+        "set_number": "BLLR-EN071",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Force Strix",
+        "set_number": "BLLR-EN072",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Satellite Cannon Falcon",
+        "set_number": "BLLR-EN073",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Into the Void",
+        "set_number": "BLLR-EN074",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Spellbook of Secrets",
+        "set_number": "BLLR-EN075",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Miracle Contact",
+        "set_number": "BLLR-EN076",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Transmodify",
+        "set_number": "BLLR-EN077",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Anti-Spell Fragrance",
+        "set_number": "BLLR-EN078",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Different Dimension Ground",
+        "set_number": "BLLR-EN079",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Artifact Sanctum",
+        "set_number": "BLLR-EN080",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Humpty Grumpty",
+  "number": "71415349",
+  "is_illegal": false,
+  "text": "Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: It gains 800 ATK until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1400",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

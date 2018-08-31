@@ -1,0 +1,24 @@
+{
+  "name": "Dark Simorgh",
+  "number": "11366199",
+  "is_illegal": false,
+  "text": "While face-up on the field, this card is also WIND-Attribute. You can banish 1 DARK monster and 1 WIND monster from your Graveyard; Special Summon this card from your hand. You can banish 1 DARK monster and 1 WIND monster from your hand; Special Summon this card from your Graveyard. Your opponent cannot Set any cards on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "2700",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Toon Barrel Dragon",
+  "number": "28112535",
+  "is_illegal": false,
+  "text": "Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can target 1 card on the field; toss a coin 3 times and destroy it if at least 2 of the results are Heads.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2600",
+  "defense": "2200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Toon"
+  ],
+  "stars": "7"
+}

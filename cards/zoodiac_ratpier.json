@@ -1,0 +1,24 @@
+{
+  "name": "Zoodiac Ratpier",
+  "number": "78872731",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: You can send 1 \"Zoodiac\" card from your Deck to your Graveyard. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\nâ—? Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 \"Zoodiac Ratpier\" from your hand or Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

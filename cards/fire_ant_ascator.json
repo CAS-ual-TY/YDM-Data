@@ -1,0 +1,24 @@
+{
+  "name": "Fire Ant Ascator",
+  "number": "78275321",
+  "is_illegal": false,
+  "text": "When this card is destroyed by battle and sent to the Graveyard: You can target 1 Level 5 monster in your Graveyard; Special Summon that target, but its effects are negated, also send it to the Graveyard during the End Phase of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "700",
+  "defense": "1300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

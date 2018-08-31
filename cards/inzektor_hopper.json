@@ -1,0 +1,24 @@
+{
+  "name": "Inzektor Hopper",
+  "number": "52601736",
+  "is_illegal": false,
+  "text": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 4. While this card is equipped to a monster: You can send this Equip Card to the Graveyard; the monster it was equipped to can attack your opponent directly this turn. Other monsters cannot attack the turn you activate this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1700",
+  "defense": "1400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

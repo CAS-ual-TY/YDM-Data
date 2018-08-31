@@ -1,0 +1,24 @@
+{
+  "name": "Blackwing - Abrolhos the Megaquake",
+  "number": "31053337",
+  "is_illegal": false,
+  "text": "Cannot be Special Summoned. This card cannot destroy monsters by battle. If this card battles a monster, after damage calculation: Return that monster to the hand. Once per turn, during your Main Phase 1: You can have this card lose exactly 1000 ATK, and if you do, return all cards in your opponent's Spell & Trap Zone to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "2600",
+  "defense": "1800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

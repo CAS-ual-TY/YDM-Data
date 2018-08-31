@@ -1,0 +1,24 @@
+{
+  "name": "Number 22: Zombiestein",
+  "number": "73445448",
+  "is_illegal": false,
+  "text": "2 Level 8 DARK monsters\nMust be Xyz Summoned and cannot be Special Summoned by other ways. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 card from your hand to the Graveyard, then target 1 face-up card your opponent controls; change this card to Defense Position, and if you do, that face-up card has its effects negated until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "4500",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "8"
+}

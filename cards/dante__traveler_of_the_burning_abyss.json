@@ -1,0 +1,24 @@
+{
+  "name": "Dante, Traveler of the Burning Abyss",
+  "number": "83531441",
+  "is_illegal": false,
+  "text": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card and choose a number from 1 to 3, then send that many cards from the top of your Deck to the Graveyard; until the end of this turn, this card gains 500 ATK for each card sent to the Graveyard this way. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card is sent to the Graveyard: You can target 1 \"Burning Abyss\" card in your Graveyard, except this card; add it to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

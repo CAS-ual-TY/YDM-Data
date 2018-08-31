@@ -1,0 +1,24 @@
+{
+  "name": "Maiden of the Aqua",
+  "number": "17214465",
+  "is_illegal": false,
+  "text": "As long as this card remains face-up on the field, the field is treated as \"Umi\" (however there is no increasing or decreasing of ATK/DEF due to \"Umi\"'s effect). If there is an active Field Spell Card on the field, this effect is not applied.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "700",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

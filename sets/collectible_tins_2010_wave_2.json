@@ -1,0 +1,114 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Collectible Tins 2010 Wave 2",
+    "type": "Special Edition Promo Cards",
+    "date": "2010-10-28",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT07",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Shooting Star Dragon",
+        "set_number": "CT07-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Red Nova Dragon",
+        "set_number": "CT07-EN005",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO Ocean",
+        "set_number": "CT07-EN018",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dreadscythe Harvester",
+        "set_number": "CT07-EN019",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Gandora the Dragon of Destruction",
+        "set_number": "CT07-EN020",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Stardust Dragon",
+        "set_number": "CT07-EN021",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Magician's Valkyria",
+        "set_number": "CT07-EN022",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "The Wicked Avatar",
+        "set_number": "CT07-EN023",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Exodius the Ultimate Forbidden Lord",
+        "set_number": "CT07-EN024",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Red Dragon Archfiend",
+        "set_number": "CT07-EN025",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Zombie Mammoth",
+  "number": "43642620",
+  "is_illegal": false,
+  "text": "Destroy this card if you do not have a Zombie-Type monster in your Graveyard. When this face-up card is destroyed, inflict damage to its controller equal to its original ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1900",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

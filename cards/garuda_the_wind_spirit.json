@@ -1,0 +1,24 @@
+{
+  "name": "Garuda the Wind Spirit",
+  "number": "12800777",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Normal Set. This card can only be Special Summoned by removing from play 1 WIND monster in your Graveyard. During your opponent's End Phase, you can select 1 face-up monster your opponent controls, and change its battle position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1600",
+  "defense": "1200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dewloren, Tiger King of the Ice Barrier",
+  "number": "70583986",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner WATER monsters\nOnce per turn, you can return any number of face-up cards you control to the owner's hand. For each card returned to the owner's hand by this effect, this card gains 500 ATK until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2000",
+  "defense": "1400",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "6"
+}

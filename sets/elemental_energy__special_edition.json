@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Elemental Energy: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2005-11-30",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "EEN",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Horus the Black Flame Dragon LV8",
+        "set_number": "EEN-ENSE1",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "The Creator",
+        "set_number": "EEN-ENSE2",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Sacred Phoenix of Nephthys",
+        "set_number": "EEN-ENSE3",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Silent Swordsman LV5",
+        "set_number": "EEN-ENSE4",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

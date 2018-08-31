@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! The Movie Ani-Manga",
+    "type": "Manga Promo Cards",
+    "date": "2004-11-23",
+    "distribution": "manga_promo_cards",
+    "prefix": "YMA",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Slifer the Sky Dragon",
+        "set_number": "YMA-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

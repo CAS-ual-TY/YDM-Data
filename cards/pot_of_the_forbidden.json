@@ -1,0 +1,25 @@
+{
+  "name": "Pot of The Forbidden",
+  "number": "91501248",
+  "is_illegal": false,
+  "text": "FLIP: You can activate 1 of these effects;\nâ—? Draw 2 cards.\nâ—? Return all Spell and Trap Cards on the field to the hand.\nâ—? Destroy all monsters your opponent controls.\nâ—? Look at your opponent's hand, also shuffle 1 card from their hand into the Deck.\nYou can only use this effect of \"Pot of The Forbidden\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2000",
+  "defense": "3000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "9"
+}

@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Double Pack",
+    "type": "Video Game Promo Cards",
+    "date": "2006-02-22",
+    "distribution": "video_game_promo_cards",
+    "prefix": "ROD",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Dark Magician Knight",
+        "set_number": "ROD-EN001",
+        "rarities": [
+          "Super Parallel Rare"
+        ],
+        "count": {
+          "Super Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Knight's Title",
+        "set_number": "ROD-EN002",
+        "rarities": [
+          "Super Parallel Rare"
+        ],
+        "count": {
+          "Super Parallel Rare": 1
+        }
+      }
+    ]
+  }
+}

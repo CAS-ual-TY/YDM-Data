@@ -1,0 +1,24 @@
+{
+  "name": "Number 39: Utopia",
+  "number": "84013237",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nWhen any player's monster declares an attack: You can detach 1 Xyz Material from this card; negate the attack. When this card is targeted for an attack, while it has no Xyz Materials: Destroy this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

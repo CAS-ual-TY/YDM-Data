@@ -1,0 +1,24 @@
+{
+  "name": "Cairngorgon, Antiluminescent Knight",
+  "number": "21501505",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nDuring either player's turn, when another card or effect is activated that targets exactly 1 card on the field (and no other cards): You can detach 1 Xyz Material from this card, then target another card on the field that would be an appropriate target for that card/effect; that card/effect now targets the new target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2450",
+  "defense": "1950",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

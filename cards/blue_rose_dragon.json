@@ -1,0 +1,24 @@
+{
+  "name": "Blue Rose Dragon",
+  "number": "98884569",
+  "is_illegal": false,
+  "text": "When this card on the field is destroyed and sent to the Graveyard: You can target 1 \"Black Rose Dragon\" or 1 Plant-Type monster in your Graveyard; Special Summon that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1600",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

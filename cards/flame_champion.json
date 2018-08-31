@@ -1,0 +1,24 @@
+{
+  "name": "Flame Champion",
+  "number": "42599677",
+  "is_illegal": false,
+  "text": "A warrior protected by a flaming shield that nullifies any attack.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "1900",
+  "defense": "1300",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

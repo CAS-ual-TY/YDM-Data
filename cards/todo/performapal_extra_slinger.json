@@ -1,0 +1,28 @@
+{
+  "name": "Performapal Extra Slinger",
+  "number": "45591967",
+  "is_illegal": false,
+  "text": "Once per turn: You can banish 1 card from your Extra Deck, then target 1 card in a Pendulum Zone; destroy it, and if you do, inflict 300 damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "800",
+  "defense": "1100",
+  "attribute": "DARK",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "During your Main Phase: You can inflict 300 damage to your opponent for each face-up Pendulum Monster in your Extra Deck. You can only use this effect of \"Performapal Extra Slinger\" once per turn. You cannot Pendulum Summon the turn you activate this effect.",
+  "stars": "3"
+}

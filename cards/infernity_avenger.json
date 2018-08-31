@@ -1,0 +1,24 @@
+{
+  "name": "Infernity Avenger",
+  "number": "85475641",
+  "is_illegal": false,
+  "text": "When a monster you control, except \"Infernity Avenger\", is destroyed by battle with an opponent's monster and sent to the Graveyard, while you have no cards in your hand, you can Special Summon this card from your Graveyard. In that case, the Level of this card is equal to the Level of your destroyed monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

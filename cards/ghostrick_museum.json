@@ -1,0 +1,11 @@
+{
+  "name": "Ghostrick Museum",
+  "number": "7617062",
+  "is_illegal": false,
+  "text": "Monsters you control, except \"Ghostrick\" monsters, cannot attack. Monsters cannot attack face-down Defense Position monsters, but can attack directly if all monsters their opponent controls are face-down Defense Position. At the end of the Damage Step, change any monster that inflicted battle damage to a player during this battle to face-down Defense Position.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Field"
+}

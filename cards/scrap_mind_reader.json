@@ -1,0 +1,24 @@
+{
+  "name": "Scrap Mind Reader",
+  "number": "67038874",
+  "is_illegal": false,
+  "text": "Once per turn, while this card is in your Graveyard during your Main Phase 2, you can select 1 face-up \"Scrap\" monster you control, except \"Scrap Mind Reader\". Destroy that monster and Special Summon this card from the Graveyard. If you do, remove this card from play when it is removed from the field. If this card is used as a Synchro Material Monster, all other Synchro Material Monsters must be \"Scrap\" monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

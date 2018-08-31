@@ -1,0 +1,24 @@
+{
+  "name": "Darkfire Soldier #1",
+  "number": "5388481",
+  "is_illegal": false,
+  "text": "An explosive expert from a special elite force.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "1700",
+  "defense": "1150",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

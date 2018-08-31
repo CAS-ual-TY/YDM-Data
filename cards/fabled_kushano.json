@@ -1,0 +1,24 @@
+{
+  "name": "Fabled Kushano",
+  "number": "97439806",
+  "is_illegal": false,
+  "text": "You can discard 1 \"Fabled\" monster to the Graveyard except \"Fabled Kushano\" to add this card from your Graveyard to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1100",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Cynet Backdoor",
+  "number": "43839002",
+  "is_illegal": false,
+  "text": "Target 1 Cyberse monster you control; banish it, and if you do, add 1 Cyberse monster from your Deck to your hand, whose ATK is lower than that monster's original ATK. During your next Standby Phase, return that monster banished by this effect to the field, and it can attack directly that turn. You can only activate 1 \"Cynet Backdoor\" per turn.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}

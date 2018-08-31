@@ -1,0 +1,24 @@
+{
+  "name": "Cyber Archfiend",
+  "number": "59907935",
+  "is_illegal": false,
+  "text": "At the beginning of your Draw Phase, if you have no cards in your hand, draw 1 more card in addition to the normal draw. During your End Phase, if you have 1 or more card(s) in your hand, destroy this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

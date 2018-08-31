@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Legendary Collection 4: Joey's World",
+    "type": "Legendary Collection",
+    "date": "2013-10-10",
+    "distribution": "legendary_collection",
+    "prefix": "LC04",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Blue Flame Swordsman",
+        "set_number": "LC04-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Harpie Lady Phoenix Formation",
+        "set_number": "LC04-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Card of Last Will",
+        "set_number": "LC04-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

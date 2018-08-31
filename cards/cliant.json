@@ -1,0 +1,24 @@
+{
+  "name": "Cliant",
+  "number": "45778242",
+  "is_illegal": false,
+  "text": "While this Normal Summoned/Set card is face-up on the field, all Cyberse monsters you control gain 500 ATK/DEF during your turn only. If this card on the field would be destroyed by battle or card effect, you can destroy 1 Cyberse monster in your hand or face-up on your field instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1500",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Millennium Golem",
+  "number": "47986555",
+  "is_illegal": false,
+  "text": "For nearly a millennium, this golem has served as guardian of an ancient treasure trove.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2000",
+  "defense": "2200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "6"
+}

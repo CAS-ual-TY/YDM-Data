@@ -1,0 +1,24 @@
+{
+  "name": "Chronomaly Nebra Disk",
+  "number": "24861088",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can add 1 \"Chronomaly\" card from your Deck to your hand, except \"Chronomaly Nebra Disk\". If this card is in the Graveyard and all monsters you control are \"Chronomaly\" monsters (min. 1): You can Special Summon this card in Defense Position. You cannot activate cards or effects during the turn you activate this effect, except \"Chronomaly\" cards and effects. You can only use 1 \"Chronomaly Nebra Disk\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1800",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

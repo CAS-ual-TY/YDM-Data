@@ -1,0 +1,164 @@
+{
+  "status": "success",
+  "set": {
+    "name": "McDonald's Promotional Cards",
+    "type": "Promo Cards",
+    "date": "2002-12-20",
+    "distribution": "promo_cards",
+    "prefix": "MP1",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Millennium Shield",
+        "set_number": "MP1-001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Cosmo Queen",
+        "set_number": "MP1-002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Goddess of Whim",
+        "set_number": "MP1-003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Slime Toad",
+        "set_number": "MP1-004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yaranzo",
+        "set_number": "MP1-005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Takriminos",
+        "set_number": "MP1-006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Stuffed Animal",
+        "set_number": "MP1-007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Megasonic Eye",
+        "set_number": "MP1-008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Yamadron",
+        "set_number": "MP1-009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Three-Legged Zombies",
+        "set_number": "MP1-010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Flying Penguin",
+        "set_number": "MP1-011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fairy's Gift",
+        "set_number": "MP1-012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ushi Oni",
+        "set_number": "MP1-013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Turtle Bird",
+        "set_number": "MP1-014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark-Piercing Light",
+        "set_number": "MP1-015",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

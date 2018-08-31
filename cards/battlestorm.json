@@ -1,0 +1,24 @@
+{
+  "name": "Battlestorm",
+  "number": "69695704",
+  "is_illegal": false,
+  "text": "This card gains 100 ATK for each Winged Beast-Type monster you control. Once per turn: You can target 1 Spell/Trap Card your opponent controls; destroy that target. You must control 3 or more Winged Beast-Type monsters to activate and to resolve this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1700",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

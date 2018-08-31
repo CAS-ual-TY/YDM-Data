@@ -1,0 +1,24 @@
+{
+  "name": "Steel Scorpion",
+  "number": "13599884",
+  "is_illegal": false,
+  "text": "A non Machine-Type Monster attacking \"Steel Scorpion\" will be destroyed at the End Phase of your opponent's 2nd turn after the attack.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "250",
+  "defense": "300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

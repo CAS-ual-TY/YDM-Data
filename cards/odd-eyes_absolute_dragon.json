@@ -1,0 +1,24 @@
+{
+  "name": "Odd-Eyes Absolute Dragon",
+  "number": "16691074",
+  "is_illegal": false,
+  "text": "2 Level 7 monsters\nWhen any player's monster declares an attack: You can detach 1 Xyz Material from this card; negate the attack, then you can Special Summon 1 \"Odd-Eyes\" monster from your hand or Graveyard. If this Xyz Summoned card is sent to the Graveyard: You can Special Summon 1 \"Odd-Eyes\" monster from your Extra Deck, except \"Odd-Eyes Absolute Dragon\". You can only use each effect of \"Odd-Eyes Absolute Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2800",
+  "defense": "2500",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "7"
+}

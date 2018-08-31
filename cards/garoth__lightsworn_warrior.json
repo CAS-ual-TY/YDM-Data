@@ -1,0 +1,24 @@
+{
+  "name": "Garoth, Lightsworn Warrior",
+  "number": "59019082",
+  "is_illegal": false,
+  "text": "Each time a card(s) is sent from your Deck to the GY by the effect of a \"Lightsworn\" monster you control, except \"Garoth, Lightsworn Warrior\": Send the top 2 cards of your Deck to the GY, then draw 1 card for each \"Lightsworn\" monster sent to the GY by this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1850",
+  "defense": "1300",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

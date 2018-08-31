@@ -1,0 +1,24 @@
+{
+  "name": "Number 31: Embodiment of Punishment",
+  "number": "95442074",
+  "is_illegal": false,
+  "text": "2 Level 1 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; change all monsters your opponent controls to face-up Attack Position, also all monsters your opponent currently controls must attack this card this turn, if able. While you control \"Number 13: Embodiment of Crime\", this card gains these effects.\nâ—? This card cannot be destroyed by battle or by card effects while it has Xyz Material.\nâ—? Your opponent takes any battle damage you would have taken from attacks on this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "1"
+}

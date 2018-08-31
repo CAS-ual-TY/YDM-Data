@@ -1,0 +1,24 @@
+{
+  "name": "Charging Gaia the Fierce Knight",
+  "number": "7841921",
+  "is_illegal": false,
+  "text": "You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, its original ATK becomes 1900. If this card is Tributed: You can add 1 \"Black Luster Soldier\" monster from your Deck to your hand. You can only use this effect of \"Charging Gaia the Fierce Knight\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2300",
+  "defense": "2100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

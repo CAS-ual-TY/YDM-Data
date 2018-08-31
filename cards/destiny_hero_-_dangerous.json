@@ -1,0 +1,24 @@
+{
+  "name": "Destiny HERO - Dangerous",
+  "number": "30757127",
+  "is_illegal": false,
+  "text": "1 \"Destiny HERO\" monster + 1 DARK Effect Monster\n(Quick Effect): You can discard 1 card; send 1 \"Destiny HERO\" monster from your hand or Deck to the GY, and if you do, \"Destiny HERO\" monsters you control gain 200 ATK for each \"Destiny HERO\" monster in your GY until the end of this turn. You can only use this effect of \"Destiny HERO - Dangerous\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "defense": "2600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

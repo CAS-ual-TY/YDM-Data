@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "set": {
+    "name": "2017 Mega-Tins",
+    "type": "Collectible Tins",
+    "date": "2017-08-24",
+    "distribution": "collectible_tins",
+    "prefix": "CT14",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Dark Magician",
+        "set_number": "CT14-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Blue-Eyes White Dragon",
+        "set_number": "CT14-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Proxy Dragon",
+        "set_number": "CT14-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Pot of Desires",
+        "set_number": "CT14-EN004",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 71: Rebarian Shark",
+        "set_number": "CT14-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dreamland",
+        "set_number": "CT14-EN006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 68: Sanaphond the Sky Prison",
+        "set_number": "CT14-EN008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Elder Entity N'tss",
+        "set_number": "CT14-EN009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

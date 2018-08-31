@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Shonen Jump Championship 2007 Prize Card A",
+    "type": "Tournament Promo Cards",
+    "date": "2007-01-27",
+    "distribution": "tournament_promo_cards",
+    "prefix": "SJCS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Crush Card Virus",
+        "set_number": "SJCS-EN004",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

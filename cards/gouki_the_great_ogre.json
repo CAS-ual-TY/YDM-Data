@@ -1,0 +1,28 @@
+{
+  "name": "Gouki The Great Ogre",
+  "number": "78437364",
+  "is_illegal": false,
+  "text": "2+ \"Gouki\" monsters\nAll monsters on the field lose ATK equal to their original DEF. If this card would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom",
+    "Bottom-Right"
+  ],
+  "link_number": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lucky Pied Piper",
+  "number": "68762510",
+  "is_illegal": false,
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\nâ—? When this card destroys an opponent's monster by battle and sends it to the Graveyard, draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1500",
+  "defense": "500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Gemini"
+  ],
+  "stars": "4"
+}

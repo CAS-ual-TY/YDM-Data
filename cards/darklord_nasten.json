@@ -1,0 +1,24 @@
+{
+  "name": "Darklord Nasten",
+  "number": "25339070",
+  "is_illegal": false,
+  "text": "You can discard 2 other \"Darklord\" cards; Special Summon this card from your hand. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use this effect of \"Darklord Nasten\" once per turn. You can only Special Summon \"Darklord Nasten(s)\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2600",
+  "defense": "2600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

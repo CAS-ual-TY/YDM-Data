@@ -1,0 +1,24 @@
+{
+  "name": "Lunalight Crimson Fox",
+  "number": "94919024",
+  "is_illegal": false,
+  "text": "If this card is sent to the GY by a card effect: You can target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. When a card or effect is activated that targets a \"Lunalight\" monster you control (Quick Effect): You can banish this card from your GY; negate the activation, and if you do, each player gains 1000 LP.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1800",
+  "defense": "600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

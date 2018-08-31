@@ -1,0 +1,24 @@
+{
+  "name": "Number 104: Masquerade",
+  "number": "2061963",
+  "is_illegal": false,
+  "text": "3 Level 4 monsters\nDuring either player's Battle Phase, when an opponent's monster effect is activated: You can detach 1 Xyz Material from this card; negate the activation, and if you do, inflict 800 damage to your opponent. Once per turn: You can send the top card of your opponent's Deck to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2700",
+  "defense": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

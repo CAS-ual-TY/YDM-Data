@@ -1,0 +1,24 @@
+{
+  "name": "Brotherhood of the Fire Fist - Bear",
+  "number": "6353603",
+  "is_illegal": false,
+  "text": "Once per turn, when this card inflicts battle damage to your opponent: You can Set 1 \"Fire Formation\" Spell Card directly from your Deck. Once per turn: You can send 1 face-up \"Fire Formation\" Spell/Trap Card you control to the Graveyard, then target 1 monster on the field; destroy that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1600",
+  "defense": "1200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

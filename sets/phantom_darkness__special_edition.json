@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Phantom Darkness: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2008-03-12",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "PTDN",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Mutant Mindmaster",
+        "set_number": "PTDN-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Hannibal Necromancer",
+        "set_number": "PTDN-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

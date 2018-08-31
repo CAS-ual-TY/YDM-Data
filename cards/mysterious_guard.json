@@ -1,0 +1,25 @@
+{
+  "name": "Mysterious Guard",
+  "number": "1347977",
+  "is_illegal": false,
+  "text": "FLIP: Target 1 face-up monster on the field, and if you control a face-up Warrior-Type monster, you can target 1 additional face-up monster on the field; return the first target to the top of the Deck, then return the additional target (if any) to the hand if you still control a face-up Warrior-Type monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "800",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

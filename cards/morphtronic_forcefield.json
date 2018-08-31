@@ -1,0 +1,11 @@
+{
+  "name": "Morphtronic Forcefield",
+  "number": "77229910",
+  "is_illegal": false,
+  "text": "Negate the activation of a Spell or Trap Card that would destroy a face-up \"Morphtronic\" monster you control and destroy it. Add 1 \"Morphtronic\" card from your Deck to your hand.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Snow Plow Hustle Rustle",
+  "number": "24731453",
+  "is_illegal": false,
+  "text": "When your opponent's monster declares a direct attack, while you control a card(s) in your Spell & Trap Zone: You can Special Summon this card from your hand, then destroy as many cards in your Spell & Trap Zone as possible, and if you do, inflict 200 damage to your opponent for each destroyed card. You cannot Special Summon any monsters, except Machine-Type monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2500",
+  "defense": "3000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

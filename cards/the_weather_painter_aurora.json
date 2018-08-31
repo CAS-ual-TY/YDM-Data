@@ -1,0 +1,24 @@
+{
+  "name": "The Weather Painter Aurora",
+  "number": "27784944",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can place 1 \"Weathery\" Spell/Trap from your hand, Deck, or GY in your Spell & Trap Zone face-up. \"Weathery\" Spells/Traps you control cannot be destroyed by your opponent's card effects, and your opponent cannot target them with card effects. Once per turn, during the Standby Phase of the next turn after this card on the field was banished to activate a \"Weathery\" card's effect: You can Special Summon this banished card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2200",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

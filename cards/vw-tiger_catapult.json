@@ -1,0 +1,24 @@
+{
+  "name": "VW-Tiger Catapult",
+  "number": "58859575",
+  "is_illegal": false,
+  "text": "\"V-Tiger Jet\" + \"W-Wing Catapult\"\nThis card can only be Special Summoned from your Extra Deck by removing from play the above cards you control. (You do not use \"Polymerization\"). You can discard 1 card from your hand to change the battle position of 1 monster your opponent controls. (Flip Effects are not activated at this time.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2000",
+  "defense": "2100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Yosenju Shinchu R",
+  "number": "91420254",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: Change it to Defense Position. Monsters your opponent controls cannot target face-up \"Yosenju\" monsters for attacks, except this one.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "0",
+  "defense": "2100",
+  "attribute": "WIND",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn, if you have a \"Yosenju\" card in your other Pendulum Zone: You can make this card's Pendulum Scale become 11 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Yosenju\" monsters (even if this card leaves the field).",
+  "stars": "4"
+}

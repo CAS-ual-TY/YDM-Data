@@ -1,0 +1,24 @@
+{
+  "name": "Dreamsprite",
+  "number": "8687195",
+  "is_illegal": false,
+  "text": "When attacked by your opponent's monster, select another 1 of your Monster Cards and designate it as the attack's target, then calculate damage.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "300",
+  "defense": "200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

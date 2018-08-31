@@ -1,0 +1,24 @@
+{
+  "name": "Laval Forest Sprite",
+  "number": "15169262",
+  "is_illegal": false,
+  "text": "When this card is sent from the field to the Graveyard: All face-up \"Laval\" monsters you currently control gain 200 ATK for each \"Laval\" monster in your Graveyard, until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "300",
+  "defense": "200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

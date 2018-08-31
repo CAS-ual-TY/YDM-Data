@@ -1,0 +1,24 @@
+{
+  "name": "Spell Strider",
+  "number": "93966624",
+  "is_illegal": false,
+  "text": "If this card is in your hand: You can target 2 face-up Spell Cards on the field (1 from each side of the field); banish them, and if you do, Special Summon this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1800",
+  "defense": "600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

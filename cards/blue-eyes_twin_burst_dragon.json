@@ -1,0 +1,24 @@
+{
+  "name": "Blue-Eyes Twin Burst Dragon",
+  "number": "2129638",
+  "is_illegal": false,
+  "text": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\nMust be either Fusion Summoned, or Special Summoned by sending the above monsters you control to the Graveyard (in which case you do not use \"Polymerization\"), and cannot be Special Summoned by other ways. Cannot be destroyed by battle. This card can make up to 2 attacks on monsters during each Battle Phase. At the end of the Damage Step, when this card attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

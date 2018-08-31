@@ -1,0 +1,24 @@
+{
+  "name": "Alsei, the Sylvan High Protector",
+  "number": "10406322",
+  "is_illegal": false,
+  "text": "2 Level 8 monsters\nOnce per turn: You can declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, send it to the Graveyard. If a card is sent from your Deck to the Graveyard by a card effect (except during the Damage Step): You can detach 1 Xyz Material from this card, then target 1 card on the field; place that target on either the top or bottom of the Deck. You can only use this effect of \"Alsei, the Sylvan High Protector\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "2300",
+  "defense": "3200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "8"
+}

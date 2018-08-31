@@ -1,0 +1,24 @@
+{
+  "name": "Performapal Sword Fish",
+  "number": "15452043",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: All monsters your opponent currently controls lose 600 ATK and DEF. If you Special Summon a monster(s) while you control this card: All monsters your opponent currently controls lose 600 ATK and DEF.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "600",
+  "defense": "600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

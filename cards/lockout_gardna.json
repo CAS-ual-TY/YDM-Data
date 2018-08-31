@@ -1,0 +1,24 @@
+{
+  "name": "Lockout Gardna",
+  "number": "37310367",
+  "is_illegal": false,
+  "text": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand in Attack Position, and if you do, it cannot be destroyed by battle this turn. When a monster your opponent controls activates its effect that targets 1 Cyberse monster you control (and no other cards) (Quick Effect): You can make both that Cyberse monster you control and that monster your opponent controls have their effects negated until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

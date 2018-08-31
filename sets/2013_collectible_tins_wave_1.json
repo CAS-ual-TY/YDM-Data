@@ -1,0 +1,104 @@
+{
+  "status": "success",
+  "set": {
+    "name": "2013 Collectible Tins Wave 1",
+    "type": "Special Edition Promo Cards",
+    "date": "2013-08-29",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT10",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Tidal, Dragon Ruler of Waterfalls",
+        "set_number": "CT10-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Blaster, Dragon Ruler of Infernos",
+        "set_number": "CT10-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Luster Soldier - Envoy of the Beginning",
+        "set_number": "CT10-EN005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ally of Justice Catastor",
+        "set_number": "CT10-EN006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Superdreadnought Rail Cannon Gustav Max",
+        "set_number": "CT10-EN007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Brotherhood of the Fire Fist - Bear",
+        "set_number": "CT10-EN008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Karakuri Shogun mdl 00 \"Burei\"",
+        "set_number": "CT10-EN009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Gagaga Cowboy",
+        "set_number": "CT10-EN010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 40: Gimmick Puppet of Strings",
+        "set_number": "CT10-EN011",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

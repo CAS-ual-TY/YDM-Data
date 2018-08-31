@@ -1,0 +1,24 @@
+{
+  "name": "The Suppression Pluto",
+  "number": "24413299",
+  "is_illegal": false,
+  "text": "Once per turn: You can declare 1 card name; look at your opponent's hand, then if they have the declared card in their hand, apply 1 of these effects.\nâ—? Take control of 1 monster your opponent controls.\nâ—? Destroy 1 Spell/Trap Card your opponent controls, then you can Set the destroyed Spell/Trap Card on your field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2600",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

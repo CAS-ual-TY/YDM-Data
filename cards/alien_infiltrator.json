@@ -1,0 +1,24 @@
+{
+  "name": "Alien Infiltrator",
+  "number": "76573247",
+  "is_illegal": false,
+  "text": "Once per turn, this card can move to an adjacent unoccupied Monster Card Zone. If no Spell, Trap or Monster Card on your opponent's side of the field is in the same column as this card, it can attack your opponent directly.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "800",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

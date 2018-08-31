@@ -1,0 +1,24 @@
+{
+  "name": "Power Tool Dragon",
+  "number": "2403771",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn: You can reveal 3 Equip Spell Cards from your Deck, then your opponent randomly adds 1 of them to your hand, and you shuffle the rest back into your Deck. If this card would be destroyed while equipped with an Equip Spell Card(s), you can send 1 of those cards to the Graveyard instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2300",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}

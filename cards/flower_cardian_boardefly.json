@@ -1,0 +1,24 @@
+{
+  "name": "Flower Cardian Boardefly",
+  "number": "3966653",
+  "is_illegal": false,
+  "text": "1 Tuner + 2 non-Tuner monsters\nIf a \"Flower Cardian\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn: You can banish 1 \"Flower Cardian\" monster from your Graveyard; until the end of your opponent's next turn, your opponent cannot activate effects of cards in the Graveyard, also they cannot Special Summon monsters from the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "6"
+}

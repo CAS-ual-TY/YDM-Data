@@ -1,0 +1,24 @@
+{
+  "name": "Naturia Pineapple",
+  "number": "7304544",
+  "is_illegal": false,
+  "text": "All face-up monsters you control are treated as Plant-Type. During your Standby Phase, if you do not control a face-up \"Naturia Pineapple\", and have no monsters in your Graveyard except Plant or Beast-Type: You can Special Summon this card from your Graveyard. You must not control any Spell or Trap Cards to activate and resolve this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

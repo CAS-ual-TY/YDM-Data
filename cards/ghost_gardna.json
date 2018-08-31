@@ -1,0 +1,24 @@
+{
+  "name": "Ghost Gardna",
+  "number": "59965151",
+  "is_illegal": false,
+  "text": "When a face-up monster you control is selected as an attack target, you can change the target to this card. When this card is destroyed and sent to the Graveyard, 1 face-up monster your opponent controls loses 1000 ATK, until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "0",
+  "defense": "1900",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

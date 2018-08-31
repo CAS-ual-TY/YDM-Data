@@ -1,0 +1,24 @@
+{
+  "name": "Sword Arm of Dragon",
+  "number": "13069066",
+  "is_illegal": false,
+  "text": "This Jurrasic juggernaut has a spine covered in sword-like plates, and a tail to split open skulls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1750",
+  "defense": "2030",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "6"
+}

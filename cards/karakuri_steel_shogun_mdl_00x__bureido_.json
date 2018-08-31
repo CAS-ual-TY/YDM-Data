@@ -1,0 +1,24 @@
+{
+  "name": "Karakuri Steel Shogun mdl 00X "Bureido"",
+  "number": "66976526",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner Machine-Type monsters\nWhen this card is Synchro Summoned: You can Special Summon 1 \"Karakuri\" monster from your Deck. Once per turn, when the battle position of a face-up \"Karakuri\" monster you control is changed (and remains face-up): Draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2800",
+  "defense": "1700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

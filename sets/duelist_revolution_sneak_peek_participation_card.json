@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Revolution Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2010-08-07",
+    "distribution": "tournament_promo_cards",
+    "prefix": "DREV",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Scrap Archfiend",
+        "set_number": "DREV-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

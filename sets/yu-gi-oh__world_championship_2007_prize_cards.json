@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! World Championship 2007 prize cards",
+    "type": "Tournament Promo Cards",
+    "date": "2007-07-28",
+    "distribution": "tournament_promo_cards",
+    "prefix": "WCPS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Get Your Game On!",
+        "set_number": "WCPS-EN700",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chimaera, the Master of Beasts",
+        "set_number": "WCPS-EN701",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Emperor of Lightning",
+        "set_number": "WCPS-EN702",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Theinen the Great Sphinx",
+  "number": "87997872",
+  "is_illegal": false,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by paying 500 Life Points when both \"Andro Sphinx\" and \"Sphinx Teleia\" on your side of the field are destroyed at the same time; then you can Special Summon this monster from your hand or Deck. When this card is Special Summoned successfully, pay 500 Life Points to increase the ATK of this card by 3000 points until the end of the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "3500",
+  "defense": "3000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

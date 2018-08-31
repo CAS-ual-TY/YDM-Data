@@ -1,0 +1,24 @@
+{
+  "name": "Ghostrick Warwolf",
+  "number": "72913666",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: Inflict 100 damage to your opponent for each Set card on the field. You can only use this effect of \"Ghostrick Warwolf\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1400",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

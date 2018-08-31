@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006",
+    "type": "Video Game Promo Cards",
+    "date": "2006-02-23",
+    "distribution": "video_game_promo_cards",
+    "prefix": "E06",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Golden Homunculus",
+        "set_number": "E06-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Helios - The Primordial Sun",
+        "set_number": "E06-EN002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Helios Duo Megistus",
+        "set_number": "E06-EN003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

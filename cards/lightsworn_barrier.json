@@ -1,0 +1,11 @@
+{
+  "name": "Lightsworn Barrier",
+  "number": "22201234",
+  "is_illegal": false,
+  "text": "When a \"Lightsworn\" monster you control is targeted for an attack: You can send the top 2 cards of your Deck to the Graveyard, then target the attacking monster; negate the attack.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Star Drawing",
+  "number": "24610207",
+  "is_illegal": false,
+  "text": "If this card is used for an Xyz Summon, you can treat it as a Level 5 monster. An Xyz Monster that was Summoned using this card as an Xyz Material gains this effect.\nâ—? If it is Xyz Summoned: Draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1600",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

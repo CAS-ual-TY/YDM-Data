@@ -1,0 +1,24 @@
+{
+  "name": "Dark Resonator",
+  "number": "97021916",
+  "is_illegal": false,
+  "text": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1300",
+  "defense": "300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

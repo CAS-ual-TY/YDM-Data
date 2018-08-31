@@ -1,0 +1,24 @@
+{
+  "name": "Number 85: Crazy Box",
+  "number": "42421606",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nThis card cannot attack. Once per turn: You can detach 1 Xyz Material from this card; roll a six-sided die and apply the result.\n1: Halve your Life Points. 2: Draw 1 card.\n3: Your opponent discards 1 card.\n4: Negate the effects of 1 face-up card on the field, until the end of this turn.\n5: Destroy 1 card on the field. 6: Destroy this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "3000",
+  "defense": "300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

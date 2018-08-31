@@ -1,0 +1,24 @@
+{
+  "name": "Skull Flame",
+  "number": "99899504",
+  "is_illegal": false,
+  "text": "Once per turn, you can Special Summon 1 \"Burning Skull Head\" from your hand. You cannot conduct your Battle Phase the turn you activate this effect. You can add 1 \"Burning Skull Head\" from your Graveyard to your hand instead of conducting a normal draw in your Draw Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2600",
+  "defense": "2000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

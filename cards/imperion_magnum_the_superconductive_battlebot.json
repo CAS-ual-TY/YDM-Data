@@ -1,0 +1,24 @@
+{
+  "name": "Imperion Magnum the Superconductive Battlebot",
+  "number": "4628897",
+  "is_illegal": false,
+  "text": "\"Valkyrion the Magna Warrior\" + \"Berserkion the Electromagna Warrior\"\nMust be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by other ways. Once per turn, during either player's turn, when your opponent activates a Spell/Trap Card, or monster effect: You can negate the activation, and if you do, destroy that card. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon both 1 \"Valkyrion the Magna Warrior\" and 1 \"Berserkion the Electromagna Warrior\" from your hand and/or Deck, ignoring their Summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "4000",
+  "defense": "4000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

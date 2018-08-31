@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Kids WB Duel of Destiny",
+    "type": "Promo Cards",
+    "date": "2004-05-15",
+    "distribution": "promo_cards",
+    "prefix": "EP1",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Card of Sanctity",
+        "set_number": "EP1-EN000",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

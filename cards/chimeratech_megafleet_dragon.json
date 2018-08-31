@@ -1,0 +1,24 @@
+{
+  "name": "Chimeratech Megafleet Dragon",
+  "number": "87116928",
+  "is_illegal": false,
+  "text": "1 \"Cyber Dragon\" monster + 1+ monsters in the Extra Monster Zone\nCannot be used as Fusion Material. Must first be Special Summoned (from your Extra Deck) by sending the above cards from either field to the GY. (You do not use \"Polymerization\".) The original ATK of this card becomes 1200 x the number of Fusion Materials used for its Special Summon.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

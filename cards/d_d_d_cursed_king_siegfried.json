@@ -1,0 +1,24 @@
+{
+  "name": "D/D/D Cursed King Siegfried",
+  "number": "44852429",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner \"D/D\" monsters\nDuring either player's turn: You can target 1 face-up Spell/Trap Card on the field; that target has its effects negated, until the next Standby Phase. You can only use this effect of \"D/D/D Cursed King Siegfried\" once per turn. If this card is destroyed by battle or card effect and sent to the Graveyard: Gain 1000 LP for each \"Dark Contract\" card you control.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2800",
+  "defense": "2200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

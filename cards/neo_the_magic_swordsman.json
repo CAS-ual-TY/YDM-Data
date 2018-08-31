@@ -1,0 +1,24 @@
+{
+  "name": "Neo the Magic Swordsman",
+  "number": "50930991",
+  "is_illegal": false,
+  "text": "A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1700",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

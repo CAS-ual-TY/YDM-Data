@@ -1,0 +1,24 @@
+{
+  "name": "Frightfur Daredevil",
+  "number": "91034681",
+  "is_illegal": false,
+  "text": "1 \"Edge Imp\" monster + 1 \"Fluffal\" monster\nWhen this card destroys an opponent's monster by battle: You can inflict 1000 damage to your opponent. If this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can inflict 500 damage to your opponent for each \"Frightfur\" monster in your Graveyard. You can only use this effect of \"Frightfur Daredevil\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "3000",
+  "defense": "2200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

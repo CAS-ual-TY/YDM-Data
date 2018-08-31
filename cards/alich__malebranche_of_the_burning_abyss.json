@@ -1,0 +1,24 @@
+{
+  "name": "Alich, Malebranche of the Burning Abyss",
+  "number": "47728740",
+  "is_illegal": false,
+  "text": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Alich, Malebranche of the Burning Abyss\" per turn, and only once that turn.\nâ—? If you control no Spell/Trap Cards: You can Special Summon this card from your hand.\nâ—? If this card is sent to the Graveyard: You can target 1 face-up monster on the field; negate its effects until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1200",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

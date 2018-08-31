@@ -1,0 +1,28 @@
+{
+  "name": "Performapal Cheermole",
+  "number": "17857780",
+  "is_illegal": false,
+  "text": "You can target 1 monster whose current ATK is different from its original ATK; apply the appropriate effect. You can only use this effect of \"Performapal Cheermole\" once per turn.\nâ—?If that monster's current ATK is higher than its original ATK, it gains 1000 ATK.\nâ—?If that monster's current ATK is lower than its original ATK, it loses 1000 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "600",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "Pendulum Scale = 5",
+  "pendulum_right": "Pendulum Scale = 5",
+  "pendulum_text": "All Pendulum Monsters you control gain 300 ATK.",
+  "stars": "2"
+}

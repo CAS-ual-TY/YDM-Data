@@ -1,0 +1,24 @@
+{
+  "name": "Cracking Dragon",
+  "number": "60349525",
+  "is_illegal": false,
+  "text": "Cannot be destroyed by battle with a monster with equal or lower Level. When your opponent Normal or Special Summons exactly 1 monster (and no other monsters are Summoned) while this monster is on the field: You can make that monster lose ATK equal to its Level x 200 (until the end of this turn), and if you do, inflict damage to your opponent equal to the ATK lost by this effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "3000",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

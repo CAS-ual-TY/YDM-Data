@@ -1,0 +1,24 @@
+{
+  "name": "Amazoness Empress",
+  "number": "4591250",
+  "is_illegal": false,
+  "text": "\"Amazoness Queen\" + 1 \"Amazoness\" monster\nOther \"Amazoness\" cards you control cannot be destroyed by battle or card effects. If your \"Amazoness\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this face-up Fusion Summoned card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can Special Summon 1 \"Amazoness Queen\" from your hand, Deck, or GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2800",
+  "defense": "2400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

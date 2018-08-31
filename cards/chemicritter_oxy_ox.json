@@ -1,0 +1,24 @@
+{
+  "name": "Chemicritter Oxy Ox",
+  "number": "18993198",
+  "is_illegal": false,
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\nâ—? During your Main Phase: You can Special Summon 1 Gemini monster from your hand, and if you do, all Gemini monsters you currently control become that monster's original Level until the end of this turn. You can only use this effect of \"Chemicritter Oxy Ox\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "0",
+  "defense": "2100",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Gemini"
+  ],
+  "stars": "2"
+}

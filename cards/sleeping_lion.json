@@ -1,0 +1,24 @@
+{
+  "name": "Sleeping Lion",
+  "number": "40200834",
+  "is_illegal": false,
+  "text": "A ferocious animal that sleeps all day. Sometimes it's better to let Sleeping Lions lie.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "700",
+  "defense": "1700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

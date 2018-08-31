@@ -1,0 +1,24 @@
+{
+  "name": "Kuraz the Light Monarch",
+  "number": "57666212",
+  "is_illegal": false,
+  "text": "When this card is Normal or Special Summoned: You can target up to 2 cards on the field; destroy those targets, and if you do, each player can draw 1 card for each of the cards they controlled that was destroyed by this effect. This card cannot attack during the turn it is Normal or Special Summoned.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2400",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "The Legendary Fisherman III",
+  "number": "44968687",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"The Legendary Fisherman\". When this card is Special Summoned: You can banish all monsters your opponent controls, also this card cannot attack this turn. Cannot be destroyed by battle or card effects, also unaffected by Spell/Trap effects. Once per turn: You can return as many of your opponent's banished cards as possible to their GY, and if you do, the first battle or effect damage your opponent takes this turn becomes doubled.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

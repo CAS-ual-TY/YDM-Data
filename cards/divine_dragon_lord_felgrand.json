@@ -1,0 +1,24 @@
+{
+  "name": "Divine Dragon Lord Felgrand",
+  "number": "60681103",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned from the Graveyard: You can target 1 monster your opponent controls or in their Graveyard; banish it, and if you do, this card gains ATK and DEF equal to the banished monster's original Level/Rank x 100. If this card destroys an opponent's monster by battle: You can target 1 Level 7 or 8 Dragon-Type monster in the Graveyard, except \"Divine Dragon Lord Felgrand\"; Special Summon it to your field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2800",
+  "defense": "2800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

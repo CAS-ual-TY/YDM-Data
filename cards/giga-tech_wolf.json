@@ -1,0 +1,24 @@
+{
+  "name": "Giga-Tech Wolf",
+  "number": "8471389",
+  "is_illegal": false,
+  "text": "An iron wolf with razor-sharp fangs that can penetrate any armor.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1200",
+  "defense": "1400",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PSY-Frame Driver",
+  "number": "49036338",
+  "is_illegal": false,
+  "text": "A Psychic soldier that rides into battle against the Security Forces on currents of lightning, using an automatic amplifier called \"PSY-Frame\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "2500",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "The Dark Illusion: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2016-09-15",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "TDIL",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Blackwing - Gram the Shining Star",
+        "set_number": "TDIL-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Number S39: Utopia the Lightning",
+        "set_number": "TDIL-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Subterror Nemesis Warrior",
+        "set_number": "TDIL-ENSE3",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "SPYRAL GEAR - Big Red",
+        "set_number": "TDIL-ENSE4",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

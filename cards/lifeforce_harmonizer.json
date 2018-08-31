@@ -1,0 +1,24 @@
+{
+  "name": "Lifeforce Harmonizer",
+  "number": "76214441",
+  "is_illegal": false,
+  "text": "When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "800",
+  "defense": "400",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

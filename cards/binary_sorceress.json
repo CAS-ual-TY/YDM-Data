@@ -1,0 +1,27 @@
+{
+  "name": "Binary Sorceress",
+  "number": "79016563",
+  "is_illegal": false,
+  "text": "2 monsters, except Tokens\nThis card gains these effects based on the number of monsters co-linked to this card.\nâ—? 1+: When a monster co-linked to this card battles your opponent's monster and inflicts battle damage to them: You can gain that much LP.\nâ—? 2: Once per turn (Quick Effect): You can target 2 face-up monsters you control; until the end of this turn, halve the ATK of 1 monster, and if you do, add that lost ATK to the other monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Right"
+  ],
+  "link_number": "2"
+}

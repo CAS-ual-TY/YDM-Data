@@ -1,0 +1,24 @@
+{
+  "name": "Photon Caesar",
+  "number": "13492423",
+  "is_illegal": false,
+  "text": "When this card is Normal or Flip Summoned: You can Special Summon 1 \"Photon Caesar\" from your hand or Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "defense": "2800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

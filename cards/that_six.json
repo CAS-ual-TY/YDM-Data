@@ -1,0 +1,11 @@
+{
+  "name": "That Six",
+  "number": "39454112",
+  "is_illegal": false,
+  "text": "Each time a player rolls a die (or dice), you can choose 1 die result, and apply the appropriate effect based on the result.\nâ—? 1, 3, or 5: The die result is treated as 6.\nâ—? 2, 4, or 6: The die result is treated as 1.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Continuous"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Kagetokage",
+  "number": "94656263",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. When you Normal Summon a Level 4 monster: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1100",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

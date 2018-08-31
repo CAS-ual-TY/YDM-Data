@@ -1,0 +1,24 @@
+{
+  "name": "D/D/D Oracle King d'Arc",
+  "number": "82956492",
+  "is_illegal": false,
+  "text": "2 \"D/D\" monsters\nAny effect that would inflict damage to you makes you gain that much LP, instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2800",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Duck Fighter",
+  "number": "54813225",
+  "is_illegal": false,
+  "text": "If this card is in your hand or Graveyard: You can Tribute Tokens whose total Levels equal 3 or more; Special Summon this card. You can only use the effect of \"Duck Fighter\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1300",
+  "defense": "1400",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

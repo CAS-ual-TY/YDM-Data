@@ -1,0 +1,24 @@
+{
+  "name": "Wattberyx",
+  "number": "5554990",
+  "is_illegal": false,
+  "text": "When this card inflicts Battle Damage to your opponent by a direct attack, discard 1 random card from your opponent's hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "300",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

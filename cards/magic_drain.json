@@ -1,0 +1,11 @@
+{
+  "name": "Magic Drain",
+  "number": "59344077",
+  "is_illegal": false,
+  "text": "When your opponent activates a Spell Card: They can discard 1 Spell Card to negate this card's effect, otherwise negate the activation of their Spell Card, and if you do, destroy it.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

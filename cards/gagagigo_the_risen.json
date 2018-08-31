@@ -1,0 +1,24 @@
+{
+  "name": "Gagagigo the Risen",
+  "number": "9053187",
+  "is_illegal": false,
+  "text": "3 Level 4 monsters",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "2950",
+  "defense": "2800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Subterror Behemoth Fiendess",
+  "number": "74937659",
+  "is_illegal": false,
+  "text": "2 Flip monsters\nGains ATK equal to the combined original Levels of the \"Subterror\" monsters used for its Link Summon x 100. During your Main Phase: You can send 1 Flip monster from your Deck to the GY, and if you do, Special Summon 1 monster from your hand in face-down Defense Position to your zone this card points to. You can only use this effect of \"Subterror Behemoth Fiendess\" once per turn. Once per turn, if a monster this card points to is flipped face-up: Add 1 Flip monster from your Deck or GY to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

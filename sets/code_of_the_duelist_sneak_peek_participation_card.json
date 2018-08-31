@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Code of the Duelist Sneak Peek Participation Card",
+    "type": "Sneak Peek Participation Cards",
+    "date": "2017-07-29",
+    "distribution": "sneak_peek_participation_cards",
+    "prefix": "COTD",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Vendread Houndhorde",
+        "set_number": "COTD-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

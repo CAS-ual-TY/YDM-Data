@@ -1,0 +1,24 @@
+{
+  "name": "Dragunity Knight - Trident",
+  "number": "80159717",
+  "is_illegal": false,
+  "text": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nOnce per turn, you can send up to 3 cards you control to the Graveyard to look at your opponent's Extra Deck and send an equal number of cards to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2400",
+  "defense": "1700",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Frightfur Sabre-Tooth",
+  "number": "80889750",
+  "is_illegal": false,
+  "text": "1 \"Frightfur\" Fusion Monster + 1 or more \"Fluffal\" and/or \"Edge Imp\" monsters\nWhen this card is Fusion Summoned: You can target 1 \"Frightfur\" monster in your Graveyard; Special Summon it. All \"Frightfur\" monsters you control gain 400 ATK. If this card was Fusion Summoned using 3 or more Fusion Materials, it cannot be destroyed by battle or card effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2400",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

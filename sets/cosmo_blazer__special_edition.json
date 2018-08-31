@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Cosmo Blazer: Special Edition",
+    "type": "Special Edition Promo Cards",
+    "date": "2013-03-21",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CBLZ",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Wind-Up Shark",
+        "set_number": "CBLZ-ENSE1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Blade Armor Ninja",
+        "set_number": "CBLZ-ENSE2",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

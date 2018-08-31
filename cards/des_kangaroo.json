@@ -1,0 +1,24 @@
+{
+  "name": "Des Kangaroo",
+  "number": "78613627",
+  "is_illegal": false,
+  "text": "If the ATK of a monster that attacks this monster is lower than the DEF of this card, destroy the attacking monster. (Damage calculation is applied normally.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1500",
+  "defense": "1700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

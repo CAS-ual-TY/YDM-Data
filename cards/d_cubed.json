@@ -1,0 +1,24 @@
+{
+  "name": "D Cubed",
+  "number": "99357565",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: It is also treated as a \"Destiny HERO\" monster while face-up on the field. You can only use each of the following effects of \"D Cubed\" once per turn.\nâ—? You can discard up to 2 cards; Special Summon \"D Cubed\" from your hand, Deck, and/or Graveyard, equal to the number discarded, also for the rest of this turn, you cannot Normal or Special Summon other monsters, except \"Destiny HERO\" monsters.\nâ—? If this card is destroyed by battle or card effect: You can send 1 \"Destiny HERO\" monster from your Deck to the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

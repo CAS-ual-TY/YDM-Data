@@ -1,0 +1,24 @@
+{
+  "name": "Red-Eyes Zombie Dragon",
+  "number": "5186893",
+  "is_illegal": false,
+  "text": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 Zombie-Type monster. When this card destroys a Zombie-Type monster by battle and sends it to the Graveyard: You can Special Summon that monster to your side of the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2400",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

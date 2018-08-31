@@ -1,0 +1,24 @@
+{
+  "name": "Dark Witch",
+  "number": "35565537",
+  "is_illegal": false,
+  "text": "A popular creature in mythology that delivers fatal attacks with a sharp spear.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1800",
+  "defense": "1700",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

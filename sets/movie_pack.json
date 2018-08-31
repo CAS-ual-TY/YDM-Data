@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Movie Pack",
+    "type": "Booster Pack",
+    "date": "2004-08-13",
+    "distribution": "booster_pack",
+    "prefix": "MOV",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Blue-Eyes Shining Dragon",
+        "set_number": "MOV-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Sorcerer of Dark Magic",
+        "set_number": "MOV-EN002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Watapon",
+        "set_number": "MOV-EN003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pyramid of Light",
+        "set_number": "MOV-EN004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

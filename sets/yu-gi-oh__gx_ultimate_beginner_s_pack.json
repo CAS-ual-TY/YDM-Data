@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! GX Ultimate Beginner's Pack",
+    "type": "Video Game Promo Cards",
+    "date": "2006-07-19",
+    "distribution": "video_game_promo_cards",
+    "prefix": "UBP1",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Right Leg of the Forbidden One",
+        "set_number": "UBP1-EN001",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Left Leg of the Forbidden One",
+        "set_number": "UBP1-EN002",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Right Arm of the Forbidden One",
+        "set_number": "UBP1-EN003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Left Arm of the Forbidden One",
+        "set_number": "UBP1-EN004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Exodia the Forbidden One",
+        "set_number": "UBP1-EN005",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

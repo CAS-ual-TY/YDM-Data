@@ -1,0 +1,24 @@
+{
+  "name": "Victory Dragon",
+  "number": "44910027",
+  "is_illegal": false,
+  "text": "This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Dragon-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2400",
+  "defense": "3000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

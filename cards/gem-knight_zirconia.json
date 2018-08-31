@@ -1,0 +1,24 @@
+{
+  "name": "Gem-Knight Zirconia",
+  "number": "8692301",
+  "is_illegal": false,
+  "text": "1 \"Gem-Knight\" monster + 1 Rock-Type monster",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2900",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

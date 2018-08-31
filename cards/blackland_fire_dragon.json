@@ -1,0 +1,24 @@
+{
+  "name": "Blackland Fire Dragon",
+  "number": "87564352",
+  "is_illegal": false,
+  "text": "A dragon that dwells in the depths of darkness, its vulnerability lies in its poor eyesight.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1500",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "D.D. Sprite",
+  "number": "16638212",
+  "is_illegal": false,
+  "text": "You can Special Summon this card from your hand by removing from play 1 face-up monster you control. If you do, return the removed from play monster to the field during the next Standby Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "0",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "1"
+}

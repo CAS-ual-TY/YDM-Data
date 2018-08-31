@@ -1,0 +1,24 @@
+{
+  "name": "Skilled Blue Magician",
+  "number": "88901771",
+  "is_illegal": false,
+  "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Gaia The Fierce Knight\" monster from your hand, Deck, or Graveyard. You can banish this card from your Graveyard, then target 1 card you control that you can place a Spell Counter on; place 1 Spell Counter on it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1800",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Degrade Buster",
+  "number": "50426119",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Cyberse monsters from your GY. You can target 1 monster your opponent controls with higher ATK than this card (Quick Effect); banish it until the End Phase. You can only use this effect of \"Degrade Buster\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2500",
+  "defense": "2500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

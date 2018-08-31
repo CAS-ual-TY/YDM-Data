@@ -1,0 +1,11 @@
+{
+  "name": "Destruction Punch",
+  "number": "5616412",
+  "is_illegal": false,
+  "text": "If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

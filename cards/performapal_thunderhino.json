@@ -1,0 +1,24 @@
+{
+  "name": "Performapal Thunderhino",
+  "number": "70458081",
+  "is_illegal": false,
+  "text": "Monsters your opponent controls cannot target face-up \"Performapal\" monsters for attacks, except this one. If a \"Performapal\" card(s) you control, except \"Performapal Thunderhino\", would be destroyed by battle or card effect while this card is in your Graveyard, you can banish this card instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "200",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

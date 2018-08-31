@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Gladiator's Assault Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2007-11-03",
+    "distribution": "tournament_promo_cards",
+    "prefix": "GLAS",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Gladiator Beast Octavius",
+        "set_number": "GLAS-ENSP1",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

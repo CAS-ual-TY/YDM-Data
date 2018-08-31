@@ -1,0 +1,24 @@
+{
+  "name": "Oxygeddon",
+  "number": "58071123",
+  "is_illegal": false,
+  "text": "If this card is destroyed by battle with a Pyro monster and sent to the GY: Each player takes 800 damage.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1800",
+  "defense": "800",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

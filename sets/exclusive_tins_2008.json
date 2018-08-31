@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Exclusive Tins 2008",
+    "type": "Special Edition Promo Cards",
+    "date": "2008-09-23",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT05",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Montage Dragon",
+        "set_number": "CT05-ENS01",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Nitro Warrior",
+        "set_number": "CT05-ENS02",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Goyo Guardian",
+        "set_number": "CT05-ENS03",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ocubeam",
+  "number": "86088138",
+  "is_illegal": false,
+  "text": "Frightening in appearance, this creature uses its large eyes and ears to keep track of any movement.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1550",
+  "defense": "1650",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

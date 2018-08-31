@@ -1,0 +1,24 @@
+{
+  "name": "Ignoble Knight of High Laundsallyn",
+  "number": "83519853",
+  "is_illegal": false,
+  "text": "1 Tuner + 1 or more non-Tuner \"Noble Knight\" monsters\nWhen this card is Synchro Summoned: You can equip 1 \"Noble Arms\" Equip Spell Card from your Deck to this card. At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard: You can add 1 \"Noble Knight\" or \"Noble Arms\" card from your Deck to your hand. You can only control 1 \"Ignoble Knight of High Laundsallyn\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2100",
+  "defense": "900",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "5"
+}

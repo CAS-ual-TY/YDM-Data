@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! The Sacred Cards",
+    "type": "Video Game Promo Cards",
+    "date": "2003-11-04",
+    "distribution": "video_game_promo_cards",
+    "prefix": "TSC",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Perfectly Ultimate Great Moth",
+        "set_number": "TSC-001",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Riryoku",
+        "set_number": "TSC-002",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Negate Attack",
+        "set_number": "TSC-003",
+        "rarities": [
+          "Prismatic Secret Rare"
+        ],
+        "count": {
+          "Prismatic Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

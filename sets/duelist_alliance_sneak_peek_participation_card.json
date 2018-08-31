@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist Alliance Sneak Peek Participation Card",
+    "type": "Tournament Promo Cards",
+    "date": "2014-08-09",
+    "distribution": "tournament_promo_cards",
+    "prefix": "DUEA",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Dragon Horn Hunter",
+        "set_number": "DUEA-ENSP1",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Minerva, Scholar of the Sky",
+  "number": "53666449",
+  "is_illegal": false,
+  "text": "Each time a Counter Trap Card is activated, this card gains 500 ATK immediately after it resolves, also, if \"The Sanctuary in the Sky\" is on the field, add 1 Counter Trap with a different name from that activated card from your GY to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1700",
+  "defense": "400",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

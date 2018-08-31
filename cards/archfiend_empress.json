@@ -1,0 +1,24 @@
+{
+  "name": "Archfiend Empress",
+  "number": "31766317",
+  "is_illegal": false,
+  "text": "If (exactly) 1 face-up DARK Fiend-Type monster on the field, except this card, would be destroyed, you can remove from play 1 DARK Fiend-Type monster from your Graveyard, instead. When this card is destroyed and sent from the field to the Graveyard, you can select 1 Level 6 or higher DARK Fiend-Type monster in your Graveyard, except \"Archfiend Empress\", and Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2900",
+  "defense": "2100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

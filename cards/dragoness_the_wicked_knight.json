@@ -1,0 +1,24 @@
+{
+  "name": "Dragoness the Wicked Knight",
+  "number": "70681994",
+  "is_illegal": false,
+  "text": "\"Armaill\" + \"One-Eyed Shield Dragon\"",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1200",
+  "defense": "900",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "3"
+}

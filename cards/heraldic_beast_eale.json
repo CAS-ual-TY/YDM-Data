@@ -1,0 +1,24 @@
+{
+  "name": "Heraldic Beast Eale",
+  "number": "82315772",
+  "is_illegal": false,
+  "text": "If you control 2 or more \"Heraldic Beast\" monsters, you can Special Summon this card (from your hand).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1000",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

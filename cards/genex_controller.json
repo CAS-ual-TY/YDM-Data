@@ -1,0 +1,25 @@
+{
+  "name": "Genex Controller",
+  "number": "68505803",
+  "is_illegal": false,
+  "text": "As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1400",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal",
+    "Tuner"
+  ],
+  "stars": "3"
+}

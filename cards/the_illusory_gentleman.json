@@ -1,0 +1,24 @@
+{
+  "name": "The Illusory Gentleman",
+  "number": "83764996",
+  "is_illegal": false,
+  "text": "Wearing odd fashions, this gentleman is very fickle. He sometimes saves people and at other times commits crimes.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1500",
+  "defense": "1600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "4"
+}

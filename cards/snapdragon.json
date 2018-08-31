@@ -1,0 +1,24 @@
+{
+  "name": "Snapdragon",
+  "number": "75673220",
+  "is_illegal": false,
+  "text": "When this card is sent to the Graveyard: Banish 1 random card from your opponent's hand, until the End Phase. You can only use the effect of \"Snapdragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "300",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

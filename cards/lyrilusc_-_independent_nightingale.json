@@ -1,0 +1,24 @@
+{
+  "name": "Lyrilusc - Independent Nightingale",
+  "number": "76815942",
+  "is_illegal": false,
+  "text": "\"Lyrilusc - Assembled Nightingale\" + 1 \"Lyrilusc\" monster\nIf this card is Fusion Summoned using an Xyz Monster on the field as Fusion Material whose original name includes \"Lyrilusc\": You can increase this card's Level by the number of Xyz Materials that monster(s) had. This card gains ATK equal to its Level x 500. Unaffected by other cards' effects. Once per turn: You can inflict damage to your opponent equal to this card's Level x 500.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1000",
+  "defense": "0",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "1"
+}

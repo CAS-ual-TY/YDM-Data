@@ -1,0 +1,24 @@
+{
+  "name": "Naturia Stag Beetle",
+  "number": "23051413",
+  "is_illegal": false,
+  "text": "Once per turn, during the Battle Step or Damage Step of this card's attack, when your opponent activates a card or effect, you can select 1 \"Naturia\" monster in your Graveyard. Special Summon that monster from the Graveyard.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "2200",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

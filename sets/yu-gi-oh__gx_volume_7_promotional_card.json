@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! GX Volume 7 promotional card",
+    "type": "Manga Promo",
+    "date": "2010-04-30",
+    "distribution": "manga_promo",
+    "prefix": "YG07",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Blizzard Princess",
+        "set_number": "YG07-EN001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

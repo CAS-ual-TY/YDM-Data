@@ -1,0 +1,24 @@
+{
+  "name": "Brotherhood of the Fire Fist - Cardinal",
+  "number": "58504745",
+  "is_illegal": false,
+  "text": "2 Level 4 \"Fire Fist\" monsters\nYou can detach 2 Xyz Materials from this card, then target 2 \"Fire Fist\" / \"Fire Formation\" cards in your Graveyard and/or face-up on your side of the field, and 2 cards in your opponent's Graveyard and/or face-up on their side of the field; shuffle those targets into the Deck. You can only use the effect of \"Brotherhood of the Fire Fist - Cardinal\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1800",
+  "defense": "2200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sylvan Princessprite",
+  "number": "33909817",
+  "is_illegal": false,
+  "text": "2 Level 1 monsters\nYou can detach 1 Xyz Material from this card; excavate the top card of your Deck, and if it is a Spell/Trap Card, add it to your hand. Otherwise, send it to the Graveyard. You can send 1 other Plant-Type monster from your hand or face-up from your field to the Graveyard, then target 1 \"Sylvan\" monster in your Graveyard; Special Summon it. You can only use each effect of \"Sylvan Princessprite\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "1800",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "1"
+}

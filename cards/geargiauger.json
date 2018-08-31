@@ -1,0 +1,24 @@
+{
+  "name": "Geargiauger",
+  "number": "47687766",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can add 1 Level 4 EARTH Machine-Type monster from your Deck to your hand, except \"Geargiauger\", also you cannot declare attacks, nor Special Summon monsters except Machine-Type monsters, for the rest of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Jizukiru, the Star Destroying Kaiju",
+  "number": "63941210",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) to your opponent's side of the field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. During either player's turn, when a card or effect is activated that targets exactly 1 card (and no other cards): You can remove 3 Kaiju Counters from anywhere on the field; negate that effect, and if you do, you can destroy 1 card on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "3300",
+  "defense": "2600",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

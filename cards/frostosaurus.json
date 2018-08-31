@@ -1,0 +1,24 @@
+{
+  "name": "Frostosaurus",
+  "number": "6631034",
+  "is_illegal": false,
+  "text": "This monster's metabolism enables it to endure long periods of cold, harnessing the power to become a creature of solid ice! Nothing else can withstand such temperatures, especially victims of its glacial rampage.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "2600",
+  "defense": "1700",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "6"
+}

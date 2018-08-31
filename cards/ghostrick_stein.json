@@ -1,0 +1,24 @@
+{
+  "name": "Ghostrick Stein",
+  "number": "16279989",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. When this card inflicts battle damage to your opponent: You can add 1 \"Ghostrick\" Spell/Trap Card from your Deck to your hand. You can only use this effect of \"Ghostrick Stein\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "1600",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

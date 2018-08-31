@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Duelist League Series 5",
+    "type": "Duelist League Promo Cards",
+    "date": "2004-06-01",
+    "distribution": "duelist_league_promo_cards",
+    "prefix": "DL5",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Restructer Revolution",
+        "set_number": "DL5-EN001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

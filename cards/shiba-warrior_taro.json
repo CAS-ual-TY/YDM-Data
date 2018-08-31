@@ -1,0 +1,24 @@
+{
+  "name": "Shiba-Warrior Taro",
+  "number": "27416701",
+  "is_illegal": false,
+  "text": "This card cannot be destroyed by battle. When a card on the field is destroyed by battle or by a card effect, return this face-up card to its owner's hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "800",
+  "defense": "600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "2"
+}

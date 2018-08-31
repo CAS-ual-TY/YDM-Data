@@ -1,0 +1,28 @@
+{
+  "name": "Ghost Beef",
+  "number": "84046493",
+  "is_illegal": false,
+  "text": "The ghost of Christmas Dinner.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2000",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Normal"
+  ],
+  "pendulum_left": "Pendulum Scale = 4",
+  "pendulum_right": "Pendulum Scale = 4",
+  "pendulum_text": "Once per turn: You can roll a six-sided die and increase this card's Pendulum Scale by the result (max. 10), until the end of this turn.",
+  "stars": "7"
+}

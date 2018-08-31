@@ -1,0 +1,24 @@
+{
+  "name": "Octoberser",
+  "number": "74637266",
+  "is_illegal": false,
+  "text": "With the head of a fish and the legs of an octopus, this strange creature attacks enemies by flinging spears.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1600",
+  "defense": "1400",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "5"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Chamberlain of the Six Samurai",
+  "number": "44430454",
+  "is_illegal": false,
+  "text": "The Six Samurai are supported from the shadows by this silent and mysterious warrior. His past is unknown to them, but his countless scars are proof of his experience.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "200",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Normal"
+  ],
+  "stars": "3"
+}

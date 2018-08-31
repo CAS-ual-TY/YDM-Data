@@ -1,0 +1,27 @@
+{
+  "name": "Shaddoll Construct",
+  "number": "86938484",
+  "is_illegal": false,
+  "text": "2 Flip monsters\nDuring your Main Phase: You can Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. If this card is in your GY: You can send 1 \"Shaddoll\" card from your hand or face-up from your field to the GY, and if you do, Special Summon this card. You can only use each effect of \"Shaddoll Construct\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Right"
+  ],
+  "link_number": "2"
+}

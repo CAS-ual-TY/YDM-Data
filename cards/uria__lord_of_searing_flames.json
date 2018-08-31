@@ -1,0 +1,24 @@
+{
+  "name": "Uria, Lord of Searing Flames",
+  "number": "6007213",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Trap Cards you control to the Graveyard, and cannot be Special Summoned by other ways. This card gains 1000 ATK for each Continuous Trap Card in your Graveyard. Once per turn: You can target 1 Set Spell/Trap Card your opponent controls; destroy that target. Neither player can activate Spell/Trap Cards in response to this effect's activation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

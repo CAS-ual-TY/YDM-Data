@@ -1,0 +1,24 @@
+{
+  "name": "Altergeist Meluseek",
+  "number": "25533642",
+  "is_illegal": false,
+  "text": "This card can attack directly. When this card inflicts battle damage to your opponent: You can target 1 card your opponent controls; send it to the GY. If this card is sent from the field to the GY: You can add 1 \"Altergeist\" monster from your Deck to your hand, except \"Altergeist Meluseek\". You can only use this effect of \"Altergeist Meluseek\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "500",
+  "defense": "300",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

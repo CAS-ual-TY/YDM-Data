@@ -1,0 +1,11 @@
+{
+  "name": "Amazoness Heirloom",
+  "number": "79965360",
+  "is_illegal": false,
+  "text": "Equip only to an \"Amazoness\" monster. Once per turn, that monster cannot be destroyed by battle. When the equipped monster attacks, after damage calculation, destroy the attack target.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Equip"
+}

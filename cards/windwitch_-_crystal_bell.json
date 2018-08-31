@@ -1,0 +1,24 @@
+{
+  "name": "Windwitch - Crystal Bell",
+  "number": "25793414",
+  "is_illegal": false,
+  "text": "\"Windwitch - Winter Bell\" + 1 \"Windwitch\" monster\nYou can target 1 monster in either player's Graveyard; until the End Phase, this card's name becomes that target's original name, and replace this effect with that target's original effects. If this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 \"Windwitch - Winter Bell\" and 1 Level 4 or lower \"Windwitch\" monster in your Graveyard; Special Summon them. You can only use each effect of \"Windwitch - Crystal Bell\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2800",
+  "defense": "2400",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

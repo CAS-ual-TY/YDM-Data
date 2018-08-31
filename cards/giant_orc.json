@@ -1,0 +1,24 @@
+{
+  "name": "Giant Orc",
+  "number": "73698349",
+  "is_illegal": false,
+  "text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. You cannot change this battle position until the end of your next turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2200",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

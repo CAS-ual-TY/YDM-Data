@@ -1,0 +1,24 @@
+{
+  "name": "Miracle Jurassic Egg",
+  "number": "63259351",
+  "is_illegal": false,
+  "text": "While face-up on the field, this card cannot be banished. Each time a Dinosaur-Type monster(s) is sent to your Graveyard, place 2 counters on this card. You can Tribute this card; Special Summon 1 Dinosaur-Type monster from your Deck whose Level is less than or equal to the number of counters that were on this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "0",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

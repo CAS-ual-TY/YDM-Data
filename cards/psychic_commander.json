@@ -1,0 +1,24 @@
+{
+  "name": "Psychic Commander",
+  "number": "21454943",
+  "is_illegal": false,
+  "text": "When a Psychic-Type monster you control battles, during the Damage Step you can pay Life Points in multiples of 100 (max. 500) to have the monster it's battling lose that much ATK and DEF, until the End Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "1400",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner"
+  ],
+  "stars": "3"
+}

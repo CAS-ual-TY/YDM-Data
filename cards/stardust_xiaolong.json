@@ -1,0 +1,24 @@
+{
+  "name": "Stardust Xiaolong",
+  "number": "68543408",
+  "is_illegal": false,
+  "text": "When you Synchro Summon \"Stardust Dragon\", you can Special Summon this card from your Graveyard in face-up Attack Position. Once per turn, if this card would be destroyed by battle, it is not destroyed.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

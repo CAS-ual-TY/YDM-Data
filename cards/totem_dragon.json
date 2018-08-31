@@ -1,0 +1,24 @@
+{
+  "name": "Totem Dragon",
+  "number": "564541",
+  "is_illegal": false,
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a Dragon-Type monster. If this card is in your Graveyard during your Standby Phase and you control no monsters, you can Special Summon this card in Attack Position. You cannot activate this effect if there are any monsters in your Graveyard that are not Dragon-Type. If this card is Special Summoned with this effect, remove it from play when it is removed from the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "400",
+  "defense": "200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}
