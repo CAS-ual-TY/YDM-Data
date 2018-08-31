@@ -1,444 +1,441 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
-    "type": "Starter Deck",
-    "date": "2009-06-09",
-    "distribution": "",
-    "prefix": "5DS2",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Gogiga Gagagigo",
-        "set_number": "5DS2-EN001",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sabersaurus",
-        "set_number": "5DS2-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cyber-Tech Alligator",
-        "set_number": "5DS2-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "X-Saber Anu Piranha",
-        "set_number": "5DS2-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Dragon Dwelling in the Cave",
-        "set_number": "5DS2-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Road Synchron",
-        "set_number": "5DS2-EN006",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Powered Tuner",
-        "set_number": "5DS2-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Goblin Attack Force",
-        "set_number": "5DS2-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Penguin Soldier",
-        "set_number": "5DS2-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sasuke Samurai",
-        "set_number": "5DS2-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Des Koala",
-        "set_number": "5DS2-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Saber Beetle",
-        "set_number": "5DS2-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Quillbolt Hedgehog",
-        "set_number": "5DS2-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Junk Synchron",
-        "set_number": "5DS2-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Speed Warrior",
-        "set_number": "5DS2-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Skelengel",
-        "set_number": "5DS2-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sonic Chick",
-        "set_number": "5DS2-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magna Drago",
-        "set_number": "5DS2-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "X-Saber Airbellum",
-        "set_number": "5DS2-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "X-Saber Galahad",
-        "set_number": "5DS2-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Pride of the Weak",
-        "set_number": "5DS2-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rush Recklessly",
-        "set_number": "5DS2-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Giant Trunade",
-        "set_number": "5DS2-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tribute to The Doomed",
-        "set_number": "5DS2-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Warrior Returning Alive",
-        "set_number": "5DS2-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Emergency Provisions",
-        "set_number": "5DS2-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Creature Swap",
-        "set_number": "5DS2-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Twister",
-        "set_number": "5DS2-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "De-Synchro",
-        "set_number": "5DS2-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Unstable Evolution",
-        "set_number": "5DS2-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ookazi",
-        "set_number": "5DS2-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Synchro Boost",
-        "set_number": "5DS2-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gottoms' Emergency Call",
-        "set_number": "5DS2-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dust Tornado",
-        "set_number": "5DS2-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magic Drain",
-        "set_number": "5DS2-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Raigeki Break",
-        "set_number": "5DS2-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Limit Reverse",
-        "set_number": "5DS2-EN037",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Scrap-Iron Scarecrow",
-        "set_number": "5DS2-EN038",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Miniaturize",
-        "set_number": "5DS2-EN039",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Widespread Ruin",
-        "set_number": "5DS2-EN040",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Road Warrior",
-        "set_number": "5DS2-EN041",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Junk Warrior",
-        "set_number": "5DS2-EN042",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "X-Saber Urbellum",
-        "set_number": "5DS2-EN043",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+  "type": "Starter Deck",
+  "date": "2009-06-09",
+  "distribution": "",
+  "prefix": "5DS2",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Gogiga Gagagigo",
+      "set_number": "5DS2-EN001",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Sabersaurus",
+      "set_number": "5DS2-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cyber-Tech Alligator",
+      "set_number": "5DS2-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "X-Saber Anu Piranha",
+      "set_number": "5DS2-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Dragon Dwelling in the Cave",
+      "set_number": "5DS2-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Road Synchron",
+      "set_number": "5DS2-EN006",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Powered Tuner",
+      "set_number": "5DS2-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Goblin Attack Force",
+      "set_number": "5DS2-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Penguin Soldier",
+      "set_number": "5DS2-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sasuke Samurai",
+      "set_number": "5DS2-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Des Koala",
+      "set_number": "5DS2-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Saber Beetle",
+      "set_number": "5DS2-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Quillbolt Hedgehog",
+      "set_number": "5DS2-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Junk Synchron",
+      "set_number": "5DS2-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Speed Warrior",
+      "set_number": "5DS2-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Skelengel",
+      "set_number": "5DS2-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sonic Chick",
+      "set_number": "5DS2-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magna Drago",
+      "set_number": "5DS2-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "X-Saber Airbellum",
+      "set_number": "5DS2-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "X-Saber Galahad",
+      "set_number": "5DS2-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pride of the Weak",
+      "set_number": "5DS2-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rush Recklessly",
+      "set_number": "5DS2-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Giant Trunade",
+      "set_number": "5DS2-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tribute to The Doomed",
+      "set_number": "5DS2-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Warrior Returning Alive",
+      "set_number": "5DS2-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Emergency Provisions",
+      "set_number": "5DS2-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Creature Swap",
+      "set_number": "5DS2-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Twister",
+      "set_number": "5DS2-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "De-Synchro",
+      "set_number": "5DS2-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Unstable Evolution",
+      "set_number": "5DS2-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ookazi",
+      "set_number": "5DS2-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Synchro Boost",
+      "set_number": "5DS2-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gottoms' Emergency Call",
+      "set_number": "5DS2-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dust Tornado",
+      "set_number": "5DS2-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magic Drain",
+      "set_number": "5DS2-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Raigeki Break",
+      "set_number": "5DS2-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Limit Reverse",
+      "set_number": "5DS2-EN037",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Scrap-Iron Scarecrow",
+      "set_number": "5DS2-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Miniaturize",
+      "set_number": "5DS2-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Widespread Ruin",
+      "set_number": "5DS2-EN040",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Road Warrior",
+      "set_number": "5DS2-EN041",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Junk Warrior",
+      "set_number": "5DS2-EN042",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "X-Saber Urbellum",
+      "set_number": "5DS2-EN043",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
+  ]
 }

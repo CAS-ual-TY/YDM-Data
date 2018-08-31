@@ -1,816 +1,813 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Abyss Rising",
-    "type": "Booster Pack",
-    "date": "2012-07-21",
-    "distribution": "booster_pack",
-    "prefix": "ABYR",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Gagaga Caesar",
-        "set_number": "ABYR-EN001",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Bull Blader",
-        "set_number": "ABYR-EN002",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Achacha Chanbara",
-        "set_number": "ABYR-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mogmole",
-        "set_number": "ABYR-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Grandram",
-        "set_number": "ABYR-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tripod Fish",
-        "set_number": "ABYR-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Deep Sweeper",
-        "set_number": "ABYR-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Heroic Challenger - Extra Sword",
-        "set_number": "ABYR-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Heroic Challenger - Night Watchman",
-        "set_number": "ABYR-EN009",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Planet Pathfinder",
-        "set_number": "ABYR-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Solar Wind Jammer",
-        "set_number": "ABYR-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Heraldic Beast Aberconway",
-        "set_number": "ABYR-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Heraldic Beast Berners Falcon",
-        "set_number": "ABYR-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mermail Abysslinde",
-        "set_number": "ABYR-EN014",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mermail Abyssgunde",
-        "set_number": "ABYR-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mermail Abysshilde",
-        "set_number": "ABYR-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mermail Abyssturge",
-        "set_number": "ABYR-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mermail Abysspike",
-        "set_number": "ABYR-EN018",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mermail Abysslung",
-        "set_number": "ABYR-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mermail Abyssmegalo",
-        "set_number": "ABYR-EN020",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Stoic of Prophecy",
-        "set_number": "ABYR-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hermit of Prophecy",
-        "set_number": "ABYR-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Justice of Prophecy",
-        "set_number": "ABYR-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Emperor of Prophecy",
-        "set_number": "ABYR-EN024",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Madolche Cruffssant",
-        "set_number": "ABYR-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Madolche Marmalmaide",
-        "set_number": "ABYR-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Madolche Messengelato",
-        "set_number": "ABYR-EN027",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Abyss Warrior",
-        "set_number": "ABYR-EN028",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Snowman Creator",
-        "set_number": "ABYR-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fishborg Planter",
-        "set_number": "ABYR-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nimble Angler",
-        "set_number": "ABYR-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shore Knight",
-        "set_number": "ABYR-EN032",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mecha Sea Dragon Plesion",
-        "set_number": "ABYR-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Metallizing Parasite - Soltite",
-        "set_number": "ABYR-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Moulinglacia the Elemental Lord",
-        "set_number": "ABYR-EN035",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "House Duston",
-        "set_number": "ABYR-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Puny Penguin",
-        "set_number": "ABYR-EN037",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Missing Force",
-        "set_number": "ABYR-EN038",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Number C32: Shark Drake Veiss",
-        "set_number": "ABYR-EN039",
-        "rarities": [
-          "Holographic Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Holographic Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "One-Eyed Skill Gainer",
-        "set_number": "ABYR-EN040",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Gagaga Cowboy",
-        "set_number": "ABYR-EN041",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Heroic Champion - Gandiva",
-        "set_number": "ABYR-EN042",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Heroic Champion - Kusanagi",
-        "set_number": "ABYR-EN043",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 9: Dyson Sphere",
-        "set_number": "ABYR-EN044",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 8: Heraldic King Genom-Heritage",
-        "set_number": "ABYR-EN045",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Mermail Abyssgaios",
-        "set_number": "ABYR-EN046",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Empress of Prophecy",
-        "set_number": "ABYR-EN047",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Madolche Queen Tiaramisu",
-        "set_number": "ABYR-EN048",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Gagagigo the Risen",
-        "set_number": "ABYR-EN050",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "One-Shot Wand",
-        "set_number": "ABYR-EN051",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Different Dimension Deepsea Trench",
-        "set_number": "ABYR-EN052",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tannhauser Gate",
-        "set_number": "ABYR-EN053",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Gravity Blaster",
-        "set_number": "ABYR-EN054",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Advanced Heraldry Art",
-        "set_number": "ABYR-EN055",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Abyss-scale of the Kraken",
-        "set_number": "ABYR-EN056",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lemuria, the Forgotten City",
-        "set_number": "ABYR-EN057",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spellbook of Eternity",
-        "set_number": "ABYR-EN058",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spellbook of Fate",
-        "set_number": "ABYR-EN059",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Grand Spellbook Tower",
-        "set_number": "ABYR-EN060",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Madolche Ticket",
-        "set_number": "ABYR-EN061",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Forbidden Dress",
-        "set_number": "ABYR-EN062",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Final Gesture",
-        "set_number": "ABYR-EN063",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mind Pollutant",
-        "set_number": "ABYR-EN064",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "The Humble Sentry",
-        "set_number": "ABYR-EN065",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Battle Break",
-        "set_number": "ABYR-EN066",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bubble Bringer",
-        "set_number": "ABYR-EN067",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Heroic Gift",
-        "set_number": "ABYR-EN068",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Heroic Advance",
-        "set_number": "ABYR-EN069",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Xyz Xtreme !!",
-        "set_number": "ABYR-EN070",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Abyss-squall",
-        "set_number": "ABYR-EN071",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Abyss-sphere",
-        "set_number": "ABYR-EN072",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Abyss-strom",
-        "set_number": "ABYR-EN073",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Madolchepalooza",
-        "set_number": "ABYR-EN074",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Memory of an Adversary",
-        "set_number": "ABYR-EN075",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magic Deflector",
-        "set_number": "ABYR-EN076",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "That Wacky Alchemy!",
-        "set_number": "ABYR-EN077",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cash Back",
-        "set_number": "ABYR-EN078",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Unification",
-        "set_number": "ABYR-EN079",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Retort",
-        "set_number": "ABYR-EN080",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
+  "name": "Abyss Rising",
+  "type": "Booster Pack",
+  "date": "2012-07-21",
+  "distribution": "booster_pack",
+  "prefix": "ABYR",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Gagaga Caesar",
+      "set_number": "ABYR-EN001",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Bull Blader",
+      "set_number": "ABYR-EN002",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Achacha Chanbara",
+      "set_number": "ABYR-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mogmole",
+      "set_number": "ABYR-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Grandram",
+      "set_number": "ABYR-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tripod Fish",
+      "set_number": "ABYR-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Deep Sweeper",
+      "set_number": "ABYR-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Heroic Challenger - Extra Sword",
+      "set_number": "ABYR-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Heroic Challenger - Night Watchman",
+      "set_number": "ABYR-EN009",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Planet Pathfinder",
+      "set_number": "ABYR-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Solar Wind Jammer",
+      "set_number": "ABYR-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Heraldic Beast Aberconway",
+      "set_number": "ABYR-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Heraldic Beast Berners Falcon",
+      "set_number": "ABYR-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mermail Abysslinde",
+      "set_number": "ABYR-EN014",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mermail Abyssgunde",
+      "set_number": "ABYR-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mermail Abysshilde",
+      "set_number": "ABYR-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mermail Abyssturge",
+      "set_number": "ABYR-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mermail Abysspike",
+      "set_number": "ABYR-EN018",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mermail Abysslung",
+      "set_number": "ABYR-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mermail Abyssmegalo",
+      "set_number": "ABYR-EN020",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Stoic of Prophecy",
+      "set_number": "ABYR-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hermit of Prophecy",
+      "set_number": "ABYR-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Justice of Prophecy",
+      "set_number": "ABYR-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Emperor of Prophecy",
+      "set_number": "ABYR-EN024",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Madolche Cruffssant",
+      "set_number": "ABYR-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Madolche Marmalmaide",
+      "set_number": "ABYR-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Madolche Messengelato",
+      "set_number": "ABYR-EN027",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Abyss Warrior",
+      "set_number": "ABYR-EN028",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Snowman Creator",
+      "set_number": "ABYR-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fishborg Planter",
+      "set_number": "ABYR-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nimble Angler",
+      "set_number": "ABYR-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shore Knight",
+      "set_number": "ABYR-EN032",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mecha Sea Dragon Plesion",
+      "set_number": "ABYR-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Metallizing Parasite - Soltite",
+      "set_number": "ABYR-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Moulinglacia the Elemental Lord",
+      "set_number": "ABYR-EN035",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "House Duston",
+      "set_number": "ABYR-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Puny Penguin",
+      "set_number": "ABYR-EN037",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Missing Force",
+      "set_number": "ABYR-EN038",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Number C32: Shark Drake Veiss",
+      "set_number": "ABYR-EN039",
+      "rarities": [
+        "Holographic Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Holographic Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "One-Eyed Skill Gainer",
+      "set_number": "ABYR-EN040",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gagaga Cowboy",
+      "set_number": "ABYR-EN041",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Heroic Champion - Gandiva",
+      "set_number": "ABYR-EN042",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Heroic Champion - Kusanagi",
+      "set_number": "ABYR-EN043",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 9: Dyson Sphere",
+      "set_number": "ABYR-EN044",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 8: Heraldic King Genom-Heritage",
+      "set_number": "ABYR-EN045",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Mermail Abyssgaios",
+      "set_number": "ABYR-EN046",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Empress of Prophecy",
+      "set_number": "ABYR-EN047",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Madolche Queen Tiaramisu",
+      "set_number": "ABYR-EN048",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Gagagigo the Risen",
+      "set_number": "ABYR-EN050",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "One-Shot Wand",
+      "set_number": "ABYR-EN051",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Different Dimension Deepsea Trench",
+      "set_number": "ABYR-EN052",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tannhauser Gate",
+      "set_number": "ABYR-EN053",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravity Blaster",
+      "set_number": "ABYR-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Advanced Heraldry Art",
+      "set_number": "ABYR-EN055",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Abyss-scale of the Kraken",
+      "set_number": "ABYR-EN056",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lemuria, the Forgotten City",
+      "set_number": "ABYR-EN057",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spellbook of Eternity",
+      "set_number": "ABYR-EN058",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spellbook of Fate",
+      "set_number": "ABYR-EN059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Grand Spellbook Tower",
+      "set_number": "ABYR-EN060",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Madolche Ticket",
+      "set_number": "ABYR-EN061",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Forbidden Dress",
+      "set_number": "ABYR-EN062",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Final Gesture",
+      "set_number": "ABYR-EN063",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mind Pollutant",
+      "set_number": "ABYR-EN064",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "The Humble Sentry",
+      "set_number": "ABYR-EN065",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Battle Break",
+      "set_number": "ABYR-EN066",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bubble Bringer",
+      "set_number": "ABYR-EN067",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Heroic Gift",
+      "set_number": "ABYR-EN068",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Heroic Advance",
+      "set_number": "ABYR-EN069",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Xyz Xtreme !!",
+      "set_number": "ABYR-EN070",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Abyss-squall",
+      "set_number": "ABYR-EN071",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Abyss-sphere",
+      "set_number": "ABYR-EN072",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Abyss-strom",
+      "set_number": "ABYR-EN073",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Madolchepalooza",
+      "set_number": "ABYR-EN074",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Memory of an Adversary",
+      "set_number": "ABYR-EN075",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magic Deflector",
+      "set_number": "ABYR-EN076",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "That Wacky Alchemy!",
+      "set_number": "ABYR-EN077",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cash Back",
+      "set_number": "ABYR-EN078",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Unification",
+      "set_number": "ABYR-EN079",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Retort",
+      "set_number": "ABYR-EN080",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    }
+  ]
 }

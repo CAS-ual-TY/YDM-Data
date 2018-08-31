@@ -1,424 +1,421 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Wave of Light Structure Deck",
-    "type": "Structure Deck",
-    "date": "2018-01-18",
-    "distribution": "",
-    "prefix": "SR05",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Eva",
-        "set_number": "SR05-EN000",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Sacred Arch-Airknight Parshath",
-        "set_number": "SR05-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Minerva, Scholar of the Sky",
-        "set_number": "SR05-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Power Angel Valkyria",
-        "set_number": "SR05-EN003",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo-Parshath, the Sky Paladin",
-        "set_number": "SR05-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Airknight Parshath",
-        "set_number": "SR05-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Meltiel, Sage of the Sky",
-        "set_number": "SR05-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Harvest Angel of Wisdom",
-        "set_number": "SR05-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bountiful Artemis",
-        "set_number": "SR05-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Layard the Liberator",
-        "set_number": "SR05-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Guiding Ariadne",
-        "set_number": "SR05-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Archlord Kristya",
-        "set_number": "SR05-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Splendid Venus",
-        "set_number": "SR05-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Athena",
-        "set_number": "SR05-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tethys, Goddess of Light",
-        "set_number": "SR05-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hecatrice",
-        "set_number": "SR05-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gellenduo",
-        "set_number": "SR05-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nova Summoner",
-        "set_number": "SR05-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Honest",
-        "set_number": "SR05-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Herald of Orange Light",
-        "set_number": "SR05-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Herald of Green Light",
-        "set_number": "SR05-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Herald of Purple Light",
-        "set_number": "SR05-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Guiding Light",
-        "set_number": "SR05-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D.D. Sprite",
-        "set_number": "SR05-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hanewata",
-        "set_number": "SR05-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Sanctum of Parshath",
-        "set_number": "SR05-EN025",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "The Sanctuary in the Sky",
-        "set_number": "SR05-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cards from the Sky",
-        "set_number": "SR05-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Celestial Transformation",
-        "set_number": "SR05-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Valhalla, Hall of the Fallen",
-        "set_number": "SR05-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ties of the Brethren",
-        "set_number": "SR05-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rebirth of Parshath",
-        "set_number": "SR05-EN031",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Light of Judgment",
-        "set_number": "SR05-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Miraculous Descent",
-        "set_number": "SR05-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Synthetic Seraphim",
-        "set_number": "SR05-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Divine Punishment",
-        "set_number": "SR05-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Bribe",
-        "set_number": "SR05-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Solemn Warning",
-        "set_number": "SR05-EN037",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ultimate Providence",
-        "set_number": "SR05-EN038",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Drastic Drop Off",
-        "set_number": "SR05-EN039",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Recall",
-        "set_number": "SR05-EN040",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "Wave of Light Structure Deck",
+  "type": "Structure Deck",
+  "date": "2018-01-18",
+  "distribution": "",
+  "prefix": "SR05",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Eva",
+      "set_number": "SR05-EN000",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Sacred Arch-Airknight Parshath",
+      "set_number": "SR05-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Minerva, Scholar of the Sky",
+      "set_number": "SR05-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Power Angel Valkyria",
+      "set_number": "SR05-EN003",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Neo-Parshath, the Sky Paladin",
+      "set_number": "SR05-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Airknight Parshath",
+      "set_number": "SR05-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Meltiel, Sage of the Sky",
+      "set_number": "SR05-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Harvest Angel of Wisdom",
+      "set_number": "SR05-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bountiful Artemis",
+      "set_number": "SR05-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Layard the Liberator",
+      "set_number": "SR05-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Guiding Ariadne",
+      "set_number": "SR05-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Archlord Kristya",
+      "set_number": "SR05-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Splendid Venus",
+      "set_number": "SR05-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Athena",
+      "set_number": "SR05-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tethys, Goddess of Light",
+      "set_number": "SR05-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hecatrice",
+      "set_number": "SR05-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gellenduo",
+      "set_number": "SR05-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nova Summoner",
+      "set_number": "SR05-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Honest",
+      "set_number": "SR05-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Herald of Orange Light",
+      "set_number": "SR05-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Herald of Green Light",
+      "set_number": "SR05-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Herald of Purple Light",
+      "set_number": "SR05-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Guiding Light",
+      "set_number": "SR05-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D.D. Sprite",
+      "set_number": "SR05-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hanewata",
+      "set_number": "SR05-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Sanctum of Parshath",
+      "set_number": "SR05-EN025",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "The Sanctuary in the Sky",
+      "set_number": "SR05-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cards from the Sky",
+      "set_number": "SR05-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Celestial Transformation",
+      "set_number": "SR05-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Valhalla, Hall of the Fallen",
+      "set_number": "SR05-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ties of the Brethren",
+      "set_number": "SR05-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rebirth of Parshath",
+      "set_number": "SR05-EN031",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Light of Judgment",
+      "set_number": "SR05-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Miraculous Descent",
+      "set_number": "SR05-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Synthetic Seraphim",
+      "set_number": "SR05-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Divine Punishment",
+      "set_number": "SR05-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Bribe",
+      "set_number": "SR05-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Solemn Warning",
+      "set_number": "SR05-EN037",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ultimate Providence",
+      "set_number": "SR05-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Drastic Drop Off",
+      "set_number": "SR05-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Recall",
+      "set_number": "SR05-EN040",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

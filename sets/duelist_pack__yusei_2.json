@@ -1,314 +1,311 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Duelist Pack: Yusei 2",
-    "type": "Duelist Pack",
-    "date": "2009-10-17",
-    "distribution": "duelist_pack",
-    "prefix": "DP09",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Stardust Dragon/Assault Mode",
-        "set_number": "DP09-EN001",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Road Synchron",
-        "set_number": "DP09-EN002",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Turret Warrior",
-        "set_number": "DP09-EN003",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Debris Dragon",
-        "set_number": "DP09-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hyper Synchron",
-        "set_number": "DP09-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rockstone Warrior",
-        "set_number": "DP09-EN006",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Level Warrior",
-        "set_number": "DP09-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Majestic Dragon",
-        "set_number": "DP09-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Max Warrior",
-        "set_number": "DP09-EN009",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Quickdraw Synchron",
-        "set_number": "DP09-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Level Eater",
-        "set_number": "DP09-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Zero Gardna",
-        "set_number": "DP09-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gauntlet Warrior",
-        "set_number": "DP09-EN013",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Eccentric Boy",
-        "set_number": "DP09-EN014",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Road Warrior",
-        "set_number": "DP09-EN015",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Junk Archer",
-        "set_number": "DP09-EN016",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Prevention Star",
-        "set_number": "DP09-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "One for One",
-        "set_number": "DP09-EN018",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Release Restraint Wave",
-        "set_number": "DP09-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Silver Wing",
-        "set_number": "DP09-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Advance Draw",
-        "set_number": "DP09-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Assault Mode Activate",
-        "set_number": "DP09-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spirit Force",
-        "set_number": "DP09-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Descending Lost Star",
-        "set_number": "DP09-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Miracle Locus",
-        "set_number": "DP09-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Skill Successor",
-        "set_number": "DP09-EN026",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Reinforce Truth",
-        "set_number": "DP09-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Slip Summon",
-        "set_number": "DP09-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Scrubbed Raid",
-        "set_number": "DP09-EN029",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Tuner's Barrier",
-        "set_number": "DP09-EN030",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Duelist Pack: Yusei 2",
+  "type": "Duelist Pack",
+  "date": "2009-10-17",
+  "distribution": "duelist_pack",
+  "prefix": "DP09",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Stardust Dragon/Assault Mode",
+      "set_number": "DP09-EN001",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Road Synchron",
+      "set_number": "DP09-EN002",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Turret Warrior",
+      "set_number": "DP09-EN003",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Debris Dragon",
+      "set_number": "DP09-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hyper Synchron",
+      "set_number": "DP09-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rockstone Warrior",
+      "set_number": "DP09-EN006",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Level Warrior",
+      "set_number": "DP09-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Majestic Dragon",
+      "set_number": "DP09-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Max Warrior",
+      "set_number": "DP09-EN009",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Quickdraw Synchron",
+      "set_number": "DP09-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Level Eater",
+      "set_number": "DP09-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Zero Gardna",
+      "set_number": "DP09-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gauntlet Warrior",
+      "set_number": "DP09-EN013",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Eccentric Boy",
+      "set_number": "DP09-EN014",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Road Warrior",
+      "set_number": "DP09-EN015",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Junk Archer",
+      "set_number": "DP09-EN016",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Prevention Star",
+      "set_number": "DP09-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "One for One",
+      "set_number": "DP09-EN018",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Release Restraint Wave",
+      "set_number": "DP09-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Silver Wing",
+      "set_number": "DP09-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Advance Draw",
+      "set_number": "DP09-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Assault Mode Activate",
+      "set_number": "DP09-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spirit Force",
+      "set_number": "DP09-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Descending Lost Star",
+      "set_number": "DP09-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Miracle Locus",
+      "set_number": "DP09-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Skill Successor",
+      "set_number": "DP09-EN026",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Reinforce Truth",
+      "set_number": "DP09-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Slip Summon",
+      "set_number": "DP09-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Scrubbed Raid",
+      "set_number": "DP09-EN029",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Tuner's Barrier",
+      "set_number": "DP09-EN030",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
+  ]
 }

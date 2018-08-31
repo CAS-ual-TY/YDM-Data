@@ -1,636 +1,633 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Force of the Breaker",
-    "type": "Booster Pack",
-    "date": "2007-02-15",
-    "distribution": "booster_pack",
-    "prefix": "FOTB",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Crystal Beast Ruby Carbuncle",
-        "set_number": "FOTB-EN001",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Crystal Beast Amethyst Cat",
-        "set_number": "FOTB-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Crystal Beast Emerald Tortoise",
-        "set_number": "FOTB-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Crystal Beast Topaz Tiger",
-        "set_number": "FOTB-EN004",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Crystal Beast Amber Mammoth",
-        "set_number": "FOTB-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Crystal Beast Cobalt Eagle",
-        "set_number": "FOTB-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Crystal Beast Sapphire Pegasus",
-        "set_number": "FOTB-EN007",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Volcanic Doomfire",
-        "set_number": "FOTB-EN008",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Volcanic Shell",
-        "set_number": "FOTB-EN009",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Volcanic Scattershot",
-        "set_number": "FOTB-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Volcanic Blaster",
-        "set_number": "FOTB-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Volcanic Slicer",
-        "set_number": "FOTB-EN012",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Volcanic Hammerer",
-        "set_number": "FOTB-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Elemental HERO Captain Gold",
-        "set_number": "FOTB-EN014",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Gravekeeper's Commandant",
-        "set_number": "FOTB-EN015",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Warrior of Atlantis",
-        "set_number": "FOTB-EN016",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Destroyersaurus",
-        "set_number": "FOTB-EN017",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Zeradias, Herald of Heaven",
-        "set_number": "FOTB-EN018",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Archfiend General",
-        "set_number": "FOTB-EN019",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Harpie Queen",
-        "set_number": "FOTB-EN020",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Sky Scourge Enrise",
-        "set_number": "FOTB-EN021",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Sky Scourge Norleras",
-        "set_number": "FOTB-EN022",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Sky Scourge Invicil",
-        "set_number": "FOTB-EN023",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Goe Goe the Gallant Ninja",
-        "set_number": "FOTB-EN024",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mei-Kou, Master of Barriers",
-        "set_number": "FOTB-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Raiza the Storm Monarch",
-        "set_number": "FOTB-EN026",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Seismic Crasher",
-        "set_number": "FOTB-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dweller in the Depths",
-        "set_number": "FOTB-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magna-Slash Dragon",
-        "set_number": "FOTB-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gravi-Crush Dragon",
-        "set_number": "FOTB-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Soul of Fire",
-        "set_number": "FOTB-EN031",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Crystal Beacon",
-        "set_number": "FOTB-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rare Value",
-        "set_number": "FOTB-EN033",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Crystal Blessing",
-        "set_number": "FOTB-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Crystal Abundance",
-        "set_number": "FOTB-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Crystal Promise",
-        "set_number": "FOTB-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lucky Iron Axe",
-        "set_number": "FOTB-EN037",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Tornado",
-        "set_number": "FOTB-EN038",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Wild Fire",
-        "set_number": "FOTB-EN039",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blaze Accelerator",
-        "set_number": "FOTB-EN040",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tri-Blaze Accelerator",
-        "set_number": "FOTB-EN041",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Field Barrier",
-        "set_number": "FOTB-EN042",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "\"A\" Cell Breeding Device",
-        "set_number": "FOTB-EN043",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Otherworld - The \"A\" Zone",
-        "set_number": "FOTB-EN044",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ancient City - Rainbow Ruins",
-        "set_number": "FOTB-EN045",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Triggered Summon",
-        "set_number": "FOTB-EN046",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Last Resort",
-        "set_number": "FOTB-EN047",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Crystal Raigeki",
-        "set_number": "FOTB-EN048",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Volcanic Recharge",
-        "set_number": "FOTB-EN049",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Terrible Deal",
-        "set_number": "FOTB-EN050",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Breakthrough!",
-        "set_number": "FOTB-EN051",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Backs to the Wall",
-        "set_number": "FOTB-EN052",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Introduction to Gallantry",
-        "set_number": "FOTB-EN053",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Secrets of the Gallant",
-        "set_number": "FOTB-EN054",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Radiant Mirror Force",
-        "set_number": "FOTB-EN055",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Hard-sellin' Goblin",
-        "set_number": "FOTB-EN056",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hard-sellin' Zombie",
-        "set_number": "FOTB-EN057",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mass Hypnosis",
-        "set_number": "FOTB-EN058",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gem Flash Energy",
-        "set_number": "FOTB-EN059",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Firewall",
-        "set_number": "FOTB-EN060",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
+  "name": "Force of the Breaker",
+  "type": "Booster Pack",
+  "date": "2007-02-15",
+  "distribution": "booster_pack",
+  "prefix": "FOTB",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Crystal Beast Ruby Carbuncle",
+      "set_number": "FOTB-EN001",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Crystal Beast Amethyst Cat",
+      "set_number": "FOTB-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Crystal Beast Emerald Tortoise",
+      "set_number": "FOTB-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Crystal Beast Topaz Tiger",
+      "set_number": "FOTB-EN004",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Crystal Beast Amber Mammoth",
+      "set_number": "FOTB-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Crystal Beast Cobalt Eagle",
+      "set_number": "FOTB-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Crystal Beast Sapphire Pegasus",
+      "set_number": "FOTB-EN007",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Doomfire",
+      "set_number": "FOTB-EN008",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Shell",
+      "set_number": "FOTB-EN009",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Scattershot",
+      "set_number": "FOTB-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Blaster",
+      "set_number": "FOTB-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Slicer",
+      "set_number": "FOTB-EN012",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Hammerer",
+      "set_number": "FOTB-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Captain Gold",
+      "set_number": "FOTB-EN014",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Commandant",
+      "set_number": "FOTB-EN015",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Warrior of Atlantis",
+      "set_number": "FOTB-EN016",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Destroyersaurus",
+      "set_number": "FOTB-EN017",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Zeradias, Herald of Heaven",
+      "set_number": "FOTB-EN018",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Archfiend General",
+      "set_number": "FOTB-EN019",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Harpie Queen",
+      "set_number": "FOTB-EN020",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Sky Scourge Enrise",
+      "set_number": "FOTB-EN021",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Sky Scourge Norleras",
+      "set_number": "FOTB-EN022",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Sky Scourge Invicil",
+      "set_number": "FOTB-EN023",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Goe Goe the Gallant Ninja",
+      "set_number": "FOTB-EN024",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mei-Kou, Master of Barriers",
+      "set_number": "FOTB-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Raiza the Storm Monarch",
+      "set_number": "FOTB-EN026",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Seismic Crasher",
+      "set_number": "FOTB-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dweller in the Depths",
+      "set_number": "FOTB-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magna-Slash Dragon",
+      "set_number": "FOTB-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gravi-Crush Dragon",
+      "set_number": "FOTB-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Soul of Fire",
+      "set_number": "FOTB-EN031",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Crystal Beacon",
+      "set_number": "FOTB-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rare Value",
+      "set_number": "FOTB-EN033",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Crystal Blessing",
+      "set_number": "FOTB-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Crystal Abundance",
+      "set_number": "FOTB-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Crystal Promise",
+      "set_number": "FOTB-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lucky Iron Axe",
+      "set_number": "FOTB-EN037",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Tornado",
+      "set_number": "FOTB-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Wild Fire",
+      "set_number": "FOTB-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blaze Accelerator",
+      "set_number": "FOTB-EN040",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tri-Blaze Accelerator",
+      "set_number": "FOTB-EN041",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Field Barrier",
+      "set_number": "FOTB-EN042",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": ""A" Cell Breeding Device",
+      "set_number": "FOTB-EN043",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Otherworld - The "A" Zone",
+      "set_number": "FOTB-EN044",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ancient City - Rainbow Ruins",
+      "set_number": "FOTB-EN045",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Triggered Summon",
+      "set_number": "FOTB-EN046",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Last Resort",
+      "set_number": "FOTB-EN047",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Crystal Raigeki",
+      "set_number": "FOTB-EN048",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Recharge",
+      "set_number": "FOTB-EN049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Terrible Deal",
+      "set_number": "FOTB-EN050",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Breakthrough!",
+      "set_number": "FOTB-EN051",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Backs to the Wall",
+      "set_number": "FOTB-EN052",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Introduction to Gallantry",
+      "set_number": "FOTB-EN053",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Secrets of the Gallant",
+      "set_number": "FOTB-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Radiant Mirror Force",
+      "set_number": "FOTB-EN055",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Hard-sellin' Goblin",
+      "set_number": "FOTB-EN056",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hard-sellin' Zombie",
+      "set_number": "FOTB-EN057",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mass Hypnosis",
+      "set_number": "FOTB-EN058",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gem Flash Energy",
+      "set_number": "FOTB-EN059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Firewall",
+      "set_number": "FOTB-EN060",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    }
+  ]
 }

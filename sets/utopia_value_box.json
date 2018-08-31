@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Utopia Value Box",
-    "type": "Starter Deck",
-    "date": "2012-02-21",
-    "distribution": "",
-    "prefix": "YS11",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Number 39: Utopia",
-        "set_number": "YS11-EN041",
-        "rarities": [
-          "Unknown"
-        ],
-        "count": {
-          "Unknown": 1
-        }
+  "name": "Utopia Value Box",
+  "type": "Starter Deck",
+  "date": "2012-02-21",
+  "distribution": "",
+  "prefix": "YS11",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Number 39: Utopia",
+      "set_number": "YS11-EN041",
+      "rarities": [
+        "Unknown"
+      ],
+      "count": {
+        "Unknown": 1
       }
-    ]
-  }
+    }
+  ]
 }

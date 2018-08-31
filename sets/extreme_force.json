@@ -1,860 +1,857 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Extreme Force",
-    "type": "Booster Pack",
-    "date": "2017-10-14",
-    "distribution": "booster_pack",
-    "prefix": "EXFO",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Zombino",
-        "set_number": "EXFO-EN001",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Lockout Gardna",
-        "set_number": "EXFO-EN002",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Striping Partner",
-        "set_number": "EXFO-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Flick Clown",
-        "set_number": "EXFO-EN004",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Bitrooper",
-        "set_number": "EXFO-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Linkbelt Wall Dragon",
-        "set_number": "EXFO-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shelrokket Dragon",
-        "set_number": "EXFO-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Metalrokket Dragon",
-        "set_number": "EXFO-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tindangle Angel",
-        "set_number": "EXFO-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tindangle Base Gardna",
-        "set_number": "EXFO-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tindangle Hound",
-        "set_number": "EXFO-EN011",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Tindangle Protector",
-        "set_number": "EXFO-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tindangle Intruder",
-        "set_number": "EXFO-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mekk-Knight Blue Sky",
-        "set_number": "EXFO-EN014",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Mekk-Knight Green Horizon",
-        "set_number": "EXFO-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mekk-Knight Orange Sunset",
-        "set_number": "EXFO-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mekk-Knight Yellow Star",
-        "set_number": "EXFO-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mekk-Knight Red Moon",
-        "set_number": "EXFO-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mekk-Knight Indigo Eclipse",
-        "set_number": "EXFO-EN019",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mekk-Knight Purple Nightfall",
-        "set_number": "EXFO-EN020",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "World Legacy - \"World Shield\"",
-        "set_number": "EXFO-EN021",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mythical Beast Jackal",
-        "set_number": "EXFO-EN022",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mythical Beast Garuda",
-        "set_number": "EXFO-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mythical Beast Medusa",
-        "set_number": "EXFO-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mythical Beast Bashilisk",
-        "set_number": "EXFO-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mythical Beast Jackal King",
-        "set_number": "EXFO-EN026",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Mythical Beast Master Cerberus",
-        "set_number": "EXFO-EN027",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Artifact Mjollnir",
-        "set_number": "EXFO-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Grappler Angler",
-        "set_number": "EXFO-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mahjong Munia Maidens",
-        "set_number": "EXFO-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D.D. Seeker",
-        "set_number": "EXFO-EN031",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Ghost Bird of Bewitchment",
-        "set_number": "EXFO-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Desmanian Devil",
-        "set_number": "EXFO-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Wattkinetic Puppeteer",
-        "set_number": "EXFO-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Inspector Boarder",
-        "set_number": "EXFO-EN035",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Overtex Qoatlus",
-        "set_number": "EXFO-EN036",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Contact \"C\"",
-        "set_number": "EXFO-EN037",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Excode Talker",
-        "set_number": "EXFO-EN038",
-        "rarities": [
-          "Secret Rare",
-          "Holographic Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Holographic Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Underclock Taker",
-        "set_number": "EXFO-EN039",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Vector Scare Archfiend",
-        "set_number": "EXFO-EN040",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Flame Administrator",
-        "set_number": "EXFO-EN041",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Recovery Sorcerer",
-        "set_number": "EXFO-EN042",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Secure Gardna",
-        "set_number": "EXFO-EN043",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Triple Burst Dragon",
-        "set_number": "EXFO-EN044",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Tindangle Acute Cerberus",
-        "set_number": "EXFO-EN045",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Altergeist Hexstia",
-        "set_number": "EXFO-EN046",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Mekk-Knight Spectrum Supreme",
-        "set_number": "EXFO-EN047",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Saryuja Skull Dread",
-        "set_number": "EXFO-EN048",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Clara & Rushka, the Ventriloduo",
-        "set_number": "EXFO-EN049",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Duelittle Chimera",
-        "set_number": "EXFO-EN050",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Link Hole",
-        "set_number": "EXFO-EN051",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fire Prison",
-        "set_number": "EXFO-EN052",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Boot Sector Launch",
-        "set_number": "EXFO-EN053",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Nagel's Protection",
-        "set_number": "EXFO-EN054",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Euler's Circuit",
-        "set_number": "EXFO-EN055",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "World Legacy Scars",
-        "set_number": "EXFO-EN056",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "World Legacy Key",
-        "set_number": "EXFO-EN057",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mythical Bestiary",
-        "set_number": "EXFO-EN058",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Glory of the Noble Knights",
-        "set_number": "EXFO-EN059",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Power of the Guardians",
-        "set_number": "EXFO-EN060",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Pendulum Paradox",
-        "set_number": "EXFO-EN061",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Hey, Trunade!",
-        "set_number": "EXFO-EN062",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Downbeat",
-        "set_number": "EXFO-EN063",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Column Switch",
-        "set_number": "EXFO-EN064",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Trading Places",
-        "set_number": "EXFO-EN065",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Parallel Port Armor",
-        "set_number": "EXFO-EN066",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cynet Refresh",
-        "set_number": "EXFO-EN067",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Borrel Cooling",
-        "set_number": "EXFO-EN068",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tindangle Delaunay",
-        "set_number": "EXFO-EN069",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Altergeist Manifestation",
-        "set_number": "EXFO-EN070",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "World Legacy Whispers",
-        "set_number": "EXFO-EN071",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "World Legacy's Secret",
-        "set_number": "EXFO-EN072",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mythical Bestiamorph",
-        "set_number": "EXFO-EN073",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Ghostrick Renovation",
-        "set_number": "EXFO-EN074",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Call of the Archfiend",
-        "set_number": "EXFO-EN075",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "There Can Be Only One",
-        "set_number": "EXFO-EN076",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dai Dance",
-        "set_number": "EXFO-EN077",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Showdown of the Secret Sense Scroll Techniques",
-        "set_number": "EXFO-EN078",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Parthian Shot",
-        "set_number": "EXFO-EN079",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Oops!",
-        "set_number": "EXFO-EN080",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
+  "name": "Extreme Force",
+  "type": "Booster Pack",
+  "date": "2017-10-14",
+  "distribution": "booster_pack",
+  "prefix": "EXFO",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Zombino",
+      "set_number": "EXFO-EN001",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Lockout Gardna",
+      "set_number": "EXFO-EN002",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Striping Partner",
+      "set_number": "EXFO-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Flick Clown",
+      "set_number": "EXFO-EN004",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Bitrooper",
+      "set_number": "EXFO-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Linkbelt Wall Dragon",
+      "set_number": "EXFO-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shelrokket Dragon",
+      "set_number": "EXFO-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Metalrokket Dragon",
+      "set_number": "EXFO-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tindangle Angel",
+      "set_number": "EXFO-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tindangle Base Gardna",
+      "set_number": "EXFO-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tindangle Hound",
+      "set_number": "EXFO-EN011",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Tindangle Protector",
+      "set_number": "EXFO-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tindangle Intruder",
+      "set_number": "EXFO-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mekk-Knight Blue Sky",
+      "set_number": "EXFO-EN014",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mekk-Knight Green Horizon",
+      "set_number": "EXFO-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mekk-Knight Orange Sunset",
+      "set_number": "EXFO-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mekk-Knight Yellow Star",
+      "set_number": "EXFO-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mekk-Knight Red Moon",
+      "set_number": "EXFO-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mekk-Knight Indigo Eclipse",
+      "set_number": "EXFO-EN019",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mekk-Knight Purple Nightfall",
+      "set_number": "EXFO-EN020",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "World Legacy - "World Shield"",
+      "set_number": "EXFO-EN021",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mythical Beast Jackal",
+      "set_number": "EXFO-EN022",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mythical Beast Garuda",
+      "set_number": "EXFO-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mythical Beast Medusa",
+      "set_number": "EXFO-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mythical Beast Bashilisk",
+      "set_number": "EXFO-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mythical Beast Jackal King",
+      "set_number": "EXFO-EN026",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mythical Beast Master Cerberus",
+      "set_number": "EXFO-EN027",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Artifact Mjollnir",
+      "set_number": "EXFO-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Grappler Angler",
+      "set_number": "EXFO-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mahjong Munia Maidens",
+      "set_number": "EXFO-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D.D. Seeker",
+      "set_number": "EXFO-EN031",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ghost Bird of Bewitchment",
+      "set_number": "EXFO-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Desmanian Devil",
+      "set_number": "EXFO-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Wattkinetic Puppeteer",
+      "set_number": "EXFO-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Inspector Boarder",
+      "set_number": "EXFO-EN035",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Overtex Qoatlus",
+      "set_number": "EXFO-EN036",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Contact "C"",
+      "set_number": "EXFO-EN037",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Excode Talker",
+      "set_number": "EXFO-EN038",
+      "rarities": [
+        "Secret Rare",
+        "Holographic Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Holographic Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Underclock Taker",
+      "set_number": "EXFO-EN039",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Vector Scare Archfiend",
+      "set_number": "EXFO-EN040",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Flame Administrator",
+      "set_number": "EXFO-EN041",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Recovery Sorcerer",
+      "set_number": "EXFO-EN042",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Secure Gardna",
+      "set_number": "EXFO-EN043",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Triple Burst Dragon",
+      "set_number": "EXFO-EN044",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Tindangle Acute Cerberus",
+      "set_number": "EXFO-EN045",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Altergeist Hexstia",
+      "set_number": "EXFO-EN046",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mekk-Knight Spectrum Supreme",
+      "set_number": "EXFO-EN047",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Saryuja Skull Dread",
+      "set_number": "EXFO-EN048",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Clara & Rushka, the Ventriloduo",
+      "set_number": "EXFO-EN049",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Duelittle Chimera",
+      "set_number": "EXFO-EN050",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Link Hole",
+      "set_number": "EXFO-EN051",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fire Prison",
+      "set_number": "EXFO-EN052",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Boot Sector Launch",
+      "set_number": "EXFO-EN053",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Nagel's Protection",
+      "set_number": "EXFO-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Euler's Circuit",
+      "set_number": "EXFO-EN055",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "World Legacy Scars",
+      "set_number": "EXFO-EN056",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "World Legacy Key",
+      "set_number": "EXFO-EN057",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mythical Bestiary",
+      "set_number": "EXFO-EN058",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Glory of the Noble Knights",
+      "set_number": "EXFO-EN059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Power of the Guardians",
+      "set_number": "EXFO-EN060",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pendulum Paradox",
+      "set_number": "EXFO-EN061",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Hey, Trunade!",
+      "set_number": "EXFO-EN062",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Downbeat",
+      "set_number": "EXFO-EN063",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Column Switch",
+      "set_number": "EXFO-EN064",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Trading Places",
+      "set_number": "EXFO-EN065",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Parallel Port Armor",
+      "set_number": "EXFO-EN066",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cynet Refresh",
+      "set_number": "EXFO-EN067",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Borrel Cooling",
+      "set_number": "EXFO-EN068",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tindangle Delaunay",
+      "set_number": "EXFO-EN069",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Altergeist Manifestation",
+      "set_number": "EXFO-EN070",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "World Legacy Whispers",
+      "set_number": "EXFO-EN071",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "World Legacy's Secret",
+      "set_number": "EXFO-EN072",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mythical Bestiamorph",
+      "set_number": "EXFO-EN073",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ghostrick Renovation",
+      "set_number": "EXFO-EN074",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Call of the Archfiend",
+      "set_number": "EXFO-EN075",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "There Can Be Only One",
+      "set_number": "EXFO-EN076",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dai Dance",
+      "set_number": "EXFO-EN077",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Showdown of the Secret Sense Scroll Techniques",
+      "set_number": "EXFO-EN078",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Parthian Shot",
+      "set_number": "EXFO-EN079",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Oops!",
+      "set_number": "EXFO-EN080",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    }
+  ]
 }

@@ -1,334 +1,331 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Premium Gold - Slot 1",
-    "type": "Gold Series",
-    "date": "2014-03-27",
-    "distribution": "gold_secret_rare_2",
-    "prefix": "PGLD_1",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Gimmick Puppet Dreary Doll",
-        "set_number": "PGLD-EN001",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Gimmick Puppet Magnet Doll",
-        "set_number": "PGLD-EN002",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Chronomaly Tula Guardian",
-        "set_number": "PGLD-EN003",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Big Belly Knight",
-        "set_number": "PGLD-EN004",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Power Tool Mecha Dragon",
-        "set_number": "PGLD-EN005",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Ancient Pixie Dragon",
-        "set_number": "PGLD-EN006",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Junk Puppet",
-        "set_number": "PGLD-EN007",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Chronomaly City Babylon",
-        "set_number": "PGLD-EN008",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Utopia Buster",
-        "set_number": "PGLD-EN009",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Chronomaly Gordian Knot",
-        "set_number": "PGLD-EN010",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Gimmick Puppet Humpty Dumpty",
-        "set_number": "PGLD-EN011",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Gimmick Puppet Shadow Feeler",
-        "set_number": "PGLD-EN012",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Silent Wobby",
-        "set_number": "PGLD-EN013",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Dynatherium",
-        "set_number": "PGLD-EN014",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragonecro Nethersoul Dragon",
-        "set_number": "PGLD-EN015",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Beelze of the Diabolic Dragons",
-        "set_number": "PGLD-EN016",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Blackfeather Darkrage Dragon",
-        "set_number": "PGLD-EN017",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number C6: Chronomaly Chaos Atlandis",
-        "set_number": "PGLD-EN018",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number C15: Gimmick Puppet Giant Hunter",
-        "set_number": "PGLD-EN019",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number C40: Gimmick Puppet of Dark Strings",
-        "set_number": "PGLD-EN020",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number C88: Gimmick Puppet Disaster Leo",
-        "set_number": "PGLD-EN021",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number C9: Chaos Dyson Sphere",
-        "set_number": "PGLD-EN022",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 13: Embodiment of Crime",
-        "set_number": "PGLD-EN023",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 31: Embodiment of Punishment",
-        "set_number": "PGLD-EN024",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 82: Heartlandraco",
-        "set_number": "PGLD-EN025",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Tri-Edge Levia",
-        "set_number": "PGLD-EN026",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Rank-Up-Magic Argent Chaos Force",
-        "set_number": "PGLD-EN027",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Gagaga Academy Emergency Network",
-        "set_number": "PGLD-EN028",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Ghost of a Grudge",
-        "set_number": "PGLD-EN029",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Obelisk the Tormentor",
-        "set_number": "PGLD-EN030",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "The Winged Dragon of Ra",
-        "set_number": "PGLD-EN031",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Slifer the Sky Dragon",
-        "set_number": "PGLD-EN032",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
+  "name": "Premium Gold - Slot 1",
+  "type": "Gold Series",
+  "date": "2014-03-27",
+  "distribution": "gold_secret_rare_2",
+  "prefix": "PGLD_1",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Gimmick Puppet Dreary Doll",
+      "set_number": "PGLD-EN001",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Gimmick Puppet Magnet Doll",
+      "set_number": "PGLD-EN002",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Chronomaly Tula Guardian",
+      "set_number": "PGLD-EN003",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Big Belly Knight",
+      "set_number": "PGLD-EN004",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Power Tool Mecha Dragon",
+      "set_number": "PGLD-EN005",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Ancient Pixie Dragon",
+      "set_number": "PGLD-EN006",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Junk Puppet",
+      "set_number": "PGLD-EN007",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Chronomaly City Babylon",
+      "set_number": "PGLD-EN008",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Utopia Buster",
+      "set_number": "PGLD-EN009",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Chronomaly Gordian Knot",
+      "set_number": "PGLD-EN010",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Gimmick Puppet Humpty Dumpty",
+      "set_number": "PGLD-EN011",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Gimmick Puppet Shadow Feeler",
+      "set_number": "PGLD-EN012",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Silent Wobby",
+      "set_number": "PGLD-EN013",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dynatherium",
+      "set_number": "PGLD-EN014",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragonecro Nethersoul Dragon",
+      "set_number": "PGLD-EN015",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Beelze of the Diabolic Dragons",
+      "set_number": "PGLD-EN016",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Blackfeather Darkrage Dragon",
+      "set_number": "PGLD-EN017",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number C6: Chronomaly Chaos Atlandis",
+      "set_number": "PGLD-EN018",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number C15: Gimmick Puppet Giant Hunter",
+      "set_number": "PGLD-EN019",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number C40: Gimmick Puppet of Dark Strings",
+      "set_number": "PGLD-EN020",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number C88: Gimmick Puppet Disaster Leo",
+      "set_number": "PGLD-EN021",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number C9: Chaos Dyson Sphere",
+      "set_number": "PGLD-EN022",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 13: Embodiment of Crime",
+      "set_number": "PGLD-EN023",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 31: Embodiment of Punishment",
+      "set_number": "PGLD-EN024",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 82: Heartlandraco",
+      "set_number": "PGLD-EN025",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Tri-Edge Levia",
+      "set_number": "PGLD-EN026",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Rank-Up-Magic Argent Chaos Force",
+      "set_number": "PGLD-EN027",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Gagaga Academy Emergency Network",
+      "set_number": "PGLD-EN028",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Ghost of a Grudge",
+      "set_number": "PGLD-EN029",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Obelisk the Tormentor",
+      "set_number": "PGLD-EN030",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Winged Dragon of Ra",
+      "set_number": "PGLD-EN031",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Slifer the Sky Dragon",
+      "set_number": "PGLD-EN032",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    }
+  ]
 }

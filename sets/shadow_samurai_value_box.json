@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Shadow Samurai Value Box",
-    "type": "Starter Deck",
-    "date": "2013-09-13",
-    "distribution": "",
-    "prefix": "SDWA",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Shadow of the Six Samurai - Shien",
-        "set_number": "SDWA-EN041",
-        "rarities": [
-          "Unknown"
-        ],
-        "count": {
-          "Unknown": 1
-        }
+  "name": "Shadow Samurai Value Box",
+  "type": "Starter Deck",
+  "date": "2013-09-13",
+  "distribution": "",
+  "prefix": "SDWA",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Shadow of the Six Samurai - Shien",
+      "set_number": "SDWA-EN041",
+      "rarities": [
+        "Unknown"
+      ],
+      "count": {
+        "Unknown": 1
       }
-    ]
-  }
+    }
+  ]
 }

@@ -1,44 +1,41 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! 5D's Tag Force 5",
-    "type": "Video Game Promo Cards",
-    "date": "2010-09-16",
-    "distribution": "video_game_promo_cards",
-    "prefix": "TF05",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Fleur Synchron",
-        "set_number": "TF05-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Chevalier de Fleur",
-        "set_number": "TF05-EN002",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Liberty at Last!",
-        "set_number": "TF05-EN003",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! 5D's Tag Force 5",
+  "type": "Video Game Promo Cards",
+  "date": "2010-09-16",
+  "distribution": "video_game_promo_cards",
+  "prefix": "TF05",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Fleur Synchron",
+      "set_number": "TF05-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Chevalier de Fleur",
+      "set_number": "TF05-EN002",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Liberty at Last!",
+      "set_number": "TF05-EN003",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    }
+  ]
 }

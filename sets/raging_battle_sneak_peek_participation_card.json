@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Raging Battle Sneak Peek Participation Card",
-    "type": "Tournament Promo Cards",
-    "date": "2009-05-02",
-    "distribution": "tournament_promo_cards",
-    "prefix": "RGBT",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Battlestorm",
-        "set_number": "RGBT-ENSP1",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Raging Battle Sneak Peek Participation Card",
+  "type": "Tournament Promo Cards",
+  "date": "2009-05-02",
+  "distribution": "tournament_promo_cards",
+  "prefix": "RGBT",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Battlestorm",
+      "set_number": "RGBT-ENSP1",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

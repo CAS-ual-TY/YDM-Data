@@ -1,454 +1,451 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Structure Deck: Seto Kaiba",
-    "type": "Structure Deck",
-    "date": "2016-06-18",
-    "distribution": "",
-    "prefix": "SDKS",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "A-Assault Core",
-        "set_number": "SDKS-EN001",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "B-Buster Drake",
-        "set_number": "SDKS-EN002",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "C-Crush Wyvern",
-        "set_number": "SDKS-EN003",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Heavy Mech Support Armor",
-        "set_number": "SDKS-EN004",
-        "rarities": [
-          "Normal Parallel Rare"
-        ],
-        "count": {
-          "Normal Parallel Rare": 1
-        }
-      },
-      {
-        "card_name": "X-Head Cannon",
-        "set_number": "SDKS-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Y-Dragon Head",
-        "set_number": "SDKS-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Z-Metal Tank",
-        "set_number": "SDKS-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Heavy Mech Support Platform",
-        "set_number": "SDKS-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blue-Eyes White Dragon",
-        "set_number": "SDKS-EN009",
-        "rarities": [
-          "Normal Parallel Rare"
-        ],
-        "count": {
-          "Normal Parallel Rare": 1
-        }
-      },
-      {
-        "card_name": "Kaiser Glider",
-        "set_number": "SDKS-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lord of D.",
-        "set_number": "SDKS-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blade Knight",
-        "set_number": "SDKS-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Enraged Battle Ox",
-        "set_number": "SDKS-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Des Feral Imp",
-        "set_number": "SDKS-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Vorse Raider",
-        "set_number": "SDKS-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "La Jinn the Mystical Genie of the Lamp",
-        "set_number": "SDKS-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ancient Lamp",
-        "set_number": "SDKS-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Familiar Knight",
-        "set_number": "SDKS-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Peten the Dark Clown",
-        "set_number": "SDKS-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Union Hangar",
-        "set_number": "SDKS-EN020",
-        "rarities": [
-          "Normal Parallel Rare"
-        ],
-        "count": {
-          "Normal Parallel Rare": 1
-        }
-      },
-      {
-        "card_name": "Majesty with Eyes of Blue",
-        "set_number": "SDKS-EN021",
-        "rarities": [
-          "Normal Parallel Rare"
-        ],
-        "count": {
-          "Normal Parallel Rare": 1
-        }
-      },
-      {
-        "card_name": "Burst Stream of Destruction",
-        "set_number": "SDKS-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Flute of Summoning Dragon",
-        "set_number": "SDKS-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Melody of Awakening Dragon",
-        "set_number": "SDKS-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Monster Reborn",
-        "set_number": "SDKS-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Silent Doom",
-        "set_number": "SDKS-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shrink",
-        "set_number": "SDKS-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Enemy Controller",
-        "set_number": "SDKS-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Soul Exchange",
-        "set_number": "SDKS-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cost Down",
-        "set_number": "SDKS-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Megamorph",
-        "set_number": "SDKS-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Union Scramble",
-        "set_number": "SDKS-EN032",
-        "rarities": [
-          "Normal Parallel Rare"
-        ],
-        "count": {
-          "Normal Parallel Rare": 1
-        }
-      },
-      {
-        "card_name": "Crush Card Virus",
-        "set_number": "SDKS-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shadow Spell",
-        "set_number": "SDKS-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Negate Attack",
-        "set_number": "SDKS-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ring of Destruction",
-        "set_number": "SDKS-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Interdimensional Matter Transporter",
-        "set_number": "SDKS-EN037",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cloning",
-        "set_number": "SDKS-EN038",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Final Attack Orders",
-        "set_number": "SDKS-EN039",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "A-to-Z-Dragon Buster Cannon",
-        "set_number": "SDKS-EN040",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "ABC-Dragon Buster",
-        "set_number": "SDKS-EN041",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "XYZ-Dragon Cannon",
-        "set_number": "SDKS-EN042",
-        "rarities": [
-          "Normal Parallel Rare"
-        ],
-        "count": {
-          "Normal Parallel Rare": 1
-        }
-      },
-      {
-        "card_name": "XY-Dragon Cannon",
-        "set_number": "SDKS-EN043",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "XZ-Tank Cannon",
-        "set_number": "SDKS-EN044",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "Structure Deck: Seto Kaiba",
+  "type": "Structure Deck",
+  "date": "2016-06-18",
+  "distribution": "",
+  "prefix": "SDKS",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "A-Assault Core",
+      "set_number": "SDKS-EN001",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "B-Buster Drake",
+      "set_number": "SDKS-EN002",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "C-Crush Wyvern",
+      "set_number": "SDKS-EN003",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Heavy Mech Support Armor",
+      "set_number": "SDKS-EN004",
+      "rarities": [
+        "Normal Parallel Rare"
+      ],
+      "count": {
+        "Normal Parallel Rare": 1
+      }
+    },
+    {
+      "card_name": "X-Head Cannon",
+      "set_number": "SDKS-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Y-Dragon Head",
+      "set_number": "SDKS-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Z-Metal Tank",
+      "set_number": "SDKS-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Heavy Mech Support Platform",
+      "set_number": "SDKS-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blue-Eyes White Dragon",
+      "set_number": "SDKS-EN009",
+      "rarities": [
+        "Normal Parallel Rare"
+      ],
+      "count": {
+        "Normal Parallel Rare": 1
+      }
+    },
+    {
+      "card_name": "Kaiser Glider",
+      "set_number": "SDKS-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lord of D.",
+      "set_number": "SDKS-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blade Knight",
+      "set_number": "SDKS-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Enraged Battle Ox",
+      "set_number": "SDKS-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Des Feral Imp",
+      "set_number": "SDKS-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Vorse Raider",
+      "set_number": "SDKS-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "La Jinn the Mystical Genie of the Lamp",
+      "set_number": "SDKS-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ancient Lamp",
+      "set_number": "SDKS-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Familiar Knight",
+      "set_number": "SDKS-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Peten the Dark Clown",
+      "set_number": "SDKS-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Union Hangar",
+      "set_number": "SDKS-EN020",
+      "rarities": [
+        "Normal Parallel Rare"
+      ],
+      "count": {
+        "Normal Parallel Rare": 1
+      }
+    },
+    {
+      "card_name": "Majesty with Eyes of Blue",
+      "set_number": "SDKS-EN021",
+      "rarities": [
+        "Normal Parallel Rare"
+      ],
+      "count": {
+        "Normal Parallel Rare": 1
+      }
+    },
+    {
+      "card_name": "Burst Stream of Destruction",
+      "set_number": "SDKS-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Flute of Summoning Dragon",
+      "set_number": "SDKS-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Melody of Awakening Dragon",
+      "set_number": "SDKS-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Monster Reborn",
+      "set_number": "SDKS-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Silent Doom",
+      "set_number": "SDKS-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shrink",
+      "set_number": "SDKS-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Enemy Controller",
+      "set_number": "SDKS-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Soul Exchange",
+      "set_number": "SDKS-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cost Down",
+      "set_number": "SDKS-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Megamorph",
+      "set_number": "SDKS-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Union Scramble",
+      "set_number": "SDKS-EN032",
+      "rarities": [
+        "Normal Parallel Rare"
+      ],
+      "count": {
+        "Normal Parallel Rare": 1
+      }
+    },
+    {
+      "card_name": "Crush Card Virus",
+      "set_number": "SDKS-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shadow Spell",
+      "set_number": "SDKS-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Negate Attack",
+      "set_number": "SDKS-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ring of Destruction",
+      "set_number": "SDKS-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Interdimensional Matter Transporter",
+      "set_number": "SDKS-EN037",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cloning",
+      "set_number": "SDKS-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Final Attack Orders",
+      "set_number": "SDKS-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "A-to-Z-Dragon Buster Cannon",
+      "set_number": "SDKS-EN040",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "ABC-Dragon Buster",
+      "set_number": "SDKS-EN041",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "XYZ-Dragon Cannon",
+      "set_number": "SDKS-EN042",
+      "rarities": [
+        "Normal Parallel Rare"
+      ],
+      "count": {
+        "Normal Parallel Rare": 1
+      }
+    },
+    {
+      "card_name": "XY-Dragon Cannon",
+      "set_number": "SDKS-EN043",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "XZ-Tank Cannon",
+      "set_number": "SDKS-EN044",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

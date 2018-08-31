@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! ZEXAL Volume 6 promotional card",
-    "type": "Manga Promo",
-    "date": "2014-02-04",
-    "distribution": "manga_promo",
-    "prefix": "YZ06",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Number 52: Diamond Crab King",
-        "set_number": "YZ06-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! ZEXAL Volume 6 promotional card",
+  "type": "Manga Promo",
+  "date": "2014-02-04",
+  "distribution": "manga_promo",
+  "prefix": "YZ06",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Number 52: Diamond Crab King",
+      "set_number": "YZ06-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

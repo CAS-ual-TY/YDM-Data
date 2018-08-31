@@ -1,314 +1,311 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Duelist Pack: Aster Phoenix",
-    "type": "Duelist Pack",
-    "date": "2006-10-26",
-    "distribution": "duelist_pack",
-    "prefix": "DP05",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Destiny HERO - Doom Lord",
-        "set_number": "DP05-EN001",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Destiny HERO - Captain Tenacious",
-        "set_number": "DP05-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Destiny HERO - Diamond Dude",
-        "set_number": "DP05-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Destiny HERO - Dreadmaster",
-        "set_number": "DP05-EN004",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Destiny HERO - Double Dude",
-        "set_number": "DP05-EN005",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Destiny HERO - Defender",
-        "set_number": "DP05-EN006",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Destiny HERO - Dogma",
-        "set_number": "DP05-EN007",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Destiny HERO - Blade Master",
-        "set_number": "DP05-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Destiny HERO - Fear Monger",
-        "set_number": "DP05-EN009",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Destiny HERO - Dasher",
-        "set_number": "DP05-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Destiny HERO - Malicious",
-        "set_number": "DP05-EN011",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Elemental HERO Phoenix Enforcer",
-        "set_number": "DP05-EN012",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Elemental HERO Shining Phoenix Enforcer",
-        "set_number": "DP05-EN013",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Misfortune",
-        "set_number": "DP05-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Guard Penalty",
-        "set_number": "DP05-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Clock Tower Prison",
-        "set_number": "DP05-EN016",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "D - Spirit",
-        "set_number": "DP05-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cyclone Blade",
-        "set_number": "DP05-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark City",
-        "set_number": "DP05-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Destiny Draw",
-        "set_number": "DP05-EN020",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Over Destiny",
-        "set_number": "DP05-EN021",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Elemental Recharge",
-        "set_number": "DP05-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Destruction of Destiny",
-        "set_number": "DP05-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Destiny Signal",
-        "set_number": "DP05-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D - Time",
-        "set_number": "DP05-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D - Shield",
-        "set_number": "DP05-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Destiny Mirage",
-        "set_number": "DP05-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D - Chain",
-        "set_number": "DP05-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D - Counter",
-        "set_number": "DP05-EN029",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Eternal Dread",
-        "set_number": "DP05-EN030",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Duelist Pack: Aster Phoenix",
+  "type": "Duelist Pack",
+  "date": "2006-10-26",
+  "distribution": "duelist_pack",
+  "prefix": "DP05",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Destiny HERO - Doom Lord",
+      "set_number": "DP05-EN001",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Destiny HERO - Captain Tenacious",
+      "set_number": "DP05-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Diamond Dude",
+      "set_number": "DP05-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dreadmaster",
+      "set_number": "DP05-EN004",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Double Dude",
+      "set_number": "DP05-EN005",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Defender",
+      "set_number": "DP05-EN006",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dogma",
+      "set_number": "DP05-EN007",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Blade Master",
+      "set_number": "DP05-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Fear Monger",
+      "set_number": "DP05-EN009",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dasher",
+      "set_number": "DP05-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Malicious",
+      "set_number": "DP05-EN011",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Phoenix Enforcer",
+      "set_number": "DP05-EN012",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Shining Phoenix Enforcer",
+      "set_number": "DP05-EN013",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Misfortune",
+      "set_number": "DP05-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Guard Penalty",
+      "set_number": "DP05-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Clock Tower Prison",
+      "set_number": "DP05-EN016",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "D - Spirit",
+      "set_number": "DP05-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cyclone Blade",
+      "set_number": "DP05-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark City",
+      "set_number": "DP05-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny Draw",
+      "set_number": "DP05-EN020",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Over Destiny",
+      "set_number": "DP05-EN021",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental Recharge",
+      "set_number": "DP05-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destruction of Destiny",
+      "set_number": "DP05-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny Signal",
+      "set_number": "DP05-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D - Time",
+      "set_number": "DP05-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D - Shield",
+      "set_number": "DP05-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny Mirage",
+      "set_number": "DP05-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D - Chain",
+      "set_number": "DP05-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D - Counter",
+      "set_number": "DP05-EN029",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Eternal Dread",
+      "set_number": "DP05-EN030",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
+  ]
 }

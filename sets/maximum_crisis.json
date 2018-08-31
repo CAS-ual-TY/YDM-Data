@@ -1,860 +1,857 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Maximum Crisis",
-    "type": "Booster Pack",
-    "date": "2017-01-14",
-    "distribution": "booster_pack",
-    "prefix": "MACR",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Performapal Sky Magician",
-        "set_number": "MACR-EN001",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Performapal Sky Pupil",
-        "set_number": "MACR-EN002",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Performapal Revue Dancer",
-        "set_number": "MACR-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Performapal U Go Golem",
-        "set_number": "MACR-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Performapal Coin Dragon",
-        "set_number": "MACR-EN005",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Speedroid Skull Marbles",
-        "set_number": "MACR-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Speedroid Maliciousmagnet",
-        "set_number": "MACR-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Speedroid Rubberband Plane",
-        "set_number": "MACR-EN008",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Predaplant Ophrys Scorpio",
-        "set_number": "MACR-EN009",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Predaplant Darlingtonia Cobra",
-        "set_number": "MACR-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Predaplant Cordyceps",
-        "set_number": "MACR-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lyrilusc - Cobalt Sparrow",
-        "set_number": "MACR-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lyrilusc - Sapphire Swallow",
-        "set_number": "MACR-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lyrilusc - Turquoise Warbler",
-        "set_number": "MACR-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Ghost",
-        "set_number": "MACR-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Double Resonator",
-        "set_number": "MACR-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Supreme King Gate Zero",
-        "set_number": "MACR-EN017",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Supreme King Gate Infinity",
-        "set_number": "MACR-EN018",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Supreme King Dragon Darkwurm",
-        "set_number": "MACR-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Majesty Maiden, the True Dracocaster",
-        "set_number": "MACR-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ignis Heat, the True Dracowarrior",
-        "set_number": "MACR-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dinomight Knight, the True Dracofighter",
-        "set_number": "MACR-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dreiath III, the True Dracocavalry General",
-        "set_number": "MACR-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Master Peace, the True Dracoslaying King",
-        "set_number": "MACR-EN024",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Metaltron XII, the True Dracombatant",
-        "set_number": "MACR-EN025",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Mariamne, the True Dracophoenix",
-        "set_number": "MACR-EN026",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Zoodiac Kataroost",
-        "set_number": "MACR-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Phantasm Spiral Dragon",
-        "set_number": "MACR-EN028",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Digital Bug LEDybug",
-        "set_number": "MACR-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Zefraath",
-        "set_number": "MACR-EN030",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Ariel, Priestess of the Nekroz",
-        "set_number": "MACR-EN031",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "B.E.S. Big Core MK-3",
-        "set_number": "MACR-EN032",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Pendulumucho",
-        "set_number": "MACR-EN033",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Baobaboon",
-        "set_number": "MACR-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fire Cracker",
-        "set_number": "MACR-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ash Blossom & Joyous Spring",
-        "set_number": "MACR-EN036",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Familiar-Possessed - Lyna",
-        "set_number": "MACR-EN037",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Fairy Tail - Luna",
-        "set_number": "MACR-EN038",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Supreme King Z-ARC",
-        "set_number": "MACR-EN039",
-        "rarities": [
-          "Secret Rare",
-          "Holographic Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Holographic Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Performapal Gatlinghoul",
-        "set_number": "MACR-EN040",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Lyrilusc - Independent Nightingale",
-        "set_number": "MACR-EN041",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "The Phantom Knights of Cursed Javelin",
-        "set_number": "MACR-EN042",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Lyrilusc - Assembled Nightingale",
-        "set_number": "MACR-EN043",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Raidraptor - Stranger Falcon",
-        "set_number": "MACR-EN044",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "D/D/D Stone King Darius",
-        "set_number": "MACR-EN045",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "True King of All Calamities",
-        "set_number": "MACR-EN046",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Zoodiac Hammerkong",
-        "set_number": "MACR-EN047",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Zoodiac Chakanine",
-        "set_number": "MACR-EN048",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Magician's Right Hand",
-        "set_number": "MACR-EN049",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magician's Left Hand",
-        "set_number": "MACR-EN050",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magician's Restage",
-        "set_number": "MACR-EN051",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Ultra Polymerization",
-        "set_number": "MACR-EN052",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragonic Diagram",
-        "set_number": "MACR-EN053",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "True Draco Heritage",
-        "set_number": "MACR-EN054",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Disciples of the True Dracophoenix",
-        "set_number": "MACR-EN055",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Pacifis, the Phantasm City",
-        "set_number": "MACR-EN056",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Phantasm Spiral Crash",
-        "set_number": "MACR-EN057",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Phantasm Spiral Grip",
-        "set_number": "MACR-EN058",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Phantasm Spiral Wave",
-        "set_number": "MACR-EN059",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bug Signal",
-        "set_number": "MACR-EN060",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Zefra Providence",
-        "set_number": "MACR-EN061",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "B.E.F. Zelos",
-        "set_number": "MACR-EN062",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Duelist Alliance",
-        "set_number": "MACR-EN063",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Set Rotation",
-        "set_number": "MACR-EN064",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Break Away",
-        "set_number": "MACR-EN065",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Phantom Knights of Lost Vambrace",
-        "set_number": "MACR-EN066",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Phantom Knights of Wrong Magnetring",
-        "set_number": "MACR-EN067",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Contract with the Eternal Darkness",
-        "set_number": "MACR-EN068",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "True King's Return",
-        "set_number": "MACR-EN069",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "True Draco Apocalypse",
-        "set_number": "MACR-EN070",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Zoodiac Gathering",
-        "set_number": "MACR-EN071",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Phantasm Spiral Battle",
-        "set_number": "MACR-EN072",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Phantasm Spiral Power",
-        "set_number": "MACR-EN073",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Phantasm Spiral Assault",
-        "set_number": "MACR-EN074",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Prologue of the Destruction Swordsman",
-        "set_number": "MACR-EN075",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dinomists Howling",
-        "set_number": "MACR-EN076",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Zefra War",
-        "set_number": "MACR-EN077",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Waterfall of Dragon Souls",
-        "set_number": "MACR-EN078",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Unending Nightmare",
-        "set_number": "MACR-EN079",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Diamond Duston",
-        "set_number": "MACR-EN080",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
+  "name": "Maximum Crisis",
+  "type": "Booster Pack",
+  "date": "2017-01-14",
+  "distribution": "booster_pack",
+  "prefix": "MACR",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Performapal Sky Magician",
+      "set_number": "MACR-EN001",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Performapal Sky Pupil",
+      "set_number": "MACR-EN002",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Performapal Revue Dancer",
+      "set_number": "MACR-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Performapal U Go Golem",
+      "set_number": "MACR-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Performapal Coin Dragon",
+      "set_number": "MACR-EN005",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Speedroid Skull Marbles",
+      "set_number": "MACR-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Speedroid Maliciousmagnet",
+      "set_number": "MACR-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Speedroid Rubberband Plane",
+      "set_number": "MACR-EN008",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Predaplant Ophrys Scorpio",
+      "set_number": "MACR-EN009",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Predaplant Darlingtonia Cobra",
+      "set_number": "MACR-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Predaplant Cordyceps",
+      "set_number": "MACR-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lyrilusc - Cobalt Sparrow",
+      "set_number": "MACR-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lyrilusc - Sapphire Swallow",
+      "set_number": "MACR-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lyrilusc - Turquoise Warbler",
+      "set_number": "MACR-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Ghost",
+      "set_number": "MACR-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Double Resonator",
+      "set_number": "MACR-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Supreme King Gate Zero",
+      "set_number": "MACR-EN017",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Supreme King Gate Infinity",
+      "set_number": "MACR-EN018",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Supreme King Dragon Darkwurm",
+      "set_number": "MACR-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Majesty Maiden, the True Dracocaster",
+      "set_number": "MACR-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ignis Heat, the True Dracowarrior",
+      "set_number": "MACR-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dinomight Knight, the True Dracofighter",
+      "set_number": "MACR-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dreiath III, the True Dracocavalry General",
+      "set_number": "MACR-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Master Peace, the True Dracoslaying King",
+      "set_number": "MACR-EN024",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Metaltron XII, the True Dracombatant",
+      "set_number": "MACR-EN025",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Mariamne, the True Dracophoenix",
+      "set_number": "MACR-EN026",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Zoodiac Kataroost",
+      "set_number": "MACR-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Phantasm Spiral Dragon",
+      "set_number": "MACR-EN028",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Digital Bug LEDybug",
+      "set_number": "MACR-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Zefraath",
+      "set_number": "MACR-EN030",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Ariel, Priestess of the Nekroz",
+      "set_number": "MACR-EN031",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "B.E.S. Big Core MK-3",
+      "set_number": "MACR-EN032",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Pendulumucho",
+      "set_number": "MACR-EN033",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Baobaboon",
+      "set_number": "MACR-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fire Cracker",
+      "set_number": "MACR-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ash Blossom & Joyous Spring",
+      "set_number": "MACR-EN036",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Familiar-Possessed - Lyna",
+      "set_number": "MACR-EN037",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Fairy Tail - Luna",
+      "set_number": "MACR-EN038",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Supreme King Z-ARC",
+      "set_number": "MACR-EN039",
+      "rarities": [
+        "Secret Rare",
+        "Holographic Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Holographic Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Performapal Gatlinghoul",
+      "set_number": "MACR-EN040",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Lyrilusc - Independent Nightingale",
+      "set_number": "MACR-EN041",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "The Phantom Knights of Cursed Javelin",
+      "set_number": "MACR-EN042",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Lyrilusc - Assembled Nightingale",
+      "set_number": "MACR-EN043",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Raidraptor - Stranger Falcon",
+      "set_number": "MACR-EN044",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "D/D/D Stone King Darius",
+      "set_number": "MACR-EN045",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "True King of All Calamities",
+      "set_number": "MACR-EN046",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Zoodiac Hammerkong",
+      "set_number": "MACR-EN047",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Zoodiac Chakanine",
+      "set_number": "MACR-EN048",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Magician's Right Hand",
+      "set_number": "MACR-EN049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magician's Left Hand",
+      "set_number": "MACR-EN050",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magician's Restage",
+      "set_number": "MACR-EN051",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ultra Polymerization",
+      "set_number": "MACR-EN052",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragonic Diagram",
+      "set_number": "MACR-EN053",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "True Draco Heritage",
+      "set_number": "MACR-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Disciples of the True Dracophoenix",
+      "set_number": "MACR-EN055",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pacifis, the Phantasm City",
+      "set_number": "MACR-EN056",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Phantasm Spiral Crash",
+      "set_number": "MACR-EN057",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Phantasm Spiral Grip",
+      "set_number": "MACR-EN058",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Phantasm Spiral Wave",
+      "set_number": "MACR-EN059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bug Signal",
+      "set_number": "MACR-EN060",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Zefra Providence",
+      "set_number": "MACR-EN061",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "B.E.F. Zelos",
+      "set_number": "MACR-EN062",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Duelist Alliance",
+      "set_number": "MACR-EN063",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Set Rotation",
+      "set_number": "MACR-EN064",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Break Away",
+      "set_number": "MACR-EN065",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Phantom Knights of Lost Vambrace",
+      "set_number": "MACR-EN066",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Phantom Knights of Wrong Magnetring",
+      "set_number": "MACR-EN067",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Contract with the Eternal Darkness",
+      "set_number": "MACR-EN068",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "True King's Return",
+      "set_number": "MACR-EN069",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "True Draco Apocalypse",
+      "set_number": "MACR-EN070",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Zoodiac Gathering",
+      "set_number": "MACR-EN071",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Phantasm Spiral Battle",
+      "set_number": "MACR-EN072",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Phantasm Spiral Power",
+      "set_number": "MACR-EN073",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Phantasm Spiral Assault",
+      "set_number": "MACR-EN074",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Prologue of the Destruction Swordsman",
+      "set_number": "MACR-EN075",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dinomists Howling",
+      "set_number": "MACR-EN076",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Zefra War",
+      "set_number": "MACR-EN077",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Waterfall of Dragon Souls",
+      "set_number": "MACR-EN078",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Unending Nightmare",
+      "set_number": "MACR-EN079",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Diamond Duston",
+      "set_number": "MACR-EN080",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    }
+  ]
 }

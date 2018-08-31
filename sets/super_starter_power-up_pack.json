@@ -1,164 +1,161 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Super Starter Power-Up Pack",
-    "type": "Power-Up Pack",
-    "date": "2013-06-13",
-    "distribution": "power-up_pack",
-    "prefix": "YS13",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Number C39: Utopia Ray V",
-        "set_number": "YS13-ENV01",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Rank-Up-Magic Limited Barian's Force",
-        "set_number": "YS13-ENV02",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "ZW - Eagle Claw",
-        "set_number": "YS13-ENV03",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ganbara Lancer",
-        "set_number": "YS13-ENV04",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bite Bug",
-        "set_number": "YS13-ENV05",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Crane Crane",
-        "set_number": "YS13-ENV06",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gentlemander",
-        "set_number": "YS13-ENV07",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Grenosaurus",
-        "set_number": "YS13-ENV08",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Number 30: Acid Golem of Destruction",
-        "set_number": "YS13-ENV09",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shining Elf",
-        "set_number": "YS13-ENV10",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Number 6: Chronomaly Atlandis",
-        "set_number": "YS13-ENV11",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mystical Space Typhoon",
-        "set_number": "YS13-ENV12",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Swords of Revealing Light",
-        "set_number": "YS13-ENV13",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Mirror Force",
-        "set_number": "YS13-ENV14",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Magic Cylinder",
-        "set_number": "YS13-ENV15",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Super Starter Power-Up Pack",
+  "type": "Power-Up Pack",
+  "date": "2013-06-13",
+  "distribution": "power-up_pack",
+  "prefix": "YS13",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Number C39: Utopia Ray V",
+      "set_number": "YS13-ENV01",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Rank-Up-Magic Limited Barian's Force",
+      "set_number": "YS13-ENV02",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "ZW - Eagle Claw",
+      "set_number": "YS13-ENV03",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ganbara Lancer",
+      "set_number": "YS13-ENV04",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bite Bug",
+      "set_number": "YS13-ENV05",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Crane Crane",
+      "set_number": "YS13-ENV06",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gentlemander",
+      "set_number": "YS13-ENV07",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Grenosaurus",
+      "set_number": "YS13-ENV08",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Number 30: Acid Golem of Destruction",
+      "set_number": "YS13-ENV09",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shining Elf",
+      "set_number": "YS13-ENV10",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Number 6: Chronomaly Atlandis",
+      "set_number": "YS13-ENV11",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mystical Space Typhoon",
+      "set_number": "YS13-ENV12",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Swords of Revealing Light",
+      "set_number": "YS13-ENV13",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mirror Force",
+      "set_number": "YS13-ENV14",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Magic Cylinder",
+      "set_number": "YS13-ENV15",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
+  ]
 }

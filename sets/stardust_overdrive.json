@@ -1,826 +1,823 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Stardust Overdrive",
-    "type": "Booster Pack",
-    "date": "2009-07-18",
-    "distribution": "booster_pack",
-    "prefix": "SOVR",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Majestic Dragon",
-        "set_number": "SOVR-EN001",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Stardust Xiaolong",
-        "set_number": "SOVR-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Max Warrior",
-        "set_number": "SOVR-EN003",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Quickdraw Synchron",
-        "set_number": "SOVR-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Level Eater",
-        "set_number": "SOVR-EN005",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Zero Gardna",
-        "set_number": "SOVR-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Regulus",
-        "set_number": "SOVR-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Infernity Necromancer",
-        "set_number": "SOVR-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fortune Lady Wind",
-        "set_number": "SOVR-EN009",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Fortune Lady Water",
-        "set_number": "SOVR-EN010",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Fortune Lady Dark",
-        "set_number": "SOVR-EN011",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Fortune Lady Earth",
-        "set_number": "SOVR-EN012",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Solitaire Magician",
-        "set_number": "SOVR-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Catoblepas and the Witch of Fate",
-        "set_number": "SOVR-EN014",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Spider",
-        "set_number": "SOVR-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ground Spider",
-        "set_number": "SOVR-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Relinquished Spider",
-        "set_number": "SOVR-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spyder Spider",
-        "set_number": "SOVR-EN018",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mother Spider",
-        "set_number": "SOVR-EN019",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Reptilianne Gorgon",
-        "set_number": "SOVR-EN020",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Reptilianne Medusa",
-        "set_number": "SOVR-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Reptilianne Scylla",
-        "set_number": "SOVR-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Reptilianne Viper",
-        "set_number": "SOVR-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Earthbound Immortal Ccarayhua",
-        "set_number": "SOVR-EN024",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Earthbound Immortal Uru",
-        "set_number": "SOVR-EN025",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Earthbound Immortal Wiraqocha Rasca",
-        "set_number": "SOVR-EN026",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Koa'ki Meiru Sea Panther",
-        "set_number": "SOVR-EN027",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Koa'ki Meiru Rooklord",
-        "set_number": "SOVR-EN028",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Tuned Magician",
-        "set_number": "SOVR-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Crusader of Endymion",
-        "set_number": "SOVR-EN030",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Woodland Archer",
-        "set_number": "SOVR-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Knight of the Red Lotus",
-        "set_number": "SOVR-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Energy Bravery",
-        "set_number": "SOVR-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Swap Frog",
-        "set_number": "SOVR-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lord British Space Fighter",
-        "set_number": "SOVR-EN035",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Oshaleon",
-        "set_number": "SOVR-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Djinn Releaser of Rituals",
-        "set_number": "SOVR-EN037",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Djinn Presider of Rituals",
-        "set_number": "SOVR-EN038",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Divine Grace - Northwemko",
-        "set_number": "SOVR-EN039",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Majestic Star Dragon",
-        "set_number": "SOVR-EN040",
-        "rarities": [
-          "Holographic Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Holographic Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Blackwing - Silverwind the Ascendant",
-        "set_number": "SOVR-EN041",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Reptilianne Hydra",
-        "set_number": "SOVR-EN042",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Black Brutdrago",
-        "set_number": "SOVR-EN043",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Explosive Magician",
-        "set_number": "SOVR-EN044",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Spider Web",
-        "set_number": "SOVR-EN045",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Earthbound Whirlwind",
-        "set_number": "SOVR-EN046",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Savage Colosseum",
-        "set_number": "SOVR-EN047",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Attack Pheromones",
-        "set_number": "SOVR-EN048",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Molting Escape",
-        "set_number": "SOVR-EN049",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Reptilianne Spawn",
-        "set_number": "SOVR-EN050",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fortune's Future",
-        "set_number": "SOVR-EN051",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Time Passage",
-        "set_number": "SOVR-EN052",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Iron Core Armor",
-        "set_number": "SOVR-EN053",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Herculean Power",
-        "set_number": "SOVR-EN054",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gemini Spark",
-        "set_number": "SOVR-EN055",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Ritual of Grace",
-        "set_number": "SOVR-EN056",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Preparation of Rites",
-        "set_number": "SOVR-EN057",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Moray of Greed",
-        "set_number": "SOVR-EN058",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Spiritual Forest",
-        "set_number": "SOVR-EN059",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Raging Mad Plants",
-        "set_number": "SOVR-EN060",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Insect Neglect",
-        "set_number": "SOVR-EN061",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Faustian Bargain",
-        "set_number": "SOVR-EN062",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Slip Summon",
-        "set_number": "SOVR-EN063",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Synchro Barrier",
-        "set_number": "SOVR-EN064",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Enlightenment",
-        "set_number": "SOVR-EN065",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bending Destiny",
-        "set_number": "SOVR-EN066",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Inherited Fortune",
-        "set_number": "SOVR-EN067",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spider Egg",
-        "set_number": "SOVR-EN068",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Wolf in Sheep's Clothing",
-        "set_number": "SOVR-EN069",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Earthbound Wave",
-        "set_number": "SOVR-EN070",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Roar of the Earthbound",
-        "set_number": "SOVR-EN071",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Limit Impulse",
-        "set_number": "SOVR-EN072",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Infernity Force",
-        "set_number": "SOVR-EN073",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nega-Ton Corepanel",
-        "set_number": "SOVR-EN074",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Gemini Counter",
-        "set_number": "SOVR-EN075",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Gemini Booster",
-        "set_number": "SOVR-EN076",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ritual Buster",
-        "set_number": "SOVR-EN077",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Stygian Dirge",
-        "set_number": "SOVR-EN078",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Seal of Wickedness",
-        "set_number": "SOVR-EN079",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Appointer of the Red Lotus",
-        "set_number": "SOVR-EN080",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
+  "name": "Stardust Overdrive",
+  "type": "Booster Pack",
+  "date": "2009-07-18",
+  "distribution": "booster_pack",
+  "prefix": "SOVR",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Majestic Dragon",
+      "set_number": "SOVR-EN001",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Stardust Xiaolong",
+      "set_number": "SOVR-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Max Warrior",
+      "set_number": "SOVR-EN003",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Quickdraw Synchron",
+      "set_number": "SOVR-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Level Eater",
+      "set_number": "SOVR-EN005",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Zero Gardna",
+      "set_number": "SOVR-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Regulus",
+      "set_number": "SOVR-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Infernity Necromancer",
+      "set_number": "SOVR-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fortune Lady Wind",
+      "set_number": "SOVR-EN009",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Fortune Lady Water",
+      "set_number": "SOVR-EN010",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Fortune Lady Dark",
+      "set_number": "SOVR-EN011",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Fortune Lady Earth",
+      "set_number": "SOVR-EN012",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Solitaire Magician",
+      "set_number": "SOVR-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Catoblepas and the Witch of Fate",
+      "set_number": "SOVR-EN014",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Spider",
+      "set_number": "SOVR-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ground Spider",
+      "set_number": "SOVR-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Relinquished Spider",
+      "set_number": "SOVR-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spyder Spider",
+      "set_number": "SOVR-EN018",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mother Spider",
+      "set_number": "SOVR-EN019",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Reptilianne Gorgon",
+      "set_number": "SOVR-EN020",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Reptilianne Medusa",
+      "set_number": "SOVR-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reptilianne Scylla",
+      "set_number": "SOVR-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reptilianne Viper",
+      "set_number": "SOVR-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Earthbound Immortal Ccarayhua",
+      "set_number": "SOVR-EN024",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Earthbound Immortal Uru",
+      "set_number": "SOVR-EN025",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Earthbound Immortal Wiraqocha Rasca",
+      "set_number": "SOVR-EN026",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Sea Panther",
+      "set_number": "SOVR-EN027",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Rooklord",
+      "set_number": "SOVR-EN028",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Tuned Magician",
+      "set_number": "SOVR-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Crusader of Endymion",
+      "set_number": "SOVR-EN030",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Woodland Archer",
+      "set_number": "SOVR-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Knight of the Red Lotus",
+      "set_number": "SOVR-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Energy Bravery",
+      "set_number": "SOVR-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Swap Frog",
+      "set_number": "SOVR-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lord British Space Fighter",
+      "set_number": "SOVR-EN035",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Oshaleon",
+      "set_number": "SOVR-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Djinn Releaser of Rituals",
+      "set_number": "SOVR-EN037",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Djinn Presider of Rituals",
+      "set_number": "SOVR-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Divine Grace - Northwemko",
+      "set_number": "SOVR-EN039",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Majestic Star Dragon",
+      "set_number": "SOVR-EN040",
+      "rarities": [
+        "Holographic Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Holographic Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Silverwind the Ascendant",
+      "set_number": "SOVR-EN041",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Reptilianne Hydra",
+      "set_number": "SOVR-EN042",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Black Brutdrago",
+      "set_number": "SOVR-EN043",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Explosive Magician",
+      "set_number": "SOVR-EN044",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Spider Web",
+      "set_number": "SOVR-EN045",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Earthbound Whirlwind",
+      "set_number": "SOVR-EN046",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Savage Colosseum",
+      "set_number": "SOVR-EN047",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Attack Pheromones",
+      "set_number": "SOVR-EN048",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Molting Escape",
+      "set_number": "SOVR-EN049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reptilianne Spawn",
+      "set_number": "SOVR-EN050",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fortune's Future",
+      "set_number": "SOVR-EN051",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Time Passage",
+      "set_number": "SOVR-EN052",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Iron Core Armor",
+      "set_number": "SOVR-EN053",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Herculean Power",
+      "set_number": "SOVR-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gemini Spark",
+      "set_number": "SOVR-EN055",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ritual of Grace",
+      "set_number": "SOVR-EN056",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Preparation of Rites",
+      "set_number": "SOVR-EN057",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Moray of Greed",
+      "set_number": "SOVR-EN058",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Spiritual Forest",
+      "set_number": "SOVR-EN059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Raging Mad Plants",
+      "set_number": "SOVR-EN060",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Insect Neglect",
+      "set_number": "SOVR-EN061",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Faustian Bargain",
+      "set_number": "SOVR-EN062",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Slip Summon",
+      "set_number": "SOVR-EN063",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Synchro Barrier",
+      "set_number": "SOVR-EN064",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Enlightenment",
+      "set_number": "SOVR-EN065",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bending Destiny",
+      "set_number": "SOVR-EN066",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Inherited Fortune",
+      "set_number": "SOVR-EN067",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spider Egg",
+      "set_number": "SOVR-EN068",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Wolf in Sheep's Clothing",
+      "set_number": "SOVR-EN069",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Earthbound Wave",
+      "set_number": "SOVR-EN070",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Roar of the Earthbound",
+      "set_number": "SOVR-EN071",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Limit Impulse",
+      "set_number": "SOVR-EN072",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Infernity Force",
+      "set_number": "SOVR-EN073",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nega-Ton Corepanel",
+      "set_number": "SOVR-EN074",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gemini Counter",
+      "set_number": "SOVR-EN075",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gemini Booster",
+      "set_number": "SOVR-EN076",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ritual Buster",
+      "set_number": "SOVR-EN077",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stygian Dirge",
+      "set_number": "SOVR-EN078",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Seal of Wickedness",
+      "set_number": "SOVR-EN079",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Appointer of the Red Lotus",
+      "set_number": "SOVR-EN080",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    }
+  ]
 }

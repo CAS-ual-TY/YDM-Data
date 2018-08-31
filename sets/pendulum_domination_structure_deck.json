@@ -1,444 +1,441 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Pendulum Domination Structure Deck",
-    "type": "Structure Deck",
-    "date": "2017-01-19",
-    "distribution": "",
-    "prefix": "SDPD",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "D/D/D Chaos King Apocalypse",
-        "set_number": "SDPD-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "D/D Savant Newton",
-        "set_number": "SDPD-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Savant Copernicus",
-        "set_number": "SDPD-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Orthros",
-        "set_number": "SDPD-EN004",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "D/D Lamia",
-        "set_number": "SDPD-EN005",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "D/D/D Doom King Armageddon",
-        "set_number": "SDPD-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Cerberus",
-        "set_number": "SDPD-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Lilith",
-        "set_number": "SDPD-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Nighthowl",
-        "set_number": "SDPD-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Savant Galilei",
-        "set_number": "SDPD-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Savant Kepler",
-        "set_number": "SDPD-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D/D Oblivion King Abyss Ragnarok",
-        "set_number": "SDPD-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D/D Supreme King Kaiser",
-        "set_number": "SDPD-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Proud Ogre",
-        "set_number": "SDPD-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Proud Chevalier",
-        "set_number": "SDPD-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Armed Dragon",
-        "set_number": "SDPD-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Grepher",
-        "set_number": "SDPD-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Armageddon Knight",
-        "set_number": "SDPD-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Trance Archfiend",
-        "set_number": "SDPD-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Kuribandit",
-        "set_number": "SDPD-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Stygian Street Patrol",
-        "set_number": "SDPD-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Stygian Security",
-        "set_number": "SDPD-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Contract with the Yamimakai",
-        "set_number": "SDPD-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Contract with the Gate",
-        "set_number": "SDPD-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Contract with the Swamp King",
-        "set_number": "SDPD-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Forbidden Dark Contract with the Swamp King",
-        "set_number": "SDPD-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Foolish Burial",
-        "set_number": "SDPD-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "One for One",
-        "set_number": "SDPD-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Allure of Darkness",
-        "set_number": "SDPD-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Eruption",
-        "set_number": "SDPD-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Emergency Provisions",
-        "set_number": "SDPD-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Reroll",
-        "set_number": "SDPD-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Recruits",
-        "set_number": "SDPD-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D/D Human Resources",
-        "set_number": "SDPD-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Contract with the Witch",
-        "set_number": "SDPD-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Contract with Errors",
-        "set_number": "SDPD-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Contract Laundering",
-        "set_number": "SDPD-EN037",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sinister Yorishiro",
-        "set_number": "SDPD-EN038",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Escape from the Dark Dimension",
-        "set_number": "SDPD-EN039",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hope for Escape",
-        "set_number": "SDPD-EN040",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D/D Dragonbane King Beowulf",
-        "set_number": "SDPD-EN041",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "D/D/D Cursed King Siegfried",
-        "set_number": "SDPD-EN042",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "D/D/D Wave King Caesar",
-        "set_number": "SDPD-EN043",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "Pendulum Domination Structure Deck",
+  "type": "Structure Deck",
+  "date": "2017-01-19",
+  "distribution": "",
+  "prefix": "SDPD",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "D/D/D Chaos King Apocalypse",
+      "set_number": "SDPD-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "D/D Savant Newton",
+      "set_number": "SDPD-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Savant Copernicus",
+      "set_number": "SDPD-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Orthros",
+      "set_number": "SDPD-EN004",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "D/D Lamia",
+      "set_number": "SDPD-EN005",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "D/D/D Doom King Armageddon",
+      "set_number": "SDPD-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Cerberus",
+      "set_number": "SDPD-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Lilith",
+      "set_number": "SDPD-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Nighthowl",
+      "set_number": "SDPD-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Savant Galilei",
+      "set_number": "SDPD-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Savant Kepler",
+      "set_number": "SDPD-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D/D Oblivion King Abyss Ragnarok",
+      "set_number": "SDPD-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D/D Supreme King Kaiser",
+      "set_number": "SDPD-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Proud Ogre",
+      "set_number": "SDPD-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Proud Chevalier",
+      "set_number": "SDPD-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Armed Dragon",
+      "set_number": "SDPD-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Grepher",
+      "set_number": "SDPD-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armageddon Knight",
+      "set_number": "SDPD-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Trance Archfiend",
+      "set_number": "SDPD-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Kuribandit",
+      "set_number": "SDPD-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stygian Street Patrol",
+      "set_number": "SDPD-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stygian Security",
+      "set_number": "SDPD-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Contract with the Yamimakai",
+      "set_number": "SDPD-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Contract with the Gate",
+      "set_number": "SDPD-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Contract with the Swamp King",
+      "set_number": "SDPD-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Forbidden Dark Contract with the Swamp King",
+      "set_number": "SDPD-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Foolish Burial",
+      "set_number": "SDPD-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "One for One",
+      "set_number": "SDPD-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Allure of Darkness",
+      "set_number": "SDPD-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Eruption",
+      "set_number": "SDPD-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Emergency Provisions",
+      "set_number": "SDPD-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Reroll",
+      "set_number": "SDPD-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Recruits",
+      "set_number": "SDPD-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D/D Human Resources",
+      "set_number": "SDPD-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Contract with the Witch",
+      "set_number": "SDPD-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Contract with Errors",
+      "set_number": "SDPD-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Contract Laundering",
+      "set_number": "SDPD-EN037",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sinister Yorishiro",
+      "set_number": "SDPD-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Escape from the Dark Dimension",
+      "set_number": "SDPD-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hope for Escape",
+      "set_number": "SDPD-EN040",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D/D Dragonbane King Beowulf",
+      "set_number": "SDPD-EN041",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "D/D/D Cursed King Siegfried",
+      "set_number": "SDPD-EN042",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "D/D/D Wave King Caesar",
+      "set_number": "SDPD-EN043",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

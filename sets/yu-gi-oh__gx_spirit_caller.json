@@ -1,44 +1,41 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! GX Spirit Caller",
-    "type": "Video Game Promo Cards",
-    "date": "2006-11-30",
-    "distribution": "video_game_promo_cards",
-    "prefix": "GX03",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Brain Crusher",
-        "set_number": "GX03-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Hunter Owl",
-        "set_number": "GX03-EN002",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Masked Chopper",
-        "set_number": "GX03-EN003",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! GX Spirit Caller",
+  "type": "Video Game Promo Cards",
+  "date": "2006-11-30",
+  "distribution": "video_game_promo_cards",
+  "prefix": "GX03",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Brain Crusher",
+      "set_number": "GX03-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Hunter Owl",
+      "set_number": "GX03-EN002",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Masked Chopper",
+      "set_number": "GX03-EN003",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    }
+  ]
 }

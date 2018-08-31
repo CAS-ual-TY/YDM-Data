@@ -1,284 +1,281 @@
 {
-  "status": "success",
-  "set": {
-    "name": "OTS Tournament Pack 3",
-    "type": "Booster Pack",
-    "date": "2016-11-17",
-    "distribution": "booster_pack",
-    "prefix": "OP03",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Swap Frog",
-        "set_number": "OP03-EN001",
-        "rarities": [
-          "Ultimate Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1
-        }
-      },
-      {
-        "card_name": "Speedroid Terrortop",
-        "set_number": "OP03-EN002",
-        "rarities": [
-          "Ultimate Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1
-        }
-      },
-      {
-        "card_name": "Super Quantal Mech Beast Grampulse",
-        "set_number": "OP03-EN003",
-        "rarities": [
-          "Ultimate Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1
-        }
-      },
-      {
-        "card_name": "Metalfoes Goldriver",
-        "set_number": "OP03-EN004",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dupe Frog",
-        "set_number": "OP03-EN005",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Ally of Justice Cycle Reader",
-        "set_number": "OP03-EN006",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Paladin of Felgrand",
-        "set_number": "OP03-EN007",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Igknight Reload",
-        "set_number": "OP03-EN008",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Sky Iris",
-        "set_number": "OP03-EN009",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Domain of the True Monarchs",
-        "set_number": "OP03-EN010",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Magic Deflector",
-        "set_number": "OP03-EN011",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Chaos Trap Hole",
-        "set_number": "OP03-EN012",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Oasis of Dragon Souls",
-        "set_number": "OP03-EN013",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Enchanting Mermaid",
-        "set_number": "OP03-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Slime Toad",
-        "set_number": "OP03-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cipher Soldier",
-        "set_number": "OP03-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Black Dragon's Chick",
-        "set_number": "OP03-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D.D. Crow",
-        "set_number": "OP03-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Doom Shaman",
-        "set_number": "OP03-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hecatrice",
-        "set_number": "OP03-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Oyster Meister",
-        "set_number": "OP03-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Beast of the Pharaoh",
-        "set_number": "OP03-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Night's End Sorcerer",
-        "set_number": "OP03-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Darkstorm Dragon",
-        "set_number": "OP03-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Uni-Zombie",
-        "set_number": "OP03-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rare Fish",
-        "set_number": "OP03-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fusionist",
-        "set_number": "OP03-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "OTS Tournament Pack 3",
+  "type": "Booster Pack",
+  "date": "2016-11-17",
+  "distribution": "booster_pack",
+  "prefix": "OP03",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Swap Frog",
+      "set_number": "OP03-EN001",
+      "rarities": [
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Speedroid Terrortop",
+      "set_number": "OP03-EN002",
+      "rarities": [
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Super Quantal Mech Beast Grampulse",
+      "set_number": "OP03-EN003",
+      "rarities": [
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Metalfoes Goldriver",
+      "set_number": "OP03-EN004",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dupe Frog",
+      "set_number": "OP03-EN005",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Ally of Justice Cycle Reader",
+      "set_number": "OP03-EN006",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Paladin of Felgrand",
+      "set_number": "OP03-EN007",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Igknight Reload",
+      "set_number": "OP03-EN008",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Sky Iris",
+      "set_number": "OP03-EN009",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Domain of the True Monarchs",
+      "set_number": "OP03-EN010",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Magic Deflector",
+      "set_number": "OP03-EN011",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Chaos Trap Hole",
+      "set_number": "OP03-EN012",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Oasis of Dragon Souls",
+      "set_number": "OP03-EN013",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Enchanting Mermaid",
+      "set_number": "OP03-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Slime Toad",
+      "set_number": "OP03-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cipher Soldier",
+      "set_number": "OP03-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Black Dragon's Chick",
+      "set_number": "OP03-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D.D. Crow",
+      "set_number": "OP03-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Doom Shaman",
+      "set_number": "OP03-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hecatrice",
+      "set_number": "OP03-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Oyster Meister",
+      "set_number": "OP03-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Beast of the Pharaoh",
+      "set_number": "OP03-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Night's End Sorcerer",
+      "set_number": "OP03-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Darkstorm Dragon",
+      "set_number": "OP03-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Uni-Zombie",
+      "set_number": "OP03-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rare Fish",
+      "set_number": "OP03-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fusionist",
+      "set_number": "OP03-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

@@ -1,374 +1,371 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Structure Deck: Lord of the Storm",
-    "type": "Structure Deck",
-    "date": "2006-03-16",
-    "distribution": "",
-    "prefix": "SD8",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Simorgh, Bird of Divinity",
-        "set_number": "SD8-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Sonic Shooter",
-        "set_number": "SD8-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sonic Duck",
-        "set_number": "SD8-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Harpie Girl",
-        "set_number": "SD8-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Slate Warrior",
-        "set_number": "SD8-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Flying Kamakiri #1",
-        "set_number": "SD8-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Harpie Lady Sisters",
-        "set_number": "SD8-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Bladefly",
-        "set_number": "SD8-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Birdface",
-        "set_number": "SD8-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Silpheed",
-        "set_number": "SD8-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lady Ninja Yae",
-        "set_number": "SD8-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Roc from the Valley of Haze",
-        "set_number": "SD8-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Harpie Lady 1",
-        "set_number": "SD8-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Harpie Lady 2",
-        "set_number": "SD8-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Harpie Lady 3",
-        "set_number": "SD8-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Swift Birdman Joe",
-        "set_number": "SD8-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Harpie's Pet Baby Dragon",
-        "set_number": "SD8-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Card Destruction",
-        "set_number": "SD8-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mystical Space Typhoon",
-        "set_number": "SD8-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nobleman of Crossout",
-        "set_number": "SD8-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Elegant Egotist",
-        "set_number": "SD8-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Heavy Storm",
-        "set_number": "SD8-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Reload",
-        "set_number": "SD8-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Harpies' Hunting Ground",
-        "set_number": "SD8-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Triangle Ecstasy Spark",
-        "set_number": "SD8-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lightning Vortex",
-        "set_number": "SD8-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hysteric Party",
-        "set_number": "SD8-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Aqua Chorus",
-        "set_number": "SD8-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dust Tornado",
-        "set_number": "SD8-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Call of the Haunted",
-        "set_number": "SD8-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magic Jammer",
-        "set_number": "SD8-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Coffin",
-        "set_number": "SD8-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Reckless Greed",
-        "set_number": "SD8-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sakuretsu Armor",
-        "set_number": "SD8-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ninjitsu Art of Transformation",
-        "set_number": "SD8-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Icarus Attack",
-        "set_number": "SD8-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "Structure Deck: Lord of the Storm",
+  "type": "Structure Deck",
+  "date": "2006-03-16",
+  "distribution": "",
+  "prefix": "SD8",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Simorgh, Bird of Divinity",
+      "set_number": "SD8-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Sonic Shooter",
+      "set_number": "SD8-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sonic Duck",
+      "set_number": "SD8-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Harpie Girl",
+      "set_number": "SD8-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Slate Warrior",
+      "set_number": "SD8-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Flying Kamakiri #1",
+      "set_number": "SD8-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Harpie Lady Sisters",
+      "set_number": "SD8-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Bladefly",
+      "set_number": "SD8-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Birdface",
+      "set_number": "SD8-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Silpheed",
+      "set_number": "SD8-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lady Ninja Yae",
+      "set_number": "SD8-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Roc from the Valley of Haze",
+      "set_number": "SD8-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Harpie Lady 1",
+      "set_number": "SD8-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Harpie Lady 2",
+      "set_number": "SD8-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Harpie Lady 3",
+      "set_number": "SD8-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Swift Birdman Joe",
+      "set_number": "SD8-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Harpie's Pet Baby Dragon",
+      "set_number": "SD8-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Card Destruction",
+      "set_number": "SD8-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mystical Space Typhoon",
+      "set_number": "SD8-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nobleman of Crossout",
+      "set_number": "SD8-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Elegant Egotist",
+      "set_number": "SD8-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Heavy Storm",
+      "set_number": "SD8-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reload",
+      "set_number": "SD8-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Harpies' Hunting Ground",
+      "set_number": "SD8-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Triangle Ecstasy Spark",
+      "set_number": "SD8-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lightning Vortex",
+      "set_number": "SD8-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hysteric Party",
+      "set_number": "SD8-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Aqua Chorus",
+      "set_number": "SD8-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dust Tornado",
+      "set_number": "SD8-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Call of the Haunted",
+      "set_number": "SD8-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magic Jammer",
+      "set_number": "SD8-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Coffin",
+      "set_number": "SD8-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reckless Greed",
+      "set_number": "SD8-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sakuretsu Armor",
+      "set_number": "SD8-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ninjitsu Art of Transformation",
+      "set_number": "SD8-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Icarus Attack",
+      "set_number": "SD8-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

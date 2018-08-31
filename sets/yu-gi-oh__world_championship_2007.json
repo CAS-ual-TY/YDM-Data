@@ -1,44 +1,41 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! World Championship 2007",
-    "type": "Video Game Promo Cards",
-    "date": "2007-03-15",
-    "distribution": "video_game_promo_cards",
-    "prefix": "WC07",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Spell Striker",
-        "set_number": "WC07-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Exploder Dragon",
-        "set_number": "WC07-EN002",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Destiny HERO - Disk Commander",
-        "set_number": "WC07-EN003",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! World Championship 2007",
+  "type": "Video Game Promo Cards",
+  "date": "2007-03-15",
+  "distribution": "video_game_promo_cards",
+  "prefix": "WC07",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Spell Striker",
+      "set_number": "WC07-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Exploder Dragon",
+      "set_number": "WC07-EN002",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Disk Commander",
+      "set_number": "WC07-EN003",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    }
+  ]
 }

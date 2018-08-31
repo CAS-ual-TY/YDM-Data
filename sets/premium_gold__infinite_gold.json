@@ -1,1014 +1,1011 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Premium Gold: Infinite Gold",
-    "type": "Gold Series",
-    "date": "2016-03-17",
-    "distribution": "gold_series",
-    "prefix": "PGL3",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Angmarl the Fiendish Monarch",
-        "set_number": "PGL3-EN001",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Junk Changer",
-        "set_number": "PGL3-EN002",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Junkuriboh",
-        "set_number": "PGL3-EN003",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Magical King Moonstar",
-        "set_number": "PGL3-EN004",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Stardust Charge Warrior",
-        "set_number": "PGL3-EN005",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Phantasmal Lord Ultimitl Bishbaalkin",
-        "set_number": "PGL3-EN006",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 37: Hope Woven Dragon Spider Shark",
-        "set_number": "PGL3-EN007",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
-        "set_number": "PGL3-EN008",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 35: Ravenous Tarantula",
-        "set_number": "PGL3-EN009",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 84: Pain Gainer",
-        "set_number": "PGL3-EN010",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 77: The Seven Sins",
-        "set_number": "PGL3-EN011",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Frost Blast of the Monarchs",
-        "set_number": "PGL3-EN012",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Tsukumo Slash",
-        "set_number": "PGL3-EN013",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Shining Hope Road",
-        "set_number": "PGL3-EN014",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "The Phantom Knights of Shade Brigandine",
-        "set_number": "PGL3-EN015",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "The Phantom Knights of Dark Gauntlets",
-        "set_number": "PGL3-EN016",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "The Phantom Knights of Tomb Shield",
-        "set_number": "PGL3-EN017",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Advance",
-        "set_number": "PGL3-EN018",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "King's Consonance",
-        "set_number": "PGL3-EN019",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Red Supremacy",
-        "set_number": "PGL3-EN020",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Beatrice, Lady of the Eternal",
-        "set_number": "PGL3-EN021",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Fire Hand",
-        "set_number": "PGL3-EN022",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Ice Hand",
-        "set_number": "PGL3-EN023",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Kozmo Farmgirl",
-        "set_number": "PGL3-EN024",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Kozmo Goodwitch",
-        "set_number": "PGL3-EN025",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Kozmo Sliprider",
-        "set_number": "PGL3-EN026",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Kozmo Forerunner",
-        "set_number": "PGL3-EN027",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Kozmo Strawman",
-        "set_number": "PGL3-EN028",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Kozmoll Wickedwitch",
-        "set_number": "PGL3-EN029",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Kozmo DOG Fighter",
-        "set_number": "PGL3-EN030",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Kozmo Dark Destroyer",
-        "set_number": "PGL3-EN031",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Kozmotown",
-        "set_number": "PGL3-EN032",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Kozmo Lightsword",
-        "set_number": "PGL3-EN033",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Horn of Heaven",
-        "set_number": "PGL3-EN034",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Black Horn of Heaven",
-        "set_number": "PGL3-EN035",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Treacherous Trap Hole",
-        "set_number": "PGL3-EN036",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Deep Dark Trap Hole",
-        "set_number": "PGL3-EN037",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Void Trap Hole",
-        "set_number": "PGL3-EN038",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Time-Space Trap Hole",
-        "set_number": "PGL3-EN039",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Grand Horn of Heaven",
-        "set_number": "PGL3-EN040",
-        "rarities": [
-          "Gold Secret Rare"
-        ],
-        "count": {
-          "Gold Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Vector Pendulum, the Dracoverlord",
-        "set_number": "PGL3-EN041",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Maxx \"C\"",
-        "set_number": "PGL3-EN042",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Scarm, Malebranche of the Burning Abyss",
-        "set_number": "PGL3-EN043",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Graff, Malebranche of the Burning Abyss",
-        "set_number": "PGL3-EN044",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Cir, Malebranche of the Burning Abyss",
-        "set_number": "PGL3-EN045",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Rubic, Malebranche of the Burning Abyss",
-        "set_number": "PGL3-EN046",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Alich, Malebranche of the Burning Abyss",
-        "set_number": "PGL3-EN047",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Calcab, Malebranche of the Burning Abyss",
-        "set_number": "PGL3-EN048",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Farfa, Malebranche of the Burning Abyss",
-        "set_number": "PGL3-EN049",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Libic, Malebranche of the Burning Abyss",
-        "set_number": "PGL3-EN050",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Cagna, Malebranche of the Burning Abyss",
-        "set_number": "PGL3-EN051",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Ghost Ogre & Snow Rabbit",
-        "set_number": "PGL3-EN052",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Draghig, Malebranche of the Burning Abyss",
-        "set_number": "PGL3-EN053",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Barbar, Malebranche of the Burning Abyss",
-        "set_number": "PGL3-EN054",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Luster Pendulum, the Dracoslayer",
-        "set_number": "PGL3-EN055",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Archfiend Eccentrick",
-        "set_number": "PGL3-EN056",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Chimeratech Fortress Dragon",
-        "set_number": "PGL3-EN057",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Dante, Pilgrim of the Burning Abyss",
-        "set_number": "PGL3-EN058",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Black Rose Dragon",
-        "set_number": "PGL3-EN059",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Arcanite Magician",
-        "set_number": "PGL3-EN060",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Virgil, Rock Star of the Burning Abyss",
-        "set_number": "PGL3-EN061",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Ignister Prominence, the Blasting Dracoslayer",
-        "set_number": "PGL3-EN062",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 11: Big Eye",
-        "set_number": "PGL3-EN063",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Digvorzhak, King of Heavy Industry",
-        "set_number": "PGL3-EN064",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Daigusto Emeral",
-        "set_number": "PGL3-EN065",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Constellar Pleiades",
-        "set_number": "PGL3-EN066",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Gagaga Cowboy",
-        "set_number": "PGL3-EN067",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Abyss Dweller",
-        "set_number": "PGL3-EN068",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Bahamut Shark",
-        "set_number": "PGL3-EN069",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Lightning Chidori",
-        "set_number": "PGL3-EN070",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Constellar Ptolemy M7",
-        "set_number": "PGL3-EN071",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Evilswarm Ouroboros",
-        "set_number": "PGL3-EN072",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 61: Volcasaurus",
-        "set_number": "PGL3-EN073",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Norito the Moral Leader",
-        "set_number": "PGL3-EN074",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 106: Giant Hand",
-        "set_number": "PGL3-EN075",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Castel, the Skyblaster Musketeer",
-        "set_number": "PGL3-EN076",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Dante, Traveler of the Burning Abyss",
-        "set_number": "PGL3-EN077",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Red-Eyes Flare Metal Dragon",
-        "set_number": "PGL3-EN078",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Majester Paladin, the Ascending Dracoslayer",
-        "set_number": "PGL3-EN079",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Reasoning",
-        "set_number": "PGL3-EN080",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Emergency Teleport",
-        "set_number": "PGL3-EN081",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Spell Shattering Arrow",
-        "set_number": "PGL3-EN082",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Mask Change",
-        "set_number": "PGL3-EN083",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Shared Ride",
-        "set_number": "PGL3-EN084",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "The Monarchs Stormforth",
-        "set_number": "PGL3-EN085",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Mask Change II",
-        "set_number": "PGL3-EN086",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Galaxy Cyclone",
-        "set_number": "PGL3-EN087",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "The Terminus of the Burning Abyss",
-        "set_number": "PGL3-EN088",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Mistaken Arrest",
-        "set_number": "PGL3-EN089",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Draco Face-Off",
-        "set_number": "PGL3-EN090",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Remove Brainwashing",
-        "set_number": "PGL3-EN091",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Mirror Force",
-        "set_number": "PGL3-EN092",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Radiant Mirror Force",
-        "set_number": "PGL3-EN093",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Fairy Wind",
-        "set_number": "PGL3-EN094",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Breakthrough Skill",
-        "set_number": "PGL3-EN095",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Mistake",
-        "set_number": "PGL3-EN096",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "The Traveler and the Burning Abyss",
-        "set_number": "PGL3-EN097",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Fire Lake of the Burning Abyss",
-        "set_number": "PGL3-EN098",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Storming Mirror Force",
-        "set_number": "PGL3-EN099",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Blazing Mirror Force",
-        "set_number": "PGL3-EN100",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
+  "name": "Premium Gold: Infinite Gold",
+  "type": "Gold Series",
+  "date": "2016-03-17",
+  "distribution": "gold_series",
+  "prefix": "PGL3",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Angmarl the Fiendish Monarch",
+      "set_number": "PGL3-EN001",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Junk Changer",
+      "set_number": "PGL3-EN002",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Junkuriboh",
+      "set_number": "PGL3-EN003",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Magical King Moonstar",
+      "set_number": "PGL3-EN004",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Stardust Charge Warrior",
+      "set_number": "PGL3-EN005",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Phantasmal Lord Ultimitl Bishbaalkin",
+      "set_number": "PGL3-EN006",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 37: Hope Woven Dragon Spider Shark",
+      "set_number": "PGL3-EN007",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+      "set_number": "PGL3-EN008",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 35: Ravenous Tarantula",
+      "set_number": "PGL3-EN009",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 84: Pain Gainer",
+      "set_number": "PGL3-EN010",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 77: The Seven Sins",
+      "set_number": "PGL3-EN011",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Frost Blast of the Monarchs",
+      "set_number": "PGL3-EN012",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Tsukumo Slash",
+      "set_number": "PGL3-EN013",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Shining Hope Road",
+      "set_number": "PGL3-EN014",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Phantom Knights of Shade Brigandine",
+      "set_number": "PGL3-EN015",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Phantom Knights of Dark Gauntlets",
+      "set_number": "PGL3-EN016",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Phantom Knights of Tomb Shield",
+      "set_number": "PGL3-EN017",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Advance",
+      "set_number": "PGL3-EN018",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "King's Consonance",
+      "set_number": "PGL3-EN019",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Red Supremacy",
+      "set_number": "PGL3-EN020",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Beatrice, Lady of the Eternal",
+      "set_number": "PGL3-EN021",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fire Hand",
+      "set_number": "PGL3-EN022",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Ice Hand",
+      "set_number": "PGL3-EN023",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Kozmo Farmgirl",
+      "set_number": "PGL3-EN024",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Kozmo Goodwitch",
+      "set_number": "PGL3-EN025",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Kozmo Sliprider",
+      "set_number": "PGL3-EN026",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Kozmo Forerunner",
+      "set_number": "PGL3-EN027",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Kozmo Strawman",
+      "set_number": "PGL3-EN028",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Kozmoll Wickedwitch",
+      "set_number": "PGL3-EN029",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Kozmo DOG Fighter",
+      "set_number": "PGL3-EN030",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Kozmo Dark Destroyer",
+      "set_number": "PGL3-EN031",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Kozmotown",
+      "set_number": "PGL3-EN032",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Kozmo Lightsword",
+      "set_number": "PGL3-EN033",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Horn of Heaven",
+      "set_number": "PGL3-EN034",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Black Horn of Heaven",
+      "set_number": "PGL3-EN035",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Treacherous Trap Hole",
+      "set_number": "PGL3-EN036",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Deep Dark Trap Hole",
+      "set_number": "PGL3-EN037",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Void Trap Hole",
+      "set_number": "PGL3-EN038",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Time-Space Trap Hole",
+      "set_number": "PGL3-EN039",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Grand Horn of Heaven",
+      "set_number": "PGL3-EN040",
+      "rarities": [
+        "Gold Secret Rare"
+      ],
+      "count": {
+        "Gold Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Vector Pendulum, the Dracoverlord",
+      "set_number": "PGL3-EN041",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Maxx "C"",
+      "set_number": "PGL3-EN042",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Scarm, Malebranche of the Burning Abyss",
+      "set_number": "PGL3-EN043",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Graff, Malebranche of the Burning Abyss",
+      "set_number": "PGL3-EN044",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Cir, Malebranche of the Burning Abyss",
+      "set_number": "PGL3-EN045",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Rubic, Malebranche of the Burning Abyss",
+      "set_number": "PGL3-EN046",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Alich, Malebranche of the Burning Abyss",
+      "set_number": "PGL3-EN047",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Calcab, Malebranche of the Burning Abyss",
+      "set_number": "PGL3-EN048",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Farfa, Malebranche of the Burning Abyss",
+      "set_number": "PGL3-EN049",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Libic, Malebranche of the Burning Abyss",
+      "set_number": "PGL3-EN050",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Cagna, Malebranche of the Burning Abyss",
+      "set_number": "PGL3-EN051",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Ghost Ogre & Snow Rabbit",
+      "set_number": "PGL3-EN052",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Draghig, Malebranche of the Burning Abyss",
+      "set_number": "PGL3-EN053",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Barbar, Malebranche of the Burning Abyss",
+      "set_number": "PGL3-EN054",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Luster Pendulum, the Dracoslayer",
+      "set_number": "PGL3-EN055",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Archfiend Eccentrick",
+      "set_number": "PGL3-EN056",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Chimeratech Fortress Dragon",
+      "set_number": "PGL3-EN057",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Dante, Pilgrim of the Burning Abyss",
+      "set_number": "PGL3-EN058",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Black Rose Dragon",
+      "set_number": "PGL3-EN059",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Arcanite Magician",
+      "set_number": "PGL3-EN060",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Virgil, Rock Star of the Burning Abyss",
+      "set_number": "PGL3-EN061",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Ignister Prominence, the Blasting Dracoslayer",
+      "set_number": "PGL3-EN062",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 11: Big Eye",
+      "set_number": "PGL3-EN063",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Digvorzhak, King of Heavy Industry",
+      "set_number": "PGL3-EN064",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Daigusto Emeral",
+      "set_number": "PGL3-EN065",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Constellar Pleiades",
+      "set_number": "PGL3-EN066",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Gagaga Cowboy",
+      "set_number": "PGL3-EN067",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Abyss Dweller",
+      "set_number": "PGL3-EN068",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Bahamut Shark",
+      "set_number": "PGL3-EN069",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Lightning Chidori",
+      "set_number": "PGL3-EN070",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Constellar Ptolemy M7",
+      "set_number": "PGL3-EN071",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Evilswarm Ouroboros",
+      "set_number": "PGL3-EN072",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 61: Volcasaurus",
+      "set_number": "PGL3-EN073",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Norito the Moral Leader",
+      "set_number": "PGL3-EN074",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 106: Giant Hand",
+      "set_number": "PGL3-EN075",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Castel, the Skyblaster Musketeer",
+      "set_number": "PGL3-EN076",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Dante, Traveler of the Burning Abyss",
+      "set_number": "PGL3-EN077",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Red-Eyes Flare Metal Dragon",
+      "set_number": "PGL3-EN078",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Majester Paladin, the Ascending Dracoslayer",
+      "set_number": "PGL3-EN079",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Reasoning",
+      "set_number": "PGL3-EN080",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Emergency Teleport",
+      "set_number": "PGL3-EN081",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Spell Shattering Arrow",
+      "set_number": "PGL3-EN082",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Mask Change",
+      "set_number": "PGL3-EN083",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Shared Ride",
+      "set_number": "PGL3-EN084",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "The Monarchs Stormforth",
+      "set_number": "PGL3-EN085",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Mask Change II",
+      "set_number": "PGL3-EN086",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Galaxy Cyclone",
+      "set_number": "PGL3-EN087",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "The Terminus of the Burning Abyss",
+      "set_number": "PGL3-EN088",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Mistaken Arrest",
+      "set_number": "PGL3-EN089",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Draco Face-Off",
+      "set_number": "PGL3-EN090",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Remove Brainwashing",
+      "set_number": "PGL3-EN091",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Mirror Force",
+      "set_number": "PGL3-EN092",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Radiant Mirror Force",
+      "set_number": "PGL3-EN093",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Fairy Wind",
+      "set_number": "PGL3-EN094",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Breakthrough Skill",
+      "set_number": "PGL3-EN095",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Mistake",
+      "set_number": "PGL3-EN096",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "The Traveler and the Burning Abyss",
+      "set_number": "PGL3-EN097",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Fire Lake of the Burning Abyss",
+      "set_number": "PGL3-EN098",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Storming Mirror Force",
+      "set_number": "PGL3-EN099",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Blazing Mirror Force",
+      "set_number": "PGL3-EN100",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    }
+  ]
 }

@@ -1,54 +1,51 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! World Championship 2008",
-    "type": "Video Game Promo Cards",
-    "date": "2007-11-29",
-    "distribution": "video_game_promo_cards",
-    "prefix": "WC08",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Deep Diver",
-        "set_number": "WC08-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Burden of the Mighty",
-        "set_number": "WC08-EN002",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Dimensional Prison",
-        "set_number": "WC08-EN003",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Vortex Trooper",
-        "set_number": "WC08-ENB01",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! World Championship 2008",
+  "type": "Video Game Promo Cards",
+  "date": "2007-11-29",
+  "distribution": "video_game_promo_cards",
+  "prefix": "WC08",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Deep Diver",
+      "set_number": "WC08-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Burden of the Mighty",
+      "set_number": "WC08-EN002",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Dimensional Prison",
+      "set_number": "WC08-EN003",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Vortex Trooper",
+      "set_number": "WC08-ENB01",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    }
+  ]
 }

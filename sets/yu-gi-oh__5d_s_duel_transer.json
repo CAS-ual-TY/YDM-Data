@@ -1,44 +1,41 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! 5D's Duel Transer",
-    "type": "Video Game Promo Cards",
-    "date": "2010-11-21",
-    "distribution": "video_game_promo_cards",
-    "prefix": "YDT1",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Ape Fighter",
-        "set_number": "YDT1-EN001",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Closed Forest",
-        "set_number": "YDT1-EN002",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Roaring Earth",
-        "set_number": "YDT1-EN003",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Yu-Gi-Oh! 5D's Duel Transer",
+  "type": "Video Game Promo Cards",
+  "date": "2010-11-21",
+  "distribution": "video_game_promo_cards",
+  "prefix": "YDT1",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Ape Fighter",
+      "set_number": "YDT1-EN001",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Closed Forest",
+      "set_number": "YDT1-EN002",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Roaring Earth",
+      "set_number": "YDT1-EN003",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
+  ]
 }

@@ -1,860 +1,857 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Shining Victories",
-    "type": "Booster Pack",
-    "date": "2016-01-09",
-    "distribution": "booster_pack",
-    "prefix": "SHVI",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Angel Trumpeter",
-        "set_number": "SHVI-EN001",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Performapal Sellshell Crab",
-        "set_number": "SHVI-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Performapal Odd-Eyes Light Phoenix",
-        "set_number": "SHVI-EN003",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Performapal Odd-Eyes Unicorn",
-        "set_number": "SHVI-EN004",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Performapal Fireflux",
-        "set_number": "SHVI-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Speedroid Den-Den Daiko Duke",
-        "set_number": "SHVI-EN006",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Speedroid Pachingo-Kart",
-        "set_number": "SHVI-EN007",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Lunalight Blue Cat",
-        "set_number": "SHVI-EN008",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Lunalight Purple Butterfly",
-        "set_number": "SHVI-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lunalight White Rabbit",
-        "set_number": "SHVI-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lunalight Black Sheep",
-        "set_number": "SHVI-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lunalight Wolf",
-        "set_number": "SHVI-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lunalight Tiger",
-        "set_number": "SHVI-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Raidraptor - Avenge Vulture",
-        "set_number": "SHVI-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Raidraptor - Pain Lanius",
-        "set_number": "SHVI-EN015",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Raidraptor - Booster Strix",
-        "set_number": "SHVI-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blackwing - Decay the Ill Wind",
-        "set_number": "SHVI-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dragon Spirit of White",
-        "set_number": "SHVI-EN018",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Protector with Eyes of Blue",
-        "set_number": "SHVI-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sage with Eyes of Blue",
-        "set_number": "SHVI-EN020",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Master with Eyes of Blue",
-        "set_number": "SHVI-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The White Stone of Ancients",
-        "set_number": "SHVI-EN022",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Lector Pendulum, the Dracoverlord",
-        "set_number": "SHVI-EN023",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Amorphage Gluttony",
-        "set_number": "SHVI-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Amorphage Lechery",
-        "set_number": "SHVI-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Amorphage Greed",
-        "set_number": "SHVI-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Amorphage Envy",
-        "set_number": "SHVI-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Amorphage Wrath",
-        "set_number": "SHVI-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Amorphage Pride",
-        "set_number": "SHVI-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Amorphage Sloth",
-        "set_number": "SHVI-EN030",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Amorphage Goliath",
-        "set_number": "SHVI-EN031",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dinomist Spinos",
-        "set_number": "SHVI-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Digital Bug Cocoondenser",
-        "set_number": "SHVI-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Digital Bug Centibit",
-        "set_number": "SHVI-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Digital Bug Websolder",
-        "set_number": "SHVI-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Red-Eyes Toon Dragon",
-        "set_number": "SHVI-EN036",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Ryu Okami",
-        "set_number": "SHVI-EN037",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tenmataitei",
-        "set_number": "SHVI-EN038",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Spirit of the Fall Wind",
-        "set_number": "SHVI-EN039",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Ghost Reaper & Winter Cherries",
-        "set_number": "SHVI-EN040",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Gendo the Ascetic Monk",
-        "set_number": "SHVI-EN041",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Deskbot 009",
-        "set_number": "SHVI-EN042",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dicelops",
-        "set_number": "SHVI-EN043",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Amorphactor Pain, the Imagination Dracoverlord",
-        "set_number": "SHVI-EN044",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Bloom Prima the Melodious Choir",
-        "set_number": "SHVI-EN045",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Lunalight Cat Dancer",
-        "set_number": "SHVI-EN046",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Lunalight Panther Dancer",
-        "set_number": "SHVI-EN047",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Lunalight Leo Dancer",
-        "set_number": "SHVI-EN048",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Crystal Wing Synchro Dragon",
-        "set_number": "SHVI-EN049",
-        "rarities": [
-          "Secret Rare",
-          "Holographic Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Holographic Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Hi-Speedroid Puzzle",
-        "set_number": "SHVI-EN050",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Assault Blackwing - Chidori the Rain Sprinkling",
-        "set_number": "SHVI-EN051",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Blue-Eyes Spirit Dragon",
-        "set_number": "SHVI-EN052",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Raidraptor - Ultimate Falcon",
-        "set_number": "SHVI-EN053",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Digital Bug Scaradiator",
-        "set_number": "SHVI-EN054",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Digital Bug Corebage",
-        "set_number": "SHVI-EN055",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Digital Bug Rhinosebus",
-        "set_number": "SHVI-EN056",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Fortissimo",
-        "set_number": "SHVI-EN057",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rank-Up-Magic Skip Force",
-        "set_number": "SHVI-EN058",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mausoleum of White",
-        "set_number": "SHVI-EN059",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Beacon of White",
-        "set_number": "SHVI-EN060",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Forge of the True Dracos",
-        "set_number": "SHVI-EN061",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Amorphous Persona",
-        "set_number": "SHVI-EN062",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Amorphage Infection",
-        "set_number": "SHVI-EN063",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Bug Matrix",
-        "set_number": "SHVI-EN064",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Pre-Preparation of Rites",
-        "set_number": "SHVI-EN065",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Fusion Tag",
-        "set_number": "SHVI-EN066",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tuner's High",
-        "set_number": "SHVI-EN067",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Deskbot Base",
-        "set_number": "SHVI-EN068",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Finite Cards",
-        "set_number": "SHVI-EN069",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Re-dyce-cle",
-        "set_number": "SHVI-EN070",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lunalight Reincarnation Dance",
-        "set_number": "SHVI-EN071",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Amorphage Lysis",
-        "set_number": "SHVI-EN072",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dinomist Eruption",
-        "set_number": "SHVI-EN073",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bug Emergency",
-        "set_number": "SHVI-EN074",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Drowning Mirror Force",
-        "set_number": "SHVI-EN075",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Wonder Xyz",
-        "set_number": "SHVI-EN076",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rise to Full Height",
-        "set_number": "SHVI-EN077",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bad Aim",
-        "set_number": "SHVI-EN078",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Unwavering Bond",
-        "set_number": "SHVI-EN079",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Graceful Tear",
-        "set_number": "SHVI-EN080",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
+  "name": "Shining Victories",
+  "type": "Booster Pack",
+  "date": "2016-01-09",
+  "distribution": "booster_pack",
+  "prefix": "SHVI",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Angel Trumpeter",
+      "set_number": "SHVI-EN001",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Performapal Sellshell Crab",
+      "set_number": "SHVI-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Performapal Odd-Eyes Light Phoenix",
+      "set_number": "SHVI-EN003",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Performapal Odd-Eyes Unicorn",
+      "set_number": "SHVI-EN004",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Performapal Fireflux",
+      "set_number": "SHVI-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Speedroid Den-Den Daiko Duke",
+      "set_number": "SHVI-EN006",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Speedroid Pachingo-Kart",
+      "set_number": "SHVI-EN007",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Lunalight Blue Cat",
+      "set_number": "SHVI-EN008",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Lunalight Purple Butterfly",
+      "set_number": "SHVI-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lunalight White Rabbit",
+      "set_number": "SHVI-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lunalight Black Sheep",
+      "set_number": "SHVI-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lunalight Wolf",
+      "set_number": "SHVI-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lunalight Tiger",
+      "set_number": "SHVI-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Raidraptor - Avenge Vulture",
+      "set_number": "SHVI-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Raidraptor - Pain Lanius",
+      "set_number": "SHVI-EN015",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Raidraptor - Booster Strix",
+      "set_number": "SHVI-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Decay the Ill Wind",
+      "set_number": "SHVI-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dragon Spirit of White",
+      "set_number": "SHVI-EN018",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Protector with Eyes of Blue",
+      "set_number": "SHVI-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sage with Eyes of Blue",
+      "set_number": "SHVI-EN020",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Master with Eyes of Blue",
+      "set_number": "SHVI-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The White Stone of Ancients",
+      "set_number": "SHVI-EN022",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Lector Pendulum, the Dracoverlord",
+      "set_number": "SHVI-EN023",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Amorphage Gluttony",
+      "set_number": "SHVI-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amorphage Lechery",
+      "set_number": "SHVI-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amorphage Greed",
+      "set_number": "SHVI-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amorphage Envy",
+      "set_number": "SHVI-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amorphage Wrath",
+      "set_number": "SHVI-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amorphage Pride",
+      "set_number": "SHVI-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amorphage Sloth",
+      "set_number": "SHVI-EN030",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Amorphage Goliath",
+      "set_number": "SHVI-EN031",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dinomist Spinos",
+      "set_number": "SHVI-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Digital Bug Cocoondenser",
+      "set_number": "SHVI-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Digital Bug Centibit",
+      "set_number": "SHVI-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Digital Bug Websolder",
+      "set_number": "SHVI-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Red-Eyes Toon Dragon",
+      "set_number": "SHVI-EN036",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ryu Okami",
+      "set_number": "SHVI-EN037",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tenmataitei",
+      "set_number": "SHVI-EN038",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Spirit of the Fall Wind",
+      "set_number": "SHVI-EN039",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ghost Reaper & Winter Cherries",
+      "set_number": "SHVI-EN040",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Gendo the Ascetic Monk",
+      "set_number": "SHVI-EN041",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Deskbot 009",
+      "set_number": "SHVI-EN042",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dicelops",
+      "set_number": "SHVI-EN043",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Amorphactor Pain, the Imagination Dracoverlord",
+      "set_number": "SHVI-EN044",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Bloom Prima the Melodious Choir",
+      "set_number": "SHVI-EN045",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Lunalight Cat Dancer",
+      "set_number": "SHVI-EN046",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Lunalight Panther Dancer",
+      "set_number": "SHVI-EN047",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Lunalight Leo Dancer",
+      "set_number": "SHVI-EN048",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Crystal Wing Synchro Dragon",
+      "set_number": "SHVI-EN049",
+      "rarities": [
+        "Secret Rare",
+        "Holographic Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Holographic Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Hi-Speedroid Puzzle",
+      "set_number": "SHVI-EN050",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Assault Blackwing - Chidori the Rain Sprinkling",
+      "set_number": "SHVI-EN051",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Blue-Eyes Spirit Dragon",
+      "set_number": "SHVI-EN052",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Raidraptor - Ultimate Falcon",
+      "set_number": "SHVI-EN053",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Digital Bug Scaradiator",
+      "set_number": "SHVI-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Digital Bug Corebage",
+      "set_number": "SHVI-EN055",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Digital Bug Rhinosebus",
+      "set_number": "SHVI-EN056",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Fortissimo",
+      "set_number": "SHVI-EN057",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rank-Up-Magic Skip Force",
+      "set_number": "SHVI-EN058",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mausoleum of White",
+      "set_number": "SHVI-EN059",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Beacon of White",
+      "set_number": "SHVI-EN060",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Forge of the True Dracos",
+      "set_number": "SHVI-EN061",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amorphous Persona",
+      "set_number": "SHVI-EN062",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amorphage Infection",
+      "set_number": "SHVI-EN063",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Bug Matrix",
+      "set_number": "SHVI-EN064",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pre-Preparation of Rites",
+      "set_number": "SHVI-EN065",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Fusion Tag",
+      "set_number": "SHVI-EN066",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tuner's High",
+      "set_number": "SHVI-EN067",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Deskbot Base",
+      "set_number": "SHVI-EN068",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Finite Cards",
+      "set_number": "SHVI-EN069",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Re-dyce-cle",
+      "set_number": "SHVI-EN070",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lunalight Reincarnation Dance",
+      "set_number": "SHVI-EN071",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amorphage Lysis",
+      "set_number": "SHVI-EN072",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dinomist Eruption",
+      "set_number": "SHVI-EN073",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bug Emergency",
+      "set_number": "SHVI-EN074",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Drowning Mirror Force",
+      "set_number": "SHVI-EN075",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Wonder Xyz",
+      "set_number": "SHVI-EN076",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rise to Full Height",
+      "set_number": "SHVI-EN077",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bad Aim",
+      "set_number": "SHVI-EN078",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Unwavering Bond",
+      "set_number": "SHVI-EN079",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Graceful Tear",
+      "set_number": "SHVI-EN080",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    }
+  ]
 }

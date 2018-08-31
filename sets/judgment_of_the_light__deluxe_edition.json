@@ -1,54 +1,51 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Judgment of the Light: Deluxe Edition",
-    "type": "Special Edition Promo Cards",
-    "date": "2013-09-26",
-    "distribution": "special_edition_promo_cards",
-    "prefix": "JOTL",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Archfiend Emperor, the First Lord of Horror",
-        "set_number": "JOTL-ENDE1",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Flying \"C\"",
-        "set_number": "JOTL-ENDE2",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragon Shield",
-        "set_number": "JOTL-ENDE3",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Vampire Kingdom",
-        "set_number": "JOTL-ENDE4",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Judgment of the Light: Deluxe Edition",
+  "type": "Special Edition Promo Cards",
+  "date": "2013-09-26",
+  "distribution": "special_edition_promo_cards",
+  "prefix": "JOTL",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Archfiend Emperor, the First Lord of Horror",
+      "set_number": "JOTL-ENDE1",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Flying "C"",
+      "set_number": "JOTL-ENDE2",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragon Shield",
+      "set_number": "JOTL-ENDE3",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Vampire Kingdom",
+      "set_number": "JOTL-ENDE4",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
+  ]
 }

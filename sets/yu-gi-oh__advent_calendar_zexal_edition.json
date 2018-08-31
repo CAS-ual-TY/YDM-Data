@@ -1,254 +1,251 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! Advent Calendar ZEXAL Edition",
-    "type": "Special Edition Promo Cards",
-    "date": "2014-10-16",
-    "distribution": "special_edition_promo_cards",
-    "prefix": "AC14",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Number 92: Heart-eartH Dragon",
-        "set_number": "AC14-EN001",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 53: Heart-eartH",
-        "set_number": "AC14-EN002",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 15: Gimmick Puppet Giant Grinder",
-        "set_number": "AC14-EN003",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Mechquipped Angineer",
-        "set_number": "AC14-EN004",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Starliege Lord Galaxion",
-        "set_number": "AC14-EN005",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Norito the Moral Leader",
-        "set_number": "AC14-EN006",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Comics Hero King Arthur",
-        "set_number": "AC14-EN007",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 10: Illumiknight",
-        "set_number": "AC14-EN008",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 8: Heraldic King Genom-Heritage",
-        "set_number": "AC14-EN009",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 39: Utopia",
-        "set_number": "AC14-EN010",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number C39: Utopia Ray",
-        "set_number": "AC14-EN011",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Battlecruiser Dianthus",
-        "set_number": "AC14-EN012",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Ice Beast Zerofyne",
-        "set_number": "AC14-EN013",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Battlin' Boxer Lead Yoke",
-        "set_number": "AC14-EN014",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 6: Chronomaly Atlandis",
-        "set_number": "AC14-EN015",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 69: Heraldry Crest",
-        "set_number": "AC14-EN016",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 11: Big Eye",
-        "set_number": "AC14-EN017",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 32: Shark Drake",
-        "set_number": "AC14-EN018",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number C32: Shark Drake Veiss",
-        "set_number": "AC14-EN019",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 9: Dyson Sphere",
-        "set_number": "AC14-EN020",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Coach King Giantrainer",
-        "set_number": "AC14-EN021",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Galaxy-Eyes Photon Dragon",
-        "set_number": "AC14-EN022",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo Galaxy-Eyes Photon Dragon",
-        "set_number": "AC14-EN023",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Santa Claws",
-        "set_number": "AC14-EN024",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
+  "name": "Yu-Gi-Oh! Advent Calendar ZEXAL Edition",
+  "type": "Special Edition Promo Cards",
+  "date": "2014-10-16",
+  "distribution": "special_edition_promo_cards",
+  "prefix": "AC14",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Number 92: Heart-eartH Dragon",
+      "set_number": "AC14-EN001",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Number 53: Heart-eartH",
+      "set_number": "AC14-EN002",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 15: Gimmick Puppet Giant Grinder",
+      "set_number": "AC14-EN003",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mechquipped Angineer",
+      "set_number": "AC14-EN004",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Starliege Lord Galaxion",
+      "set_number": "AC14-EN005",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Norito the Moral Leader",
+      "set_number": "AC14-EN006",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Comics Hero King Arthur",
+      "set_number": "AC14-EN007",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 10: Illumiknight",
+      "set_number": "AC14-EN008",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 8: Heraldic King Genom-Heritage",
+      "set_number": "AC14-EN009",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 39: Utopia",
+      "set_number": "AC14-EN010",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number C39: Utopia Ray",
+      "set_number": "AC14-EN011",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Battlecruiser Dianthus",
+      "set_number": "AC14-EN012",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Ice Beast Zerofyne",
+      "set_number": "AC14-EN013",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Battlin' Boxer Lead Yoke",
+      "set_number": "AC14-EN014",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 6: Chronomaly Atlandis",
+      "set_number": "AC14-EN015",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 69: Heraldry Crest",
+      "set_number": "AC14-EN016",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 11: Big Eye",
+      "set_number": "AC14-EN017",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 32: Shark Drake",
+      "set_number": "AC14-EN018",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number C32: Shark Drake Veiss",
+      "set_number": "AC14-EN019",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 9: Dyson Sphere",
+      "set_number": "AC14-EN020",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Coach King Giantrainer",
+      "set_number": "AC14-EN021",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Galaxy-Eyes Photon Dragon",
+      "set_number": "AC14-EN022",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Neo Galaxy-Eyes Photon Dragon",
+      "set_number": "AC14-EN023",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Santa Claws",
+      "set_number": "AC14-EN024",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    }
+  ]
 }

@@ -1,1036 +1,1033 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Storm of Ragnarok",
-    "type": "Booster Pack",
-    "date": "2011-02-10",
-    "distribution": "booster_pack",
-    "prefix": "STOR",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Vortex the Whirlwind",
-        "set_number": "STOR-EN000",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Cosmic Compass",
-        "set_number": "STOR-EN001",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Doppelwarrior",
-        "set_number": "STOR-EN002",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Stardust Phantom",
-        "set_number": "STOR-EN003",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "D.D. Sprite",
-        "set_number": "STOR-EN004",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Top Runner",
-        "set_number": "STOR-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Barrier Resonator",
-        "set_number": "STOR-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blackwing - Boreas the Sharp",
-        "set_number": "STOR-EN007",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Blackwing - Brisote the Tailwind",
-        "set_number": "STOR-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blackwing - Calima the Haze",
-        "set_number": "STOR-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tanngrisnir of the Nordic Beasts",
-        "set_number": "STOR-EN010",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Guldfaxe of the Nordic Beasts",
-        "set_number": "STOR-EN011",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Garmr of the Nordic Beasts",
-        "set_number": "STOR-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tanngnjostr of the Nordic Beasts",
-        "set_number": "STOR-EN013",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Ljosalf of the Nordic Alfar",
-        "set_number": "STOR-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Svartalf of the Nordic Alfar",
-        "set_number": "STOR-EN015",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dverg of the Nordic Alfar",
-        "set_number": "STOR-EN016",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Valkyrie of the Nordic Ascendant",
-        "set_number": "STOR-EN017",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Mimir of the Nordic Ascendant",
-        "set_number": "STOR-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tyr of the Nordic Champions",
-        "set_number": "STOR-EN019",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Legendary Six Samurai - Kizan",
-        "set_number": "STOR-EN020",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Legendary Six Samurai - Enishi",
-        "set_number": "STOR-EN021",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Legendary Six Samurai - Kageki",
-        "set_number": "STOR-EN022",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Legendary Six Samurai - Shinai",
-        "set_number": "STOR-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Legendary Six Samurai - Mizuho",
-        "set_number": "STOR-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Kagemusha of the Six Samurai",
-        "set_number": "STOR-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shien's Squire",
-        "set_number": "STOR-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Karakuri Watchdog mdl 313 \"Saizan\"",
-        "set_number": "STOR-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Karakuri Ninja mdl 919 \"Kuick\"",
-        "set_number": "STOR-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Scrap Worm",
-        "set_number": "STOR-EN029",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Scrap Shark",
-        "set_number": "STOR-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Wattberyx",
-        "set_number": "STOR-EN031",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Wattmole",
-        "set_number": "STOR-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Symphonic Warrior Basses",
-        "set_number": "STOR-EN033",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Symphonic Warrior Drumss",
-        "set_number": "STOR-EN034",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Symphonic Warrior Piaano",
-        "set_number": "STOR-EN035",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Majioshaleon",
-        "set_number": "STOR-EN036",
-        "rarities": [
-          "Short Print"
-        ],
-        "count": {
-          "Short Print": 1
-        }
-      },
-      {
-        "card_name": "Yaksha",
-        "set_number": "STOR-EN037",
-        "rarities": [
-          "Short Print"
-        ],
-        "count": {
-          "Short Print": 1
-        }
-      },
-      {
-        "card_name": "Thor, Lord of the Aesir",
-        "set_number": "STOR-EN038",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Loki, Lord of the Aesir",
-        "set_number": "STOR-EN039",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Odin, Father of the Aesir",
-        "set_number": "STOR-EN040",
-        "rarities": [
-          "Ghost Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ghost Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Legendary Six Samurai - Shi En",
-        "set_number": "STOR-EN041",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
-        "set_number": "STOR-EN042",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Atomic Scrap Dragon",
-        "set_number": "STOR-EN043",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Watthydra",
-        "set_number": "STOR-EN044",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Nordic Relic Draupnir",
-        "set_number": "STOR-EN045",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gotterdammerung",
-        "set_number": "STOR-EN046",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "March Towards Ragnarok",
-        "set_number": "STOR-EN047",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Shien's Smoke Signal",
-        "set_number": "STOR-EN048",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Six Strike - Triple Impact",
-        "set_number": "STOR-EN049",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Asceticism of the Six Samurai",
-        "set_number": "STOR-EN050",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Temple of the Six",
-        "set_number": "STOR-EN051",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Karakuri Cash Cache",
-        "set_number": "STOR-EN052",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Karakuri Gold Dust",
-        "set_number": "STOR-EN053",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Wattkey",
-        "set_number": "STOR-EN054",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Stardust Shimmer",
-        "set_number": "STOR-EN055",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Resonator Engine",
-        "set_number": "STOR-EN056",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Token Sundae",
-        "set_number": "STOR-EN057",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Foolish Return",
-        "set_number": "STOR-EN058",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Divine Wind of Mist Valley",
-        "set_number": "STOR-EN059",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Vylon Matter",
-        "set_number": "STOR-EN060",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Forbidden Lance",
-        "set_number": "STOR-EN061",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Terminal World",
-        "set_number": "STOR-EN062",
-        "rarities": [
-          "Short Print"
-        ],
-        "count": {
-          "Short Print": 1
-        }
-      },
-      {
-        "card_name": "Hope for Escape",
-        "set_number": "STOR-EN063",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Zero Force",
-        "set_number": "STOR-EN064",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blackboost",
-        "set_number": "STOR-EN065",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Divine Relic Mjollnir",
-        "set_number": "STOR-EN066",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Solemn Authority",
-        "set_number": "STOR-EN067",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nordic Relic Brisingamen",
-        "set_number": "STOR-EN068",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nordic Relic Laevateinn",
-        "set_number": "STOR-EN069",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nordic Relic Gungnir",
-        "set_number": "STOR-EN070",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "The Golden Apples",
-        "set_number": "STOR-EN071",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Odin's Eye",
-        "set_number": "STOR-EN072",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gleipnir, the Fetters of Fenrir",
-        "set_number": "STOR-EN073",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Musakani Magatama",
-        "set_number": "STOR-EN074",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Shien's Scheme",
-        "set_number": "STOR-EN075",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Token Stampede",
-        "set_number": "STOR-EN076",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Xing Zhen Hu Replica",
-        "set_number": "STOR-EN077",
-        "rarities": [
-          "Short Print"
-        ],
-        "count": {
-          "Short Print": 1
-        }
-      },
-      {
-        "card_name": "Tyrant's Tirade",
-        "set_number": "STOR-EN078",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tiki Curse",
-        "set_number": "STOR-EN079",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tiki Soul",
-        "set_number": "STOR-EN080",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Vanadis of the Nordic Ascendant",
-        "set_number": "STOR-EN081",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Shien's Daredevil",
-        "set_number": "STOR-EN082",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Karakuri Muso mdl 818 \"Haipa\"",
-        "set_number": "STOR-EN083",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Scrap Breaker",
-        "set_number": "STOR-EN084",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Chaos Hunter",
-        "set_number": "STOR-EN085",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Maxx \"C\"",
-        "set_number": "STOR-EN086",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "The Nordic Lights",
-        "set_number": "STOR-EN087",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Nordic Relic Megingjord",
-        "set_number": "STOR-EN088",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Six Strike - Thunder Blast",
-        "set_number": "STOR-EN089",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Cyber Shield",
-        "set_number": "STOR-EN090",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hourglass of Courage",
-        "set_number": "STOR-EN091",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Needle Ball",
-        "set_number": "STOR-EN092",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blood Sucker",
-        "set_number": "STOR-EN093",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Overpowering Eye",
-        "set_number": "STOR-EN094",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Worm Illidan",
-        "set_number": "STOR-EN095",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Worm Jetelikpse",
-        "set_number": "STOR-EN096",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Worm King",
-        "set_number": "STOR-EN097",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Elemental HERO Ice Edge",
-        "set_number": "STOR-EN098",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Vylon Delta",
-        "set_number": "STOR-EN099",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
+  "name": "Storm of Ragnarok",
+  "type": "Booster Pack",
+  "date": "2011-02-10",
+  "distribution": "booster_pack",
+  "prefix": "STOR",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Vortex the Whirlwind",
+      "set_number": "STOR-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Cosmic Compass",
+      "set_number": "STOR-EN001",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Doppelwarrior",
+      "set_number": "STOR-EN002",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Stardust Phantom",
+      "set_number": "STOR-EN003",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "D.D. Sprite",
+      "set_number": "STOR-EN004",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Top Runner",
+      "set_number": "STOR-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Barrier Resonator",
+      "set_number": "STOR-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Boreas the Sharp",
+      "set_number": "STOR-EN007",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Brisote the Tailwind",
+      "set_number": "STOR-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Calima the Haze",
+      "set_number": "STOR-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tanngrisnir of the Nordic Beasts",
+      "set_number": "STOR-EN010",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Guldfaxe of the Nordic Beasts",
+      "set_number": "STOR-EN011",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Garmr of the Nordic Beasts",
+      "set_number": "STOR-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tanngnjostr of the Nordic Beasts",
+      "set_number": "STOR-EN013",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ljosalf of the Nordic Alfar",
+      "set_number": "STOR-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Svartalf of the Nordic Alfar",
+      "set_number": "STOR-EN015",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dverg of the Nordic Alfar",
+      "set_number": "STOR-EN016",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Valkyrie of the Nordic Ascendant",
+      "set_number": "STOR-EN017",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mimir of the Nordic Ascendant",
+      "set_number": "STOR-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tyr of the Nordic Champions",
+      "set_number": "STOR-EN019",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Legendary Six Samurai - Kizan",
+      "set_number": "STOR-EN020",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Legendary Six Samurai - Enishi",
+      "set_number": "STOR-EN021",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Legendary Six Samurai - Kageki",
+      "set_number": "STOR-EN022",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Legendary Six Samurai - Shinai",
+      "set_number": "STOR-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Legendary Six Samurai - Mizuho",
+      "set_number": "STOR-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Kagemusha of the Six Samurai",
+      "set_number": "STOR-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shien's Squire",
+      "set_number": "STOR-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Karakuri Watchdog mdl 313 "Saizan"",
+      "set_number": "STOR-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Karakuri Ninja mdl 919 "Kuick"",
+      "set_number": "STOR-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Scrap Worm",
+      "set_number": "STOR-EN029",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Scrap Shark",
+      "set_number": "STOR-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Wattberyx",
+      "set_number": "STOR-EN031",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Wattmole",
+      "set_number": "STOR-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Symphonic Warrior Basses",
+      "set_number": "STOR-EN033",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Symphonic Warrior Drumss",
+      "set_number": "STOR-EN034",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Symphonic Warrior Piaano",
+      "set_number": "STOR-EN035",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Majioshaleon",
+      "set_number": "STOR-EN036",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Yaksha",
+      "set_number": "STOR-EN037",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Thor, Lord of the Aesir",
+      "set_number": "STOR-EN038",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Loki, Lord of the Aesir",
+      "set_number": "STOR-EN039",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Odin, Father of the Aesir",
+      "set_number": "STOR-EN040",
+      "rarities": [
+        "Ghost Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ghost Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Legendary Six Samurai - Shi En",
+      "set_number": "STOR-EN041",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Karakuri Steel Shogun mdl 00X "Bureido"",
+      "set_number": "STOR-EN042",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Atomic Scrap Dragon",
+      "set_number": "STOR-EN043",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Watthydra",
+      "set_number": "STOR-EN044",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Nordic Relic Draupnir",
+      "set_number": "STOR-EN045",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gotterdammerung",
+      "set_number": "STOR-EN046",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "March Towards Ragnarok",
+      "set_number": "STOR-EN047",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Shien's Smoke Signal",
+      "set_number": "STOR-EN048",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Six Strike - Triple Impact",
+      "set_number": "STOR-EN049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Asceticism of the Six Samurai",
+      "set_number": "STOR-EN050",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Temple of the Six",
+      "set_number": "STOR-EN051",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Karakuri Cash Cache",
+      "set_number": "STOR-EN052",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Karakuri Gold Dust",
+      "set_number": "STOR-EN053",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Wattkey",
+      "set_number": "STOR-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stardust Shimmer",
+      "set_number": "STOR-EN055",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Resonator Engine",
+      "set_number": "STOR-EN056",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Token Sundae",
+      "set_number": "STOR-EN057",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Foolish Return",
+      "set_number": "STOR-EN058",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Divine Wind of Mist Valley",
+      "set_number": "STOR-EN059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Vylon Matter",
+      "set_number": "STOR-EN060",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Forbidden Lance",
+      "set_number": "STOR-EN061",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Terminal World",
+      "set_number": "STOR-EN062",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Hope for Escape",
+      "set_number": "STOR-EN063",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Zero Force",
+      "set_number": "STOR-EN064",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blackboost",
+      "set_number": "STOR-EN065",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Divine Relic Mjollnir",
+      "set_number": "STOR-EN066",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Solemn Authority",
+      "set_number": "STOR-EN067",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nordic Relic Brisingamen",
+      "set_number": "STOR-EN068",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nordic Relic Laevateinn",
+      "set_number": "STOR-EN069",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nordic Relic Gungnir",
+      "set_number": "STOR-EN070",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "The Golden Apples",
+      "set_number": "STOR-EN071",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Odin's Eye",
+      "set_number": "STOR-EN072",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gleipnir, the Fetters of Fenrir",
+      "set_number": "STOR-EN073",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Musakani Magatama",
+      "set_number": "STOR-EN074",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Shien's Scheme",
+      "set_number": "STOR-EN075",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Token Stampede",
+      "set_number": "STOR-EN076",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Xing Zhen Hu Replica",
+      "set_number": "STOR-EN077",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Tyrant's Tirade",
+      "set_number": "STOR-EN078",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tiki Curse",
+      "set_number": "STOR-EN079",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tiki Soul",
+      "set_number": "STOR-EN080",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Vanadis of the Nordic Ascendant",
+      "set_number": "STOR-EN081",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Shien's Daredevil",
+      "set_number": "STOR-EN082",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Karakuri Muso mdl 818 "Haipa"",
+      "set_number": "STOR-EN083",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Scrap Breaker",
+      "set_number": "STOR-EN084",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Chaos Hunter",
+      "set_number": "STOR-EN085",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Maxx "C"",
+      "set_number": "STOR-EN086",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Nordic Lights",
+      "set_number": "STOR-EN087",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Nordic Relic Megingjord",
+      "set_number": "STOR-EN088",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Six Strike - Thunder Blast",
+      "set_number": "STOR-EN089",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Cyber Shield",
+      "set_number": "STOR-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hourglass of Courage",
+      "set_number": "STOR-EN091",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Needle Ball",
+      "set_number": "STOR-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blood Sucker",
+      "set_number": "STOR-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Overpowering Eye",
+      "set_number": "STOR-EN094",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Worm Illidan",
+      "set_number": "STOR-EN095",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Worm Jetelikpse",
+      "set_number": "STOR-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Worm King",
+      "set_number": "STOR-EN097",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Ice Edge",
+      "set_number": "STOR-EN098",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Vylon Delta",
+      "set_number": "STOR-EN099",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    }
+  ]
 }

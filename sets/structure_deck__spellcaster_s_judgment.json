@@ -1,374 +1,371 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Structure Deck: Spellcaster's Judgment",
-    "type": "Structure Deck",
-    "date": "2005-09-22",
-    "distribution": "",
-    "prefix": "SD6",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Dark Eradicator Warlock",
-        "set_number": "SD6-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Mythical Beast Cerberus",
-        "set_number": "SD6-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Magician",
-        "set_number": "SD6-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gemini Elf",
-        "set_number": "SD6-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magician of Faith",
-        "set_number": "SD6-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Skilled Dark Magician",
-        "set_number": "SD6-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Apprentice Magician",
-        "set_number": "SD6-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Chaos Command Magician",
-        "set_number": "SD6-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Breaker the Magical Warrior",
-        "set_number": "SD6-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Royal Magical Library",
-        "set_number": "SD6-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tsukuyomi",
-        "set_number": "SD6-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Chaos Sorcerer",
-        "set_number": "SD6-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "White Magician Pikeru",
-        "set_number": "SD6-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blast Magician",
-        "set_number": "SD6-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ebon Magician Curran",
-        "set_number": "SD6-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rapid-Fire Magician",
-        "set_number": "SD6-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magical Blast",
-        "set_number": "SD6-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mystical Space Typhoon",
-        "set_number": "SD6-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nobleman of Crossout",
-        "set_number": "SD6-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Premature Burial",
-        "set_number": "SD6-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Swords of Revealing Light",
-        "set_number": "SD6-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mage Power",
-        "set_number": "SD6-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Heavy Storm",
-        "set_number": "SD6-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Diffusion Wave-Motion",
-        "set_number": "SD6-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Reload",
-        "set_number": "SD6-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Magic Attack",
-        "set_number": "SD6-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spell Absorption",
-        "set_number": "SD6-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lightning Vortex",
-        "set_number": "SD6-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magical Dimension",
-        "set_number": "SD6-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Mystic Box",
-        "set_number": "SD6-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nightmare's Steelcage",
-        "set_number": "SD6-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Call of the Haunted",
-        "set_number": "SD6-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spell Shield Type-8",
-        "set_number": "SD6-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Pitch-Black Power Stone",
-        "set_number": "SD6-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Divine Wrath",
-        "set_number": "SD6-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magic Cylinder",
-        "set_number": "SD6-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "Structure Deck: Spellcaster's Judgment",
+  "type": "Structure Deck",
+  "date": "2005-09-22",
+  "distribution": "",
+  "prefix": "SD6",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Dark Eradicator Warlock",
+      "set_number": "SD6-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Mythical Beast Cerberus",
+      "set_number": "SD6-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Magician",
+      "set_number": "SD6-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gemini Elf",
+      "set_number": "SD6-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magician of Faith",
+      "set_number": "SD6-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Skilled Dark Magician",
+      "set_number": "SD6-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Apprentice Magician",
+      "set_number": "SD6-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Chaos Command Magician",
+      "set_number": "SD6-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Breaker the Magical Warrior",
+      "set_number": "SD6-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Royal Magical Library",
+      "set_number": "SD6-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tsukuyomi",
+      "set_number": "SD6-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chaos Sorcerer",
+      "set_number": "SD6-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "White Magician Pikeru",
+      "set_number": "SD6-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blast Magician",
+      "set_number": "SD6-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ebon Magician Curran",
+      "set_number": "SD6-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rapid-Fire Magician",
+      "set_number": "SD6-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magical Blast",
+      "set_number": "SD6-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mystical Space Typhoon",
+      "set_number": "SD6-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nobleman of Crossout",
+      "set_number": "SD6-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Premature Burial",
+      "set_number": "SD6-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Swords of Revealing Light",
+      "set_number": "SD6-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mage Power",
+      "set_number": "SD6-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Heavy Storm",
+      "set_number": "SD6-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Diffusion Wave-Motion",
+      "set_number": "SD6-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reload",
+      "set_number": "SD6-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Magic Attack",
+      "set_number": "SD6-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spell Absorption",
+      "set_number": "SD6-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lightning Vortex",
+      "set_number": "SD6-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magical Dimension",
+      "set_number": "SD6-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Mystic Box",
+      "set_number": "SD6-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nightmare's Steelcage",
+      "set_number": "SD6-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Call of the Haunted",
+      "set_number": "SD6-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spell Shield Type-8",
+      "set_number": "SD6-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pitch-Black Power Stone",
+      "set_number": "SD6-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Divine Wrath",
+      "set_number": "SD6-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magic Cylinder",
+      "set_number": "SD6-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

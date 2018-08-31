@@ -1,630 +1,627 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Soul of the Duelist",
-    "type": "Booster Pack",
-    "date": "2004-05-27",
-    "distribution": "booster_pack",
-    "prefix": "SOD",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Charcoal Inpachi",
-        "set_number": "SOD-EN001",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo Aqua Madoor",
-        "set_number": "SOD-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Skull Dog Marron",
-        "set_number": "SOD-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Goblin Calligrapher",
-        "set_number": "SOD-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ultimate Insect LV1",
-        "set_number": "SOD-EN005",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Horus the Black Flame Dragon LV4",
-        "set_number": "SOD-EN006",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Horus the Black Flame Dragon LV6",
-        "set_number": "SOD-EN007",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Horus the Black Flame Dragon LV8",
-        "set_number": "SOD-EN008",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Mimic LV1",
-        "set_number": "SOD-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Mimic LV3",
-        "set_number": "SOD-EN010",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mystic Swordsman LV2",
-        "set_number": "SOD-EN011",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mystic Swordsman LV4",
-        "set_number": "SOD-EN012",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Armed Dragon LV3",
-        "set_number": "SOD-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Armed Dragon LV5",
-        "set_number": "SOD-EN014",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Armed Dragon LV7",
-        "set_number": "SOD-EN015",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Horus' Servant",
-        "set_number": "SOD-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Black Dragon's Chick",
-        "set_number": "SOD-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Malice Doll of Demise",
-        "set_number": "SOD-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ninja Grandmaster Sasuke",
-        "set_number": "SOD-EN019",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Rafflesia Seduction",
-        "set_number": "SOD-EN020",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Ultimate Baseball Kid",
-        "set_number": "SOD-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mobius the Frost Monarch",
-        "set_number": "SOD-EN022",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Element Dragon",
-        "set_number": "SOD-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Element Soldier",
-        "set_number": "SOD-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Howling Insect",
-        "set_number": "SOD-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Masked Dragon",
-        "set_number": "SOD-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mind on Air",
-        "set_number": "SOD-EN027",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Unshaven Angler",
-        "set_number": "SOD-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Trojan Horse",
-        "set_number": "SOD-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nobleman-Eater Bug",
-        "set_number": "SOD-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Enraged Muka Muka",
-        "set_number": "SOD-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hade-Hane",
-        "set_number": "SOD-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Penumbral Soldier Lady",
-        "set_number": "SOD-EN033",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Ojama King",
-        "set_number": "SOD-EN034",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Master of Oz",
-        "set_number": "SOD-EN035",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Sanwitch",
-        "set_number": "SOD-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Factory of Mass Production",
-        "set_number": "SOD-EN037",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hammer Shot",
-        "set_number": "SOD-EN038",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mind Wipe",
-        "set_number": "SOD-EN039",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Abyssal Designator",
-        "set_number": "SOD-EN040",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Level Up!",
-        "set_number": "SOD-EN041",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Inferno Fire Blast",
-        "set_number": "SOD-EN042",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Ectoplasmer",
-        "set_number": "SOD-EN043",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "The Graveyard in the Fourth Dimension",
-        "set_number": "SOD-EN044",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Two-Man Cell Battle",
-        "set_number": "SOD-EN045",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Big Wave Small Wave",
-        "set_number": "SOD-EN046",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fusion Weapon",
-        "set_number": "SOD-EN047",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ritual Weapon",
-        "set_number": "SOD-EN048",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Taunt",
-        "set_number": "SOD-EN049",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Absolute End",
-        "set_number": "SOD-EN050",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spirit Barrier",
-        "set_number": "SOD-EN051",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Ninjitsu Art of Decoy",
-        "set_number": "SOD-EN052",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Enervating Mist",
-        "set_number": "SOD-EN053",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Heavy Slump",
-        "set_number": "SOD-EN054",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Greed",
-        "set_number": "SOD-EN055",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Mind Crush",
-        "set_number": "SOD-EN056",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Muko",
-        "set_number": "SOD-EN057",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Gorgon's Eye",
-        "set_number": "SOD-EN058",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hallowed Life Barrier",
-        "set_number": "SOD-EN060",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
+  "name": "Soul of the Duelist",
+  "type": "Booster Pack",
+  "date": "2004-05-27",
+  "distribution": "booster_pack",
+  "prefix": "SOD",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Charcoal Inpachi",
+      "set_number": "SOD-EN001",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Neo Aqua Madoor",
+      "set_number": "SOD-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Skull Dog Marron",
+      "set_number": "SOD-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Goblin Calligrapher",
+      "set_number": "SOD-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ultimate Insect LV1",
+      "set_number": "SOD-EN005",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Horus the Black Flame Dragon LV4",
+      "set_number": "SOD-EN006",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Horus the Black Flame Dragon LV6",
+      "set_number": "SOD-EN007",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Horus the Black Flame Dragon LV8",
+      "set_number": "SOD-EN008",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Mimic LV1",
+      "set_number": "SOD-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Mimic LV3",
+      "set_number": "SOD-EN010",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mystic Swordsman LV2",
+      "set_number": "SOD-EN011",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mystic Swordsman LV4",
+      "set_number": "SOD-EN012",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Armed Dragon LV3",
+      "set_number": "SOD-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armed Dragon LV5",
+      "set_number": "SOD-EN014",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Armed Dragon LV7",
+      "set_number": "SOD-EN015",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Horus' Servant",
+      "set_number": "SOD-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Black Dragon's Chick",
+      "set_number": "SOD-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Malice Doll of Demise",
+      "set_number": "SOD-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ninja Grandmaster Sasuke",
+      "set_number": "SOD-EN019",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Rafflesia Seduction",
+      "set_number": "SOD-EN020",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ultimate Baseball Kid",
+      "set_number": "SOD-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mobius the Frost Monarch",
+      "set_number": "SOD-EN022",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Element Dragon",
+      "set_number": "SOD-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Element Soldier",
+      "set_number": "SOD-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Howling Insect",
+      "set_number": "SOD-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Masked Dragon",
+      "set_number": "SOD-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mind on Air",
+      "set_number": "SOD-EN027",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Unshaven Angler",
+      "set_number": "SOD-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Trojan Horse",
+      "set_number": "SOD-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nobleman-Eater Bug",
+      "set_number": "SOD-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Enraged Muka Muka",
+      "set_number": "SOD-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hade-Hane",
+      "set_number": "SOD-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Penumbral Soldier Lady",
+      "set_number": "SOD-EN033",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Ojama King",
+      "set_number": "SOD-EN034",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Master of Oz",
+      "set_number": "SOD-EN035",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Sanwitch",
+      "set_number": "SOD-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Factory of Mass Production",
+      "set_number": "SOD-EN037",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hammer Shot",
+      "set_number": "SOD-EN038",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mind Wipe",
+      "set_number": "SOD-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Abyssal Designator",
+      "set_number": "SOD-EN040",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Level Up!",
+      "set_number": "SOD-EN041",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Inferno Fire Blast",
+      "set_number": "SOD-EN042",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Ectoplasmer",
+      "set_number": "SOD-EN043",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "The Graveyard in the Fourth Dimension",
+      "set_number": "SOD-EN044",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Two-Man Cell Battle",
+      "set_number": "SOD-EN045",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Big Wave Small Wave",
+      "set_number": "SOD-EN046",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fusion Weapon",
+      "set_number": "SOD-EN047",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ritual Weapon",
+      "set_number": "SOD-EN048",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Taunt",
+      "set_number": "SOD-EN049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Absolute End",
+      "set_number": "SOD-EN050",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spirit Barrier",
+      "set_number": "SOD-EN051",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ninjitsu Art of Decoy",
+      "set_number": "SOD-EN052",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Enervating Mist",
+      "set_number": "SOD-EN053",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Heavy Slump",
+      "set_number": "SOD-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Greed",
+      "set_number": "SOD-EN055",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mind Crush",
+      "set_number": "SOD-EN056",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Muko",
+      "set_number": "SOD-EN057",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Gorgon's Eye",
+      "set_number": "SOD-EN058",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hallowed Life Barrier",
+      "set_number": "SOD-EN060",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    }
+  ]
 }

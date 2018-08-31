@@ -1,910 +1,907 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Dimension of Chaos",
-    "type": "Booster Pack",
-    "date": "2015-07-18",
-    "distribution": "booster_pack",
-    "prefix": "DOCS",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Performapal Secondonkey",
-        "set_number": "DOCS-EN001",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Performapal Splashmammoth",
-        "set_number": "DOCS-EN002",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Performapal Helpprincess",
-        "set_number": "DOCS-EN003",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Superheavy Samurai Thief",
-        "set_number": "DOCS-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Superheavy Samurai Transporter",
-        "set_number": "DOCS-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Superheavy Samurai Drum",
-        "set_number": "DOCS-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Superheavy Samurai Soulhorns",
-        "set_number": "DOCS-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Superheavy Samurai Soulclaw",
-        "set_number": "DOCS-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fluffal Wings",
-        "set_number": "DOCS-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Berfomet",
-        "set_number": "DOCS-EN010",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "D/D Swirl Slime",
-        "set_number": "DOCS-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D Necro Slime",
-        "set_number": "DOCS-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Raidraptor - Wild Vulture",
-        "set_number": "DOCS-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Raidraptor - Skull Eagle",
-        "set_number": "DOCS-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Performage Mirror Conductor",
-        "set_number": "DOCS-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Performage Plushfire",
-        "set_number": "DOCS-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Legendary Fisherman III",
-        "set_number": "DOCS-EN017",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Assault Blackwing - Kunai the Drizzle",
-        "set_number": "DOCS-EN018",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Charging Gaia the Fierce Knight",
-        "set_number": "DOCS-EN019",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Sphere Kuriboh",
-        "set_number": "DOCS-EN020",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Super Soldier Soul",
-        "set_number": "DOCS-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Beginning Knight",
-        "set_number": "DOCS-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Evening Twilight Knight",
-        "set_number": "DOCS-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Vector Pendulum, the Dracoverlord",
-        "set_number": "DOCS-EN024",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Majespecter Cat - Nekomata",
-        "set_number": "DOCS-EN025",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Majespecter Raccoon - Bunbuku",
-        "set_number": "DOCS-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Majespecter Crow - Yata",
-        "set_number": "DOCS-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Majespecter Fox - Kyubi",
-        "set_number": "DOCS-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Majespecter Unicorn - Kirin",
-        "set_number": "DOCS-EN029",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Igknight Cavalier",
-        "set_number": "DOCS-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Igknight Veteran",
-        "set_number": "DOCS-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Graydle Slime",
-        "set_number": "DOCS-EN032",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Graydle Alligator",
-        "set_number": "DOCS-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Graydle Cobra",
-        "set_number": "DOCS-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Graydle Eagle",
-        "set_number": "DOCS-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Skilled Red Magician",
-        "set_number": "DOCS-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Giant Pairfish",
-        "set_number": "DOCS-EN037",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon Barrel Dragon",
-        "set_number": "DOCS-EN038",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Deskbot 006",
-        "set_number": "DOCS-EN039",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Pot of The Forbidden",
-        "set_number": "DOCS-EN040",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Dr. Frankenderp",
-        "set_number": "DOCS-EN041",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Black Luster Soldier - Super Soldier",
-        "set_number": "DOCS-EN042",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Frightfur Sabre-Tooth",
-        "set_number": "DOCS-EN043",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "D/D/D Wave Oblivion King Caesar Ragnarok",
-        "set_number": "DOCS-EN044",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Odd-Eyes Vortex Dragon",
-        "set_number": "DOCS-EN045",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Scarlight Red Dragon Archfiend",
-        "set_number": "DOCS-EN046",
-        "rarities": [
-          "Secret Rare",
-          "Holographic Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Holographic Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Assault Blackwing - Raikiri the Rain Shower",
-        "set_number": "DOCS-EN047",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Graydle Dragon",
-        "set_number": "DOCS-EN048",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Deskbot Jet",
-        "set_number": "DOCS-EN049",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D/D Duo-Dawn King Kali Yuga",
-        "set_number": "DOCS-EN050",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Raidraptor - Fiend Eagle",
-        "set_number": "DOCS-EN051",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Majester Paladin, the Ascending Dracoslayer",
-        "set_number": "DOCS-EN052",
-        "rarities": [
-          "Secret Rare",
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Shuffle Reborn",
-        "set_number": "DOCS-EN053",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rank-Up-Magic Raid Force",
-        "set_number": "DOCS-EN054",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Raptor's Ultimate Mace",
-        "set_number": "DOCS-EN055",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Super Soldier Ritual",
-        "set_number": "DOCS-EN056",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Gateway to Chaos",
-        "set_number": "DOCS-EN057",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Majesty's Pegasus",
-        "set_number": "DOCS-EN058",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Majespecter Storm",
-        "set_number": "DOCS-EN059",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Majespecter Cyclone",
-        "set_number": "DOCS-EN060",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Igknight Reload",
-        "set_number": "DOCS-EN061",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Graydle Impact",
-        "set_number": "DOCS-EN062",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Odd-Eyes Fusion",
-        "set_number": "DOCS-EN063",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Psychic Blade",
-        "set_number": "DOCS-EN064",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Painful Decision",
-        "set_number": "DOCS-EN065",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Super Rush Headlong",
-        "set_number": "DOCS-EN066",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Frightfur March",
-        "set_number": "DOCS-EN067",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D/D/D Contract Change",
-        "set_number": "DOCS-EN068",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Contract with Errors",
-        "set_number": "DOCS-EN069",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Super Soldier Rebirth",
-        "set_number": "DOCS-EN070",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Super Soldier Shield",
-        "set_number": "DOCS-EN071",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Majespecter Tornado",
-        "set_number": "DOCS-EN072",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Majespecter Tempest",
-        "set_number": "DOCS-EN073",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Graydle Parasite",
-        "set_number": "DOCS-EN074",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Graydle Split",
-        "set_number": "DOCS-EN075",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blazing Mirror Force",
-        "set_number": "DOCS-EN076",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Pendulum Area",
-        "set_number": "DOCS-EN077",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Urgent Ritual Art",
-        "set_number": "DOCS-EN078",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Grand Horn of Heaven",
-        "set_number": "DOCS-EN079",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "First-Aid Squad",
-        "set_number": "DOCS-EN080",
-        "rarities": [
-          "Normal Rare"
-        ],
-        "count": {
-          "Normal Rare": 1
-        }
-      },
-      {
-        "card_name": "Bujin Hiruko",
-        "set_number": "DOCS-EN081",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Traptrix Rafflesia",
-        "set_number": "DOCS-EN082",
-        "rarities": [
-          "Secret Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Secret Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Sylvan Princessprite",
-        "set_number": "DOCS-EN083",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Artifact Vajra",
-        "set_number": "DOCS-EN084",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Symphonic Warrior Miccs",
-        "set_number": "DOCS-EN085",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "Dimension of Chaos",
+  "type": "Booster Pack",
+  "date": "2015-07-18",
+  "distribution": "booster_pack",
+  "prefix": "DOCS",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Performapal Secondonkey",
+      "set_number": "DOCS-EN001",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Performapal Splashmammoth",
+      "set_number": "DOCS-EN002",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Performapal Helpprincess",
+      "set_number": "DOCS-EN003",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Superheavy Samurai Thief",
+      "set_number": "DOCS-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Superheavy Samurai Transporter",
+      "set_number": "DOCS-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Superheavy Samurai Drum",
+      "set_number": "DOCS-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Superheavy Samurai Soulhorns",
+      "set_number": "DOCS-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Superheavy Samurai Soulclaw",
+      "set_number": "DOCS-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fluffal Wings",
+      "set_number": "DOCS-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Berfomet",
+      "set_number": "DOCS-EN010",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "D/D Swirl Slime",
+      "set_number": "DOCS-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Necro Slime",
+      "set_number": "DOCS-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Raidraptor - Wild Vulture",
+      "set_number": "DOCS-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Raidraptor - Skull Eagle",
+      "set_number": "DOCS-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Performage Mirror Conductor",
+      "set_number": "DOCS-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Performage Plushfire",
+      "set_number": "DOCS-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Legendary Fisherman III",
+      "set_number": "DOCS-EN017",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Assault Blackwing - Kunai the Drizzle",
+      "set_number": "DOCS-EN018",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Charging Gaia the Fierce Knight",
+      "set_number": "DOCS-EN019",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Sphere Kuriboh",
+      "set_number": "DOCS-EN020",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Super Soldier Soul",
+      "set_number": "DOCS-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Beginning Knight",
+      "set_number": "DOCS-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Evening Twilight Knight",
+      "set_number": "DOCS-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Vector Pendulum, the Dracoverlord",
+      "set_number": "DOCS-EN024",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Majespecter Cat - Nekomata",
+      "set_number": "DOCS-EN025",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Majespecter Raccoon - Bunbuku",
+      "set_number": "DOCS-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Majespecter Crow - Yata",
+      "set_number": "DOCS-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Majespecter Fox - Kyubi",
+      "set_number": "DOCS-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Majespecter Unicorn - Kirin",
+      "set_number": "DOCS-EN029",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Igknight Cavalier",
+      "set_number": "DOCS-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Igknight Veteran",
+      "set_number": "DOCS-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Graydle Slime",
+      "set_number": "DOCS-EN032",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Graydle Alligator",
+      "set_number": "DOCS-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Graydle Cobra",
+      "set_number": "DOCS-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Graydle Eagle",
+      "set_number": "DOCS-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Skilled Red Magician",
+      "set_number": "DOCS-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Giant Pairfish",
+      "set_number": "DOCS-EN037",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon Barrel Dragon",
+      "set_number": "DOCS-EN038",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Deskbot 006",
+      "set_number": "DOCS-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pot of The Forbidden",
+      "set_number": "DOCS-EN040",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Dr. Frankenderp",
+      "set_number": "DOCS-EN041",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Black Luster Soldier - Super Soldier",
+      "set_number": "DOCS-EN042",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Frightfur Sabre-Tooth",
+      "set_number": "DOCS-EN043",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "D/D/D Wave Oblivion King Caesar Ragnarok",
+      "set_number": "DOCS-EN044",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Odd-Eyes Vortex Dragon",
+      "set_number": "DOCS-EN045",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Scarlight Red Dragon Archfiend",
+      "set_number": "DOCS-EN046",
+      "rarities": [
+        "Secret Rare",
+        "Holographic Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Holographic Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Assault Blackwing - Raikiri the Rain Shower",
+      "set_number": "DOCS-EN047",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Graydle Dragon",
+      "set_number": "DOCS-EN048",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Deskbot Jet",
+      "set_number": "DOCS-EN049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D/D Duo-Dawn King Kali Yuga",
+      "set_number": "DOCS-EN050",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Raidraptor - Fiend Eagle",
+      "set_number": "DOCS-EN051",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Majester Paladin, the Ascending Dracoslayer",
+      "set_number": "DOCS-EN052",
+      "rarities": [
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Shuffle Reborn",
+      "set_number": "DOCS-EN053",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rank-Up-Magic Raid Force",
+      "set_number": "DOCS-EN054",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Raptor's Ultimate Mace",
+      "set_number": "DOCS-EN055",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Super Soldier Ritual",
+      "set_number": "DOCS-EN056",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gateway to Chaos",
+      "set_number": "DOCS-EN057",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Majesty's Pegasus",
+      "set_number": "DOCS-EN058",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Majespecter Storm",
+      "set_number": "DOCS-EN059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Majespecter Cyclone",
+      "set_number": "DOCS-EN060",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Igknight Reload",
+      "set_number": "DOCS-EN061",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Graydle Impact",
+      "set_number": "DOCS-EN062",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Odd-Eyes Fusion",
+      "set_number": "DOCS-EN063",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Psychic Blade",
+      "set_number": "DOCS-EN064",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Painful Decision",
+      "set_number": "DOCS-EN065",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Super Rush Headlong",
+      "set_number": "DOCS-EN066",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Frightfur March",
+      "set_number": "DOCS-EN067",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D/D Contract Change",
+      "set_number": "DOCS-EN068",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Contract with Errors",
+      "set_number": "DOCS-EN069",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Super Soldier Rebirth",
+      "set_number": "DOCS-EN070",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Super Soldier Shield",
+      "set_number": "DOCS-EN071",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Majespecter Tornado",
+      "set_number": "DOCS-EN072",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Majespecter Tempest",
+      "set_number": "DOCS-EN073",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Graydle Parasite",
+      "set_number": "DOCS-EN074",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Graydle Split",
+      "set_number": "DOCS-EN075",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blazing Mirror Force",
+      "set_number": "DOCS-EN076",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Pendulum Area",
+      "set_number": "DOCS-EN077",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Urgent Ritual Art",
+      "set_number": "DOCS-EN078",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Grand Horn of Heaven",
+      "set_number": "DOCS-EN079",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "First-Aid Squad",
+      "set_number": "DOCS-EN080",
+      "rarities": [
+        "Normal Rare"
+      ],
+      "count": {
+        "Normal Rare": 1
+      }
+    },
+    {
+      "card_name": "Bujin Hiruko",
+      "set_number": "DOCS-EN081",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Traptrix Rafflesia",
+      "set_number": "DOCS-EN082",
+      "rarities": [
+        "Secret Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Sylvan Princessprite",
+      "set_number": "DOCS-EN083",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Artifact Vajra",
+      "set_number": "DOCS-EN084",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Symphonic Warrior Miccs",
+      "set_number": "DOCS-EN085",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

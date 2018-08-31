@@ -1,514 +1,511 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Gold Series 2009",
-    "type": "Booster Pack",
-    "date": "2009-04-21",
-    "distribution": "booster_gold_series",
-    "prefix": "GLD2",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Sangan",
-        "set_number": "GLD2-EN001",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Des Volstgalph",
-        "set_number": "GLD2-EN002",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Lekunga",
-        "set_number": "GLD2-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lord Poison",
-        "set_number": "GLD2-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rigorous Reaver",
-        "set_number": "GLD2-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Zaborg the Thunder Monarch",
-        "set_number": "GLD2-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mobius the Frost Monarch",
-        "set_number": "GLD2-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Thestalos the Firestorm Monarch",
-        "set_number": "GLD2-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Granmarg the Rock Monarch",
-        "set_number": "GLD2-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Treeborn Frog",
-        "set_number": "GLD2-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Phantom Beast Cross-Wing",
-        "set_number": "GLD2-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Phantom Beast Wild-Horn",
-        "set_number": "GLD2-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Phantom Beast Thunder-Pegasus",
-        "set_number": "GLD2-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Phantom Beast Rock-Lizard",
-        "set_number": "GLD2-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Winged Rhynos",
-        "set_number": "GLD2-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Snipe Hunter",
-        "set_number": "GLD2-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Yaichi",
-        "set_number": "GLD2-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Kamon",
-        "set_number": "GLD2-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Yariza",
-        "set_number": "GLD2-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Nisashi",
-        "set_number": "GLD2-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Zanji",
-        "set_number": "GLD2-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Irou",
-        "set_number": "GLD2-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Volcanic Rocket",
-        "set_number": "GLD2-EN023",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Volcanic Shell",
-        "set_number": "GLD2-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Elemental HERO Captain Gold",
-        "set_number": "GLD2-EN025",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Raiza the Storm Monarch",
-        "set_number": "GLD2-EN026",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Necro Gardna",
-        "set_number": "GLD2-EN027",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Elemental HERO Neos Alius",
-        "set_number": "GLD2-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Test Tiger",
-        "set_number": "GLD2-EN029",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Royal Firestorm Guards",
-        "set_number": "GLD2-EN030",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Armed Dragon",
-        "set_number": "GLD2-EN031",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Prime Material Dragon",
-        "set_number": "GLD2-EN032",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Caius the Shadow Monarch",
-        "set_number": "GLD2-EN033",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Exile of the Wicked",
-        "set_number": "GLD2-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Warrior Elimination",
-        "set_number": "GLD2-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Giant Trunade",
-        "set_number": "GLD2-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mind Control",
-        "set_number": "GLD2-EN037",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Skyscraper",
-        "set_number": "GLD2-EN038",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Future Fusion",
-        "set_number": "GLD2-EN039",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Gold Sarcophagus",
-        "set_number": "GLD2-EN040",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Shien's Castle of Mist",
-        "set_number": "GLD2-EN041",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Six Samurai United",
-        "set_number": "GLD2-EN042",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Veil of Darkness",
-        "set_number": "GLD2-EN043",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Solemn Judgment",
-        "set_number": "GLD2-EN044",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Bottomless Trap Hole",
-        "set_number": "GLD2-EN045",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Compulsory Evacuation Device",
-        "set_number": "GLD2-EN046",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Begone, Knave!",
-        "set_number": "GLD2-EN047",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Phoenix Wing Wind Blast",
-        "set_number": "GLD2-EN048",
-        "rarities": [
-          "Gold Rare"
-        ],
-        "count": {
-          "Gold Rare": 1
-        }
-      },
-      {
-        "card_name": "Return of the Six Samurai",
-        "set_number": "GLD2-EN049",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Double-Edged Sword Technique",
-        "set_number": "GLD2-EN050",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "Gold Series 2009",
+  "type": "Booster Pack",
+  "date": "2009-04-21",
+  "distribution": "booster_gold_series",
+  "prefix": "GLD2",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Sangan",
+      "set_number": "GLD2-EN001",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Des Volstgalph",
+      "set_number": "GLD2-EN002",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Lekunga",
+      "set_number": "GLD2-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lord Poison",
+      "set_number": "GLD2-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rigorous Reaver",
+      "set_number": "GLD2-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Zaborg the Thunder Monarch",
+      "set_number": "GLD2-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mobius the Frost Monarch",
+      "set_number": "GLD2-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Thestalos the Firestorm Monarch",
+      "set_number": "GLD2-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Granmarg the Rock Monarch",
+      "set_number": "GLD2-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Treeborn Frog",
+      "set_number": "GLD2-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Phantom Beast Cross-Wing",
+      "set_number": "GLD2-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Phantom Beast Wild-Horn",
+      "set_number": "GLD2-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Phantom Beast Thunder-Pegasus",
+      "set_number": "GLD2-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Phantom Beast Rock-Lizard",
+      "set_number": "GLD2-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Winged Rhynos",
+      "set_number": "GLD2-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Snipe Hunter",
+      "set_number": "GLD2-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Yaichi",
+      "set_number": "GLD2-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Kamon",
+      "set_number": "GLD2-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Yariza",
+      "set_number": "GLD2-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Nisashi",
+      "set_number": "GLD2-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Zanji",
+      "set_number": "GLD2-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Irou",
+      "set_number": "GLD2-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Rocket",
+      "set_number": "GLD2-EN023",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Shell",
+      "set_number": "GLD2-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Captain Gold",
+      "set_number": "GLD2-EN025",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Raiza the Storm Monarch",
+      "set_number": "GLD2-EN026",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Necro Gardna",
+      "set_number": "GLD2-EN027",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Neos Alius",
+      "set_number": "GLD2-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Test Tiger",
+      "set_number": "GLD2-EN029",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Royal Firestorm Guards",
+      "set_number": "GLD2-EN030",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Armed Dragon",
+      "set_number": "GLD2-EN031",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Prime Material Dragon",
+      "set_number": "GLD2-EN032",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Caius the Shadow Monarch",
+      "set_number": "GLD2-EN033",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Exile of the Wicked",
+      "set_number": "GLD2-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Warrior Elimination",
+      "set_number": "GLD2-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Giant Trunade",
+      "set_number": "GLD2-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mind Control",
+      "set_number": "GLD2-EN037",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Skyscraper",
+      "set_number": "GLD2-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Future Fusion",
+      "set_number": "GLD2-EN039",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Gold Sarcophagus",
+      "set_number": "GLD2-EN040",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Shien's Castle of Mist",
+      "set_number": "GLD2-EN041",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Six Samurai United",
+      "set_number": "GLD2-EN042",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Veil of Darkness",
+      "set_number": "GLD2-EN043",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Solemn Judgment",
+      "set_number": "GLD2-EN044",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Bottomless Trap Hole",
+      "set_number": "GLD2-EN045",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Compulsory Evacuation Device",
+      "set_number": "GLD2-EN046",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Begone, Knave!",
+      "set_number": "GLD2-EN047",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Phoenix Wing Wind Blast",
+      "set_number": "GLD2-EN048",
+      "rarities": [
+        "Gold Rare"
+      ],
+      "count": {
+        "Gold Rare": 1
+      }
+    },
+    {
+      "card_name": "Return of the Six Samurai",
+      "set_number": "GLD2-EN049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Double-Edged Sword Technique",
+      "set_number": "GLD2-EN050",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! ZEXAL Volume 5 promotional card",
-    "type": "Manga Promo",
-    "date": "2013-08-02",
-    "distribution": "manga_promo",
-    "prefix": "YZ05",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Number 72: Shogi Rook",
-        "set_number": "YZ05-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! ZEXAL Volume 5 promotional card",
+  "type": "Manga Promo",
+  "date": "2013-08-02",
+  "distribution": "manga_promo",
+  "prefix": "YZ05",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Number 72: Shogi Rook",
+      "set_number": "YZ05-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

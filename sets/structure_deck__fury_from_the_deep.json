@@ -1,334 +1,331 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Structure Deck: Fury from the Deep",
-    "type": "Structure Deck",
-    "date": "2005-01-20",
-    "distribution": "",
-    "prefix": "SD4",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Ocean Dragon Lord - Neo-Daedalus",
-        "set_number": "SD4-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "7 Colored Fish",
-        "set_number": "SD4-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sea Serpent Warrior of Darkness",
-        "set_number": "SD4-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Space Mambo",
-        "set_number": "SD4-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mother Grizzly",
-        "set_number": "SD4-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 3
-        }
-      },
-      {
-        "card_name": "Star Boy",
-        "set_number": "SD4-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tribe-Infecting Virus",
-        "set_number": "SD4-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fenrir",
-        "set_number": "SD4-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Amphibious Bugroth MK-3",
-        "set_number": "SD4-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Levia-Dragon - Daedalus",
-        "set_number": "SD4-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mermaid Knight",
-        "set_number": "SD4-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mobius the Frost Monarch",
-        "set_number": "SD4-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Unshaven Angler",
-        "set_number": "SD4-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Creeping Doom Manta",
-        "set_number": "SD4-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Snatch Steal",
-        "set_number": "SD4-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mystical Space Typhoon",
-        "set_number": "SD4-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Premature Burial",
-        "set_number": "SD4-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Pot of Greed",
-        "set_number": "SD4-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Heavy Storm",
-        "set_number": "SD4-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "A Legendary Ocean",
-        "set_number": "SD4-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 3
-        }
-      },
-      {
-        "card_name": "Creature Swap",
-        "set_number": "SD4-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Reload",
-        "set_number": "SD4-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Salvage",
-        "set_number": "SD4-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Hammer Shot",
-        "set_number": "SD4-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Big Wave Small Wave",
-        "set_number": "SD4-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dust Tornado",
-        "set_number": "SD4-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Call of the Haunted",
-        "set_number": "SD4-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gravity Bind",
-        "set_number": "SD4-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Tornado Wall",
-        "set_number": "SD4-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Torrential Tribute",
-        "set_number": "SD4-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spell Shield Type-8",
-        "set_number": "SD4-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Xing Zhen Hu",
-        "set_number": "SD4-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "Structure Deck: Fury from the Deep",
+  "type": "Structure Deck",
+  "date": "2005-01-20",
+  "distribution": "",
+  "prefix": "SD4",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Ocean Dragon Lord - Neo-Daedalus",
+      "set_number": "SD4-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "7 Colored Fish",
+      "set_number": "SD4-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sea Serpent Warrior of Darkness",
+      "set_number": "SD4-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Space Mambo",
+      "set_number": "SD4-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mother Grizzly",
+      "set_number": "SD4-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 3
+      }
+    },
+    {
+      "card_name": "Star Boy",
+      "set_number": "SD4-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tribe-Infecting Virus",
+      "set_number": "SD4-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fenrir",
+      "set_number": "SD4-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Amphibious Bugroth MK-3",
+      "set_number": "SD4-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Levia-Dragon - Daedalus",
+      "set_number": "SD4-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mermaid Knight",
+      "set_number": "SD4-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mobius the Frost Monarch",
+      "set_number": "SD4-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Unshaven Angler",
+      "set_number": "SD4-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Creeping Doom Manta",
+      "set_number": "SD4-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Snatch Steal",
+      "set_number": "SD4-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mystical Space Typhoon",
+      "set_number": "SD4-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Premature Burial",
+      "set_number": "SD4-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pot of Greed",
+      "set_number": "SD4-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Heavy Storm",
+      "set_number": "SD4-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "A Legendary Ocean",
+      "set_number": "SD4-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 3
+      }
+    },
+    {
+      "card_name": "Creature Swap",
+      "set_number": "SD4-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reload",
+      "set_number": "SD4-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Salvage",
+      "set_number": "SD4-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Hammer Shot",
+      "set_number": "SD4-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Big Wave Small Wave",
+      "set_number": "SD4-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dust Tornado",
+      "set_number": "SD4-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Call of the Haunted",
+      "set_number": "SD4-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gravity Bind",
+      "set_number": "SD4-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Tornado Wall",
+      "set_number": "SD4-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Torrential Tribute",
+      "set_number": "SD4-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spell Shield Type-8",
+      "set_number": "SD4-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Xing Zhen Hu",
+      "set_number": "SD4-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! GX Volume 1 promotional card",
-    "type": "Manga Promo",
-    "date": "2006-11-02",
-    "distribution": "manga_promo",
-    "prefix": "YG01",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Light and Darkness Dragon",
-        "set_number": "YG01-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! GX Volume 1 promotional card",
+  "type": "Manga Promo",
+  "date": "2006-11-02",
+  "distribution": "manga_promo",
+  "prefix": "YG01",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Light and Darkness Dragon",
+      "set_number": "YG01-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! R Volume 1",
-    "type": "Manga Promo Cards",
-    "date": "2005-04-05",
-    "distribution": "manga_promo_cards",
-    "prefix": "YR1",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Van'Dalgyon the Dark Dragon Lord",
-        "set_number": "YR1-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! R Volume 1",
+  "type": "Manga Promo Cards",
+  "date": "2005-04-05",
+  "distribution": "manga_promo_cards",
+  "prefix": "YR1",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Van'Dalgyon the Dark Dragon Lord",
+      "set_number": "YR1-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

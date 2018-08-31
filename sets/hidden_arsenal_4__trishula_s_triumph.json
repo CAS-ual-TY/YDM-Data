@@ -1,614 +1,611 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Hidden Arsenal 4: Trishula's Triumph",
-    "type": "Booster Pack",
-    "date": "2011-04-14",
-    "distribution": "booster_pack",
-    "prefix": "HA04",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Genex Ally Remote",
-        "set_number": "HA04-EN001",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Powercell",
-        "set_number": "HA04-EN002",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Changer",
-        "set_number": "HA04-EN003",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Volcannon",
-        "set_number": "HA04-EN004",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Solid",
-        "set_number": "HA04-EN005",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "The Fabled Chawa",
-        "set_number": "HA04-EN006",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "The Fabled Catsith",
-        "set_number": "HA04-EN007",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "The Fabled Cerburrel",
-        "set_number": "HA04-EN008",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "The Fabled Ganashia",
-        "set_number": "HA04-EN009",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "The Fabled Nozoochee",
-        "set_number": "HA04-EN010",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragunity Militum",
-        "set_number": "HA04-EN011",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragunity Primus Pilus",
-        "set_number": "HA04-EN012",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragunity Brandistock",
-        "set_number": "HA04-EN013",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragunity Javelin",
-        "set_number": "HA04-EN014",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Jurrac Dino",
-        "set_number": "HA04-EN015",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Jurrac Gallim",
-        "set_number": "HA04-EN016",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Jurrac Aeolo",
-        "set_number": "HA04-EN017",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Jurrac Herra",
-        "set_number": "HA04-EN018",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Naturia Butterfly",
-        "set_number": "HA04-EN019",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Naturia Ladybug",
-        "set_number": "HA04-EN020",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Naturia Strawberry",
-        "set_number": "HA04-EN021",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Defender of the Ice Barrier",
-        "set_number": "HA04-EN022",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Warlock of the Ice Barrier",
-        "set_number": "HA04-EN023",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Sacred Spirit of the Ice Barrier",
-        "set_number": "HA04-EN024",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "General Raiho of the Ice Barrier",
-        "set_number": "HA04-EN025",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Triarm",
-        "set_number": "HA04-EN026",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "The Fabled Unicore",
-        "set_number": "HA04-EN027",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragunity Knight - Trident",
-        "set_number": "HA04-EN028",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Jurrac Meteor",
-        "set_number": "HA04-EN029",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Naturia Landoise",
-        "set_number": "HA04-EN030",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo Flamvell Origin",
-        "set_number": "HA04-EN031",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo Flamvell Hedgehog",
-        "set_number": "HA04-EN032",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo Flamvell Shaman",
-        "set_number": "HA04-EN033",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo Flamvell Garuda",
-        "set_number": "HA04-EN034",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo Flamvell Sabre",
-        "set_number": "HA04-EN035",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Chemistrer",
-        "set_number": "HA04-EN036",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Birdman",
-        "set_number": "HA04-EN037",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Bellflame",
-        "set_number": "HA04-EN038",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Crusher",
-        "set_number": "HA04-EN039",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Reliever",
-        "set_number": "HA04-EN040",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "The Fabled Peggulsus",
-        "set_number": "HA04-EN041",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "The Fabled Kokkator",
-        "set_number": "HA04-EN042",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Fabled Dianaira",
-        "set_number": "HA04-EN043",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragunity Corsesca",
-        "set_number": "HA04-EN044",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragunity Partisan",
-        "set_number": "HA04-EN045",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragunity Pilum",
-        "set_number": "HA04-EN046",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragunity Angusticlavii",
-        "set_number": "HA04-EN047",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Naturia Stinkbug",
-        "set_number": "HA04-EN048",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Naturia Mantis",
-        "set_number": "HA04-EN049",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Naturia Ragweed",
-        "set_number": "HA04-EN050",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Naturia White Oak",
-        "set_number": "HA04-EN051",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Strategist of the Ice Barrier",
-        "set_number": "HA04-EN052",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Secret Guards of the Ice Barrier",
-        "set_number": "HA04-EN053",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "General Gantala of the Ice Barrier",
-        "set_number": "HA04-EN054",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Naturia Exterio",
-        "set_number": "HA04-EN055",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Ancient Flamvell Deity",
-        "set_number": "HA04-EN056",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Triforce",
-        "set_number": "HA04-EN057",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "The Fabled Kudabbi",
-        "set_number": "HA04-EN058",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragunity Knight - Barcha",
-        "set_number": "HA04-EN059",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Trishula, Dragon of the Ice Barrier",
-        "set_number": "HA04-EN060",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
+  "name": "Hidden Arsenal 4: Trishula's Triumph",
+  "type": "Booster Pack",
+  "date": "2011-04-14",
+  "distribution": "booster_pack",
+  "prefix": "HA04",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Genex Ally Remote",
+      "set_number": "HA04-EN001",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Genex Ally Powercell",
+      "set_number": "HA04-EN002",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Changer",
+      "set_number": "HA04-EN003",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Volcannon",
+      "set_number": "HA04-EN004",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Solid",
+      "set_number": "HA04-EN005",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "The Fabled Chawa",
+      "set_number": "HA04-EN006",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "The Fabled Catsith",
+      "set_number": "HA04-EN007",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "The Fabled Cerburrel",
+      "set_number": "HA04-EN008",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Fabled Ganashia",
+      "set_number": "HA04-EN009",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "The Fabled Nozoochee",
+      "set_number": "HA04-EN010",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Militum",
+      "set_number": "HA04-EN011",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Primus Pilus",
+      "set_number": "HA04-EN012",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Brandistock",
+      "set_number": "HA04-EN013",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Javelin",
+      "set_number": "HA04-EN014",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Jurrac Dino",
+      "set_number": "HA04-EN015",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Jurrac Gallim",
+      "set_number": "HA04-EN016",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Jurrac Aeolo",
+      "set_number": "HA04-EN017",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Jurrac Herra",
+      "set_number": "HA04-EN018",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Naturia Butterfly",
+      "set_number": "HA04-EN019",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Naturia Ladybug",
+      "set_number": "HA04-EN020",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Naturia Strawberry",
+      "set_number": "HA04-EN021",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Defender of the Ice Barrier",
+      "set_number": "HA04-EN022",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Warlock of the Ice Barrier",
+      "set_number": "HA04-EN023",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Sacred Spirit of the Ice Barrier",
+      "set_number": "HA04-EN024",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "General Raiho of the Ice Barrier",
+      "set_number": "HA04-EN025",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Triarm",
+      "set_number": "HA04-EN026",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Fabled Unicore",
+      "set_number": "HA04-EN027",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Knight - Trident",
+      "set_number": "HA04-EN028",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Jurrac Meteor",
+      "set_number": "HA04-EN029",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Naturia Landoise",
+      "set_number": "HA04-EN030",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Neo Flamvell Origin",
+      "set_number": "HA04-EN031",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Neo Flamvell Hedgehog",
+      "set_number": "HA04-EN032",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Neo Flamvell Shaman",
+      "set_number": "HA04-EN033",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Neo Flamvell Garuda",
+      "set_number": "HA04-EN034",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Neo Flamvell Sabre",
+      "set_number": "HA04-EN035",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Chemistrer",
+      "set_number": "HA04-EN036",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Birdman",
+      "set_number": "HA04-EN037",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Bellflame",
+      "set_number": "HA04-EN038",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Crusher",
+      "set_number": "HA04-EN039",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Reliever",
+      "set_number": "HA04-EN040",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Fabled Peggulsus",
+      "set_number": "HA04-EN041",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "The Fabled Kokkator",
+      "set_number": "HA04-EN042",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Fabled Dianaira",
+      "set_number": "HA04-EN043",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Corsesca",
+      "set_number": "HA04-EN044",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Partisan",
+      "set_number": "HA04-EN045",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Pilum",
+      "set_number": "HA04-EN046",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Angusticlavii",
+      "set_number": "HA04-EN047",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Naturia Stinkbug",
+      "set_number": "HA04-EN048",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Naturia Mantis",
+      "set_number": "HA04-EN049",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Naturia Ragweed",
+      "set_number": "HA04-EN050",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Naturia White Oak",
+      "set_number": "HA04-EN051",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Strategist of the Ice Barrier",
+      "set_number": "HA04-EN052",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Secret Guards of the Ice Barrier",
+      "set_number": "HA04-EN053",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "General Gantala of the Ice Barrier",
+      "set_number": "HA04-EN054",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Naturia Exterio",
+      "set_number": "HA04-EN055",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Ancient Flamvell Deity",
+      "set_number": "HA04-EN056",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Triforce",
+      "set_number": "HA04-EN057",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Fabled Kudabbi",
+      "set_number": "HA04-EN058",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Knight - Barcha",
+      "set_number": "HA04-EN059",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Trishula, Dragon of the Ice Barrier",
+      "set_number": "HA04-EN060",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    }
+  ]
 }

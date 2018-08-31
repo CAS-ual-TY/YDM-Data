@@ -1,44 +1,41 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! GX Card Almanac",
-    "type": "Video Game Promo Cards",
-    "date": "2007-08-09",
-    "distribution": "video_game_promo_cards",
-    "prefix": "YDB1",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Blizzard Dragon",
-        "set_number": "YDB1-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Metal Shooter",
-        "set_number": "YDB1-EN002",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Des Mosquito",
-        "set_number": "YDB1-EN003",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! GX Card Almanac",
+  "type": "Video Game Promo Cards",
+  "date": "2007-08-09",
+  "distribution": "video_game_promo_cards",
+  "prefix": "YDB1",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Blizzard Dragon",
+      "set_number": "YDB1-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Metal Shooter",
+      "set_number": "YDB1-EN002",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Des Mosquito",
+      "set_number": "YDB1-EN003",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    }
+  ]
 }

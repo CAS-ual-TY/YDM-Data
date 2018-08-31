@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Phantom Darkness Sneak Peek Participation Card",
-    "type": "Tournament Promo Cards",
-    "date": "2008-01-19",
-    "distribution": "tournament_promo_cards",
-    "prefix": "PTDN",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Dark Grepher",
-        "set_number": "PTDN-ENSP1",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Phantom Darkness Sneak Peek Participation Card",
+  "type": "Tournament Promo Cards",
+  "date": "2008-01-19",
+  "distribution": "tournament_promo_cards",
+  "prefix": "PTDN",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Dark Grepher",
+      "set_number": "PTDN-ENSP1",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

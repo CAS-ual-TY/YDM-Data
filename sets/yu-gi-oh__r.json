@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! R",
-    "type": "Manga Promo",
-    "date": "2008-04-04",
-    "distribution": "manga_promo",
-    "prefix": "YR05",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Alector, Sovereign of Birds",
-        "set_number": "YR05-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! R",
+  "type": "Manga Promo",
+  "date": "2008-04-04",
+  "distribution": "manga_promo",
+  "prefix": "YR05",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Alector, Sovereign of Birds",
+      "set_number": "YR05-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

@@ -1,164 +1,161 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Tournament Pack 2017 Vol.4",
-    "type": "Booster Pack",
-    "date": "2017-10-01",
-    "distribution": "booster_pack",
-    "prefix": "17TP",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Des Lacooda",
-        "set_number": "17TP-EN401",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Blowback Dragon",
-        "set_number": "17TP-EN402",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Dark - Hex-Sealed Fusion",
-        "set_number": "17TP-EN403",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mythical Beast Cerberus",
-        "set_number": "17TP-EN404",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Armored Cybern",
-        "set_number": "17TP-EN405",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ojama Blue",
-        "set_number": "17TP-EN406",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Warm Worm",
-        "set_number": "17TP-EN407",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Insect Imitation",
-        "set_number": "17TP-EN408",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ancient City - Rainbow Ruins",
-        "set_number": "17TP-EN409",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spell Gear",
-        "set_number": "17TP-EN410",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magical Citadel of Endymion",
-        "set_number": "17TP-EN411",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Court of Justice",
-        "set_number": "17TP-EN412",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Michizure",
-        "set_number": "17TP-EN413",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Burst Rebirth",
-        "set_number": "17TP-EN414",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dragonoid Token",
-        "set_number": "17TP-EN416",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "Tournament Pack 2017 Vol.4",
+  "type": "Booster Pack",
+  "date": "2017-10-01",
+  "distribution": "booster_pack",
+  "prefix": "17TP",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Des Lacooda",
+      "set_number": "17TP-EN401",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Blowback Dragon",
+      "set_number": "17TP-EN402",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Dark - Hex-Sealed Fusion",
+      "set_number": "17TP-EN403",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mythical Beast Cerberus",
+      "set_number": "17TP-EN404",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armored Cybern",
+      "set_number": "17TP-EN405",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ojama Blue",
+      "set_number": "17TP-EN406",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Warm Worm",
+      "set_number": "17TP-EN407",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Insect Imitation",
+      "set_number": "17TP-EN408",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ancient City - Rainbow Ruins",
+      "set_number": "17TP-EN409",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spell Gear",
+      "set_number": "17TP-EN410",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magical Citadel of Endymion",
+      "set_number": "17TP-EN411",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Court of Justice",
+      "set_number": "17TP-EN412",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Michizure",
+      "set_number": "17TP-EN413",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Burst Rebirth",
+      "set_number": "17TP-EN414",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dragonoid Token",
+      "set_number": "17TP-EN416",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

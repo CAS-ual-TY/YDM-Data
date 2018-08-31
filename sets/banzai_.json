@@ -1,34 +1,31 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Banzai!",
-    "type": "Magazine Promo Cards",
-    "date": "2002-09-09",
-    "distribution": "magazine_promo_cards",
-    "prefix": "BNZ",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Red-Eyes B. Dragon",
-        "set_number": "BNZ-EN002",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Blue-Eyes White Dragon",
-        "set_number": "BNZ-E001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Banzai!",
+  "type": "Magazine Promo Cards",
+  "date": "2002-09-09",
+  "distribution": "magazine_promo_cards",
+  "prefix": "BNZ",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Red-Eyes B. Dragon",
+      "set_number": "BNZ-EN002",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Blue-Eyes White Dragon",
+      "set_number": "BNZ-E001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    }
+  ]
 }

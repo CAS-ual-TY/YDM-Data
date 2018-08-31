@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! ZEXAL Volume 1 promotional card",
-    "type": "Manga Promo",
-    "date": "2011-06-03",
-    "distribution": "manga_promo",
-    "prefix": "YZ01",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Kachi Kochi Dragon",
-        "set_number": "YZ01-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! ZEXAL Volume 1 promotional card",
+  "type": "Manga Promo",
+  "date": "2011-06-03",
+  "distribution": "manga_promo",
+  "prefix": "YZ01",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Kachi Kochi Dragon",
+      "set_number": "YZ01-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

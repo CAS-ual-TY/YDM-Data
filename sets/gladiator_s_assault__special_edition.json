@@ -1,34 +1,31 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Gladiator's Assault: Special Edition",
-    "type": "Special Edition Promo Cards",
-    "date": "2007-12-10",
-    "distribution": "special_edition_promo_cards",
-    "prefix": "GLAS",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Phantom of Chaos",
-        "set_number": "GLAS-ENSE1",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Vortex Trooper",
-        "set_number": "GLAS-ENSE2",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Gladiator's Assault: Special Edition",
+  "type": "Special Edition Promo Cards",
+  "date": "2007-12-10",
+  "distribution": "special_edition_promo_cards",
+  "prefix": "GLAS",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Phantom of Chaos",
+      "set_number": "GLAS-ENSE1",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Vortex Trooper",
+      "set_number": "GLAS-ENSE2",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
+  ]
 }

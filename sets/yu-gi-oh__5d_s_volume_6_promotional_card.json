@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! 5D's Volume 6 promotional card",
-    "type": "Manga Promo",
-    "date": "2013-08-03",
-    "distribution": "manga_promo",
-    "prefix": "YF06",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Hot Red Dragon Archfiend",
-        "set_number": "YF06-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! 5D's Volume 6 promotional card",
+  "type": "Manga Promo",
+  "date": "2013-08-03",
+  "distribution": "manga_promo",
+  "prefix": "YF06",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Hot Red Dragon Archfiend",
+      "set_number": "YF06-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! 5D's Volume 7 promotional card",
-    "type": "Manga Promo",
-    "date": "2014-03-04",
-    "distribution": "manga_promo",
-    "prefix": "YF07",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Black Rose Moonlight Dragon",
-        "set_number": "YF07-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! 5D's Volume 7 promotional card",
+  "type": "Manga Promo",
+  "date": "2014-03-04",
+  "distribution": "manga_promo",
+  "prefix": "YF07",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Black Rose Moonlight Dragon",
+      "set_number": "YF07-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

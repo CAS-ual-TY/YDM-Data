@@ -1,34 +1,31 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Hidden Arsenal: Special Edition",
-    "type": "Special Edition Promo Cards",
-    "date": "2011-07-21",
-    "distribution": "special_edition_promo_cards",
-    "prefix": "HASE",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "XX-Saber Emmersblade",
-        "set_number": "HASE-EN001",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Naturia Pineapple",
-        "set_number": "HASE-EN002",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Hidden Arsenal: Special Edition",
+  "type": "Special Edition Promo Cards",
+  "date": "2011-07-21",
+  "distribution": "special_edition_promo_cards",
+  "prefix": "HASE",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "XX-Saber Emmersblade",
+      "set_number": "HASE-EN001",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Naturia Pineapple",
+      "set_number": "HASE-EN002",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
+  ]
 }

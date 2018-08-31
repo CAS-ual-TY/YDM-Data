@@ -1,44 +1,41 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! Nightmare Troubadour",
-    "type": "Video Game Promo Cards",
-    "date": "2005-07-27",
-    "distribution": "video_game_promo_cards",
-    "prefix": "NTR",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Silent Magician LV4",
-        "set_number": "NTR-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Silent Magician LV8",
-        "set_number": "NTR-EN002",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Magician's Circle",
-        "set_number": "NTR-EN003",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! Nightmare Troubadour",
+  "type": "Video Game Promo Cards",
+  "date": "2005-07-27",
+  "distribution": "video_game_promo_cards",
+  "prefix": "NTR",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Silent Magician LV4",
+      "set_number": "NTR-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Silent Magician LV8",
+      "set_number": "NTR-EN002",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Magician's Circle",
+      "set_number": "NTR-EN003",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    }
+  ]
 }

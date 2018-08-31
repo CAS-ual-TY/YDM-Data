@@ -1,664 +1,661 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Cyberdark Impact",
-    "type": "Booster Pack",
-    "date": "2006-11-15",
-    "distribution": "booster_pack",
-    "prefix": "CDIP",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Cyberdark Horn",
-        "set_number": "CDIP-EN001",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Cyberdark Edge",
-        "set_number": "CDIP-EN002",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Cyberdark Keel",
-        "set_number": "CDIP-EN003",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Cyber Ogre",
-        "set_number": "CDIP-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cyber Esper",
-        "set_number": "CDIP-EN005",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Allure Queen LV3",
-        "set_number": "CDIP-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Allure Queen LV5",
-        "set_number": "CDIP-EN007",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Allure Queen LV7",
-        "set_number": "CDIP-EN008",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Lucius LV4",
-        "set_number": "CDIP-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Lucius LV6",
-        "set_number": "CDIP-EN010",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Lucius LV8",
-        "set_number": "CDIP-EN011",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Stray Asmodian",
-        "set_number": "CDIP-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Abaki",
-        "set_number": "CDIP-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Flame Ogre",
-        "set_number": "CDIP-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Snipe Hunter",
-        "set_number": "CDIP-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blast Asmodian",
-        "set_number": "CDIP-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Vanity's Fiend",
-        "set_number": "CDIP-EN017",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Barrier Statue of the Abyss",
-        "set_number": "CDIP-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Barrier Statue of the Torrent",
-        "set_number": "CDIP-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Barrier Statue of the Inferno",
-        "set_number": "CDIP-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Barrier Statue of the Stormwinds",
-        "set_number": "CDIP-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Barrier Statue of the Drought",
-        "set_number": "CDIP-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Barrier Statue of the Heavens",
-        "set_number": "CDIP-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Vanity's Ruler",
-        "set_number": "CDIP-EN024",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Iris, the Earth Mother",
-        "set_number": "CDIP-EN025",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Lightning Punisher",
-        "set_number": "CDIP-EN026",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Queen's Bodyguard",
-        "set_number": "CDIP-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Combo Fighter",
-        "set_number": "CDIP-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Combo Master",
-        "set_number": "CDIP-EN029",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Man Beast of Ares",
-        "set_number": "CDIP-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rampaging Rhynos",
-        "set_number": "CDIP-EN031",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Storm Shooter",
-        "set_number": "CDIP-EN032",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Alien Infiltrator",
-        "set_number": "CDIP-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Alien Mars",
-        "set_number": "CDIP-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cyberdark Dragon",
-        "set_number": "CDIP-EN035",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Cyber Ogre 2",
-        "set_number": "CDIP-EN036",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Corruption Cell \"A\"",
-        "set_number": "CDIP-EN037",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Flash of the Forbidden Spell",
-        "set_number": "CDIP-EN038",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Ritual Foregone",
-        "set_number": "CDIP-EN039",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Instant Fusion",
-        "set_number": "CDIP-EN040",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Counter Cleaner",
-        "set_number": "CDIP-EN041",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Linear Accelerator Cannon",
-        "set_number": "CDIP-EN042",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Chain Strike",
-        "set_number": "CDIP-EN043",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Miraculous Rebirth",
-        "set_number": "CDIP-EN044",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mystical Wind Typhoon",
-        "set_number": "CDIP-EN045",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Level Down!?",
-        "set_number": "CDIP-EN046",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Degenerate Circuit",
-        "set_number": "CDIP-EN047",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Senet Switch",
-        "set_number": "CDIP-EN048",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blasting Fuse",
-        "set_number": "CDIP-EN049",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Straight Flush",
-        "set_number": "CDIP-EN050",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Justi-Break",
-        "set_number": "CDIP-EN051",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dimensional Inversion",
-        "set_number": "CDIP-EN052",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Chain Healing",
-        "set_number": "CDIP-EN053",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Chain Detonation",
-        "set_number": "CDIP-EN054",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Byroad Sacrifice",
-        "set_number": "CDIP-EN055",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Trojan Blast",
-        "set_number": "CDIP-EN056",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Accumulated Fortune",
-        "set_number": "CDIP-EN057",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cyber Shadow Gardna",
-        "set_number": "CDIP-EN058",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Vanity's Call",
-        "set_number": "CDIP-EN059",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Black Horn of Heaven",
-        "set_number": "CDIP-EN060",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
+  "name": "Cyberdark Impact",
+  "type": "Booster Pack",
+  "date": "2006-11-15",
+  "distribution": "booster_pack",
+  "prefix": "CDIP",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Cyberdark Horn",
+      "set_number": "CDIP-EN001",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Cyberdark Edge",
+      "set_number": "CDIP-EN002",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Cyberdark Keel",
+      "set_number": "CDIP-EN003",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Cyber Ogre",
+      "set_number": "CDIP-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cyber Esper",
+      "set_number": "CDIP-EN005",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Allure Queen LV3",
+      "set_number": "CDIP-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Allure Queen LV5",
+      "set_number": "CDIP-EN007",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Allure Queen LV7",
+      "set_number": "CDIP-EN008",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Lucius LV4",
+      "set_number": "CDIP-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Lucius LV6",
+      "set_number": "CDIP-EN010",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Lucius LV8",
+      "set_number": "CDIP-EN011",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Stray Asmodian",
+      "set_number": "CDIP-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Abaki",
+      "set_number": "CDIP-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Flame Ogre",
+      "set_number": "CDIP-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Snipe Hunter",
+      "set_number": "CDIP-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blast Asmodian",
+      "set_number": "CDIP-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Vanity's Fiend",
+      "set_number": "CDIP-EN017",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Barrier Statue of the Abyss",
+      "set_number": "CDIP-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Barrier Statue of the Torrent",
+      "set_number": "CDIP-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Barrier Statue of the Inferno",
+      "set_number": "CDIP-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Barrier Statue of the Stormwinds",
+      "set_number": "CDIP-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Barrier Statue of the Drought",
+      "set_number": "CDIP-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Barrier Statue of the Heavens",
+      "set_number": "CDIP-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Vanity's Ruler",
+      "set_number": "CDIP-EN024",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Iris, the Earth Mother",
+      "set_number": "CDIP-EN025",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Lightning Punisher",
+      "set_number": "CDIP-EN026",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Queen's Bodyguard",
+      "set_number": "CDIP-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Combo Fighter",
+      "set_number": "CDIP-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Combo Master",
+      "set_number": "CDIP-EN029",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Man Beast of Ares",
+      "set_number": "CDIP-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rampaging Rhynos",
+      "set_number": "CDIP-EN031",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Storm Shooter",
+      "set_number": "CDIP-EN032",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Alien Infiltrator",
+      "set_number": "CDIP-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Alien Mars",
+      "set_number": "CDIP-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cyberdark Dragon",
+      "set_number": "CDIP-EN035",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Cyber Ogre 2",
+      "set_number": "CDIP-EN036",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Corruption Cell "A"",
+      "set_number": "CDIP-EN037",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Flash of the Forbidden Spell",
+      "set_number": "CDIP-EN038",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ritual Foregone",
+      "set_number": "CDIP-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Instant Fusion",
+      "set_number": "CDIP-EN040",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Counter Cleaner",
+      "set_number": "CDIP-EN041",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Linear Accelerator Cannon",
+      "set_number": "CDIP-EN042",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chain Strike",
+      "set_number": "CDIP-EN043",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Miraculous Rebirth",
+      "set_number": "CDIP-EN044",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mystical Wind Typhoon",
+      "set_number": "CDIP-EN045",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Level Down!?",
+      "set_number": "CDIP-EN046",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Degenerate Circuit",
+      "set_number": "CDIP-EN047",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Senet Switch",
+      "set_number": "CDIP-EN048",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blasting Fuse",
+      "set_number": "CDIP-EN049",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Straight Flush",
+      "set_number": "CDIP-EN050",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Justi-Break",
+      "set_number": "CDIP-EN051",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dimensional Inversion",
+      "set_number": "CDIP-EN052",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Chain Healing",
+      "set_number": "CDIP-EN053",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chain Detonation",
+      "set_number": "CDIP-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Byroad Sacrifice",
+      "set_number": "CDIP-EN055",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Trojan Blast",
+      "set_number": "CDIP-EN056",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Accumulated Fortune",
+      "set_number": "CDIP-EN057",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cyber Shadow Gardna",
+      "set_number": "CDIP-EN058",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Vanity's Call",
+      "set_number": "CDIP-EN059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Black Horn of Heaven",
+      "set_number": "CDIP-EN060",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    }
+  ]
 }

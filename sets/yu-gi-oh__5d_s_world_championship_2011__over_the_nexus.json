@@ -1,44 +1,41 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus",
-    "type": "Video Game Promo Cards",
-    "date": "2011-02-24",
-    "distribution": "video_game_promo_cards",
-    "prefix": "WC11",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Necro Fleur",
-        "set_number": "WC11-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Sorciere de Fleur",
-        "set_number": "WC11-EN002",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Z-ONE",
-        "set_number": "WC11-EN003",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus",
+  "type": "Video Game Promo Cards",
+  "date": "2011-02-24",
+  "distribution": "video_game_promo_cards",
+  "prefix": "WC11",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Necro Fleur",
+      "set_number": "WC11-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Sorciere de Fleur",
+      "set_number": "WC11-EN002",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Z-ONE",
+      "set_number": "WC11-EN003",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    }
+  ]
 }

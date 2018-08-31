@@ -1,2812 +1,2809 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Battle Pack 3: Monster League",
-    "type": "Battle Pack",
-    "date": "2014-07-25",
-    "distribution": "bp03",
-    "prefix": "BP03",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Jerry Beans Man",
-        "set_number": "BP03-EN001",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bazoo the Soul-Eater",
-        "set_number": "BP03-EN002",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Frontier Wiseman",
-        "set_number": "BP03-EN003",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Arsenal Bug",
-        "set_number": "BP03-EN004",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Breaker the Magical Warrior",
-        "set_number": "BP03-EN005",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mudora",
-        "set_number": "BP03-EN006",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Gale Lizard",
-        "set_number": "BP03-EN007",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Berserk Gorilla",
-        "set_number": "BP03-EN008",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Lord Poison",
-        "set_number": "BP03-EN009",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sacred Crane",
-        "set_number": "BP03-EN010",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Enraged Battle Ox",
-        "set_number": "BP03-EN011",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hyper Hammerhead",
-        "set_number": "BP03-EN012",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Slate Warrior",
-        "set_number": "BP03-EN013",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon Gemini Elf",
-        "set_number": "BP03-EN014",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Chiron the Mage",
-        "set_number": "BP03-EN015",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Gyroid",
-        "set_number": "BP03-EN016",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Goblin Elite Attack Force",
-        "set_number": "BP03-EN017",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mythical Beast Cerberus",
-        "set_number": "BP03-EN018",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Machine King Prototype",
-        "set_number": "BP03-EN019",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Cyber Phoenix",
-        "set_number": "BP03-EN020",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Victory Viper XX03",
-        "set_number": "BP03-EN021",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Herald of Green Light",
-        "set_number": "BP03-EN022",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Herald of Purple Light",
-        "set_number": "BP03-EN023",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Submarineroid",
-        "set_number": "BP03-EN024",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Black Stego",
-        "set_number": "BP03-EN025",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Card Trooper",
-        "set_number": "BP03-EN026",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Freya, Spirit of Victory",
-        "set_number": "BP03-EN027",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Exploder Dragon",
-        "set_number": "BP03-EN028",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dweller in the Depths",
-        "set_number": "BP03-EN029",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Winged Rhynos",
-        "set_number": "BP03-EN030",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Blizzard Dragon",
-        "set_number": "BP03-EN031",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Evil HERO Infernal Gainer",
-        "set_number": "BP03-EN032",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ancient Gear Knight",
-        "set_number": "BP03-EN033",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Royal Firestorm Guards",
-        "set_number": "BP03-EN034",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Crusader",
-        "set_number": "BP03-EN035",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Immortal Bushi",
-        "set_number": "BP03-EN036",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Black Veloci",
-        "set_number": "BP03-EN037",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Sea Koala",
-        "set_number": "BP03-EN038",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blue Thunder T-45",
-        "set_number": "BP03-EN039",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Golden Flying Fish",
-        "set_number": "BP03-EN040",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Aztekipede, the Worm Warrior",
-        "set_number": "BP03-EN041",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Jain, Lightsworn Paladin",
-        "set_number": "BP03-EN042",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Diskblade Rider",
-        "set_number": "BP03-EN043",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Magical Exemplar",
-        "set_number": "BP03-EN044",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Rigorous Reaver",
-        "set_number": "BP03-EN045",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mezuki",
-        "set_number": "BP03-EN046",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Gonogo",
-        "set_number": "BP03-EN047",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Telekinetic Shocker",
-        "set_number": "BP03-EN048",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Destructotron",
-        "set_number": "BP03-EN049",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Herald of Orange Light",
-        "set_number": "BP03-EN050",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Psychic Jumper",
-        "set_number": "BP03-EN051",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Seed of Flame",
-        "set_number": "BP03-EN052",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cross-Sword Beetle",
-        "set_number": "BP03-EN053",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Defender, the Magical Knight",
-        "set_number": "BP03-EN054",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Battlestorm",
-        "set_number": "BP03-EN055",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Koa'ki Meiru Guardian",
-        "set_number": "BP03-EN056",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Koa'ki Meiru Drago",
-        "set_number": "BP03-EN057",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Koa'ki Meiru Doom",
-        "set_number": "BP03-EN058",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Spined Gillman",
-        "set_number": "BP03-EN059",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Vanguard of the Dragon",
-        "set_number": "BP03-EN060",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Koa'ki Meiru War Arms",
-        "set_number": "BP03-EN061",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tree Otter",
-        "set_number": "BP03-EN062",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "X-Saber Airbellum",
-        "set_number": "BP03-EN063",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sunlight Unicorn",
-        "set_number": "BP03-EN064",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Card Guard",
-        "set_number": "BP03-EN065",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Koa'ki Meiru Beetle",
-        "set_number": "BP03-EN066",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Reptilianne Gorgon",
-        "set_number": "BP03-EN067",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Metabo-Shark",
-        "set_number": "BP03-EN068",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Shutendoji",
-        "set_number": "BP03-EN069",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gauntlet Warrior",
-        "set_number": "BP03-EN070",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shreddder",
-        "set_number": "BP03-EN071",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Koa'ki Meiru Sandman",
-        "set_number": "BP03-EN072",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Jurrac Protops",
-        "set_number": "BP03-EN073",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mist Valley Falcon",
-        "set_number": "BP03-EN074",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Trident Warrior",
-        "set_number": "BP03-EN075",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Rhinotaurus",
-        "set_number": "BP03-EN076",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Hypnocorn",
-        "set_number": "BP03-EN077",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Stygian Street Patrol",
-        "set_number": "BP03-EN078",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fabled Ashenveil",
-        "set_number": "BP03-EN079",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Chain Dog",
-        "set_number": "BP03-EN080",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Koa'ki Meiru Wall",
-        "set_number": "BP03-EN081",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Genex Ally Bellflame",
-        "set_number": "BP03-EN082",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Meklord Army of Granel",
-        "set_number": "BP03-EN083",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Silent Psychic Wizard",
-        "set_number": "BP03-EN084",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Dodger Dragon",
-        "set_number": "BP03-EN085",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Wind-Up Juggler",
-        "set_number": "BP03-EN086",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Airorca",
-        "set_number": "BP03-EN087",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Time Escaper",
-        "set_number": "BP03-EN088",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lion Alligator",
-        "set_number": "BP03-EN089",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Friller Rabca",
-        "set_number": "BP03-EN090",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Vylon Ohm",
-        "set_number": "BP03-EN091",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shocktopus",
-        "set_number": "BP03-EN092",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Chow Len the Prophet",
-        "set_number": "BP03-EN093",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Vampiric Koala",
-        "set_number": "BP03-EN094",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Flame Tiger",
-        "set_number": "BP03-EN095",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Tardy Orc",
-        "set_number": "BP03-EN096",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Madolche Baaple",
-        "set_number": "BP03-EN097",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Evilswarm Ketos",
-        "set_number": "BP03-EN098",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Evilswarm O'lantern",
-        "set_number": "BP03-EN099",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Electromagnetic Bagworm",
-        "set_number": "BP03-EN100",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Uminotaurus",
-        "set_number": "BP03-EN101",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Leotaur",
-        "set_number": "BP03-EN102",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Aye-Iron",
-        "set_number": "BP03-EN103",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Evilswarm Thunderbird",
-        "set_number": "BP03-EN104",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magical Undertaker",
-        "set_number": "BP03-EN105",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gentlemander",
-        "set_number": "BP03-EN106",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fencing Fire Ferret",
-        "set_number": "BP03-EN107",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Skelesaurus",
-        "set_number": "BP03-EN108",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Knight Day Grepher",
-        "set_number": "BP03-EN109",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Gorgonic Golem",
-        "set_number": "BP03-EN110",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ghostrick Jackfrost",
-        "set_number": "BP03-EN111",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Black Brachios",
-        "set_number": "BP03-EN112",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Tackle Crusader",
-        "set_number": "BP03-EN113",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Stegocyber",
-        "set_number": "BP03-EN114",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Grenosaurus",
-        "set_number": "BP03-EN116",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Leviair the Sea Dragon",
-        "set_number": "BP03-EN117",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 10: Illumiknight",
-        "set_number": "BP03-EN118",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 20: Giga-Brilliant",
-        "set_number": "BP03-EN119",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Lavalval Ignis",
-        "set_number": "BP03-EN120",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Evigishki Merrowgeist",
-        "set_number": "BP03-EN121",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Daigusto Emeral",
-        "set_number": "BP03-EN122",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Gagaga Cowboy",
-        "set_number": "BP03-EN123",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Heroic Champion - Gandiva",
-        "set_number": "BP03-EN124",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Heroic Champion - Kusanagi",
-        "set_number": "BP03-EN125",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Giant Soldier of Steel",
-        "set_number": "BP03-EN126",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Diamond Dire Wolf",
-        "set_number": "BP03-EN127",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Tin Archduke",
-        "set_number": "BP03-EN128",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Fairy Cheer Girl",
-        "set_number": "BP03-EN129",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Number 44: Sky Pegasus",
-        "set_number": "BP03-EN130",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Ghostrick Alucard",
-        "set_number": "BP03-EN131",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Tri-Edge Levia",
-        "set_number": "BP03-EN132",
-        "rarities": [
-          "Shatterfoil Rare"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1
-        }
-      },
-      {
-        "card_name": "Swords of Revealing Light",
-        "set_number": "BP03-EN133",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rush Recklessly",
-        "set_number": "BP03-EN134",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "7 Completed",
-        "set_number": "BP03-EN135",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Premature Burial",
-        "set_number": "BP03-EN136",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mask of Brutality",
-        "set_number": "BP03-EN137",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Offerings to the Doomed",
-        "set_number": "BP03-EN138",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Scapegoat",
-        "set_number": "BP03-EN139",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Warrior Returning Alive",
-        "set_number": "BP03-EN140",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dragon's Gunfire",
-        "set_number": "BP03-EN141",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Stamping Destruction",
-        "set_number": "BP03-EN142",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fusion Sword Murasame Blade",
-        "set_number": "BP03-EN143",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Creature Swap",
-        "set_number": "BP03-EN144",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Book of Life",
-        "set_number": "BP03-EN145",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Call of the Mummy",
-        "set_number": "BP03-EN146",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Banner of Courage",
-        "set_number": "BP03-EN147",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cestus of Dagla",
-        "set_number": "BP03-EN148",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Enemy Controller",
-        "set_number": "BP03-EN149",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Earthquake",
-        "set_number": "BP03-EN150",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Swords of Concealing Light",
-        "set_number": "BP03-EN151",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magicians Unite",
-        "set_number": "BP03-EN152",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ribbon of Rebirth",
-        "set_number": "BP03-EN153",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Valhalla, Hall of the Fallen",
-        "set_number": "BP03-EN154",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fighting Spirit",
-        "set_number": "BP03-EN155",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Psi-Station",
-        "set_number": "BP03-EN156",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Unstable Evolution",
-        "set_number": "BP03-EN157",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Recycling Batteries",
-        "set_number": "BP03-EN158",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Book of Eclipse",
-        "set_number": "BP03-EN159",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mark of the Rose",
-        "set_number": "BP03-EN160",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Psychokinesis",
-        "set_number": "BP03-EN161",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Miracle Fertilizer",
-        "set_number": "BP03-EN162",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Psychic Sword",
-        "set_number": "BP03-EN163",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Forbidden Chalice",
-        "set_number": "BP03-EN164",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Raging Mad Plants",
-        "set_number": "BP03-EN165",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Reptilianne Rage",
-        "set_number": "BP03-EN166",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Machine Assembly Line",
-        "set_number": "BP03-EN167",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Pyramid of Wonders",
-        "set_number": "BP03-EN168",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cursed Armaments",
-        "set_number": "BP03-EN169",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Wattjustment",
-        "set_number": "BP03-EN170",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Closed Forest",
-        "set_number": "BP03-EN171",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Forbidden Lance",
-        "set_number": "BP03-EN172",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Wonder Wand",
-        "set_number": "BP03-EN173",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Murmur of the Forest",
-        "set_number": "BP03-EN174",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bound Wand",
-        "set_number": "BP03-EN175",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Night Beam",
-        "set_number": "BP03-EN176",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spellbook of Wisdom",
-        "set_number": "BP03-EN177",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Call of the Atlanteans",
-        "set_number": "BP03-EN178",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "One-Shot Wand",
-        "set_number": "BP03-EN179",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Forbidden Dress",
-        "set_number": "BP03-EN180",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Noble Arms - Arfeudutyr",
-        "set_number": "BP03-EN181",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Noble Arms - Caliburn",
-        "set_number": "BP03-EN182",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ayers Rock Sunrise",
-        "set_number": "BP03-EN183",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Forbidden Scripture",
-        "set_number": "BP03-EN184",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Card Advance",
-        "set_number": "BP03-EN185",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bashing Shield",
-        "set_number": "BP03-EN186",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Call of the Haunted",
-        "set_number": "BP03-EN187",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mirror Wall",
-        "set_number": "BP03-EN188",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Metalmorph",
-        "set_number": "BP03-EN189",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mask of Weakness",
-        "set_number": "BP03-EN190",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bark of Dark Ruler",
-        "set_number": "BP03-EN191",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ready for Intercepting",
-        "set_number": "BP03-EN192",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Burst Breath",
-        "set_number": "BP03-EN193",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blast with Chain",
-        "set_number": "BP03-EN194",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tutan Mask",
-        "set_number": "BP03-EN195",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Windstorm of Etaqua",
-        "set_number": "BP03-EN196",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Zero Gravity",
-        "set_number": "BP03-EN197",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shadow Spell",
-        "set_number": "BP03-EN198",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Curse of Anubis",
-        "set_number": "BP03-EN199",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rare Metalmorph",
-        "set_number": "BP03-EN200",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magical Arm Shield",
-        "set_number": "BP03-EN201",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Bribe",
-        "set_number": "BP03-EN202",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Chaos Burst",
-        "set_number": "BP03-EN203",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "No Entry!!",
-        "set_number": "BP03-EN204",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hate Buster",
-        "set_number": "BP03-EN205",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Miniaturize",
-        "set_number": "BP03-EN206",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Psychic Overload",
-        "set_number": "BP03-EN207",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Telepathic Power",
-        "set_number": "BP03-EN208",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mind Over Matter",
-        "set_number": "BP03-EN209",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Kunai with Chain",
-        "set_number": "BP03-EN210",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Pollinosis",
-        "set_number": "BP03-EN211",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Plant Food Chain",
-        "set_number": "BP03-EN212",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Miracle Locus",
-        "set_number": "BP03-EN213",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Skill Successor",
-        "set_number": "BP03-EN214",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Alien Brain",
-        "set_number": "BP03-EN215",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Forgotten Temple of the Deep",
-        "set_number": "BP03-EN216",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Psi-Curse",
-        "set_number": "BP03-EN217",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Damage Gate",
-        "set_number": "BP03-EN218",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Super Rush Recklessly",
-        "set_number": "BP03-EN219",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Miracle's Wake",
-        "set_number": "BP03-EN220",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nordic Relic Laevateinn",
-        "set_number": "BP03-EN221",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Psychic Reactor",
-        "set_number": "BP03-EN222",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Poseidon Wave",
-        "set_number": "BP03-EN223",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Raigeki Bottle",
-        "set_number": "BP03-EN224",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Butterflyoke",
-        "set_number": "BP03-EN225",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dimension Gate",
-        "set_number": "BP03-EN226",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Breakthrough Skill",
-        "set_number": "BP03-EN227",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Pinpoint Guard",
-        "set_number": "BP03-EN228",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Memory Loss",
-        "set_number": "BP03-EN229",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Butterspy Protection",
-        "set_number": "BP03-EN230",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Intrigue Shield",
-        "set_number": "BP03-EN231",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Inspiration",
-        "set_number": "BP03-EN232",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ghosts From the Past",
-        "set_number": "BP03-EN233",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Unbreakable Spirit",
-        "set_number": "BP03-EN234",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Typhoon",
-        "set_number": "BP03-EN235",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Swamp Mirrorer",
-        "set_number": "BP03-EN236",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Quantum Cat",
-        "set_number": "BP03-EN237",
-        "rarities": [
-          "Shatterfoil Rare",
-          "Common"
-        ],
-        "count": {
-          "Shatterfoil Rare": 1,
-          "Common": 1
-        }
+  "name": "Battle Pack 3: Monster League",
+  "type": "Battle Pack",
+  "date": "2014-07-25",
+  "distribution": "bp03",
+  "prefix": "BP03",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Jerry Beans Man",
+      "set_number": "BP03-EN001",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Bazoo the Soul-Eater",
+      "set_number": "BP03-EN002",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Frontier Wiseman",
+      "set_number": "BP03-EN003",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Arsenal Bug",
+      "set_number": "BP03-EN004",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Breaker the Magical Warrior",
+      "set_number": "BP03-EN005",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mudora",
+      "set_number": "BP03-EN006",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gale Lizard",
+      "set_number": "BP03-EN007",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Berserk Gorilla",
+      "set_number": "BP03-EN008",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Lord Poison",
+      "set_number": "BP03-EN009",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sacred Crane",
+      "set_number": "BP03-EN010",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Enraged Battle Ox",
+      "set_number": "BP03-EN011",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hyper Hammerhead",
+      "set_number": "BP03-EN012",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Slate Warrior",
+      "set_number": "BP03-EN013",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon Gemini Elf",
+      "set_number": "BP03-EN014",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Chiron the Mage",
+      "set_number": "BP03-EN015",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gyroid",
+      "set_number": "BP03-EN016",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Goblin Elite Attack Force",
+      "set_number": "BP03-EN017",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mythical Beast Cerberus",
+      "set_number": "BP03-EN018",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Machine King Prototype",
+      "set_number": "BP03-EN019",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Cyber Phoenix",
+      "set_number": "BP03-EN020",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Victory Viper XX03",
+      "set_number": "BP03-EN021",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Herald of Green Light",
+      "set_number": "BP03-EN022",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Herald of Purple Light",
+      "set_number": "BP03-EN023",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Submarineroid",
+      "set_number": "BP03-EN024",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Black Stego",
+      "set_number": "BP03-EN025",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Card Trooper",
+      "set_number": "BP03-EN026",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Freya, Spirit of Victory",
+      "set_number": "BP03-EN027",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Exploder Dragon",
+      "set_number": "BP03-EN028",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dweller in the Depths",
+      "set_number": "BP03-EN029",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Winged Rhynos",
+      "set_number": "BP03-EN030",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Blizzard Dragon",
+      "set_number": "BP03-EN031",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Evil HERO Infernal Gainer",
+      "set_number": "BP03-EN032",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ancient Gear Knight",
+      "set_number": "BP03-EN033",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Royal Firestorm Guards",
+      "set_number": "BP03-EN034",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Crusader",
+      "set_number": "BP03-EN035",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Immortal Bushi",
+      "set_number": "BP03-EN036",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Black Veloci",
+      "set_number": "BP03-EN037",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Sea Koala",
+      "set_number": "BP03-EN038",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blue Thunder T-45",
+      "set_number": "BP03-EN039",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Golden Flying Fish",
+      "set_number": "BP03-EN040",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Aztekipede, the Worm Warrior",
+      "set_number": "BP03-EN041",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Jain, Lightsworn Paladin",
+      "set_number": "BP03-EN042",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Diskblade Rider",
+      "set_number": "BP03-EN043",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Magical Exemplar",
+      "set_number": "BP03-EN044",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Rigorous Reaver",
+      "set_number": "BP03-EN045",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mezuki",
+      "set_number": "BP03-EN046",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gonogo",
+      "set_number": "BP03-EN047",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Telekinetic Shocker",
+      "set_number": "BP03-EN048",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Destructotron",
+      "set_number": "BP03-EN049",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Herald of Orange Light",
+      "set_number": "BP03-EN050",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Psychic Jumper",
+      "set_number": "BP03-EN051",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Seed of Flame",
+      "set_number": "BP03-EN052",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cross-Sword Beetle",
+      "set_number": "BP03-EN053",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Defender, the Magical Knight",
+      "set_number": "BP03-EN054",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Battlestorm",
+      "set_number": "BP03-EN055",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Guardian",
+      "set_number": "BP03-EN056",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Drago",
+      "set_number": "BP03-EN057",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Doom",
+      "set_number": "BP03-EN058",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Spined Gillman",
+      "set_number": "BP03-EN059",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Vanguard of the Dragon",
+      "set_number": "BP03-EN060",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru War Arms",
+      "set_number": "BP03-EN061",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tree Otter",
+      "set_number": "BP03-EN062",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "X-Saber Airbellum",
+      "set_number": "BP03-EN063",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sunlight Unicorn",
+      "set_number": "BP03-EN064",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Card Guard",
+      "set_number": "BP03-EN065",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Beetle",
+      "set_number": "BP03-EN066",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Reptilianne Gorgon",
+      "set_number": "BP03-EN067",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Metabo-Shark",
+      "set_number": "BP03-EN068",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Shutendoji",
+      "set_number": "BP03-EN069",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gauntlet Warrior",
+      "set_number": "BP03-EN070",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shreddder",
+      "set_number": "BP03-EN071",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Sandman",
+      "set_number": "BP03-EN072",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Jurrac Protops",
+      "set_number": "BP03-EN073",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mist Valley Falcon",
+      "set_number": "BP03-EN074",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Trident Warrior",
+      "set_number": "BP03-EN075",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Rhinotaurus",
+      "set_number": "BP03-EN076",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Hypnocorn",
+      "set_number": "BP03-EN077",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stygian Street Patrol",
+      "set_number": "BP03-EN078",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fabled Ashenveil",
+      "set_number": "BP03-EN079",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chain Dog",
+      "set_number": "BP03-EN080",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Wall",
+      "set_number": "BP03-EN081",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Bellflame",
+      "set_number": "BP03-EN082",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Meklord Army of Granel",
+      "set_number": "BP03-EN083",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Silent Psychic Wizard",
+      "set_number": "BP03-EN084",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Dodger Dragon",
+      "set_number": "BP03-EN085",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Wind-Up Juggler",
+      "set_number": "BP03-EN086",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Airorca",
+      "set_number": "BP03-EN087",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Time Escaper",
+      "set_number": "BP03-EN088",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lion Alligator",
+      "set_number": "BP03-EN089",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Friller Rabca",
+      "set_number": "BP03-EN090",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Vylon Ohm",
+      "set_number": "BP03-EN091",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shocktopus",
+      "set_number": "BP03-EN092",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chow Len the Prophet",
+      "set_number": "BP03-EN093",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Vampiric Koala",
+      "set_number": "BP03-EN094",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Flame Tiger",
+      "set_number": "BP03-EN095",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Tardy Orc",
+      "set_number": "BP03-EN096",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Madolche Baaple",
+      "set_number": "BP03-EN097",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Evilswarm Ketos",
+      "set_number": "BP03-EN098",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Evilswarm O'lantern",
+      "set_number": "BP03-EN099",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Electromagnetic Bagworm",
+      "set_number": "BP03-EN100",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Uminotaurus",
+      "set_number": "BP03-EN101",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Leotaur",
+      "set_number": "BP03-EN102",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Aye-Iron",
+      "set_number": "BP03-EN103",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Evilswarm Thunderbird",
+      "set_number": "BP03-EN104",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magical Undertaker",
+      "set_number": "BP03-EN105",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gentlemander",
+      "set_number": "BP03-EN106",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fencing Fire Ferret",
+      "set_number": "BP03-EN107",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Skelesaurus",
+      "set_number": "BP03-EN108",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Knight Day Grepher",
+      "set_number": "BP03-EN109",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gorgonic Golem",
+      "set_number": "BP03-EN110",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ghostrick Jackfrost",
+      "set_number": "BP03-EN111",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Black Brachios",
+      "set_number": "BP03-EN112",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Tackle Crusader",
+      "set_number": "BP03-EN113",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stegocyber",
+      "set_number": "BP03-EN114",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Grenosaurus",
+      "set_number": "BP03-EN116",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Leviair the Sea Dragon",
+      "set_number": "BP03-EN117",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 10: Illumiknight",
+      "set_number": "BP03-EN118",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 20: Giga-Brilliant",
+      "set_number": "BP03-EN119",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Lavalval Ignis",
+      "set_number": "BP03-EN120",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Evigishki Merrowgeist",
+      "set_number": "BP03-EN121",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Daigusto Emeral",
+      "set_number": "BP03-EN122",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Gagaga Cowboy",
+      "set_number": "BP03-EN123",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Heroic Champion - Gandiva",
+      "set_number": "BP03-EN124",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Heroic Champion - Kusanagi",
+      "set_number": "BP03-EN125",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Giant Soldier of Steel",
+      "set_number": "BP03-EN126",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Diamond Dire Wolf",
+      "set_number": "BP03-EN127",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Tin Archduke",
+      "set_number": "BP03-EN128",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Fairy Cheer Girl",
+      "set_number": "BP03-EN129",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 44: Sky Pegasus",
+      "set_number": "BP03-EN130",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Ghostrick Alucard",
+      "set_number": "BP03-EN131",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Tri-Edge Levia",
+      "set_number": "BP03-EN132",
+      "rarities": [
+        "Shatterfoil Rare"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1
+      }
+    },
+    {
+      "card_name": "Swords of Revealing Light",
+      "set_number": "BP03-EN133",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rush Recklessly",
+      "set_number": "BP03-EN134",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "7 Completed",
+      "set_number": "BP03-EN135",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Premature Burial",
+      "set_number": "BP03-EN136",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mask of Brutality",
+      "set_number": "BP03-EN137",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Offerings to the Doomed",
+      "set_number": "BP03-EN138",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Scapegoat",
+      "set_number": "BP03-EN139",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Warrior Returning Alive",
+      "set_number": "BP03-EN140",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dragon's Gunfire",
+      "set_number": "BP03-EN141",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stamping Destruction",
+      "set_number": "BP03-EN142",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fusion Sword Murasame Blade",
+      "set_number": "BP03-EN143",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Creature Swap",
+      "set_number": "BP03-EN144",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Book of Life",
+      "set_number": "BP03-EN145",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Call of the Mummy",
+      "set_number": "BP03-EN146",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Banner of Courage",
+      "set_number": "BP03-EN147",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cestus of Dagla",
+      "set_number": "BP03-EN148",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Enemy Controller",
+      "set_number": "BP03-EN149",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Earthquake",
+      "set_number": "BP03-EN150",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Swords of Concealing Light",
+      "set_number": "BP03-EN151",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magicians Unite",
+      "set_number": "BP03-EN152",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ribbon of Rebirth",
+      "set_number": "BP03-EN153",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Valhalla, Hall of the Fallen",
+      "set_number": "BP03-EN154",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fighting Spirit",
+      "set_number": "BP03-EN155",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Psi-Station",
+      "set_number": "BP03-EN156",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Unstable Evolution",
+      "set_number": "BP03-EN157",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Recycling Batteries",
+      "set_number": "BP03-EN158",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Book of Eclipse",
+      "set_number": "BP03-EN159",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mark of the Rose",
+      "set_number": "BP03-EN160",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Psychokinesis",
+      "set_number": "BP03-EN161",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Miracle Fertilizer",
+      "set_number": "BP03-EN162",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Psychic Sword",
+      "set_number": "BP03-EN163",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Forbidden Chalice",
+      "set_number": "BP03-EN164",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Raging Mad Plants",
+      "set_number": "BP03-EN165",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reptilianne Rage",
+      "set_number": "BP03-EN166",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Machine Assembly Line",
+      "set_number": "BP03-EN167",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pyramid of Wonders",
+      "set_number": "BP03-EN168",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cursed Armaments",
+      "set_number": "BP03-EN169",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Wattjustment",
+      "set_number": "BP03-EN170",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Closed Forest",
+      "set_number": "BP03-EN171",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Forbidden Lance",
+      "set_number": "BP03-EN172",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Wonder Wand",
+      "set_number": "BP03-EN173",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Murmur of the Forest",
+      "set_number": "BP03-EN174",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bound Wand",
+      "set_number": "BP03-EN175",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Night Beam",
+      "set_number": "BP03-EN176",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spellbook of Wisdom",
+      "set_number": "BP03-EN177",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Call of the Atlanteans",
+      "set_number": "BP03-EN178",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "One-Shot Wand",
+      "set_number": "BP03-EN179",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Forbidden Dress",
+      "set_number": "BP03-EN180",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Noble Arms - Arfeudutyr",
+      "set_number": "BP03-EN181",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Noble Arms - Caliburn",
+      "set_number": "BP03-EN182",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ayers Rock Sunrise",
+      "set_number": "BP03-EN183",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Forbidden Scripture",
+      "set_number": "BP03-EN184",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Card Advance",
+      "set_number": "BP03-EN185",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bashing Shield",
+      "set_number": "BP03-EN186",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Call of the Haunted",
+      "set_number": "BP03-EN187",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mirror Wall",
+      "set_number": "BP03-EN188",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Metalmorph",
+      "set_number": "BP03-EN189",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mask of Weakness",
+      "set_number": "BP03-EN190",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bark of Dark Ruler",
+      "set_number": "BP03-EN191",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ready for Intercepting",
+      "set_number": "BP03-EN192",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Burst Breath",
+      "set_number": "BP03-EN193",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blast with Chain",
+      "set_number": "BP03-EN194",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tutan Mask",
+      "set_number": "BP03-EN195",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Windstorm of Etaqua",
+      "set_number": "BP03-EN196",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Zero Gravity",
+      "set_number": "BP03-EN197",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shadow Spell",
+      "set_number": "BP03-EN198",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Curse of Anubis",
+      "set_number": "BP03-EN199",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rare Metalmorph",
+      "set_number": "BP03-EN200",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magical Arm Shield",
+      "set_number": "BP03-EN201",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Bribe",
+      "set_number": "BP03-EN202",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chaos Burst",
+      "set_number": "BP03-EN203",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "No Entry!!",
+      "set_number": "BP03-EN204",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hate Buster",
+      "set_number": "BP03-EN205",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Miniaturize",
+      "set_number": "BP03-EN206",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Psychic Overload",
+      "set_number": "BP03-EN207",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Telepathic Power",
+      "set_number": "BP03-EN208",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mind Over Matter",
+      "set_number": "BP03-EN209",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Kunai with Chain",
+      "set_number": "BP03-EN210",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pollinosis",
+      "set_number": "BP03-EN211",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Plant Food Chain",
+      "set_number": "BP03-EN212",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Miracle Locus",
+      "set_number": "BP03-EN213",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Skill Successor",
+      "set_number": "BP03-EN214",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Alien Brain",
+      "set_number": "BP03-EN215",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Forgotten Temple of the Deep",
+      "set_number": "BP03-EN216",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Psi-Curse",
+      "set_number": "BP03-EN217",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Damage Gate",
+      "set_number": "BP03-EN218",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Super Rush Recklessly",
+      "set_number": "BP03-EN219",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Miracle's Wake",
+      "set_number": "BP03-EN220",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nordic Relic Laevateinn",
+      "set_number": "BP03-EN221",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Psychic Reactor",
+      "set_number": "BP03-EN222",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Poseidon Wave",
+      "set_number": "BP03-EN223",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Raigeki Bottle",
+      "set_number": "BP03-EN224",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Butterflyoke",
+      "set_number": "BP03-EN225",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dimension Gate",
+      "set_number": "BP03-EN226",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Breakthrough Skill",
+      "set_number": "BP03-EN227",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pinpoint Guard",
+      "set_number": "BP03-EN228",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Memory Loss",
+      "set_number": "BP03-EN229",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Butterspy Protection",
+      "set_number": "BP03-EN230",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Intrigue Shield",
+      "set_number": "BP03-EN231",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Inspiration",
+      "set_number": "BP03-EN232",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ghosts From the Past",
+      "set_number": "BP03-EN233",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Unbreakable Spirit",
+      "set_number": "BP03-EN234",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Typhoon",
+      "set_number": "BP03-EN235",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Swamp Mirrorer",
+      "set_number": "BP03-EN236",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Quantum Cat",
+      "set_number": "BP03-EN237",
+      "rarities": [
+        "Shatterfoil Rare",
+        "Common"
+      ],
+      "count": {
+        "Shatterfoil Rare": 1,
+        "Common": 1
+      }
+    }
+  ]
 }

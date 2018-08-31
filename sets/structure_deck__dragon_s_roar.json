@@ -1,294 +1,291 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Structure Deck: Dragon's Roar",
-    "type": "Structure Deck",
-    "date": "2004-12-09",
-    "distribution": "",
-    "prefix": "SD1",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Red-Eyes Darkness Dragon",
-        "set_number": "SD1-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Red-Eyes B. Dragon",
-        "set_number": "SD1-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Luster Dragon",
-        "set_number": "SD1-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Twin-Headed Behemoth",
-        "set_number": "SD1-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Armed Dragon LV3",
-        "set_number": "SD1-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Armed Dragon LV5",
-        "set_number": "SD1-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Black Dragon's Chick",
-        "set_number": "SD1-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Element Dragon",
-        "set_number": "SD1-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Masked Dragon",
-        "set_number": "SD1-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 3
-        }
-      },
-      {
-        "card_name": "Snatch Steal",
-        "set_number": "SD1-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mystical Space Typhoon",
-        "set_number": "SD1-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nobleman of Crossout",
-        "set_number": "SD1-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Premature Burial",
-        "set_number": "SD1-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Swords of Revealing Light",
-        "set_number": "SD1-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Pot of Greed",
-        "set_number": "SD1-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Heavy Storm",
-        "set_number": "SD1-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Stamping Destruction",
-        "set_number": "SD1-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 3
-        }
-      },
-      {
-        "card_name": "Creature Swap",
-        "set_number": "SD1-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Reload",
-        "set_number": "SD1-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "The Graveyard in the Fourth Dimension",
-        "set_number": "SD1-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Call of the Haunted",
-        "set_number": "SD1-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ceasefire",
-        "set_number": "SD1-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Dragon's Bead",
-        "set_number": "SD1-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dragon's Rage",
-        "set_number": "SD1-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Reckless Greed",
-        "set_number": "SD1-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Interdimensional Matter Transporter",
-        "set_number": "SD1-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Trap Jammer",
-        "set_number": "SD1-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Curse of Anubis",
-        "set_number": "SD1-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "Structure Deck: Dragon's Roar",
+  "type": "Structure Deck",
+  "date": "2004-12-09",
+  "distribution": "",
+  "prefix": "SD1",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Red-Eyes Darkness Dragon",
+      "set_number": "SD1-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Red-Eyes B. Dragon",
+      "set_number": "SD1-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Luster Dragon",
+      "set_number": "SD1-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Twin-Headed Behemoth",
+      "set_number": "SD1-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armed Dragon LV3",
+      "set_number": "SD1-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Armed Dragon LV5",
+      "set_number": "SD1-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Black Dragon's Chick",
+      "set_number": "SD1-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Element Dragon",
+      "set_number": "SD1-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Masked Dragon",
+      "set_number": "SD1-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 3
+      }
+    },
+    {
+      "card_name": "Snatch Steal",
+      "set_number": "SD1-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mystical Space Typhoon",
+      "set_number": "SD1-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nobleman of Crossout",
+      "set_number": "SD1-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Premature Burial",
+      "set_number": "SD1-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Swords of Revealing Light",
+      "set_number": "SD1-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pot of Greed",
+      "set_number": "SD1-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Heavy Storm",
+      "set_number": "SD1-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stamping Destruction",
+      "set_number": "SD1-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 3
+      }
+    },
+    {
+      "card_name": "Creature Swap",
+      "set_number": "SD1-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Reload",
+      "set_number": "SD1-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "The Graveyard in the Fourth Dimension",
+      "set_number": "SD1-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Call of the Haunted",
+      "set_number": "SD1-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ceasefire",
+      "set_number": "SD1-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Dragon's Bead",
+      "set_number": "SD1-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dragon's Rage",
+      "set_number": "SD1-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Reckless Greed",
+      "set_number": "SD1-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Interdimensional Matter Transporter",
+      "set_number": "SD1-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Trap Jammer",
+      "set_number": "SD1-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Curse of Anubis",
+      "set_number": "SD1-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

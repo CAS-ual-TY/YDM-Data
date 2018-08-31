@@ -1,3064 +1,3061 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "type": "Mega Pack",
-    "date": "2012-09-27",
-    "distribution": "mega_pack",
-    "prefix": "LCYW",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Dark Magician",
-        "set_number": "LCYW-EN001",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Gaia The Fierce Knight",
-        "set_number": "LCYW-EN002",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Celtic Guardian",
-        "set_number": "LCYW-EN003",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Silver Fang",
-        "set_number": "LCYW-EN004",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Mystical Elf",
-        "set_number": "LCYW-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Curse of Dragon",
-        "set_number": "LCYW-EN006",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Giant Soldier of Stone",
-        "set_number": "LCYW-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Feral Imp",
-        "set_number": "LCYW-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Winged Dragon, Guardian of the Fortress #1",
-        "set_number": "LCYW-EN009",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Summoned Skull",
-        "set_number": "LCYW-EN010",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Gazelle the King of Mythical Beasts",
-        "set_number": "LCYW-EN011",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Alpha The Magnet Warrior",
-        "set_number": "LCYW-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Beta The Magnet Warrior",
-        "set_number": "LCYW-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gamma The Magnet Warrior",
-        "set_number": "LCYW-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Queen's Knight",
-        "set_number": "LCYW-EN015",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Jack's Knight",
-        "set_number": "LCYW-EN016",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "King's Knight",
-        "set_number": "LCYW-EN017",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Kuriboh",
-        "set_number": "LCYW-EN018",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Catapult Turtle",
-        "set_number": "LCYW-EN019",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Buster Blader",
-        "set_number": "LCYW-EN020",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Valkyrion the Magna Warrior",
-        "set_number": "LCYW-EN021",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Magician Girl",
-        "set_number": "LCYW-EN022",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Breaker the Magical Warrior",
-        "set_number": "LCYW-EN023",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Mirage Knight",
-        "set_number": "LCYW-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Black Luster Soldier - Envoy of the Beginning",
-        "set_number": "LCYW-EN025",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Magician of Chaos",
-        "set_number": "LCYW-EN026",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Sage",
-        "set_number": "LCYW-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Magician Knight",
-        "set_number": "LCYW-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sorcerer of Dark Magic",
-        "set_number": "LCYW-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Watapon",
-        "set_number": "LCYW-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Swift Gaia the Fierce Knight",
-        "set_number": "LCYW-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Big Shield Gardna",
-        "set_number": "LCYW-EN032",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Silent Swordsman LV3",
-        "set_number": "LCYW-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Silent Swordsman LV5",
-        "set_number": "LCYW-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Silent Swordsman LV7",
-        "set_number": "LCYW-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Obnoxious Celtic Guard",
-        "set_number": "LCYW-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Silent Magician LV4",
-        "set_number": "LCYW-EN037",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Silent Magician LV8",
-        "set_number": "LCYW-EN038",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Green Gadget",
-        "set_number": "LCYW-EN039",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Red Gadget",
-        "set_number": "LCYW-EN040",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Yellow Gadget",
-        "set_number": "LCYW-EN041",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Archfiend of Gilfer",
-        "set_number": "LCYW-EN042",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "The Tricky",
-        "set_number": "LCYW-EN043",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gorz the Emissary of Darkness",
-        "set_number": "LCYW-EN044",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Berfomet",
-        "set_number": "LCYW-EN045",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Black Luster Soldier",
-        "set_number": "LCYW-EN046",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magician of Black Chaos",
-        "set_number": "LCYW-EN047",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Paladin",
-        "set_number": "LCYW-EN048",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Flare Knight",
-        "set_number": "LCYW-EN049",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dragon Master Knight",
-        "set_number": "LCYW-EN050",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Arcana Knight Joker",
-        "set_number": "LCYW-EN051",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Chimera the Flying Mythical Beast",
-        "set_number": "LCYW-EN052",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Hole",
-        "set_number": "LCYW-EN053",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Raigeki",
-        "set_number": "LCYW-EN054",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Fissure",
-        "set_number": "LCYW-EN055",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Polymerization",
-        "set_number": "LCYW-EN056",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Swords of Revealing Light",
-        "set_number": "LCYW-EN057",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Monster Reborn",
-        "set_number": "LCYW-EN058",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Pot of Greed",
-        "set_number": "LCYW-EN059",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Card Destruction",
-        "set_number": "LCYW-EN060",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Heavy Storm",
-        "set_number": "LCYW-EN061",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Mystical Space Typhoon",
-        "set_number": "LCYW-EN062",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "De-Fusion",
-        "set_number": "LCYW-EN063",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Graceful Charity",
-        "set_number": "LCYW-EN064",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Double Spell",
-        "set_number": "LCYW-EN065",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Diffusion Wave-Motion",
-        "set_number": "LCYW-EN066",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Thousand Knives",
-        "set_number": "LCYW-EN067",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Heart of the Underdog",
-        "set_number": "LCYW-EN068",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dedication through Light and Darkness",
-        "set_number": "LCYW-EN069",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Black Luster Ritual",
-        "set_number": "LCYW-EN070",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Magic Attack",
-        "set_number": "LCYW-EN071",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Knight's Title",
-        "set_number": "LCYW-EN072",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sage's Stone",
-        "set_number": "LCYW-EN073",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Brain Control",
-        "set_number": "LCYW-EN074",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Magical Dimension",
-        "set_number": "LCYW-EN075",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mystic Box",
-        "set_number": "LCYW-EN076",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magicians Unite",
-        "set_number": "LCYW-EN077",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Black Magic Ritual",
-        "set_number": "LCYW-EN078",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Magic Curtain",
-        "set_number": "LCYW-EN079",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Gold Sarcophagus",
-        "set_number": "LCYW-EN080",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Soul Taker",
-        "set_number": "LCYW-EN081",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magic Formula",
-        "set_number": "LCYW-EN082",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Union Attack",
-        "set_number": "LCYW-EN083",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tricky Spell 4",
-        "set_number": "LCYW-EN084",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spell Shattering Arrow",
-        "set_number": "LCYW-EN085",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Multiply",
-        "set_number": "LCYW-EN086",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Makiu, the Magical Mist",
-        "set_number": "LCYW-EN087",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Detonate",
-        "set_number": "LCYW-EN088",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Seven Tools of the Bandit",
-        "set_number": "LCYW-EN089",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Horn of Heaven",
-        "set_number": "LCYW-EN090",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Mirror Force",
-        "set_number": "LCYW-EN091",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Spellbinding Circle",
-        "set_number": "LCYW-EN092",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lightforce Sword",
-        "set_number": "LCYW-EN093",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Chain Destruction",
-        "set_number": "LCYW-EN094",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dust Tornado",
-        "set_number": "LCYW-EN095",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Magical Hats",
-        "set_number": "LCYW-EN096",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shift",
-        "set_number": "LCYW-EN097",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Collected Power",
-        "set_number": "LCYW-EN098",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Magic Cylinder",
-        "set_number": "LCYW-EN099",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Magician's Circle",
-        "set_number": "LCYW-EN100",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Stronghold the Moving Fortress",
-        "set_number": "LCYW-EN101",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Soul Rope",
-        "set_number": "LCYW-EN102",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Blue-Eyes Toon Dragon",
-        "set_number": "LCYW-EN103",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Manga Ryu-Ran",
-        "set_number": "LCYW-EN104",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon Mermaid",
-        "set_number": "LCYW-EN105",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon Summoned Skull",
-        "set_number": "LCYW-EN106",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon Gemini Elf",
-        "set_number": "LCYW-EN107",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon Goblin Attack Force",
-        "set_number": "LCYW-EN108",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon Cannon Soldier",
-        "set_number": "LCYW-EN109",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon Masked Sorcerer",
-        "set_number": "LCYW-EN110",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon Dark Magician Girl",
-        "set_number": "LCYW-EN111",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark-Eyes Illusionist",
-        "set_number": "LCYW-EN112",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Relinquished",
-        "set_number": "LCYW-EN113",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Black Illusion Ritual",
-        "set_number": "LCYW-EN114",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon World",
-        "set_number": "LCYW-EN115",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon Table of Contents",
-        "set_number": "LCYW-EN116",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragon Capture Jar",
-        "set_number": "LCYW-EN117",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Toon Defense",
-        "set_number": "LCYW-EN118",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Man-Eater Bug",
-        "set_number": "LCYW-EN119",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sangan",
-        "set_number": "LCYW-EN120",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Morphing Jar",
-        "set_number": "LCYW-EN121",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Puppet Master",
-        "set_number": "LCYW-EN122",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Master - Zorc",
-        "set_number": "LCYW-EN123",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Change of Heart",
-        "set_number": "LCYW-EN124",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Exchange",
-        "set_number": "LCYW-EN125",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "The Dark Door",
-        "set_number": "LCYW-EN126",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Spiritualism",
-        "set_number": "LCYW-EN127",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Contract with the Dark Master",
-        "set_number": "LCYW-EN128",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Guardian Elma",
-        "set_number": "LCYW-EN129",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Guardian Ceal",
-        "set_number": "LCYW-EN130",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Guardian Grarl",
-        "set_number": "LCYW-EN131",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Guardian Baou",
-        "set_number": "LCYW-EN132",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Guardian Kay'est",
-        "set_number": "LCYW-EN133",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Guardian Tryce",
-        "set_number": "LCYW-EN134",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "My Body as a Shield",
-        "set_number": "LCYW-EN135",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Butterfly Dagger - Elma",
-        "set_number": "LCYW-EN136",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shooting Star Bow - Ceal",
-        "set_number": "LCYW-EN137",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gravity Axe - Grarl",
-        "set_number": "LCYW-EN138",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Wicked-Breaking Flamberge - Baou",
-        "set_number": "LCYW-EN139",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Rod of Silence - Kay'est",
-        "set_number": "LCYW-EN140",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Twin Swords of Flashing Light - Tryce",
-        "set_number": "LCYW-EN141",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Monster Reincarnation",
-        "set_number": "LCYW-EN142",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Gil Garth",
-        "set_number": "LCYW-EN143",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Bowganian",
-        "set_number": "LCYW-EN144",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Machine Duplication",
-        "set_number": "LCYW-EN145",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Hidden Soldiers",
-        "set_number": "LCYW-EN146",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Rope of Life",
-        "set_number": "LCYW-EN147",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Malevolent Catastrophe",
-        "set_number": "LCYW-EN148",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Harpie's Feather Duster",
-        "set_number": "LCYW-EN149",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Gravity Bind",
-        "set_number": "LCYW-EN150",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Mechanicalchaser",
-        "set_number": "LCYW-EN151",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Solemn Judgment",
-        "set_number": "LCYW-EN152",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Magic Jammer",
-        "set_number": "LCYW-EN153",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Sinister Serpent",
-        "set_number": "LCYW-EN154",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Mirage of Nightmare",
-        "set_number": "LCYW-EN155",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Ordeal of a Traveler",
-        "set_number": "LCYW-EN156",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tri-Horned Dragon",
-        "set_number": "LCYW-EN157",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Two-Headed King Rex",
-        "set_number": "LCYW-EN158",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Millennium Shield",
-        "set_number": "LCYW-EN159",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Cosmo Queen",
-        "set_number": "LCYW-EN160",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Fire Princess",
-        "set_number": "LCYW-EN161",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Command Knight",
-        "set_number": "LCYW-EN162",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Malice Doll of Demise",
-        "set_number": "LCYW-EN163",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "White-Horned Dragon",
-        "set_number": "LCYW-EN164",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Green Baboon, Defender of the Forest",
-        "set_number": "LCYW-EN165",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Summoner Monk",
-        "set_number": "LCYW-EN166",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Commander Covington",
-        "set_number": "LCYW-EN167",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Machina Soldier",
-        "set_number": "LCYW-EN168",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Machina Sniper",
-        "set_number": "LCYW-EN169",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Machina Defender",
-        "set_number": "LCYW-EN170",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Machina Force",
-        "set_number": "LCYW-EN171",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Limiter Removal",
-        "set_number": "LCYW-EN172",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Reinforcement of the Army",
-        "set_number": "LCYW-EN173",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Dragged Down into the Grave",
-        "set_number": "LCYW-EN174",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Ectoplasmer",
-        "set_number": "LCYW-EN175",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Mind Control",
-        "set_number": "LCYW-EN176",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Trap Hole",
-        "set_number": "LCYW-EN177",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Imperial Order",
-        "set_number": "LCYW-EN178",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Mask of Restrict",
-        "set_number": "LCYW-EN179",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Torrential Tribute",
-        "set_number": "LCYW-EN180",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Bottomless Trap Hole",
-        "set_number": "LCYW-EN181",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Royal Decree",
-        "set_number": "LCYW-EN182",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Gravekeeper's Spy",
-        "set_number": "LCYW-EN183",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Gravekeeper's Guard",
-        "set_number": "LCYW-EN184",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Gravekeeper's Spear Soldier",
-        "set_number": "LCYW-EN185",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Gravekeeper's Watcher",
-        "set_number": "LCYW-EN186",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gravekeeper's Chief",
-        "set_number": "LCYW-EN187",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Gravekeeper's Cannonholder",
-        "set_number": "LCYW-EN188",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Gravekeeper's Assailant",
-        "set_number": "LCYW-EN189",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Charm of Shabti",
-        "set_number": "LCYW-EN190",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gravekeeper's Commandant",
-        "set_number": "LCYW-EN191",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Gravekeeper's Descendant",
-        "set_number": "LCYW-EN192",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Gravekeeper's Recruiter",
-        "set_number": "LCYW-EN193",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Necrovalley",
-        "set_number": "LCYW-EN194",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Royal Tribute",
-        "set_number": "LCYW-EN195",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Rite of Spirit",
-        "set_number": "LCYW-EN196",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Horus the Black Flame Dragon LV4",
-        "set_number": "LCYW-EN197",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Horus the Black Flame Dragon LV6",
-        "set_number": "LCYW-EN198",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Horus the Black Flame Dragon LV8",
-        "set_number": "LCYW-EN199",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mystic Swordsman LV2",
-        "set_number": "LCYW-EN200",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mystic Swordsman LV4",
-        "set_number": "LCYW-EN201",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mystic Swordsman LV6",
-        "set_number": "LCYW-EN202",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Armed Dragon LV3",
-        "set_number": "LCYW-EN203",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Armed Dragon LV5",
-        "set_number": "LCYW-EN204",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Armed Dragon LV7",
-        "set_number": "LCYW-EN205",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Horus' Servant",
-        "set_number": "LCYW-EN206",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Level Up!",
-        "set_number": "LCYW-EN207",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Grepher",
-        "set_number": "LCYW-EN208",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Horus",
-        "set_number": "LCYW-EN209",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Dark Creator",
-        "set_number": "LCYW-EN210",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Nephthys",
-        "set_number": "LCYW-EN211",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Darklord Zerato",
-        "set_number": "LCYW-EN212",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Darknight Parshath",
-        "set_number": "LCYW-EN213",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark General Freed",
-        "set_number": "LCYW-EN214",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D.D. Warrior Lady",
-        "set_number": "LCYW-EN215",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "D.D. Scout Plane",
-        "set_number": "LCYW-EN216",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "D.D. Assailant",
-        "set_number": "LCYW-EN217",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "D.D. Warrior",
-        "set_number": "LCYW-EN218",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Skull Servant",
-        "set_number": "LCYW-EN219",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark King of the Abyss",
-        "set_number": "LCYW-EN220",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Aqua Madoor",
-        "set_number": "LCYW-EN221",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Yaranzo",
-        "set_number": "LCYW-EN222",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Takriminos",
-        "set_number": "LCYW-EN223",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Megasonic Eye",
-        "set_number": "LCYW-EN224",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Yamadron",
-        "set_number": "LCYW-EN225",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Three-Legged Zombies",
-        "set_number": "LCYW-EN226",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Fairy's Gift",
-        "set_number": "LCYW-EN227",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Kanan the Swordmistress",
-        "set_number": "LCYW-EN228",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Mystical Shine Ball",
-        "set_number": "LCYW-EN229",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Big Eye",
-        "set_number": "LCYW-EN230",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Banisher of the Light",
-        "set_number": "LCYW-EN231",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Giant Rat",
-        "set_number": "LCYW-EN232",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "UFO Turtle",
-        "set_number": "LCYW-EN233",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Giant Germ",
-        "set_number": "LCYW-EN234",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nimble Momonga",
-        "set_number": "LCYW-EN235",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Shining Angel",
-        "set_number": "LCYW-EN236",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Mother Grizzly",
-        "set_number": "LCYW-EN237",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Flying Kamakiri #1",
-        "set_number": "LCYW-EN238",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Mystic Tomato",
-        "set_number": "LCYW-EN239",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Goddess of Whim",
-        "set_number": "LCYW-EN241",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Kycoo the Ghost Destroyer",
-        "set_number": "LCYW-EN242",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Summoner of Illusions",
-        "set_number": "LCYW-EN243",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Needle Worm",
-        "set_number": "LCYW-EN244",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Pyramid Turtle",
-        "set_number": "LCYW-EN245",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Spirit Reaper",
-        "set_number": "LCYW-EN246",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Arsenal Summoner",
-        "set_number": "LCYW-EN247",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Chaos Sorcerer",
-        "set_number": "LCYW-EN248",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Levia-Dragon - Daedalus",
-        "set_number": "LCYW-EN249",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Manju of the Ten Thousand Hands",
-        "set_number": "LCYW-EN250",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Invader of Darkness",
-        "set_number": "LCYW-EN251",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Agent of Wisdom - Mercury",
-        "set_number": "LCYW-EN252",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "The Agent of Creation - Venus",
-        "set_number": "LCYW-EN253",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Solar Flare Dragon",
-        "set_number": "LCYW-EN254",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Emissary of the Afterlife",
-        "set_number": "LCYW-EN255",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "King of the Swamp",
-        "set_number": "LCYW-EN256",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Creator",
-        "set_number": "LCYW-EN257",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Creator Incarnate",
-        "set_number": "LCYW-EN258",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sacred Phoenix of Nephthys",
-        "set_number": "LCYW-EN259",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Hand of Nephthys",
-        "set_number": "LCYW-EN260",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Armed Samurai - Ben Kei",
-        "set_number": "LCYW-EN261",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Light - Hex-Sealed Fusion",
-        "set_number": "LCYW-EN262",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Dark - Hex-Sealed Fusion",
-        "set_number": "LCYW-EN263",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Earth - Hex-Sealed Fusion",
-        "set_number": "LCYW-EN264",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Upstart Goblin",
-        "set_number": "LCYW-EN265",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Messenger of Peace",
-        "set_number": "LCYW-EN266",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Prohibition",
-        "set_number": "LCYW-EN267",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Fusion Gate",
-        "set_number": "LCYW-EN268",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Creature Swap",
-        "set_number": "LCYW-EN269",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Book of Moon",
-        "set_number": "LCYW-EN270",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark Snake Syndrome",
-        "set_number": "LCYW-EN271",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Non-Spellcasting Area",
-        "set_number": "LCYW-EN272",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Contract with the Abyss",
-        "set_number": "LCYW-EN273",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Stray Lambs",
-        "set_number": "LCYW-EN274",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Smashing Ground",
-        "set_number": "LCYW-EN275",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Salvage",
-        "set_number": "LCYW-EN276",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Earth Chant",
-        "set_number": "LCYW-EN277",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Spell Economics",
-        "set_number": "LCYW-EN278",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Level Limit - Area B",
-        "set_number": "LCYW-EN279",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "A Feather of the Phoenix",
-        "set_number": "LCYW-EN280",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Swords of Concealing Light",
-        "set_number": "LCYW-EN281",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Centrifugal Field",
-        "set_number": "LCYW-EN282",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Acid Trap Hole",
-        "set_number": "LCYW-EN283",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "DNA Surgery",
-        "set_number": "LCYW-EN284",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Reckless Greed",
-        "set_number": "LCYW-EN285",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Raigeki Break",
-        "set_number": "LCYW-EN286",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Goblin Fan",
-        "set_number": "LCYW-EN287",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sakuretsu Armor",
-        "set_number": "LCYW-EN288",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Chain Disappearance",
-        "set_number": "LCYW-EN289",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Mirror Force",
-        "set_number": "LCYW-EN290",
-        "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Compulsory Evacuation Device",
-        "set_number": "LCYW-EN291",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "DNA Transplant",
-        "set_number": "LCYW-EN292",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Beckoning Light",
-        "set_number": "LCYW-EN293",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Draining Shield",
-        "set_number": "LCYW-EN294",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mind Crush",
-        "set_number": "LCYW-EN295",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Penalty Game!",
-        "set_number": "LCYW-EN296",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Threatening Roar",
-        "set_number": "LCYW-EN297",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Phoenix Wing Wind Blast",
-        "set_number": "LCYW-EN298",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Level Limit - Area A",
-        "set_number": "LCYW-EN299",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Black Horn of Heaven",
-        "set_number": "LCYW-EN300",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Solemn Warning",
-        "set_number": "LCYW-EN301",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Right Leg of the Forbidden One",
-        "set_number": "LCYW-EN302",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Left Leg of the Forbidden One",
-        "set_number": "LCYW-EN303",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Right Arm of the Forbidden One",
-        "set_number": "LCYW-EN304",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Left Arm of the Forbidden One",
-        "set_number": "LCYW-EN305",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Exodia the Forbidden One",
-        "set_number": "LCYW-EN306",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
+  "name": "Legendary Collection 3: Yugi's World Mega Pack",
+  "type": "Mega Pack",
+  "date": "2012-09-27",
+  "distribution": "mega_pack",
+  "prefix": "LCYW",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Dark Magician",
+      "set_number": "LCYW-EN001",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Gaia The Fierce Knight",
+      "set_number": "LCYW-EN002",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Celtic Guardian",
+      "set_number": "LCYW-EN003",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Silver Fang",
+      "set_number": "LCYW-EN004",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Mystical Elf",
+      "set_number": "LCYW-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Curse of Dragon",
+      "set_number": "LCYW-EN006",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Giant Soldier of Stone",
+      "set_number": "LCYW-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Feral Imp",
+      "set_number": "LCYW-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Winged Dragon, Guardian of the Fortress #1",
+      "set_number": "LCYW-EN009",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Summoned Skull",
+      "set_number": "LCYW-EN010",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Gazelle the King of Mythical Beasts",
+      "set_number": "LCYW-EN011",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Alpha The Magnet Warrior",
+      "set_number": "LCYW-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Beta The Magnet Warrior",
+      "set_number": "LCYW-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gamma The Magnet Warrior",
+      "set_number": "LCYW-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Queen's Knight",
+      "set_number": "LCYW-EN015",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Jack's Knight",
+      "set_number": "LCYW-EN016",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "King's Knight",
+      "set_number": "LCYW-EN017",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Kuriboh",
+      "set_number": "LCYW-EN018",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Catapult Turtle",
+      "set_number": "LCYW-EN019",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Buster Blader",
+      "set_number": "LCYW-EN020",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Valkyrion the Magna Warrior",
+      "set_number": "LCYW-EN021",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Magician Girl",
+      "set_number": "LCYW-EN022",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Breaker the Magical Warrior",
+      "set_number": "LCYW-EN023",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Mirage Knight",
+      "set_number": "LCYW-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Black Luster Soldier - Envoy of the Beginning",
+      "set_number": "LCYW-EN025",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Magician of Chaos",
+      "set_number": "LCYW-EN026",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Sage",
+      "set_number": "LCYW-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Magician Knight",
+      "set_number": "LCYW-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sorcerer of Dark Magic",
+      "set_number": "LCYW-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Watapon",
+      "set_number": "LCYW-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Swift Gaia the Fierce Knight",
+      "set_number": "LCYW-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Big Shield Gardna",
+      "set_number": "LCYW-EN032",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Silent Swordsman LV3",
+      "set_number": "LCYW-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Silent Swordsman LV5",
+      "set_number": "LCYW-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Silent Swordsman LV7",
+      "set_number": "LCYW-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Obnoxious Celtic Guard",
+      "set_number": "LCYW-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Silent Magician LV4",
+      "set_number": "LCYW-EN037",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Silent Magician LV8",
+      "set_number": "LCYW-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Green Gadget",
+      "set_number": "LCYW-EN039",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Red Gadget",
+      "set_number": "LCYW-EN040",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Yellow Gadget",
+      "set_number": "LCYW-EN041",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Archfiend of Gilfer",
+      "set_number": "LCYW-EN042",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "The Tricky",
+      "set_number": "LCYW-EN043",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gorz the Emissary of Darkness",
+      "set_number": "LCYW-EN044",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Berfomet",
+      "set_number": "LCYW-EN045",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Black Luster Soldier",
+      "set_number": "LCYW-EN046",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magician of Black Chaos",
+      "set_number": "LCYW-EN047",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Paladin",
+      "set_number": "LCYW-EN048",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Flare Knight",
+      "set_number": "LCYW-EN049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dragon Master Knight",
+      "set_number": "LCYW-EN050",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Arcana Knight Joker",
+      "set_number": "LCYW-EN051",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Chimera the Flying Mythical Beast",
+      "set_number": "LCYW-EN052",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Hole",
+      "set_number": "LCYW-EN053",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Raigeki",
+      "set_number": "LCYW-EN054",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fissure",
+      "set_number": "LCYW-EN055",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Polymerization",
+      "set_number": "LCYW-EN056",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Swords of Revealing Light",
+      "set_number": "LCYW-EN057",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Monster Reborn",
+      "set_number": "LCYW-EN058",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Pot of Greed",
+      "set_number": "LCYW-EN059",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Card Destruction",
+      "set_number": "LCYW-EN060",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Heavy Storm",
+      "set_number": "LCYW-EN061",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Mystical Space Typhoon",
+      "set_number": "LCYW-EN062",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "De-Fusion",
+      "set_number": "LCYW-EN063",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Graceful Charity",
+      "set_number": "LCYW-EN064",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Double Spell",
+      "set_number": "LCYW-EN065",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Diffusion Wave-Motion",
+      "set_number": "LCYW-EN066",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Thousand Knives",
+      "set_number": "LCYW-EN067",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Heart of the Underdog",
+      "set_number": "LCYW-EN068",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dedication through Light and Darkness",
+      "set_number": "LCYW-EN069",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Black Luster Ritual",
+      "set_number": "LCYW-EN070",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Magic Attack",
+      "set_number": "LCYW-EN071",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Knight's Title",
+      "set_number": "LCYW-EN072",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sage's Stone",
+      "set_number": "LCYW-EN073",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Brain Control",
+      "set_number": "LCYW-EN074",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Magical Dimension",
+      "set_number": "LCYW-EN075",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mystic Box",
+      "set_number": "LCYW-EN076",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magicians Unite",
+      "set_number": "LCYW-EN077",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Black Magic Ritual",
+      "set_number": "LCYW-EN078",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Magic Curtain",
+      "set_number": "LCYW-EN079",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gold Sarcophagus",
+      "set_number": "LCYW-EN080",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Soul Taker",
+      "set_number": "LCYW-EN081",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magic Formula",
+      "set_number": "LCYW-EN082",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Union Attack",
+      "set_number": "LCYW-EN083",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tricky Spell 4",
+      "set_number": "LCYW-EN084",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spell Shattering Arrow",
+      "set_number": "LCYW-EN085",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Multiply",
+      "set_number": "LCYW-EN086",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Makiu, the Magical Mist",
+      "set_number": "LCYW-EN087",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Detonate",
+      "set_number": "LCYW-EN088",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Seven Tools of the Bandit",
+      "set_number": "LCYW-EN089",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Horn of Heaven",
+      "set_number": "LCYW-EN090",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Mirror Force",
+      "set_number": "LCYW-EN091",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Spellbinding Circle",
+      "set_number": "LCYW-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lightforce Sword",
+      "set_number": "LCYW-EN093",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Chain Destruction",
+      "set_number": "LCYW-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dust Tornado",
+      "set_number": "LCYW-EN095",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Magical Hats",
+      "set_number": "LCYW-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shift",
+      "set_number": "LCYW-EN097",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Collected Power",
+      "set_number": "LCYW-EN098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magic Cylinder",
+      "set_number": "LCYW-EN099",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Magician's Circle",
+      "set_number": "LCYW-EN100",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Stronghold the Moving Fortress",
+      "set_number": "LCYW-EN101",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Soul Rope",
+      "set_number": "LCYW-EN102",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Blue-Eyes Toon Dragon",
+      "set_number": "LCYW-EN103",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Manga Ryu-Ran",
+      "set_number": "LCYW-EN104",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon Mermaid",
+      "set_number": "LCYW-EN105",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon Summoned Skull",
+      "set_number": "LCYW-EN106",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon Gemini Elf",
+      "set_number": "LCYW-EN107",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon Goblin Attack Force",
+      "set_number": "LCYW-EN108",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon Cannon Soldier",
+      "set_number": "LCYW-EN109",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon Masked Sorcerer",
+      "set_number": "LCYW-EN110",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon Dark Magician Girl",
+      "set_number": "LCYW-EN111",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark-Eyes Illusionist",
+      "set_number": "LCYW-EN112",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Relinquished",
+      "set_number": "LCYW-EN113",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Black Illusion Ritual",
+      "set_number": "LCYW-EN114",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon World",
+      "set_number": "LCYW-EN115",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon Table of Contents",
+      "set_number": "LCYW-EN116",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragon Capture Jar",
+      "set_number": "LCYW-EN117",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Toon Defense",
+      "set_number": "LCYW-EN118",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Man-Eater Bug",
+      "set_number": "LCYW-EN119",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sangan",
+      "set_number": "LCYW-EN120",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Morphing Jar",
+      "set_number": "LCYW-EN121",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Puppet Master",
+      "set_number": "LCYW-EN122",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Master - Zorc",
+      "set_number": "LCYW-EN123",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Change of Heart",
+      "set_number": "LCYW-EN124",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Exchange",
+      "set_number": "LCYW-EN125",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Dark Door",
+      "set_number": "LCYW-EN126",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Spiritualism",
+      "set_number": "LCYW-EN127",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Contract with the Dark Master",
+      "set_number": "LCYW-EN128",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Guardian Elma",
+      "set_number": "LCYW-EN129",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Guardian Ceal",
+      "set_number": "LCYW-EN130",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Guardian Grarl",
+      "set_number": "LCYW-EN131",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Guardian Baou",
+      "set_number": "LCYW-EN132",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Guardian Kay'est",
+      "set_number": "LCYW-EN133",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Guardian Tryce",
+      "set_number": "LCYW-EN134",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "My Body as a Shield",
+      "set_number": "LCYW-EN135",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Butterfly Dagger - Elma",
+      "set_number": "LCYW-EN136",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shooting Star Bow - Ceal",
+      "set_number": "LCYW-EN137",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gravity Axe - Grarl",
+      "set_number": "LCYW-EN138",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Wicked-Breaking Flamberge - Baou",
+      "set_number": "LCYW-EN139",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rod of Silence - Kay'est",
+      "set_number": "LCYW-EN140",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Twin Swords of Flashing Light - Tryce",
+      "set_number": "LCYW-EN141",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Monster Reincarnation",
+      "set_number": "LCYW-EN142",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gil Garth",
+      "set_number": "LCYW-EN143",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Bowganian",
+      "set_number": "LCYW-EN144",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Machine Duplication",
+      "set_number": "LCYW-EN145",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Hidden Soldiers",
+      "set_number": "LCYW-EN146",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Rope of Life",
+      "set_number": "LCYW-EN147",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Malevolent Catastrophe",
+      "set_number": "LCYW-EN148",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Harpie's Feather Duster",
+      "set_number": "LCYW-EN149",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravity Bind",
+      "set_number": "LCYW-EN150",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mechanicalchaser",
+      "set_number": "LCYW-EN151",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Solemn Judgment",
+      "set_number": "LCYW-EN152",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Magic Jammer",
+      "set_number": "LCYW-EN153",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Sinister Serpent",
+      "set_number": "LCYW-EN154",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Mirage of Nightmare",
+      "set_number": "LCYW-EN155",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Ordeal of a Traveler",
+      "set_number": "LCYW-EN156",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tri-Horned Dragon",
+      "set_number": "LCYW-EN157",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Two-Headed King Rex",
+      "set_number": "LCYW-EN158",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Millennium Shield",
+      "set_number": "LCYW-EN159",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Cosmo Queen",
+      "set_number": "LCYW-EN160",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Fire Princess",
+      "set_number": "LCYW-EN161",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Command Knight",
+      "set_number": "LCYW-EN162",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Malice Doll of Demise",
+      "set_number": "LCYW-EN163",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "White-Horned Dragon",
+      "set_number": "LCYW-EN164",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Green Baboon, Defender of the Forest",
+      "set_number": "LCYW-EN165",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Summoner Monk",
+      "set_number": "LCYW-EN166",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Commander Covington",
+      "set_number": "LCYW-EN167",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Machina Soldier",
+      "set_number": "LCYW-EN168",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Machina Sniper",
+      "set_number": "LCYW-EN169",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Machina Defender",
+      "set_number": "LCYW-EN170",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Machina Force",
+      "set_number": "LCYW-EN171",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Limiter Removal",
+      "set_number": "LCYW-EN172",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Reinforcement of the Army",
+      "set_number": "LCYW-EN173",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragged Down into the Grave",
+      "set_number": "LCYW-EN174",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Ectoplasmer",
+      "set_number": "LCYW-EN175",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mind Control",
+      "set_number": "LCYW-EN176",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Trap Hole",
+      "set_number": "LCYW-EN177",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Imperial Order",
+      "set_number": "LCYW-EN178",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Mask of Restrict",
+      "set_number": "LCYW-EN179",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Torrential Tribute",
+      "set_number": "LCYW-EN180",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Bottomless Trap Hole",
+      "set_number": "LCYW-EN181",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Royal Decree",
+      "set_number": "LCYW-EN182",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Spy",
+      "set_number": "LCYW-EN183",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Guard",
+      "set_number": "LCYW-EN184",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Spear Soldier",
+      "set_number": "LCYW-EN185",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Watcher",
+      "set_number": "LCYW-EN186",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Chief",
+      "set_number": "LCYW-EN187",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Cannonholder",
+      "set_number": "LCYW-EN188",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Assailant",
+      "set_number": "LCYW-EN189",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Charm of Shabti",
+      "set_number": "LCYW-EN190",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Commandant",
+      "set_number": "LCYW-EN191",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Descendant",
+      "set_number": "LCYW-EN192",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Recruiter",
+      "set_number": "LCYW-EN193",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Necrovalley",
+      "set_number": "LCYW-EN194",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Royal Tribute",
+      "set_number": "LCYW-EN195",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Rite of Spirit",
+      "set_number": "LCYW-EN196",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Horus the Black Flame Dragon LV4",
+      "set_number": "LCYW-EN197",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Horus the Black Flame Dragon LV6",
+      "set_number": "LCYW-EN198",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Horus the Black Flame Dragon LV8",
+      "set_number": "LCYW-EN199",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mystic Swordsman LV2",
+      "set_number": "LCYW-EN200",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mystic Swordsman LV4",
+      "set_number": "LCYW-EN201",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mystic Swordsman LV6",
+      "set_number": "LCYW-EN202",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armed Dragon LV3",
+      "set_number": "LCYW-EN203",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armed Dragon LV5",
+      "set_number": "LCYW-EN204",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armed Dragon LV7",
+      "set_number": "LCYW-EN205",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Horus' Servant",
+      "set_number": "LCYW-EN206",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Level Up!",
+      "set_number": "LCYW-EN207",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Grepher",
+      "set_number": "LCYW-EN208",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Horus",
+      "set_number": "LCYW-EN209",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Dark Creator",
+      "set_number": "LCYW-EN210",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Nephthys",
+      "set_number": "LCYW-EN211",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Darklord Zerato",
+      "set_number": "LCYW-EN212",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Darknight Parshath",
+      "set_number": "LCYW-EN213",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark General Freed",
+      "set_number": "LCYW-EN214",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D.D. Warrior Lady",
+      "set_number": "LCYW-EN215",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "D.D. Scout Plane",
+      "set_number": "LCYW-EN216",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "D.D. Assailant",
+      "set_number": "LCYW-EN217",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "D.D. Warrior",
+      "set_number": "LCYW-EN218",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Skull Servant",
+      "set_number": "LCYW-EN219",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark King of the Abyss",
+      "set_number": "LCYW-EN220",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Aqua Madoor",
+      "set_number": "LCYW-EN221",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Yaranzo",
+      "set_number": "LCYW-EN222",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Takriminos",
+      "set_number": "LCYW-EN223",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Megasonic Eye",
+      "set_number": "LCYW-EN224",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Yamadron",
+      "set_number": "LCYW-EN225",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Three-Legged Zombies",
+      "set_number": "LCYW-EN226",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Fairy's Gift",
+      "set_number": "LCYW-EN227",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Kanan the Swordmistress",
+      "set_number": "LCYW-EN228",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Mystical Shine Ball",
+      "set_number": "LCYW-EN229",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Big Eye",
+      "set_number": "LCYW-EN230",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Banisher of the Light",
+      "set_number": "LCYW-EN231",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Giant Rat",
+      "set_number": "LCYW-EN232",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "UFO Turtle",
+      "set_number": "LCYW-EN233",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Giant Germ",
+      "set_number": "LCYW-EN234",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nimble Momonga",
+      "set_number": "LCYW-EN235",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shining Angel",
+      "set_number": "LCYW-EN236",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Mother Grizzly",
+      "set_number": "LCYW-EN237",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Flying Kamakiri #1",
+      "set_number": "LCYW-EN238",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Mystic Tomato",
+      "set_number": "LCYW-EN239",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Goddess of Whim",
+      "set_number": "LCYW-EN241",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Kycoo the Ghost Destroyer",
+      "set_number": "LCYW-EN242",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Summoner of Illusions",
+      "set_number": "LCYW-EN243",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Needle Worm",
+      "set_number": "LCYW-EN244",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Pyramid Turtle",
+      "set_number": "LCYW-EN245",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Spirit Reaper",
+      "set_number": "LCYW-EN246",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Arsenal Summoner",
+      "set_number": "LCYW-EN247",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chaos Sorcerer",
+      "set_number": "LCYW-EN248",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Levia-Dragon - Daedalus",
+      "set_number": "LCYW-EN249",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Manju of the Ten Thousand Hands",
+      "set_number": "LCYW-EN250",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Invader of Darkness",
+      "set_number": "LCYW-EN251",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Agent of Wisdom - Mercury",
+      "set_number": "LCYW-EN252",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "The Agent of Creation - Venus",
+      "set_number": "LCYW-EN253",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Solar Flare Dragon",
+      "set_number": "LCYW-EN254",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Emissary of the Afterlife",
+      "set_number": "LCYW-EN255",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "King of the Swamp",
+      "set_number": "LCYW-EN256",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Creator",
+      "set_number": "LCYW-EN257",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Creator Incarnate",
+      "set_number": "LCYW-EN258",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sacred Phoenix of Nephthys",
+      "set_number": "LCYW-EN259",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Hand of Nephthys",
+      "set_number": "LCYW-EN260",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Armed Samurai - Ben Kei",
+      "set_number": "LCYW-EN261",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Light - Hex-Sealed Fusion",
+      "set_number": "LCYW-EN262",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Dark - Hex-Sealed Fusion",
+      "set_number": "LCYW-EN263",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Earth - Hex-Sealed Fusion",
+      "set_number": "LCYW-EN264",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Upstart Goblin",
+      "set_number": "LCYW-EN265",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Messenger of Peace",
+      "set_number": "LCYW-EN266",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Prohibition",
+      "set_number": "LCYW-EN267",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fusion Gate",
+      "set_number": "LCYW-EN268",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Creature Swap",
+      "set_number": "LCYW-EN269",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Book of Moon",
+      "set_number": "LCYW-EN270",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Snake Syndrome",
+      "set_number": "LCYW-EN271",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Non-Spellcasting Area",
+      "set_number": "LCYW-EN272",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Contract with the Abyss",
+      "set_number": "LCYW-EN273",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stray Lambs",
+      "set_number": "LCYW-EN274",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Smashing Ground",
+      "set_number": "LCYW-EN275",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Salvage",
+      "set_number": "LCYW-EN276",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Earth Chant",
+      "set_number": "LCYW-EN277",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spell Economics",
+      "set_number": "LCYW-EN278",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Level Limit - Area B",
+      "set_number": "LCYW-EN279",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "A Feather of the Phoenix",
+      "set_number": "LCYW-EN280",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Swords of Concealing Light",
+      "set_number": "LCYW-EN281",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Centrifugal Field",
+      "set_number": "LCYW-EN282",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Acid Trap Hole",
+      "set_number": "LCYW-EN283",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "DNA Surgery",
+      "set_number": "LCYW-EN284",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reckless Greed",
+      "set_number": "LCYW-EN285",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Raigeki Break",
+      "set_number": "LCYW-EN286",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Goblin Fan",
+      "set_number": "LCYW-EN287",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sakuretsu Armor",
+      "set_number": "LCYW-EN288",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Chain Disappearance",
+      "set_number": "LCYW-EN289",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Mirror Force",
+      "set_number": "LCYW-EN290",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Compulsory Evacuation Device",
+      "set_number": "LCYW-EN291",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "DNA Transplant",
+      "set_number": "LCYW-EN292",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Beckoning Light",
+      "set_number": "LCYW-EN293",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Draining Shield",
+      "set_number": "LCYW-EN294",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mind Crush",
+      "set_number": "LCYW-EN295",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Penalty Game!",
+      "set_number": "LCYW-EN296",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Threatening Roar",
+      "set_number": "LCYW-EN297",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Phoenix Wing Wind Blast",
+      "set_number": "LCYW-EN298",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Level Limit - Area A",
+      "set_number": "LCYW-EN299",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Black Horn of Heaven",
+      "set_number": "LCYW-EN300",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Solemn Warning",
+      "set_number": "LCYW-EN301",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Right Leg of the Forbidden One",
+      "set_number": "LCYW-EN302",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Left Leg of the Forbidden One",
+      "set_number": "LCYW-EN303",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Right Arm of the Forbidden One",
+      "set_number": "LCYW-EN304",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Left Arm of the Forbidden One",
+      "set_number": "LCYW-EN305",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Exodia the Forbidden One",
+      "set_number": "LCYW-EN306",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    }
+  ]
 }

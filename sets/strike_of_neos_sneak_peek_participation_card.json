@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Strike of Neos Sneak Peek Participation Card",
-    "type": "Tournament Promo Cards",
-    "date": "2007-02-17",
-    "distribution": "tournament_promo_cards",
-    "prefix": "STON",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Grandmaster of the Six Samurai",
-        "set_number": "STON-ENSP1",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Strike of Neos Sneak Peek Participation Card",
+  "type": "Tournament Promo Cards",
+  "date": "2007-02-17",
+  "distribution": "tournament_promo_cards",
+  "prefix": "STON",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Grandmaster of the Six Samurai",
+      "set_number": "STON-ENSP1",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

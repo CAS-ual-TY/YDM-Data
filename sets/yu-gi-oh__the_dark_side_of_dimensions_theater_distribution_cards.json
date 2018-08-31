@@ -1,54 +1,51 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! The Dark Side of Dimensions Theater distribution cards",
-    "type": "Promo Cards",
-    "date": "2016-04-23",
-    "distribution": "promo_cards",
-    "prefix": "MVPC",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Gandora-X the Dragon of Demolition",
-        "set_number": "MVPC-EN001",
-        "rarities": [
-          "Kaiba Corporation Common"
-        ],
-        "count": {
-          "Kaiba Corporation Common": 1
-        }
-      },
-      {
-        "card_name": "Lord Gaia the Fierce Knight",
-        "set_number": "MVPC-EN002",
-        "rarities": [
-          "Kaiba Corporation Common"
-        ],
-        "count": {
-          "Kaiba Corporation Common": 1
-        }
-      },
-      {
-        "card_name": "Lemon Magician Girl",
-        "set_number": "MVPC-EN003",
-        "rarities": [
-          "Kaiba Corporation Common"
-        ],
-        "count": {
-          "Kaiba Corporation Common": 1
-        }
-      },
-      {
-        "card_name": "Palladium Oracle Mahad",
-        "set_number": "MVPC-EN004",
-        "rarities": [
-          "Kaiba Corporation Common"
-        ],
-        "count": {
-          "Kaiba Corporation Common": 1
-        }
+  "name": "Yu-Gi-Oh! The Dark Side of Dimensions Theater distribution cards",
+  "type": "Promo Cards",
+  "date": "2016-04-23",
+  "distribution": "promo_cards",
+  "prefix": "MVPC",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Gandora-X the Dragon of Demolition",
+      "set_number": "MVPC-EN001",
+      "rarities": [
+        "Kaiba Corporation Common"
+      ],
+      "count": {
+        "Kaiba Corporation Common": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Lord Gaia the Fierce Knight",
+      "set_number": "MVPC-EN002",
+      "rarities": [
+        "Kaiba Corporation Common"
+      ],
+      "count": {
+        "Kaiba Corporation Common": 1
+      }
+    },
+    {
+      "card_name": "Lemon Magician Girl",
+      "set_number": "MVPC-EN003",
+      "rarities": [
+        "Kaiba Corporation Common"
+      ],
+      "count": {
+        "Kaiba Corporation Common": 1
+      }
+    },
+    {
+      "card_name": "Palladium Oracle Mahad",
+      "set_number": "MVPC-EN004",
+      "rarities": [
+        "Kaiba Corporation Common"
+      ],
+      "count": {
+        "Kaiba Corporation Common": 1
+      }
+    }
+  ]
 }

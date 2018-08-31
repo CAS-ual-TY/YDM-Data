@@ -1,34 +1,31 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Shadow Specters: Special Edition",
-    "type": "Special Edition Promo Cards",
-    "date": "2013-12-12",
-    "distribution": "special_edition_promo_cards",
-    "prefix": "SHSP",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Stardust Dragon",
-        "set_number": "SHSP-ENSE1",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Tuning",
-        "set_number": "SHSP-ENSE2",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
+  "name": "Shadow Specters: Special Edition",
+  "type": "Special Edition Promo Cards",
+  "date": "2013-12-12",
+  "distribution": "special_edition_promo_cards",
+  "prefix": "SHSP",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Stardust Dragon",
+      "set_number": "SHSP-ENSE1",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Tuning",
+      "set_number": "SHSP-ENSE2",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
+  ]
 }

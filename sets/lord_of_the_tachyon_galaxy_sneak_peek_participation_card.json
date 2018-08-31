@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Lord of the Tachyon Galaxy Sneak Peek Participation Card",
-    "type": "Tournament Promo Cards",
-    "date": "2013-02-21",
-    "distribution": "tournament_promo_cards",
-    "prefix": "LTGY",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Mecha Phantom Beast Turtletracer",
-        "set_number": "LTGY-ENSP1",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Lord of the Tachyon Galaxy Sneak Peek Participation Card",
+  "type": "Tournament Promo Cards",
+  "date": "2013-02-21",
+  "distribution": "tournament_promo_cards",
+  "prefix": "LTGY",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Mecha Phantom Beast Turtletracer",
+      "set_number": "LTGY-ENSP1",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

@@ -1,718 +1,715 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Strike of Neos",
-    "type": "Booster Pack",
-    "date": "2007-02-28",
-    "distribution": "booster_pack",
-    "prefix": "STON",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Grandmaster of the Six Samurai",
-        "set_number": "STON-EN000",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Gene-Warped Warwolf",
-        "set_number": "STON-EN001",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Frostosaurus",
-        "set_number": "STON-EN002",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Spiral Serpent",
-        "set_number": "STON-EN003",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo-Spacian Air Hummingbird",
-        "set_number": "STON-EN004",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo-Spacian Grand Mole",
-        "set_number": "STON-EN005",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo-Spacian Glow Moss",
-        "set_number": "STON-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Yaichi",
-        "set_number": "STON-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Kamon",
-        "set_number": "STON-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Yariza",
-        "set_number": "STON-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Nisashi",
-        "set_number": "STON-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Zanji",
-        "set_number": "STON-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Six Samurai - Irou",
-        "set_number": "STON-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Great Shogun Shien",
-        "set_number": "STON-EN013",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Shien's Footsoldier",
-        "set_number": "STON-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sage of Silence",
-        "set_number": "STON-EN015",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Sage of Stillness",
-        "set_number": "STON-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Reign-Beaux, Overlord of Dark World",
-        "set_number": "STON-EN017",
-        "rarities": [
-          "Ultimate Rare",
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Kahkki, Guerilla of Dark World",
-        "set_number": "STON-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gren, Tactician of Dark World",
-        "set_number": "STON-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fusion Devourer",
-        "set_number": "STON-EN020",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Electric Virus",
-        "set_number": "STON-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Puppet Plant",
-        "set_number": "STON-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Marionette Mite",
-        "set_number": "STON-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D.D. Crow",
-        "set_number": "STON-EN024",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Silent Abyss",
-        "set_number": "STON-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Firestorm Prominence",
-        "set_number": "STON-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Raging Earth",
-        "set_number": "STON-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Destruction Cyclone",
-        "set_number": "STON-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Radiant Spirit",
-        "set_number": "STON-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Umbral Soul",
-        "set_number": "STON-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Alien Psychic",
-        "set_number": "STON-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lycanthrope",
-        "set_number": "STON-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cú Chulainn the Awakened",
-        "set_number": "STON-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ancient Rules",
-        "set_number": "STON-EN037",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Dark World Dealings",
-        "set_number": "STON-EN038",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Neos Force",
-        "set_number": "STON-EN039",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Legendary Ebon Steed",
-        "set_number": "STON-EN040",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "\"A\" Cell Scatter Burst",
-        "set_number": "STON-EN041",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Twister",
-        "set_number": "STON-EN042",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Synthesis Spell",
-        "set_number": "STON-EN043",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Emblem of the Awakening",
-        "set_number": "STON-EN044",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Advanced Ritual Art",
-        "set_number": "STON-EN045",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Card Trader",
-        "set_number": "STON-EN046",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Shien's Castle of Mist",
-        "set_number": "STON-EN047",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Skyscraper 2 - Hero City",
-        "set_number": "STON-EN048",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Change of Hero - Reflector Ray",
-        "set_number": "STON-EN049",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Hero Medal",
-        "set_number": "STON-EN050",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Return of the Six Samurai",
-        "set_number": "STON-EN051",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Eliminating the League",
-        "set_number": "STON-EN052",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Flashbang",
-        "set_number": "STON-EN053",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "The Transmigration Prophecy",
-        "set_number": "STON-EN054",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Anti-Fusion Device",
-        "set_number": "STON-EN055",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ritual Sealing",
-        "set_number": "STON-EN056",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Birthright",
-        "set_number": "STON-EN057",
-        "rarities": [
-          "Ultimate Rare",
-          "Super Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Swift Samurai Storm!",
-        "set_number": "STON-EN058",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Cloak and Dagger",
-        "set_number": "STON-EN059",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Pulling the Rug",
-        "set_number": "STON-EN060",
-        "rarities": [
-          "Ultimate Rare",
-          "Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1,
-          "Rare": 1
-        }
-      },
-      {
-        "card_name": "Neo-Parshath, the Sky Paladin",
-        "set_number": "STON-EN061",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Meltiel, Sage of the Sky",
-        "set_number": "STON-EN062",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Harvest Angel of Wisdom",
-        "set_number": "STON-EN063",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Freya, Spirit of Victory",
-        "set_number": "STON-EN064",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Nova Summoner",
-        "set_number": "STON-EN065",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Radiant Jeral",
-        "set_number": "STON-EN066",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Gellenduo",
-        "set_number": "STON-EN067",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
-      },
-      {
-        "card_name": "Aegis of Gaia",
-        "set_number": "STON-EN068",
-        "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-        }
+  "name": "Strike of Neos",
+  "type": "Booster Pack",
+  "date": "2007-02-28",
+  "distribution": "booster_pack",
+  "prefix": "STON",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Grandmaster of the Six Samurai",
+      "set_number": "STON-EN000",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Gene-Warped Warwolf",
+      "set_number": "STON-EN001",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Frostosaurus",
+      "set_number": "STON-EN002",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Spiral Serpent",
+      "set_number": "STON-EN003",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Neo-Spacian Air Hummingbird",
+      "set_number": "STON-EN004",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Neo-Spacian Grand Mole",
+      "set_number": "STON-EN005",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Neo-Spacian Glow Moss",
+      "set_number": "STON-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Yaichi",
+      "set_number": "STON-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Kamon",
+      "set_number": "STON-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Yariza",
+      "set_number": "STON-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Nisashi",
+      "set_number": "STON-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Zanji",
+      "set_number": "STON-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Six Samurai - Irou",
+      "set_number": "STON-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Great Shogun Shien",
+      "set_number": "STON-EN013",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Shien's Footsoldier",
+      "set_number": "STON-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sage of Silence",
+      "set_number": "STON-EN015",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Sage of Stillness",
+      "set_number": "STON-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reign-Beaux, Overlord of Dark World",
+      "set_number": "STON-EN017",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Kahkki, Guerilla of Dark World",
+      "set_number": "STON-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gren, Tactician of Dark World",
+      "set_number": "STON-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fusion Devourer",
+      "set_number": "STON-EN020",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Electric Virus",
+      "set_number": "STON-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Puppet Plant",
+      "set_number": "STON-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Marionette Mite",
+      "set_number": "STON-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D.D. Crow",
+      "set_number": "STON-EN024",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Silent Abyss",
+      "set_number": "STON-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Firestorm Prominence",
+      "set_number": "STON-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Raging Earth",
+      "set_number": "STON-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destruction Cyclone",
+      "set_number": "STON-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Radiant Spirit",
+      "set_number": "STON-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Umbral Soul",
+      "set_number": "STON-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Alien Psychic",
+      "set_number": "STON-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lycanthrope",
+      "set_number": "STON-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "CÃº Chulainn the Awakened",
+      "set_number": "STON-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ancient Rules",
+      "set_number": "STON-EN037",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark World Dealings",
+      "set_number": "STON-EN038",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Neos Force",
+      "set_number": "STON-EN039",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Legendary Ebon Steed",
+      "set_number": "STON-EN040",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": ""A" Cell Scatter Burst",
+      "set_number": "STON-EN041",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Twister",
+      "set_number": "STON-EN042",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Synthesis Spell",
+      "set_number": "STON-EN043",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Emblem of the Awakening",
+      "set_number": "STON-EN044",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Advanced Ritual Art",
+      "set_number": "STON-EN045",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Card Trader",
+      "set_number": "STON-EN046",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Shien's Castle of Mist",
+      "set_number": "STON-EN047",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Skyscraper 2 - Hero City",
+      "set_number": "STON-EN048",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Change of Hero - Reflector Ray",
+      "set_number": "STON-EN049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hero Medal",
+      "set_number": "STON-EN050",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Return of the Six Samurai",
+      "set_number": "STON-EN051",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Eliminating the League",
+      "set_number": "STON-EN052",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Flashbang",
+      "set_number": "STON-EN053",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Transmigration Prophecy",
+      "set_number": "STON-EN054",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Anti-Fusion Device",
+      "set_number": "STON-EN055",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ritual Sealing",
+      "set_number": "STON-EN056",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Birthright",
+      "set_number": "STON-EN057",
+      "rarities": [
+        "Ultimate Rare",
+        "Super Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Swift Samurai Storm!",
+      "set_number": "STON-EN058",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cloak and Dagger",
+      "set_number": "STON-EN059",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Pulling the Rug",
+      "set_number": "STON-EN060",
+      "rarities": [
+        "Ultimate Rare",
+        "Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Neo-Parshath, the Sky Paladin",
+      "set_number": "STON-EN061",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Meltiel, Sage of the Sky",
+      "set_number": "STON-EN062",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Harvest Angel of Wisdom",
+      "set_number": "STON-EN063",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Freya, Spirit of Victory",
+      "set_number": "STON-EN064",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Nova Summoner",
+      "set_number": "STON-EN065",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Radiant Jeral",
+      "set_number": "STON-EN066",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Gellenduo",
+      "set_number": "STON-EN067",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Aegis of Gaia",
+      "set_number": "STON-EN068",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    }
+  ]
 }

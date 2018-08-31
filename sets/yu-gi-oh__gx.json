@@ -1,24 +1,21 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! GX",
-    "type": "Manga Promo",
-    "date": "2011-06-03",
-    "distribution": "manga_promo",
-    "prefix": "YG09",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Elemental HERO Escuridao",
-        "set_number": "YG09-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! GX",
+  "type": "Manga Promo",
+  "date": "2011-06-03",
+  "distribution": "manga_promo",
+  "prefix": "YG09",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Elemental HERO Escuridao",
+      "set_number": "YG09-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    }
+  ]
 }

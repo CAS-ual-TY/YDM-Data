@@ -1,374 +1,371 @@
 {
-  "status": "success",
-  "set": {
-    "name": "The Dark Emperor Structure Deck",
-    "type": "Structure Deck",
-    "date": "2008-04-02",
-    "distribution": "",
-    "prefix": "SDDE",
-    "sub_sets": [],
-    "load": true,
-    "cards": [
-      {
-        "card_name": "Caius the Shadow Monarch",
-        "set_number": "SDDE-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Dimensional Alchemist",
-        "set_number": "SDDE-EN002",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Samsara Kaiser",
-        "set_number": "SDDE-EN003",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Golden Homunculus",
-        "set_number": "SDDE-EN004",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Helios - The Primordial Sun",
-        "set_number": "SDDE-EN005",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D.D. Warrior",
-        "set_number": "SDDE-EN006",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Kycoo the Ghost Destroyer",
-        "set_number": "SDDE-EN007",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bazoo the Soul-Eater",
-        "set_number": "SDDE-EN008",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "Exiled Force",
-        "set_number": "SDDE-EN009",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D.D. Warrior Lady",
-        "set_number": "SDDE-EN010",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D.D. Scout Plane",
-        "set_number": "SDDE-EN011",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Chaosrider Gustaph",
-        "set_number": "SDDE-EN012",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Gren Maju Da Eiza",
-        "set_number": "SDDE-EN013",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D.D. Survivor",
-        "set_number": "SDDE-EN014",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "D.D.M. - Different Dimension Master",
-        "set_number": "SDDE-EN015",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Banisher of the Radiance",
-        "set_number": "SDDE-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "D.D. Assailant",
-        "set_number": "SDDE-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D.D.R. - Different Dimension Reincarnation",
-        "set_number": "SDDE-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mystical Space Typhoon",
-        "set_number": "SDDE-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Nobleman of Crossout",
-        "set_number": "SDDE-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Soul Release",
-        "set_number": "SDDE-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Reinforcement of the Army",
-        "set_number": "SDDE-EN022",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dark Core",
-        "set_number": "SDDE-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Big Bang Shot",
-        "set_number": "SDDE-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Enemy Controller",
-        "set_number": "SDDE-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lightning Vortex",
-        "set_number": "SDDE-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Brain Control",
-        "set_number": "SDDE-EN027",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Dimensional Fissure",
-        "set_number": "SDDE-EN028",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 2
-        }
-      },
-      {
-        "card_name": "By Order of the Emperor",
-        "set_number": "SDDE-EN029",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Return from the Different Dimension",
-        "set_number": "SDDE-EN030",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Torrential Tribute",
-        "set_number": "SDDE-EN031",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Bottomless Trap Hole",
-        "set_number": "SDDE-EN032",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Sakuretsu Armor",
-        "set_number": "SDDE-EN033",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Karma Cut",
-        "set_number": "SDDE-EN034",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "D.D. Dynamite",
-        "set_number": "SDDE-EN035",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Macro Cosmos",
-        "set_number": "SDDE-EN036",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "The Dark Emperor Structure Deck",
+  "type": "Structure Deck",
+  "date": "2008-04-02",
+  "distribution": "",
+  "prefix": "SDDE",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Caius the Shadow Monarch",
+      "set_number": "SDDE-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Dimensional Alchemist",
+      "set_number": "SDDE-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Samsara Kaiser",
+      "set_number": "SDDE-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Golden Homunculus",
+      "set_number": "SDDE-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Helios - The Primordial Sun",
+      "set_number": "SDDE-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D.D. Warrior",
+      "set_number": "SDDE-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Kycoo the Ghost Destroyer",
+      "set_number": "SDDE-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bazoo the Soul-Eater",
+      "set_number": "SDDE-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "Exiled Force",
+      "set_number": "SDDE-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D.D. Warrior Lady",
+      "set_number": "SDDE-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D.D. Scout Plane",
+      "set_number": "SDDE-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chaosrider Gustaph",
+      "set_number": "SDDE-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gren Maju Da Eiza",
+      "set_number": "SDDE-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D.D. Survivor",
+      "set_number": "SDDE-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "D.D.M. - Different Dimension Master",
+      "set_number": "SDDE-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Banisher of the Radiance",
+      "set_number": "SDDE-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "D.D. Assailant",
+      "set_number": "SDDE-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D.D.R. - Different Dimension Reincarnation",
+      "set_number": "SDDE-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mystical Space Typhoon",
+      "set_number": "SDDE-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nobleman of Crossout",
+      "set_number": "SDDE-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Soul Release",
+      "set_number": "SDDE-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reinforcement of the Army",
+      "set_number": "SDDE-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Core",
+      "set_number": "SDDE-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Big Bang Shot",
+      "set_number": "SDDE-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Enemy Controller",
+      "set_number": "SDDE-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lightning Vortex",
+      "set_number": "SDDE-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Brain Control",
+      "set_number": "SDDE-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dimensional Fissure",
+      "set_number": "SDDE-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 2
+      }
+    },
+    {
+      "card_name": "By Order of the Emperor",
+      "set_number": "SDDE-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Return from the Different Dimension",
+      "set_number": "SDDE-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Torrential Tribute",
+      "set_number": "SDDE-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bottomless Trap Hole",
+      "set_number": "SDDE-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sakuretsu Armor",
+      "set_number": "SDDE-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Karma Cut",
+      "set_number": "SDDE-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D.D. Dynamite",
+      "set_number": "SDDE-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Macro Cosmos",
+      "set_number": "SDDE-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

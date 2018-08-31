@@ -1,264 +1,261 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Astral Pack Four",
-    "type": "Astral Pack",
-    "date": "2014-02-06",
-    "distribution": "astral_pack",
-    "prefix": "AP04",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Dandylion",
-        "set_number": "AP04-EN001",
-        "rarities": [
-          "Ultimate Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1
-        }
-      },
-      {
-        "card_name": "Maxx \"C\"",
-        "set_number": "AP04-EN002",
-        "rarities": [
-          "Ultimate Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1
-        }
-      },
-      {
-        "card_name": "Necrovalley",
-        "set_number": "AP04-EN003",
-        "rarities": [
-          "Ultimate Rare"
-        ],
-        "count": {
-          "Ultimate Rare": 1
-        }
-      },
-      {
-        "card_name": "Blackwing - Gale the Whirlwind",
-        "set_number": "AP04-EN004",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Blackwing - Kalut the Moon Shadow",
-        "set_number": "AP04-EN005",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Consecrated Light",
-        "set_number": "AP04-EN006",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Swift Scarecrow",
-        "set_number": "AP04-EN007",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Crimson Blader",
-        "set_number": "AP04-EN008",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Break! Draw!",
-        "set_number": "AP04-EN009",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Spellbook of Wisdom",
-        "set_number": "AP04-EN010",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Spellbook of Eternity",
-        "set_number": "AP04-EN011",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Fire Formation - Tensu",
-        "set_number": "AP04-EN012",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Soul Drain",
-        "set_number": "AP04-EN013",
-        "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-        }
-      },
-      {
-        "card_name": "Wings of Wicked Flame",
-        "set_number": "AP04-EN014",
-        "rarities": [
-          "Short Print"
-        ],
-        "count": {
-          "Short Print": 1
-        }
-      },
-      {
-        "card_name": "Magical Merchant",
-        "set_number": "AP04-EN016",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Lonefire Blossom",
-        "set_number": "AP04-EN017",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Fossil Dyna Pachycephalo",
-        "set_number": "AP04-EN018",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Tytannial, Princess of Camellias",
-        "set_number": "AP04-EN019",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Scrap Beast",
-        "set_number": "AP04-EN020",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Ma'at",
-        "set_number": "AP04-EN021",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Mavelus",
-        "set_number": "AP04-EN022",
-        "rarities": [
-          "Short Print"
-        ],
-        "count": {
-          "Short Print": 1
-        }
-      },
-      {
-        "card_name": "Reasoning",
-        "set_number": "AP04-EN023",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Archfiend's Oath",
-        "set_number": "AP04-EN024",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Black Garden",
-        "set_number": "AP04-EN025",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
-      },
-      {
-        "card_name": "Scrapstorm",
-        "set_number": "AP04-EN026",
-        "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-        }
+  "name": "Astral Pack Four",
+  "type": "Astral Pack",
+  "date": "2014-02-06",
+  "distribution": "astral_pack",
+  "prefix": "AP04",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Dandylion",
+      "set_number": "AP04-EN001",
+      "rarities": [
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Maxx "C"",
+      "set_number": "AP04-EN002",
+      "rarities": [
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Necrovalley",
+      "set_number": "AP04-EN003",
+      "rarities": [
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Gale the Whirlwind",
+      "set_number": "AP04-EN004",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Kalut the Moon Shadow",
+      "set_number": "AP04-EN005",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Consecrated Light",
+      "set_number": "AP04-EN006",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Swift Scarecrow",
+      "set_number": "AP04-EN007",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Crimson Blader",
+      "set_number": "AP04-EN008",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Break! Draw!",
+      "set_number": "AP04-EN009",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Spellbook of Wisdom",
+      "set_number": "AP04-EN010",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Spellbook of Eternity",
+      "set_number": "AP04-EN011",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Fire Formation - Tensu",
+      "set_number": "AP04-EN012",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Soul Drain",
+      "set_number": "AP04-EN013",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Wings of Wicked Flame",
+      "set_number": "AP04-EN014",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Magical Merchant",
+      "set_number": "AP04-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lonefire Blossom",
+      "set_number": "AP04-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fossil Dyna Pachycephalo",
+      "set_number": "AP04-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tytannial, Princess of Camellias",
+      "set_number": "AP04-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Scrap Beast",
+      "set_number": "AP04-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ma'at",
+      "set_number": "AP04-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mavelus",
+      "set_number": "AP04-EN022",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Reasoning",
+      "set_number": "AP04-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Archfiend's Oath",
+      "set_number": "AP04-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Black Garden",
+      "set_number": "AP04-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Scrapstorm",
+      "set_number": "AP04-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
 }

@@ -1,13 +1,10 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Toys \"R\" Us Throwdown",
-    "type": "Tournament Promo Cards",
-    "date": "2007-04-07",
-    "distribution": "tournament_promo_cards",
-    "prefix": "UNKNOWN_PREFIX",
-    "sub_sets": [],
-    "load": false,
-    "cards": []
-  }
+  "name": "Toys "R" Us Throwdown",
+  "type": "Tournament Promo Cards",
+  "date": "2007-04-07",
+  "distribution": "tournament_promo_cards",
+  "prefix": "UNKNOWN_PREFIX",
+  "sub_sets": [],
+  "load": false,
+  "cards": []
 }

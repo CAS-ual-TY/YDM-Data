@@ -1,44 +1,41 @@
 {
-  "status": "success",
-  "set": {
-    "name": "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia",
-    "type": "Video Game Promo Cards",
-    "date": "2010-02-18",
-    "distribution": "video_game_promo_cards",
-    "prefix": "WC10",
-    "sub_sets": [],
-    "load": false,
-    "cards": [
-      {
-        "card_name": "Samurai Sword Baron",
-        "set_number": "WC10-EN001",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Stygian Security",
-        "set_number": "WC10-EN002",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
-      },
-      {
-        "card_name": "Stygian Sergeants",
-        "set_number": "WC10-EN003",
-        "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-        }
+  "name": "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia",
+  "type": "Video Game Promo Cards",
+  "date": "2010-02-18",
+  "distribution": "video_game_promo_cards",
+  "prefix": "WC10",
+  "sub_sets": [],
+  "load": false,
+  "cards": [
+    {
+      "card_name": "Samurai Sword Baron",
+      "set_number": "WC10-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
       }
-    ]
-  }
+    },
+    {
+      "card_name": "Stygian Security",
+      "set_number": "WC10-EN002",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Stygian Sergeants",
+      "set_number": "WC10-EN003",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    }
+  ]
 }
