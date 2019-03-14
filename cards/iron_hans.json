@@ -1,0 +1,24 @@
+{
+  "name": "Iron Hans",
+  "number": "41916534",
+  "is_illegal": false,
+  "text": "If this card is Summoned: You can Special Summon 1 \"Iron Knight\" from your Deck, also if \"Golden Castle of Stromberg\" is not in a Field Zone when this effect resolves, you cannot Special Summon monsters from the Extra Deck for the rest of this turn. You can only use this effect of \"Iron Hans\" once per turn. Gains 1000 ATK for each \"Iron Knight\" you control, while \"Golden Castle of Stromberg\" is in a Field Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1200",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}
