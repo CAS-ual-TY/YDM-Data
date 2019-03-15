@@ -1,0 +1,24 @@
+{
+  "name": "Kaiki the Unity Star",
+  "number": "60822251",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned (except during the Damage Step): You can pay 500 LP; Fusion Summon 1 Warrior Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. During your opponent's turn, if this card is in your GY and you control a Level 5 or higher Warrior monster whose current ATK is different from its original ATK (Quick Effect): You can Special Summon this card. You can only use each effect of \"Kaiki the Unity Star\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "2100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}
