@@ -21,10 +21,10 @@
       "card_name": "Foucault's Cannon",
       "set_number": "DUEA-EN002",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -41,14 +41,12 @@
       "card_name": "Odd-Eyes Pendulum Dragon",
       "set_number": "DUEA-EN004",
       "rarities": [
-        "Holographic Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -65,10 +63,10 @@
       "card_name": "Performapal Whip Snake",
       "set_number": "DUEA-EN006",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -79,6 +77,36 @@
       ],
       "count": {
         "Common": 1
+      }
+    },
+    {
+      "card_name": "Performapal Hip Hippo",
+      "set_number": "DUEA-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Performapal Kaleidoscorp",
+      "set_number": "DUEA-EN009",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Performapal Turn Toad",
+      "set_number": "DUEA-EN010",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
       }
     },
     {
@@ -105,10 +133,10 @@
       "card_name": "Superheavy Samurai Big Benkei",
       "set_number": "DUEA-EN013",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -135,10 +163,10 @@
       "card_name": "Mozarta the Melodious Maestra",
       "set_number": "DUEA-EN016",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -155,10 +183,10 @@
       "card_name": "Satellarknight Deneb",
       "set_number": "DUEA-EN018",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -185,10 +213,10 @@
       "card_name": "Satellarknight Alsahm",
       "set_number": "DUEA-EN021",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -235,25 +263,15 @@
       "card_name": "Shaddoll Dragon",
       "set_number": "DUEA-EN026",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Shaddoll Beast",
       "set_number": "DUEA-EN027",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Suanni, Fire of the Yang Zing",
-      "set_number": "DUEA-EN028",
       "rarities": [
         "Rare"
       ],
@@ -262,43 +280,53 @@
       }
     },
     {
+      "card_name": "Suanni, Fire of the Yang Zing",
+      "set_number": "DUEA-EN028",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Bi'an, Earth of the Yang Zing",
       "set_number": "DUEA-EN029",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Bixi, Water of the Yang Zing",
       "set_number": "DUEA-EN030",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Pulao, Wind of the Yang Zing",
       "set_number": "DUEA-EN031",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Chiwen, Light of the Yang Zing",
       "set_number": "DUEA-EN032",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -315,10 +343,10 @@
       "card_name": "Artifact Lancea",
       "set_number": "DUEA-EN034",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -385,10 +413,10 @@
       "card_name": "Raiza the Mega Monarch",
       "set_number": "DUEA-EN041",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -405,20 +433,20 @@
       "card_name": "Hypnosister",
       "set_number": "DUEA-EN043",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Re-Cover",
       "set_number": "DUEA-EN044",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -455,10 +483,10 @@
       "card_name": "El Shaddoll Winda",
       "set_number": "DUEA-EN048",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -489,12 +517,12 @@
       "card_name": "Baxia, Brightness of the Yang Zing",
       "set_number": "DUEA-EN051",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -511,12 +539,14 @@
       "card_name": "Stellarknight Delteros",
       "set_number": "DUEA-EN053",
       "rarities": [
+        "Secret Rare",
         "Ultimate Rare",
-        "Ultra Rare"
+        "Ghost Rare"
       ],
       "count": {
+        "Secret Rare": 1,
         "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Ghost Rare": 1
       }
     },
     {
@@ -527,6 +557,16 @@
       ],
       "count": {
         "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Hippo Carnival",
+      "set_number": "DUEA-EN055",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
       }
     },
     {
@@ -560,6 +600,16 @@
       }
     },
     {
+      "card_name": "Shaddoll Fusion",
+      "set_number": "DUEA-EN059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
       "card_name": "Curse of the Shadow Prison",
       "set_number": "DUEA-EN060",
       "rarities": [
@@ -573,10 +623,10 @@
       "card_name": "Yang Zing Path",
       "set_number": "DUEA-EN061",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -613,10 +663,10 @@
       "card_name": "Magical Spring",
       "set_number": "DUEA-EN065",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -673,40 +723,40 @@
       "card_name": "Stellarnova Alpha",
       "set_number": "DUEA-EN071",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Sinister Shadow Games",
       "set_number": "DUEA-EN072",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Shaddoll Core",
       "set_number": "DUEA-EN073",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Yang Zing Creation",
       "set_number": "DUEA-EN074",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -733,16 +783,6 @@
       "card_name": "Face-Off",
       "set_number": "DUEA-EN077",
       "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Pendulum Back",
-      "set_number": "DUEA-EN078",
-      "rarities": [
         "Rare"
       ],
       "count": {
@@ -750,13 +790,23 @@
       }
     },
     {
-      "card_name": "Time-Space Trap Hole",
-      "set_number": "DUEA-EN079",
+      "card_name": "Pendulum Back",
+      "set_number": "DUEA-EN078",
       "rarities": [
         "Super Rare"
       ],
       "count": {
         "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Time-Space Trap Hole",
+      "set_number": "DUEA-EN079",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     },
     {
@@ -770,17 +820,17 @@
       }
     },
     {
-      "card_name": "Heroic Challenger - Assault Halberd",
+      "card_name": "Doomstar Magician",
       "set_number": "DUEA-EN081",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
-      "card_name": "Heroic Challenger - Thousand Blades",
+      "card_name": "Scarm, Malebranche of the Burning Abyss",
       "set_number": "DUEA-EN082",
       "rarities": [
         "Rare"
@@ -790,7 +840,7 @@
       }
     },
     {
-      "card_name": "Star Seraph Scepter",
+      "card_name": "Graff, Malebranche of the Burning Abyss",
       "set_number": "DUEA-EN083",
       "rarities": [
         "Rare"
@@ -800,28 +850,8 @@
       }
     },
     {
-      "card_name": "Star Seraph Scale",
+      "card_name": "Cir, Malebranche of the Burning Abyss",
       "set_number": "DUEA-EN084",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Star Seraph Sovereignty",
-      "set_number": "DUEA-EN085",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Numeral Hunter",
-      "set_number": "DUEA-EN086",
       "rarities": [
         "Rare"
       ],
@@ -830,19 +860,37 @@
       }
     },
     {
-      "card_name": "Number 86: Heroic Champion - Rhongomyniad",
-      "set_number": "DUEA-EN087",
+      "card_name": "Dante, Traveler of the Burning Abyss",
+      "set_number": "DUEA-EN085",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
-      "card_name": "Humhumming the Key Djinn",
+      "card_name": "The Traveler and the Burning Abyss",
+      "set_number": "DUEA-EN086",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "U.A. Mighty Slugger",
+      "set_number": "DUEA-EN087",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "U.A. Perfect Ace",
       "set_number": "DUEA-EN088",
       "rarities": [
         "Rare"
@@ -852,8 +900,88 @@
       }
     },
     {
-      "card_name": "Onomatopia",
+      "card_name": "U.A. Stadium",
       "set_number": "DUEA-EN089",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gaia, the Polar Knight",
+      "set_number": "DUEA-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gaia, the Mid-Knight Sun",
+      "set_number": "DUEA-EN091",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chaos Seed",
+      "set_number": "DUEA-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Exchange of Night and Day",
+      "set_number": "DUEA-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Number 58: Burner Visor",
+      "set_number": "DUEA-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Felis, Lightsworn Archer",
+      "set_number": "DUEA-EN095",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Fishborg Doctor",
+      "set_number": "DUEA-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Panzer Dragon",
+      "set_number": "DUEA-EN097",
       "rarities": [
         "Rare"
       ],
@@ -862,8 +990,18 @@
       }
     },
     {
-      "card_name": "Marshalling Field",
-      "set_number": "DUEA-EN090",
+      "card_name": "Cloudcastle",
+      "set_number": "DUEA-EN098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pilgrim Reaper",
+      "set_number": "DUEA-EN099",
       "rarities": [
         "Common"
       ],

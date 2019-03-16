@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "XX-Saber Gardestrike",
+      "set_number": "ANPR-EN000",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
       "card_name": "Kuribon",
       "set_number": "ANPR-EN001",
       "rarities": [
@@ -51,10 +61,12 @@
       "card_name": "Blackwing - Vayu the Emblem of Honor",
       "set_number": "ANPR-EN005",
       "rarities": [
-        "Super Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
@@ -81,10 +93,10 @@
       "card_name": "Jester Lord",
       "set_number": "ANPR-EN008",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -131,10 +143,10 @@
       "card_name": "Darksea Rescue",
       "set_number": "ANPR-EN013",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -205,10 +217,10 @@
       "card_name": "Koa'ki Meiru Speeder",
       "set_number": "ANPR-EN020",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -225,10 +237,10 @@
       "card_name": "Koa'ki Meiru Hydro Barrier",
       "set_number": "ANPR-EN022",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -245,10 +257,10 @@
       "card_name": "Shiny Black \"C\"",
       "set_number": "ANPR-EN024",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -325,10 +337,10 @@
       "card_name": "Cyborg Doctor",
       "set_number": "ANPR-EN032",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -355,10 +367,10 @@
       "card_name": "XX-Saber Faultroll",
       "set_number": "ANPR-EN035",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -429,22 +441,22 @@
       "card_name": "Archfiend Zombie-Skull",
       "set_number": "ANPR-EN042",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Ancient Sacred Wyvern",
       "set_number": "ANPR-EN043",
       "rarities": [
-        "Super Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
@@ -463,10 +475,10 @@
       "card_name": "Release Restraint Wave",
       "set_number": "ANPR-EN045",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -493,10 +505,10 @@
       "card_name": "Ancient Forest",
       "set_number": "ANPR-EN048",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -533,10 +545,10 @@
       "card_name": "Core Compression",
       "set_number": "ANPR-EN052",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -553,10 +565,10 @@
       "card_name": "Solidarity",
       "set_number": "ANPR-EN054",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -573,10 +585,10 @@
       "card_name": "Water Hazard",
       "set_number": "ANPR-EN056",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -593,10 +605,10 @@
       "card_name": "Saber Slash",
       "set_number": "ANPR-EN058",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -613,20 +625,20 @@
       "card_name": "Rekindling",
       "set_number": "ANPR-EN060",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Ancient Leaf",
       "set_number": "ANPR-EN061",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -673,10 +685,10 @@
       "card_name": "Fairy Wind",
       "set_number": "ANPR-EN066",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -703,10 +715,10 @@
       "card_name": "Slip of Fortune",
       "set_number": "ANPR-EN069",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -743,20 +755,20 @@
       "card_name": "Core Reinforcement",
       "set_number": "ANPR-EN073",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Iron Core Luster",
       "set_number": "ANPR-EN074",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -813,10 +825,208 @@
       "card_name": "A Major Upset",
       "set_number": "ANPR-EN080",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "XX-Saber Fulhelmknight",
+      "set_number": "ANPR-EN081",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Ghoulungulate",
+      "set_number": "ANPR-EN082",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Gravirose",
+      "set_number": "ANPR-EN083",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Psychic Emperor",
+      "set_number": "ANPR-EN084",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Card Guard",
+      "set_number": "ANPR-EN085",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Flamvell Commando",
+      "set_number": "ANPR-EN086",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Pseudo Space",
+      "set_number": "ANPR-EN087",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Greed Grado",
+      "set_number": "ANPR-EN088",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Revival of the Immortals",
+      "set_number": "ANPR-EN089",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Arcana Knight Joker",
+      "set_number": "ANPR-EN090",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Armityle the Chaos Phantom",
+      "set_number": "ANPR-EN091",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "White Night Dragon",
+      "set_number": "ANPR-EN092",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Card Blocker",
+      "set_number": "ANPR-EN093",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Gaia Plate the Earth Giant",
+      "set_number": "ANPR-EN094",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Sauropod Brachion",
+      "set_number": "ANPR-EN095",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gaap the Divine Soldier",
+      "set_number": "ANPR-EN096",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Beast Machine King Barbaros Ãœr",
+      "set_number": "ANPR-EN097",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Kasha",
+      "set_number": "ANPR-EN098",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Gaia",
+      "set_number": "ANPR-EN099",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     }
   ]

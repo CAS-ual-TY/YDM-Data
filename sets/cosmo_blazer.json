@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Noble Arms - Caliburn",
+      "set_number": "CBLZ-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Dododo Bot",
       "set_number": "CBLZ-EN001",
       "rarities": [
@@ -21,10 +31,10 @@
       "card_name": "Gogogo Ghost",
       "set_number": "CBLZ-EN002",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -191,22 +201,20 @@
       "card_name": "Garbage Lord",
       "set_number": "CBLZ-EN019",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Orbital 7",
       "set_number": "CBLZ-EN020",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -243,30 +251,32 @@
       "card_name": "Brotherhood of the Fire Fist - Bear",
       "set_number": "CBLZ-EN024",
       "rarities": [
-        "Common"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
       "card_name": "Brotherhood of the Fire Fist - Dragon",
       "set_number": "CBLZ-EN025",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Brotherhood of the Fire Fist - Snake",
       "set_number": "CBLZ-EN026",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -323,10 +333,10 @@
       "card_name": "Mermail Abyssdine",
       "set_number": "CBLZ-EN032",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -343,6 +353,16 @@
       "card_name": "Mermail Abyssleed",
       "set_number": "CBLZ-EN034",
       "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fool of Prophecy",
+      "set_number": "CBLZ-EN035",
+      "rarities": [
         "Super Rare"
       ],
       "count": {
@@ -350,23 +370,13 @@
       }
     },
     {
-      "card_name": "Fool of Prophecy",
-      "set_number": "CBLZ-EN035",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
       "card_name": "Reaper of Prophecy",
       "set_number": "CBLZ-EN036",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -393,20 +403,20 @@
       "card_name": "Valkyrian Knight",
       "set_number": "CBLZ-EN039",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Pyrorex the Elemental Lord",
       "set_number": "CBLZ-EN040",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -433,32 +443,32 @@
       "card_name": "Star Drawing",
       "set_number": "CBLZ-EN043",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Red Duston",
       "set_number": "CBLZ-EN044",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Number 92: Heart-eartH Dragon",
       "set_number": "CBLZ-EN045",
       "rarities": [
-        "Holographic Rare",
+        "Ghost Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
+        "Ghost Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -513,40 +523,42 @@
       "card_name": "Mermail Abysstrite",
       "set_number": "CBLZ-EN050",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Diamond Dire Wolf",
       "set_number": "CBLZ-EN051",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Lightning Chidori",
       "set_number": "CBLZ-EN052",
       "rarities": [
-        "Super Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Slacker Magician",
       "set_number": "CBLZ-EN053",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -563,10 +575,10 @@
       "card_name": "Gagagadraw",
       "set_number": "CBLZ-EN055",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -603,10 +615,10 @@
       "card_name": "Fire Formation - Tenki",
       "set_number": "CBLZ-EN059",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -633,10 +645,10 @@
       "card_name": "Spellbook of the Master",
       "set_number": "CBLZ-EN062",
       "rarities": [
-        "Common"
+        "Secret Rare"
       ],
       "count": {
-        "Common": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -663,10 +675,12 @@
       "card_name": "Quick Booster",
       "set_number": "CBLZ-EN065",
       "rarities": [
-        "Super Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
@@ -683,10 +697,10 @@
       "card_name": "Goblin Circus",
       "set_number": "CBLZ-EN067",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -743,10 +757,10 @@
       "card_name": "Ultimate Fire Formation - Seito",
       "set_number": "CBLZ-EN073",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -793,10 +807,12 @@
       "card_name": "Breakthrough Skill",
       "set_number": "CBLZ-EN078",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -813,10 +829,204 @@
       "card_name": "Dice-nied",
       "set_number": "CBLZ-EN080",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Noble Knight Medraut",
+      "set_number": "CBLZ-EN081",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Hazy Flame Mantikor",
+      "set_number": "CBLZ-EN082",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mermail Abyssteus",
+      "set_number": "CBLZ-EN083",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Bonfire Colossus",
+      "set_number": "CBLZ-EN084",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Mystical Fairy Elfuria",
+      "set_number": "CBLZ-EN085",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Artorigus, King of the Noble Knights",
+      "set_number": "CBLZ-EN086",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Infernal Flame Vixen",
+      "set_number": "CBLZ-EN087",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Spell Wall",
+      "set_number": "CBLZ-EN088",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Kickfire",
+      "set_number": "CBLZ-EN089",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Crimson Sunbird",
+      "set_number": "CBLZ-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ignition Beast Volcannon",
+      "set_number": "CBLZ-EN091",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Noble Knight Joan",
+      "set_number": "CBLZ-EN092",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Crimson Blader",
+      "set_number": "CBLZ-EN093",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Infernity Archer",
+      "set_number": "CBLZ-EN094",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Gladius the Midnight Sun",
+      "set_number": "CBLZ-EN095",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Damascus the Polar Night",
+      "set_number": "CBLZ-EN096",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Brotherhood of the Fire Fist - Horse Prince",
+      "set_number": "CBLZ-EN092",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Brotherhood of the Fire Fist - Spirit",
+      "set_number": "CBLZ-EN098",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Brotherhood of the Fire Fist - Lion Emperor",
+      "set_number": "CBLZ-EN099",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
     }
   ]
