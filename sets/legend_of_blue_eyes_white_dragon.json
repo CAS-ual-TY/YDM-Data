@@ -3,23 +3,23 @@
   "type": "Booster Pack",
   "date": "2000-05-18",
   "distribution": "booster_pack",
-  "prefix": "LB",
+  "prefix": "LOB",
   "sub_sets": [],
   "load": true,
   "cards": [
     {
-      "card_name": "Celtic Guardian",
-      "set_number": "LB-00",
+      "card_name": "Tri-Horned Dragon",
+      "set_number": "LOB-000",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Blue-Eyes White Dragon",
-      "set_number": "LB-01",
+      "set_number": "LOB-001",
       "rarities": [
         "Ultra Rare"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "card_name": "Hitotsu-Me Giant",
-      "set_number": "LB-02",
+      "set_number": "LOB-002",
       "rarities": [
         "Common"
       ],
@@ -39,17 +39,17 @@
     },
     {
       "card_name": "Flame Swordsman",
-      "set_number": "LB-03",
+      "set_number": "LOB-003",
       "rarities": [
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
-        "Ultra Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Skull Servant",
-      "set_number": "LB-04",
+      "set_number": "LOB-004",
       "rarities": [
         "Common"
       ],
@@ -59,7 +59,7 @@
     },
     {
       "card_name": "Dark Magician",
-      "set_number": "LB-05",
+      "set_number": "LOB-005",
       "rarities": [
         "Ultra Rare"
       ],
@@ -69,7 +69,7 @@
     },
     {
       "card_name": "Gaia The Fierce Knight",
-      "set_number": "LB-06",
+      "set_number": "LOB-006",
       "rarities": [
         "Ultra Rare"
       ],
@@ -78,8 +78,18 @@
       }
     },
     {
+      "card_name": "Celtic Guardian",
+      "set_number": "LOB-007",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Basic Insect",
-      "set_number": "LB-07",
+      "set_number": "LOB-008",
       "rarities": [
         "Common"
       ],
@@ -89,7 +99,7 @@
     },
     {
       "card_name": "Mammoth Graveyard",
-      "set_number": "LB-08",
+      "set_number": "LOB-009",
       "rarities": [
         "Common"
       ],
@@ -99,7 +109,7 @@
     },
     {
       "card_name": "Silver Fang",
-      "set_number": "LB-09",
+      "set_number": "LOB-010",
       "rarities": [
         "Common"
       ],
@@ -109,7 +119,7 @@
     },
     {
       "card_name": "Dark Gray",
-      "set_number": "LB-10",
+      "set_number": "LOB-011",
       "rarities": [
         "Common"
       ],
@@ -119,17 +129,17 @@
     },
     {
       "card_name": "Trial of Nightmare",
-      "set_number": "LB-11",
+      "set_number": "LOB-012",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Nemuriko",
-      "set_number": "LB-12",
+      "set_number": "LOB-013",
       "rarities": [
         "Common"
       ],
@@ -139,17 +149,7 @@
     },
     {
       "card_name": "The 13th Grave",
-      "set_number": "LB-13",
-      "rarities": [
-        "Rare"
-      ],
-      "count": {
-        "Rare": 1
-      }
-    },
-    {
-      "card_name": "Charubin the Fire Knight",
-      "set_number": "LB-14",
+      "set_number": "LOB-014",
       "rarities": [
         "Common"
       ],
@@ -158,8 +158,18 @@
       }
     },
     {
+      "card_name": "Charubin the Fire Knight",
+      "set_number": "LOB-015",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
       "card_name": "Flame Manipulator",
-      "set_number": "LB-15",
+      "set_number": "LOB-016",
       "rarities": [
         "Common"
       ],
@@ -169,7 +179,7 @@
     },
     {
       "card_name": "Monster Egg",
-      "set_number": "LB-16",
+      "set_number": "LOB-017",
       "rarities": [
         "Common"
       ],
@@ -179,7 +189,7 @@
     },
     {
       "card_name": "Firegrass",
-      "set_number": "LB-17",
+      "set_number": "LOB-018",
       "rarities": [
         "Common"
       ],
@@ -189,17 +199,7 @@
     },
     {
       "card_name": "Darkfire Dragon",
-      "set_number": "LB-18",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Dark King of the Abyss",
-      "set_number": "LB-19",
+      "set_number": "LOB-019",
       "rarities": [
         "Rare"
       ],
@@ -208,8 +208,18 @@
       }
     },
     {
+      "card_name": "Dark King of the Abyss",
+      "set_number": "LOB-020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
       "card_name": "Fiend Reflection #2",
-      "set_number": "LB-20",
+      "set_number": "LOB-021",
       "rarities": [
         "Common"
       ],
@@ -219,17 +229,7 @@
     },
     {
       "card_name": "Fusionist",
-      "set_number": "LB-21",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Turtle Tiger",
-      "set_number": "LB-22",
+      "set_number": "LOB-022",
       "rarities": [
         "Rare"
       ],
@@ -238,8 +238,18 @@
       }
     },
     {
+      "card_name": "Turtle Tiger",
+      "set_number": "LOB-023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
       "card_name": "Petit Dragon",
-      "set_number": "LB-23",
+      "set_number": "LOB-024",
       "rarities": [
         "Common"
       ],
@@ -249,7 +259,7 @@
     },
     {
       "card_name": "Petit Angel",
-      "set_number": "LB-24",
+      "set_number": "LOB-025",
       "rarities": [
         "Common"
       ],
@@ -259,7 +269,7 @@
     },
     {
       "card_name": "Hinotama Soul",
-      "set_number": "LB-25",
+      "set_number": "LOB-026",
       "rarities": [
         "Common"
       ],
@@ -269,7 +279,7 @@
     },
     {
       "card_name": "Aqua Madoor",
-      "set_number": "LB-26",
+      "set_number": "LOB-027",
       "rarities": [
         "Rare"
       ],
@@ -279,7 +289,7 @@
     },
     {
       "card_name": "Kagemusha of the Blue Flame",
-      "set_number": "LB-27",
+      "set_number": "LOB-028",
       "rarities": [
         "Common"
       ],
@@ -289,17 +299,17 @@
     },
     {
       "card_name": "Flame Ghost",
-      "set_number": "LB-28",
+      "set_number": "LOB-029",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Two-Mouth Darkruler",
-      "set_number": "LB-29",
+      "set_number": "LOB-030",
       "rarities": [
         "Common"
       ],
@@ -309,7 +319,7 @@
     },
     {
       "card_name": "Dissolverock",
-      "set_number": "LB-30",
+      "set_number": "LOB-031",
       "rarities": [
         "Common"
       ],
@@ -319,7 +329,7 @@
     },
     {
       "card_name": "Root Water",
-      "set_number": "LB-31",
+      "set_number": "LOB-032",
       "rarities": [
         "Common"
       ],
@@ -329,7 +339,7 @@
     },
     {
       "card_name": "The Furious Sea King",
-      "set_number": "LB-32",
+      "set_number": "LOB-033",
       "rarities": [
         "Common"
       ],
@@ -339,7 +349,7 @@
     },
     {
       "card_name": "Green Phantom King",
-      "set_number": "LB-33",
+      "set_number": "LOB-034",
       "rarities": [
         "Common"
       ],
@@ -349,7 +359,7 @@
     },
     {
       "card_name": "Ray & Temperature",
-      "set_number": "LB-34",
+      "set_number": "LOB-035",
       "rarities": [
         "Common"
       ],
@@ -359,7 +369,7 @@
     },
     {
       "card_name": "King Fog",
-      "set_number": "LB-35",
+      "set_number": "LOB-036",
       "rarities": [
         "Common"
       ],
@@ -369,7 +379,7 @@
     },
     {
       "card_name": "Mystical Sheep #2",
-      "set_number": "LB-36",
+      "set_number": "LOB-037",
       "rarities": [
         "Common"
       ],
@@ -379,7 +389,7 @@
     },
     {
       "card_name": "Masaki the Legendary Swordsman",
-      "set_number": "LB-37",
+      "set_number": "LOB-038",
       "rarities": [
         "Common"
       ],
@@ -389,7 +399,7 @@
     },
     {
       "card_name": "Kurama",
-      "set_number": "LB-38",
+      "set_number": "LOB-039",
       "rarities": [
         "Common"
       ],
@@ -399,57 +409,67 @@
     },
     {
       "card_name": "Legendary Sword",
-      "set_number": "LB-39",
+      "set_number": "LOB-040",
       "rarities": [
-        "Common"
+        "Short Print"
       ],
       "count": {
-        "Common": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Beast Fangs",
-      "set_number": "LB-40",
+      "set_number": "LOB-041",
       "rarities": [
-        "Common"
+        "Short Print"
       ],
       "count": {
-        "Common": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Violet Crystal",
-      "set_number": "LB-41",
+      "set_number": "LOB-042",
       "rarities": [
-        "Common"
+        "Short Print"
       ],
       "count": {
-        "Common": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Book of Secret Arts",
-      "set_number": "LB-42",
+      "set_number": "LOB-043",
       "rarities": [
-        "Common"
+        "Short Print"
       ],
       "count": {
-        "Common": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Power of Kaishin",
-      "set_number": "LB-43",
+      "set_number": "LOB-044",
       "rarities": [
-        "Common"
+        "Short Print"
       ],
       "count": {
-        "Common": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Dragon Capture Jar",
-      "set_number": "LB-44",
+      "set_number": "LOB-045",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Forest",
+      "set_number": "LOB-046",
       "rarities": [
         "Common"
       ],
@@ -458,68 +478,58 @@
       }
     },
     {
-      "card_name": "Forest",
-      "set_number": "LB-45",
-      "rarities": [
-        "Rare"
-      ],
-      "count": {
-        "Rare": 1
-      }
-    },
-    {
       "card_name": "Wasteland",
-      "set_number": "LB-46",
+      "set_number": "LOB-047",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Mountain",
-      "set_number": "LB-47",
+      "set_number": "LOB-048",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Sogen",
-      "set_number": "LB-48",
+      "set_number": "LOB-049",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Umi",
-      "set_number": "LB-49",
+      "set_number": "LOB-050",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Yami",
-      "set_number": "LB-50",
+      "set_number": "LOB-051",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Dark Hole",
-      "set_number": "LB-51",
+      "set_number": "LOB-052",
       "rarities": [
         "Super Rare"
       ],
@@ -529,7 +539,7 @@
     },
     {
       "card_name": "Raigeki",
-      "set_number": "LB-52",
+      "set_number": "LOB-053",
       "rarities": [
         "Super Rare"
       ],
@@ -539,7 +549,7 @@
     },
     {
       "card_name": "Red Medicine",
-      "set_number": "LB-53",
+      "set_number": "LOB-054",
       "rarities": [
         "Common"
       ],
@@ -549,7 +559,7 @@
     },
     {
       "card_name": "Sparks",
-      "set_number": "LB-54",
+      "set_number": "LOB-055",
       "rarities": [
         "Common"
       ],
@@ -559,7 +569,7 @@
     },
     {
       "card_name": "Hinotama",
-      "set_number": "LB-55",
+      "set_number": "LOB-056",
       "rarities": [
         "Common"
       ],
@@ -569,17 +579,17 @@
     },
     {
       "card_name": "Fissure",
-      "set_number": "LB-56",
+      "set_number": "LOB-057",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Trap Hole",
-      "set_number": "LB-57",
+      "set_number": "LOB-058",
       "rarities": [
         "Super Rare"
       ],
@@ -589,7 +599,7 @@
     },
     {
       "card_name": "Polymerization",
-      "set_number": "LB-58",
+      "set_number": "LOB-059",
       "rarities": [
         "Super Rare"
       ],
@@ -599,7 +609,7 @@
     },
     {
       "card_name": "Remove Trap",
-      "set_number": "LB-59",
+      "set_number": "LOB-060",
       "rarities": [
         "Common"
       ],
@@ -609,12 +619,652 @@
     },
     {
       "card_name": "Two-Pronged Attack",
-      "set_number": "LB-60",
+      "set_number": "LOB-061",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mystical Elf",
+      "set_number": "LOB-062",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Tyhone",
+      "set_number": "LOB-063",
       "rarities": [
         "Common"
       ],
       "count": {
         "Common": 1
+      }
+    },
+    {
+      "card_name": "Beaver Warrior",
+      "set_number": "LOB-064",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gravedigger Ghoul",
+      "set_number": "LOB-065",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Curse of Dragon",
+      "set_number": "LOB-066",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Karbonala Warrior",
+      "set_number": "LOB-067",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Giant Soldier of Stone",
+      "set_number": "LOB-068",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Uraby",
+      "set_number": "LOB-069",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Red-Eyes B. Dragon",
+      "set_number": "LOB-070",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Reaper of the Cards",
+      "set_number": "LOB-071",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Witty Phantom",
+      "set_number": "LOB-072",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Larvas",
+      "set_number": "LOB-073",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hard Armor",
+      "set_number": "LOB-074",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Man Eater",
+      "set_number": "LOB-075",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "M-Warrior #1",
+      "set_number": "LOB-076",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "M-Warrior #2",
+      "set_number": "LOB-077",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spirit of the Harp",
+      "set_number": "LOB-078",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Armaill",
+      "set_number": "LOB-079",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Terra the Terrible",
+      "set_number": "LOB-080",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Frenzied Panda",
+      "set_number": "LOB-081",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Kumootoko",
+      "set_number": "LOB-082",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Meda Bat",
+      "set_number": "LOB-083",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Enchanting Mermaid",
+      "set_number": "LOB-084",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fireyarou",
+      "set_number": "LOB-085",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dragoness the Wicked Knight",
+      "set_number": "LOB-086",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "One-Eyed Shield Dragon",
+      "set_number": "LOB-087",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Energy",
+      "set_number": "LOB-088",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Laser Cannon Armor",
+      "set_number": "LOB-089",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Vile Germs",
+      "set_number": "LOB-090",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Silver Bow and Arrow",
+      "set_number": "LOB-091",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Dragon Treasure",
+      "set_number": "LOB-092",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Electro-Whip",
+      "set_number": "LOB-093",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Mystical Moon",
+      "set_number": "LOB-094",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Stop Defense",
+      "set_number": "LOB-095",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Machine Conversion Factory",
+      "set_number": "LOB-096",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Raise Body Heat",
+      "set_number": "LOB-097",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Follow Wind",
+      "set_number": "LOB-098",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Goblin's Secret Remedy",
+      "set_number": "LOB-099",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Final Flame",
+      "set_number": "LOB-100",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Swords of Revealing Light",
+      "set_number": "LOB-101",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Metal Dragon",
+      "set_number": "LOB-102",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Spike Seadra",
+      "set_number": "LOB-103",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tripwire Beast",
+      "set_number": "LOB-104",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Skull Red Bird",
+      "set_number": "LOB-105",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armed Ninja",
+      "set_number": "LOB-106",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Flower Wolf",
+      "set_number": "LOB-107",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Man-Eater Bug",
+      "set_number": "LOB-108",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Sand Stone",
+      "set_number": "LOB-109",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hane-Hane",
+      "set_number": "LOB-110",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Misairuzame",
+      "set_number": "LOB-111",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Steel Ogre Grotto #1",
+      "set_number": "LOB-112",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lesser Dragon",
+      "set_number": "LOB-113",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Darkworld Thorns",
+      "set_number": "LOB-114",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Drooling Lizard",
+      "set_number": "LOB-115",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armored Starfish",
+      "set_number": "LOB-116",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Succubus Knight",
+      "set_number": "LOB-117",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Monster Reborn",
+      "set_number": "LOB-118",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Pot of Greed",
+      "set_number": "LOB-119",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Right Leg of the Forbidden One",
+      "set_number": "LOB-120",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Left Leg of the Forbidden One",
+      "set_number": "LOB-121",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Right Arm of the Forbidden One",
+      "set_number": "LOB-122",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Left Arm of the Forbidden One",
+      "set_number": "LOB-123",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Exodia the Forbidden One",
+      "set_number": "LOB-124",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gaia the Dragon Champion",
+      "set_number": "LOB-123",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     }
   ]

@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Galaxy Serpent",
+      "set_number": "JOTL-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "DZW - Chimera Clad",
       "set_number": "JOTL-EN001",
       "rarities": [
@@ -161,20 +171,20 @@
       "card_name": "Bujin Yamato",
       "set_number": "JOTL-EN016",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Bujingi Quilin",
       "set_number": "JOTL-EN017",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -201,10 +211,10 @@
       "card_name": "Bujingi Crane",
       "set_number": "JOTL-EN020",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -231,10 +241,10 @@
       "card_name": "Mecha Phantom Beast Blue Impala",
       "set_number": "JOTL-EN023",
       "rarities": [
-        "Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -261,10 +271,10 @@
       "card_name": "Brotherhood of the Fire Fist - Boar",
       "set_number": "JOTL-EN026",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -281,10 +291,10 @@
       "card_name": "World of Prophecy",
       "set_number": "JOTL-EN028",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -301,10 +311,10 @@
       "card_name": "Archfiend Cavalry",
       "set_number": "JOTL-EN030",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -331,10 +341,10 @@
       "card_name": "Traptrix Myrmeleo",
       "set_number": "JOTL-EN033",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -381,30 +391,30 @@
       "card_name": "Masked Chameleon",
       "set_number": "JOTL-EN038",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Flying \"C\"",
       "set_number": "JOTL-EN039",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Yellow Duston",
       "set_number": "JOTL-EN040",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -431,40 +441,40 @@
       "card_name": "Mist Bird Clausolas",
       "set_number": "JOTL-EN043",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Underworld Fighter Balmung",
       "set_number": "JOTL-EN044",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Armades, Keeper of Boundaries",
       "set_number": "JOTL-EN045",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "HTS Psyhemuth",
       "set_number": "JOTL-EN046",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -472,35 +482,35 @@
       "set_number": "JOTL-EN047",
       "rarities": [
         "Ultimate Rare",
-        "Ultra Rare"
+        "Ghost Rare",
+        "Secret Rare"
       ],
       "count": {
         "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Ghost Rare": 1,
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Number C39: Utopia Ray Victory",
       "set_number": "JOTL-EN048",
       "rarities": [
-        "Holographic Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
       "card_name": "Shark Caesar",
       "set_number": "JOTL-EN049",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -547,10 +557,10 @@
       "card_name": "Number 66: Master Key Beetle",
       "set_number": "JOTL-EN054",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -568,11 +578,11 @@
       "set_number": "JOTL-EN056",
       "rarities": [
         "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
         "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -663,30 +673,30 @@
       "card_name": "Fire Formation - Yoko",
       "set_number": "JOTL-EN065",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Archfiend Palabyrinth",
       "set_number": "JOTL-EN066",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Transmodify",
       "set_number": "JOTL-EN067",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -703,10 +713,10 @@
       "card_name": "Single Purchase",
       "set_number": "JOTL-EN069",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -733,20 +743,20 @@
       "card_name": "Corrupted Keys",
       "set_number": "JOTL-EN072",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Vain Betrayer",
       "set_number": "JOTL-EN073",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -803,6 +813,66 @@
       "card_name": "Shapesister",
       "set_number": "JOTL-EN079",
       "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Armageddon Designator",
+      "set_number": "JOTL-EN080",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Bujingi Warg",
+      "set_number": "JOTL-EN081",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mecha Phantom Beast Aerosguin",
+      "set_number": "JOTL-EN082",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Cockadoodledoo",
+      "set_number": "JOTL-EN083",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Noble Knight Drystan",
+      "set_number": "JOTL-EN084",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Tour Bus To Forbidden Realms",
+      "set_number": "JOTL-EN085",
+      "rarities": [
         "Rare"
       ],
       "count": {
@@ -810,13 +880,143 @@
       }
     },
     {
-      "card_name": "Armageddon Designator",
-      "set_number": "JOTL-EN080",
+      "card_name": "Confronting the \"C\"",
+      "set_number": "JOTL-EN086",
       "rarities": [
-        "Normal Rare"
+        "Rare"
       ],
       "count": {
-        "Normal Rare": 1
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Angel of Zera",
+      "set_number": "JOTL-EN087",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Xyz Encore",
+      "set_number": "JOTL-EN088",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Moon Dance Ritual",
+      "set_number": "JOTL-EN089",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "The Atmosphere",
+      "set_number": "JOTL-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Junk Blader",
+      "set_number": "JOTL-EN091",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Coach Captain Bearman",
+      "set_number": "JOTL-EN092",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Coach Soldier Wolfbark",
+      "set_number": "JOTL-EN093",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Brotherhood of the Fire Fist - Rooster",
+      "set_number": "JOTL-EN094",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fire King Avatar Yaksha",
+      "set_number": "JOTL-EN095",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Fishborg Archer",
+      "set_number": "JOTL-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fencing Fire Ferret",
+      "set_number": "JOTL-EN097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Kujakujaku",
+      "set_number": "JOTL-EN098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Madolche Chickolates",
+      "set_number": "JOTL-EN099",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
       }
     }
   ]
