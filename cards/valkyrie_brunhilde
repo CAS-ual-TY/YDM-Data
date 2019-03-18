@@ -1,0 +1,24 @@
+{
+  "name": "Valkyrie Brunhilde",
+  "number": "02204038",
+  "is_illegal": false,
+  "text": "Unaffected by your opponent’s Spell effects. Gains 500 ATK for each monster your opponent controls. When an opponent’s monster declares an attack: You can have this card lose exactly 1000 DEF, and if you do, your \“Valkyrie\” monsters cannot be destroyed by battle this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1800",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}
