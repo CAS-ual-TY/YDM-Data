@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Artifact Scythe",
+      "set_number": "PRIO-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "ZS - Vanish Sage",
       "set_number": "PRIO-EN001",
       "rarities": [
@@ -111,10 +121,10 @@
       "card_name": "Artifact Moralltach",
       "set_number": "PRIO-EN011",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -171,10 +181,10 @@
       "card_name": "Artifact Caduceus",
       "set_number": "PRIO-EN017",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -191,10 +201,10 @@
       "card_name": "Sylvan Snapdrassinagon",
       "set_number": "PRIO-EN019",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -211,10 +221,10 @@
       "card_name": "Sylvan Sagequoia",
       "set_number": "PRIO-EN021",
       "rarities": [
-        "Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -241,10 +251,10 @@
       "card_name": "Bujin Hirume",
       "set_number": "PRIO-EN024",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -281,20 +291,20 @@
       "card_name": "Madolche Anjelly",
       "set_number": "PRIO-EN028",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Pilica, Descendant of Gusto",
       "set_number": "PRIO-EN029",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -311,10 +321,10 @@
       "card_name": "Lucent, Netherlord of Dark World",
       "set_number": "PRIO-EN031",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -341,30 +351,30 @@
       "card_name": "Majesty's Fiend",
       "set_number": "PRIO-EN034",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Thestalos the Mega Monarch",
       "set_number": "PRIO-EN035",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Beautunaful Princess",
       "set_number": "PRIO-EN036",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -381,34 +391,30 @@
       "card_name": "Condemned Maiden",
       "set_number": "PRIO-EN038",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Starduston",
       "set_number": "PRIO-EN039",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Number 62: Galaxy-Eyes Prime Photon Dragon",
       "set_number": "PRIO-EN040",
       "rarities": [
-        "Secret Rare",
-        "Holographic Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Holographic Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -417,14 +423,12 @@
       "card_name": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
       "set_number": "PRIO-EN041",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -441,24 +445,22 @@
       "card_name": "Number C103: Ragnafinity",
       "set_number": "PRIO-EN043",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Number C102: Archfiend Seraph",
       "set_number": "PRIO-EN044",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -475,10 +477,10 @@
       "card_name": "Number C80: Requiem in Berserk",
       "set_number": "PRIO-EN046",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -505,12 +507,10 @@
       "card_name": "Artifact Durendal",
       "set_number": "PRIO-EN049",
       "rarities": [
-        "Secret Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -519,20 +519,20 @@
       "card_name": "Orea, the Sylvan High Arbiter",
       "set_number": "PRIO-EN050",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Ghostrick Socuteboss",
       "set_number": "PRIO-EN051",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -541,12 +541,12 @@
       "rarities": [
         "Secret Rare",
         "Ultimate Rare",
-        "Ultra Rare"
+        "Ghost Rare"
       ],
       "count": {
         "Secret Rare": 1,
         "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Ghost Rare": 1
       }
     },
     {
@@ -573,10 +573,10 @@
       "card_name": "Phonon Pulse Dragon",
       "set_number": "PRIO-EN055",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -603,14 +603,10 @@
       "card_name": "Rank-Up-Magic - The Seventh One",
       "set_number": "PRIO-EN058",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -627,10 +623,10 @@
       "card_name": "Artifact Ignition",
       "set_number": "PRIO-EN060",
       "rarities": [
-        "Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -647,10 +643,10 @@
       "card_name": "Sylvan Charity",
       "set_number": "PRIO-EN062",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -697,20 +693,20 @@
       "card_name": "Forbidden Scripture",
       "set_number": "PRIO-EN067",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Jackpot 7",
       "set_number": "PRIO-EN068",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -727,10 +723,10 @@
       "card_name": "Tachyon Chaos Hole",
       "set_number": "PRIO-EN070",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -747,10 +743,10 @@
       "card_name": "Artifact Sanctum",
       "set_number": "PRIO-EN072",
       "rarities": [
-        "Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -787,10 +783,10 @@
       "card_name": "The Monarchs Erupt",
       "set_number": "PRIO-EN076",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -827,54 +823,54 @@
       "card_name": "Tri-and-Guess",
       "set_number": "PRIO-EN080",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
-      "card_name": "Gagaga Sister",
+      "card_name": "Noble Knight Brothers",
       "set_number": "PRIO-EN081",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
-      "card_name": "Number 55: Gogogo Goliath",
+      "card_name": "Noble Knight Eachtar",
       "set_number": "PRIO-EN082",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
-      "card_name": "Dodododraw",
+      "card_name": "Sylvan Princessprout",
       "set_number": "PRIO-EN083",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
-      "card_name": "Galaxy-Eyes Cloudragon",
+      "card_name": "Bujingi Sinyou",
       "set_number": "PRIO-EN084",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
-      "card_name": "Galaxy Soldier",
+      "card_name": "Vampire Vamp",
       "set_number": "PRIO-EN085",
       "rarities": [
         "Super Rare"
@@ -884,37 +880,37 @@
       }
     },
     {
-      "card_name": "Photon Stream of Destruction",
+      "card_name": "Gladiator Beast Nerokius",
       "set_number": "PRIO-EN086",
       "rarities": [
-        "Common"
+        "Secret Rare"
       ],
       "count": {
-        "Common": 1
+        "Secret Rare": 1
       }
     },
     {
-      "card_name": "Tachyon Transmigration",
+      "card_name": "Noble Knights of the Round Table",
       "set_number": "PRIO-EN087",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
-      "card_name": "Battlin' Boxer Shadow",
+      "card_name": "Avalon",
       "set_number": "PRIO-EN088",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
-      "card_name": "Number 79: Battlin' Boxer Nova Kaiser",
+      "card_name": "Escalation of the Monarchs",
       "set_number": "PRIO-EN089",
       "rarities": [
         "Super Rare"
@@ -924,8 +920,98 @@
       }
     },
     {
-      "card_name": "Jolt Counter",
+      "card_name": "Bolt Penguin",
       "set_number": "PRIO-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Phantom King Hydride",
+      "set_number": "PRIO-EN091",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Number 42: Galaxy Tomahawk",
+      "set_number": "PRIO-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rose Archer",
+      "set_number": "PRIO-EN093",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Shogi Knight",
+      "set_number": "PRIO-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gimmick Puppet Des Troy",
+      "set_number": "PRIO-EN095",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "ZW - Sleipnir Mail",
+      "set_number": "PRIO-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Number 48: Shadow Lich",
+      "set_number": "PRIO-EN097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Galaxy Dragon",
+      "set_number": "PRIO-EN098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hundred-Footed Horror",
+      "set_number": "PRIO-EN099",
       "rarities": [
         "Common"
       ],

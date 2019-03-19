@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Scrap Archfiend",
+      "set_number": "DREV-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Earthquake Giant",
       "set_number": "DREV-EN001",
       "rarities": [
@@ -21,10 +31,12 @@
       "card_name": "Effect Veiler",
       "set_number": "DREV-EN002",
       "rarities": [
-        "Ultra Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Ultra Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -291,10 +303,12 @@
       "card_name": "Naturia Bamboo Shoot",
       "set_number": "DREV-EN029",
       "rarities": [
-        "Ultra Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Ultra Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -371,22 +385,22 @@
       "card_name": "Final Psychic Ogre",
       "set_number": "DREV-EN037",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Dragon Knight Draco-Equiste",
       "set_number": "DREV-EN038",
       "rarities": [
-        "Holographic Rare",
+        "Ghost Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
+        "Ghost Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -405,10 +419,12 @@
       "card_name": "Thunder Unicorn",
       "set_number": "DREV-EN040",
       "rarities": [
-        "Ultra Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Ultra Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -603,10 +619,10 @@
       "card_name": "Cursed Armaments",
       "set_number": "DREV-EN059",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -623,10 +639,10 @@
       "card_name": "Summoning Curse",
       "set_number": "DREV-EN061",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -813,10 +829,200 @@
       "card_name": "Light of Destruction",
       "set_number": "DREV-EN080",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Amazoness Scouts",
+      "set_number": "DREV-EN081",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Naturia Pineapple",
+      "set_number": "DREV-EN082",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "D.D. Destroyer",
+      "set_number": "DREV-EN083",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Desertapir",
+      "set_number": "DREV-EN084",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Psychic Nightmare",
+      "set_number": "DREV-EN085",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Guts of Steel",
+      "set_number": "DREV-EN086",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Amazoness Heirloom",
+      "set_number": "DREV-EN087",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Amazoness Shamanism",
+      "set_number": "DREV-EN088",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Super Rush Recklessly",
+      "set_number": "DREV-EN089",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mystical Refpanel",
+      "set_number": "DREV-EN090",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fabled Raven",
+      "set_number": "DREV-EN091",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Ally of Justice Cyclone Creator",
+      "set_number": "DREV-EN092",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Miracle's Wake",
+      "set_number": "DREV-EN093",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Flamvell Poun",
+      "set_number": "DREV-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Flamvell Archer",
+      "set_number": "DREV-EN095",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Flamvell Fiend",
+      "set_number": "DREV-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Genex Worker",
+      "set_number": "DREV-EN097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Genex Power Planner",
+      "set_number": "DREV-EN098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stygian Street Patrol",
+      "set_number": "DREV-EN099",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
       }
     }
   ]

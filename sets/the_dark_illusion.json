@@ -8,13 +8,23 @@
   "load": true,
   "cards": [
     {
-      "card_name": "Performapal Bot-Eyes Lizard",
-      "set_number": "TDIL-EN001",
+      "card_name": "Magical Something",
+      "set_number": "TDIL-EN000",
       "rarities": [
         "Rare"
       ],
       "count": {
         "Rare": 1
+      }
+    },
+    {
+      "card_name": "Performapal Bot-Eyes Lizard",
+      "set_number": "TDIL-EN001",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
       }
     },
     {
@@ -31,10 +41,10 @@
       "card_name": "Performapal Extra Slinger",
       "set_number": "TDIL-EN003",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -51,10 +61,10 @@
       "card_name": "Performapal Gumgumouton",
       "set_number": "TDIL-EN005",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -91,12 +101,10 @@
       "card_name": "Acrobatic Magician",
       "set_number": "TDIL-EN009",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -163,21 +171,19 @@
       "card_name": "Red Mirror",
       "set_number": "TDIL-EN016",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Magician of Dark Illusion",
       "set_number": "TDIL-EN017",
       "rarities": [
-        "Secret Rare",
         "Super Rare"
       ],
       "count": {
-        "Secret Rare": 1,
         "Super Rare": 1
       }
     },
@@ -185,33 +191,29 @@
       "card_name": "Magician's Robe",
       "set_number": "TDIL-EN018",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Magician's Rod",
       "set_number": "TDIL-EN019",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Master Peace, the True Dracoslayer",
       "set_number": "TDIL-EN020",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
     },
@@ -239,10 +241,10 @@
       "card_name": "Metalfoes Goldriver",
       "set_number": "TDIL-EN023",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -259,12 +261,10 @@
       "card_name": "True King Agnimazud, the Vanisher",
       "set_number": "TDIL-EN025",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -291,10 +291,10 @@
       "card_name": "Triamid Hunter",
       "set_number": "TDIL-EN028",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -311,11 +311,9 @@
       "card_name": "Triamid Sphinx",
       "set_number": "TDIL-EN030",
       "rarities": [
-        "Secret Rare",
         "Super Rare"
       ],
       "count": {
-        "Secret Rare": 1,
         "Super Rare": 1
       }
     },
@@ -323,35 +321,25 @@
       "card_name": "Shiranui Solitaire",
       "set_number": "TDIL-EN031",
       "rarities": [
-        "Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Toon Dark Magician",
       "set_number": "TDIL-EN032",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Scapeghost",
       "set_number": "TDIL-EN033",
-      "rarities": [
-        "Rare"
-      ],
-      "count": {
-        "Rare": 1
-      }
-    },
-    {
-      "card_name": "Block Dragon",
-      "set_number": "TDIL-EN034",
       "rarities": [
         "Common"
       ],
@@ -360,14 +348,22 @@
       }
     },
     {
+      "card_name": "Block Dragon",
+      "set_number": "TDIL-EN034",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
       "card_name": "Amaterasu",
       "set_number": "TDIL-EN035",
       "rarities": [
-        "Secret Rare",
         "Super Rare"
       ],
       "count": {
-        "Secret Rare": 1,
         "Super Rare": 1
       }
     },
@@ -375,10 +371,10 @@
       "card_name": "Black Dragon Ninja",
       "set_number": "TDIL-EN036",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -405,50 +401,50 @@
       "card_name": "Tuning Gum",
       "set_number": "TDIL-EN040",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Wrecker Panda",
       "set_number": "TDIL-EN041",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Fairy Tail - Snow",
       "set_number": "TDIL-EN042",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Metalfoes Adamante",
       "set_number": "TDIL-EN043",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Metalfoes Orichalc",
       "set_number": "TDIL-EN044",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -465,31 +461,15 @@
       "card_name": "Nirvana High Paladin",
       "set_number": "TDIL-EN046",
       "rarities": [
-        "Secret Rare",
-        "Holographic Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Holographic Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Assault Blackwing - Sayo the Rain Hider",
       "set_number": "TDIL-EN047",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Assault Blackwing - Sohaya the Rain Storm",
-      "set_number": "TDIL-EN048",
       "rarities": [
         "Rare"
       ],
@@ -498,30 +478,32 @@
       }
     },
     {
+      "card_name": "Assault Blackwing - Sohaya the Rain Storm",
+      "set_number": "TDIL-EN048",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
       "card_name": "Assault Blackwing - Onimaru the Divine Thunder",
       "set_number": "TDIL-EN049",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Tyrant Red Dragon Archfiend",
       "set_number": "TDIL-EN050",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
     },
@@ -529,48 +511,40 @@
       "card_name": "Coral Dragon",
       "set_number": "TDIL-EN051",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Ebon High Magician",
       "set_number": "TDIL-EN052",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Super Hippo Carnival",
       "set_number": "TDIL-EN053",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Luna Light Perfume",
       "set_number": "TDIL-EN054",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -597,22 +571,20 @@
       "card_name": "Dark Magical Circle",
       "set_number": "TDIL-EN057",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Illusion Magic",
       "set_number": "TDIL-EN058",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -629,20 +601,20 @@
       "card_name": "Metamorformation",
       "set_number": "TDIL-EN060",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Metalfoes Fusion",
       "set_number": "TDIL-EN061",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -659,44 +631,40 @@
       "card_name": "Triamid Cruiser",
       "set_number": "TDIL-EN063",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Triamid Kingolem",
       "set_number": "TDIL-EN064",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Cosmic Cyclone",
       "set_number": "TDIL-EN065",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Pot of Desires",
       "set_number": "TDIL-EN066",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -713,10 +681,10 @@
       "card_name": "Card of the Soul",
       "set_number": "TDIL-EN068",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -743,10 +711,10 @@
       "card_name": "Magician Navigation",
       "set_number": "TDIL-EN071",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -763,20 +731,20 @@
       "card_name": "Metalfoes Combination",
       "set_number": "TDIL-EN073",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Triamid Pulse",
       "set_number": "TDIL-EN074",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -793,34 +761,30 @@
       "card_name": "Floodgate Trap Hole",
       "set_number": "TDIL-EN076",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Premature Return",
       "set_number": "TDIL-EN077",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "United Front",
       "set_number": "TDIL-EN078",
       "rarities": [
-        "Common"
+        "Short Print"
       ],
       "count": {
-        "Common": 1
+        "Short Print": 1
       }
     },
     {
@@ -837,10 +801,200 @@
       "card_name": "The Forceful Checkpoint",
       "set_number": "TDIL-EN080",
       "rarities": [
-        "Normal Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Normal Rare": 1
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Ninjitsu Art Notebook",
+      "set_number": "TDIL-EN081",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Subterror Nemesis Warrior",
+      "set_number": "TDIL-EN082",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Subterror Behemoth Umastryx",
+      "set_number": "TDIL-EN083",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Subterror Behemoth Stalagmo",
+      "set_number": "TDIL-EN084",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "The Hidden City",
+      "set_number": "TDIL-EN085",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "SPYRAL Super Agent",
+      "set_number": "TDIL-EN086",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "SPYRAL Quik-Fix",
+      "set_number": "TDIL-EN087",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "SPYRAL GEAR - Drone",
+      "set_number": "TDIL-EN088",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "SPYRAL GEAR - Big Red",
+      "set_number": "TDIL-EN089",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Heavy Freight Train Derricrane",
+      "set_number": "TDIL-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Number 81: Superdreadnought Rail Cannon Super Dora",
+      "set_number": "TDIL-EN091",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Revolving Switchyard",
+      "set_number": "TDIL-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dragodies, the Empowered Warrior",
+      "set_number": "TDIL-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Empowerment",
+      "set_number": "TDIL-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Paleozoic Olenoides",
+      "set_number": "TDIL-EN095",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Paleozoic Hallucigenia",
+      "set_number": "TDIL-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Paleozoic Canadia",
+      "set_number": "TDIL-EN097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Paleozoic Pikaia",
+      "set_number": "TDIL-EN098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Revolving Switchyard",
+      "set_number": "TDIL-EN099",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
     }
   ]

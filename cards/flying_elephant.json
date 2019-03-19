@@ -1,0 +1,24 @@
+{
+  "name": "Flying Elephant",
+  "number": "66765023",
+  "is_illegal": false,
+  "text": "Once per opponent's turn, if this card would be destroyed by their card effect, it is not destroyed. Once per turn, during their End Phase, if that effect was applied this turn: Apply the following effect. ?During your next turn, if this card inflicts battle damage to your opponent by a direct attack, you win the Duel.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1850",
+  "defense": "1300",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -21,12 +21,10 @@
       "card_name": "Performapal Whim Witch",
       "set_number": "INOV-EN002",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -153,22 +151,20 @@
       "card_name": "Crystron Quan",
       "set_number": "INOV-EN015",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Crystron Citree",
       "set_number": "INOV-EN016",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -215,12 +211,10 @@
       "card_name": "True King Bahrastos, the Fathomer",
       "set_number": "INOV-EN021",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -287,10 +281,10 @@
       "card_name": "Meteor Dragon Red-Eyes Impact",
       "set_number": "INOV-EN028",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -337,105 +331,89 @@
       "card_name": "Torque Tune Gear",
       "set_number": "INOV-EN033",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Pandora's Jewelry Box",
       "set_number": "INOV-EN034",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Fairy Tail - Sleeper",
       "set_number": "INOV-EN035",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Cyber Angel Vrash",
       "set_number": "INOV-EN036",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Sauravis, the Ancient and Ascended",
       "set_number": "INOV-EN037",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Starving Venom Fusion Dragon",
       "set_number": "INOV-EN038",
       "rarities": [
-        "Secret Rare",
-        "Holographic Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Holographic Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Fullmetalfoes Alkahest",
       "set_number": "INOV-EN039",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Metalfoes Mithrilium",
       "set_number": "INOV-EN040",
       "rarities": [
-        "Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Meteor Black Comet Dragon",
       "set_number": "INOV-EN041",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
     },
@@ -453,30 +431,6 @@
       "card_name": "Flower Cardian Boardefly",
       "set_number": "INOV-EN043",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
-      ],
-      "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
-      }
-    },
-    {
-      "card_name": "Crystron Quandax",
-      "set_number": "INOV-EN044",
-      "rarities": [
-        "Secret Rare",
-        "Super Rare"
-      ],
-      "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
-      }
-    },
-    {
-      "card_name": "Crystron Ametrix",
-      "set_number": "INOV-EN045",
-      "rarities": [
         "Rare"
       ],
       "count": {
@@ -484,16 +438,32 @@
       }
     },
     {
-      "card_name": "Crystron Phoenix",
-      "set_number": "INOV-EN046",
+      "card_name": "Crystron Quandax",
+      "set_number": "INOV-EN044",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Crystron Ametrix",
+      "set_number": "INOV-EN045",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Crystron Phoenix",
+      "set_number": "INOV-EN046",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
         "Ultra Rare": 1
       }
     },
@@ -501,44 +471,6 @@
       "card_name": "Aromaseraphy Rosemary",
       "set_number": "INOV-EN047",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
-      ],
-      "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
-      }
-    },
-    {
-      "card_name": "Denglong, First of the Yang Zing",
-      "set_number": "INOV-EN048",
-      "rarities": [
-        "Secret Rare",
-        "Super Rare"
-      ],
-      "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
-      }
-    },
-    {
-      "card_name": "Dark Requiem Xyz Dragon",
-      "set_number": "INOV-EN049",
-      "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
-      ],
-      "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
-      }
-    },
-    {
-      "card_name": "Vola-Chemicritter Methydraco",
-      "set_number": "INOV-EN050",
-      "rarities": [
         "Rare"
       ],
       "count": {
@@ -546,16 +478,42 @@
       }
     },
     {
-      "card_name": "Darktellarknight Batlamyus",
-      "set_number": "INOV-EN051",
+      "card_name": "Denglong, First of the Yang Zing",
+      "set_number": "INOV-EN048",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Requiem Xyz Dragon",
+      "set_number": "INOV-EN049",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Vola-Chemicritter Methydraco",
+      "set_number": "INOV-EN050",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Darktellarknight Batlamyus",
+      "set_number": "INOV-EN051",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
         "Ultra Rare": 1
       }
     },
@@ -563,10 +521,10 @@
       "card_name": "Toadally Awesome",
       "set_number": "INOV-EN052",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -583,10 +541,10 @@
       "card_name": "The Phantom Knights' Rank-Up-Magic Launch",
       "set_number": "INOV-EN054",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -623,20 +581,20 @@
       "card_name": "Fullmetalfoes Fusion",
       "set_number": "INOV-EN058",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Catalyst Field",
       "set_number": "INOV-EN059",
       "rarities": [
-        "Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -663,10 +621,10 @@
       "card_name": "Tellarknight Genesis",
       "set_number": "INOV-EN062",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -693,11 +651,9 @@
       "card_name": "Pot of Acquisitiveness",
       "set_number": "INOV-EN065",
       "rarities": [
-        "Secret Rare",
         "Super Rare"
       ],
       "count": {
-        "Secret Rare": 1,
         "Super Rare": 1
       }
     },
@@ -705,20 +661,20 @@
       "card_name": "Quarantine",
       "set_number": "INOV-EN066",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "King's Synchro",
       "set_number": "INOV-EN067",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -775,10 +731,10 @@
       "card_name": "Burnout",
       "set_number": "INOV-EN073",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -825,12 +781,10 @@
       "card_name": "Dimensional Barrier",
       "set_number": "INOV-EN078",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -847,10 +801,200 @@
       "card_name": "Present Card",
       "set_number": "INOV-EN080",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Vermillion Dragon Mech",
+      "set_number": "INOV-EN081",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Subterror Nemesis Archer",
+      "set_number": "INOV-EN082",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Subterror Behemoth Stygokraken",
+      "set_number": "INOV-EN083",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Subterror Behemoth Ultramafus",
+      "set_number": "INOV-EN084",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Subterror Behemoth Burrowing",
+      "set_number": "INOV-EN085",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Charming Resort Staff",
+      "set_number": "INOV-EN086",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "SPYRAL Master Plan",
+      "set_number": "INOV-EN087",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "SPYRAL MISSION - Assault",
+      "set_number": "INOV-EN088",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "SPYRAL Resort",
+      "set_number": "INOV-EN089",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Saber Reflection",
+      "set_number": "INOV-EN090",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Constellar Tempest",
+      "set_number": "INOV-EN091",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Caninetaur",
+      "set_number": "INOV-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dino-Sewing",
+      "set_number": "INOV-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mare Mare",
+      "set_number": "INOV-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Paleozoic Eldonia",
+      "set_number": "INOV-EN095",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Paleozoic Dinomischus",
+      "set_number": "INOV-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Paleozoic Marrella",
+      "set_number": "INOV-EN097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Paleozoic Leanchoilia",
+      "set_number": "INOV-EN098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Paleozoic Opabinia",
+      "set_number": "INOV-EN099",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
     }
   ]

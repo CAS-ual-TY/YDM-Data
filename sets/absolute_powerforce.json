@@ -51,20 +51,22 @@
       "card_name": "Ogre of the Scarlet Sorrow",
       "set_number": "ABPF-EN005",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Battle Fader",
       "set_number": "ABPF-EN006",
       "rarities": [
-        "Common"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
@@ -81,10 +83,10 @@
       "card_name": "Magic Hole Golem",
       "set_number": "ABPF-EN008",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -121,10 +123,12 @@
       "card_name": "Witch of the Black Rose",
       "set_number": "ABPF-EN012",
       "rarities": [
-        "Super Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
@@ -181,10 +185,10 @@
       "card_name": "Reptilianne Vaskii",
       "set_number": "ABPF-EN018",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -251,10 +255,12 @@
       "card_name": "Koa'ki Meiru Urnight",
       "set_number": "ABPF-EN025",
       "rarities": [
-        "Super Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
@@ -331,20 +337,20 @@
       "card_name": "Consecrated Light",
       "set_number": "ABPF-EN033",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Gundari",
       "set_number": "ABPF-EN034",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -371,42 +377,44 @@
       "card_name": "Djinn Cursenchanter of Rituals",
       "set_number": "ABPF-EN037",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Djinn Prognosticator of Rituals",
       "set_number": "ABPF-EN038",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Garlandolf, King of Destruction",
       "set_number": "ABPF-EN039",
       "rarities": [
-        "Super Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Majestic Red Dragon",
       "set_number": "ABPF-EN040",
       "rarities": [
-        "Holographic Rare",
+        "Ghost Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
+        "Ghost Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -483,10 +491,10 @@
       "card_name": "Reptilianne Rage",
       "set_number": "ABPF-EN047",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -550,13 +558,23 @@
       }
     },
     {
+      "card_name": "Spiders' Lair",
+      "set_number": "ABPF-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
       "card_name": "Iron Core Specimen Lab",
       "set_number": "ABPF-EN055",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -593,40 +611,40 @@
       "card_name": "Ascending Soul",
       "set_number": "ABPF-EN059",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Ritual Cage",
       "set_number": "ABPF-EN060",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Pot of Benevolence",
       "set_number": "ABPF-EN061",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Synchro Control",
       "set_number": "ABPF-EN062",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -713,6 +731,16 @@
       "card_name": "Lair Wire",
       "set_number": "ABPF-EN071",
       "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Core Blast",
+      "set_number": "ABPF-EN072",
+      "rarities": [
         "Rare"
       ],
       "count": {
@@ -720,23 +748,13 @@
       }
     },
     {
-      "card_name": "Core Blast",
-      "set_number": "ABPF-EN072",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
       "card_name": "Saber Hole",
       "set_number": "ABPF-EN073",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -763,20 +781,20 @@
       "card_name": "Forgotten Temple of the Deep",
       "set_number": "ABPF-EN076",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Tuner's Scheme",
       "set_number": "ABPF-EN077",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -793,20 +811,212 @@
       "card_name": "Widespread Dud",
       "set_number": "ABPF-EN079",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Inverse Universe",
       "set_number": "ABPF-EN080",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "XX-Saber Emmersblade",
+      "set_number": "ABPF-EN081",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Alchemist of Black Spells",
+      "set_number": "ABPF-EN082",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Super-Nimble Mega Hamster",
+      "set_number": "ABPF-EN083",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Cactus Bouncer",
+      "set_number": "ABPF-EN084",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragonic Guard",
+      "set_number": "ABPF-EN085",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "The Dragon Dwelling in the Deep",
+      "set_number": "ABPF-EN086",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Djinn Disserere of Rituals",
+      "set_number": "ABPF-EN087",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Earthbound Linewalker",
+      "set_number": "ABPF-EN088",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Core Transport Unit",
+      "set_number": "ABPF-EN089",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Gale Dogra",
+      "set_number": "ABPF-EN090",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Berfomet",
+      "set_number": "ABPF-EN091",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Chimera the Flying Mythical Beast",
+      "set_number": "ABPF-EN092",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Viser Des",
+      "set_number": "ABPF-EN093",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Evil Blast",
+      "set_number": "ABPF-EN094",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Shield Wing",
+      "set_number": "ABPF-EN095",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Underground Arachnid",
+      "set_number": "ABPF-EN096",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Zeman the Ape King",
+      "set_number": "ABPF-EN097",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Skull Conductor",
+      "set_number": "ABPF-EN098",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Shield Worm",
+      "set_number": "ABPF-EN099",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
       }
     }
   ]

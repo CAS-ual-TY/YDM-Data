@@ -1,0 +1,24 @@
+{
+  "name": "Shura the Combat Star",
+  "number": "32615065",
+  "is_illegal": false,
+  "text": "\"Idaten the Conqueror Star\" + 1 Level 5 or higher Warrior monster Once per turn, during the Battle Phase (Quick Effect): You can make the ATK of all face-up monsters your opponent currently controls 0. Once per battle, if a monster battles another monster, during damage calculation (Quick Effect): You can make each battling monster gain ATK equal to its own Level x 200, during that damage calculation only. If this Fusion Summoned card you control is destroyed by an opponent's card and sent to your GY: You can Special Summon 1 \"Idaten the Conqueror Star\" from your Extra Deck. (This is treated as a Fusion Summon.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "12"
+}

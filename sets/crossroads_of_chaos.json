@@ -8,6 +8,18 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Rose, Warrior of Revenge",
+      "set_number": "CSOC-EN000",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
       "card_name": "Healing Wave Generator",
       "set_number": "CSOC-EN001",
       "rarities": [
@@ -21,10 +33,10 @@
       "card_name": "Turbo Synchron",
       "set_number": "CSOC-EN002",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -101,20 +113,20 @@
       "card_name": "Morphtronic Cameran",
       "set_number": "CSOC-EN010",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Morphtronic Radion",
       "set_number": "CSOC-EN011",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -141,10 +153,10 @@
       "card_name": "Gadget Driver",
       "set_number": "CSOC-EN014",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -171,20 +183,20 @@
       "card_name": "Iron Chain Repairman",
       "set_number": "CSOC-EN017",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Iron Chain Snake",
       "set_number": "CSOC-EN018",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -221,10 +233,10 @@
       "card_name": "Storm Caller",
       "set_number": "CSOC-EN022",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -271,50 +283,54 @@
       "card_name": "Botanical Girl",
       "set_number": "CSOC-EN027",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Cursed Fig",
       "set_number": "CSOC-EN028",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Tytannial, Princess of Camellias",
       "set_number": "CSOC-EN029",
       "rarities": [
-        "Super Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Zombie Mammoth",
       "set_number": "CSOC-EN030",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Plaguespreader Zombie",
       "set_number": "CSOC-EN031",
       "rarities": [
-        "Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
@@ -351,30 +367,30 @@
       "card_name": "The White Stone of Legend",
       "set_number": "CSOC-EN035",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Tiger Dragon",
       "set_number": "CSOC-EN036",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Jade Knight",
       "set_number": "CSOC-EN037",
       "rarities": [
-        "Rare"
+        "Short Print"
       ],
       "count": {
-        "Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -393,12 +409,12 @@
       "card_name": "Black Rose Dragon",
       "set_number": "CSOC-EN039",
       "rarities": [
-        "Holographic Rare",
+        "Ghost Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
+        "Ghost Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -481,10 +497,12 @@
       "card_name": "Mark of the Rose",
       "set_number": "CSOC-EN047",
       "rarities": [
-        "Super Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
@@ -551,10 +569,10 @@
       "card_name": "Paralyzing Chain",
       "set_number": "CSOC-EN054",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -571,20 +589,22 @@
       "card_name": "Psychokinesis",
       "set_number": "CSOC-EN056",
       "rarities": [
-        "Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Miracle Fertilizer",
       "set_number": "CSOC-EN057",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -601,6 +621,16 @@
       "card_name": "The World Tree",
       "set_number": "CSOC-EN059",
       "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Everliving Underworld Cannon",
+      "set_number": "CSOC-EN060",
+      "rarities": [
         "Common"
       ],
       "count": {
@@ -608,43 +638,33 @@
       }
     },
     {
-      "card_name": "Everliving Underworld Cannon",
-      "set_number": "CSOC-EN060",
-      "rarities": [
-        "Rare"
-      ],
-      "count": {
-        "Rare": 1
-      }
-    },
-    {
       "card_name": "Secret Village of the Spellcasters",
       "set_number": "CSOC-EN061",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Omega Goggles",
       "set_number": "CSOC-EN062",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Battle Mania",
       "set_number": "CSOC-EN063",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -661,12 +681,10 @@
       "card_name": "Urgent Tuning",
       "set_number": "CSOC-EN065",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -703,10 +721,10 @@
       "card_name": "Lineage of Destruction",
       "set_number": "CSOC-EN069",
       "rarities": [
-        "Super Rare"
+        "Common"
       ],
       "count": {
-        "Super Rare": 1
+        "Common": 1
       }
     },
     {
@@ -753,10 +771,10 @@
       "card_name": "Pollinosis",
       "set_number": "CSOC-EN074",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -783,10 +801,10 @@
       "card_name": "Trap of the Imperial Tomb",
       "set_number": "CSOC-EN077",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -813,10 +831,202 @@
       "card_name": "Giant Trap Hole",
       "set_number": "CSOC-EN080",
       "rarities": [
-        "Normal Rare"
+        "Common"
       ],
       "count": {
-        "Normal Rare": 1
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Seed of Flame",
+      "set_number": "CSOC-EN081",
+      "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Cactus Fighter",
+      "set_number": "CSOC-EN082",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Overdrive Teleporter",
+      "set_number": "CSOC-EN083",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Rai-Jin",
+      "set_number": "CSOC-EN084",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Rai-Mei",
+      "set_number": "CSOC-EN085",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Gladiator Beast Retiari",
+      "set_number": "CSOC-EN086",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Night's End Sorcerer",
+      "set_number": "CSOC-EN087",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Tempest Magician",
+      "set_number": "CSOC-EN088",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Treacherous Trap Hole",
+      "set_number": "CSOC-EN089",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Puppet Master",
+      "set_number": "CSOC-EN090",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Time Machine",
+      "set_number": "CSOC-EN091",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Virus Cannon",
+      "set_number": "CSOC-EN092",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Machine Lord Ãœr",
+      "set_number": "CSOC-EN093",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Mosaic Manticore",
+      "set_number": "CSOC-EN094",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Goka, the Pyre of Malice",
+      "set_number": "CSOC-EN095",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Red Ogre",
+      "set_number": "CSOC-EN096",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Neos Wiseman",
+      "set_number": "CSOC-EN097",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Divine Neos",
+      "set_number": "CSOC-EN098",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Botanical Lion",
+      "set_number": "CSOC-EN099",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
     }
   ]

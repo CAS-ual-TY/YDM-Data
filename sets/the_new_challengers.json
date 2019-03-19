@@ -91,10 +91,10 @@
       "card_name": "Superheavy Samurai Scales",
       "set_number": "NECH-EN009",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -141,10 +141,10 @@
       "card_name": "Edge Imp Sabres",
       "set_number": "NECH-EN014",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -181,10 +181,10 @@
       "card_name": "Fluffal Owl",
       "set_number": "NECH-EN018",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -211,35 +211,15 @@
       "card_name": "Qliphort Scout",
       "set_number": "NECH-EN021",
       "rarities": [
-        "Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Qliphort Carrier",
       "set_number": "NECH-EN022",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Qliphort Helix",
-      "set_number": "NECH-EN023",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Qliphort Disk",
-      "set_number": "NECH-EN024",
       "rarities": [
         "Super Rare"
       ],
@@ -248,13 +228,33 @@
       }
     },
     {
+      "card_name": "Qliphort Helix",
+      "set_number": "NECH-EN023",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Qliphort Disk",
+      "set_number": "NECH-EN024",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
       "card_name": "Qliphort Shell",
       "set_number": "NECH-EN025",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -311,20 +311,20 @@
       "card_name": "Taotie, Shadow of the Yang Zing",
       "set_number": "NECH-EN031",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Jiaotu, Darkness of the Yang Zing",
       "set_number": "NECH-EN032",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -341,40 +341,40 @@
       "card_name": "Night Dragolich",
       "set_number": "NECH-EN034",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Unmasked Dragon",
       "set_number": "NECH-EN035",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Machina Megaform",
       "set_number": "NECH-EN036",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Zaborg the Mega Monarch",
       "set_number": "NECH-EN037",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -391,10 +391,10 @@
       "card_name": "Rescue Hamster",
       "set_number": "NECH-EN039",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -411,10 +411,10 @@
       "card_name": "Denko Sekka",
       "set_number": "NECH-EN041",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -431,44 +431,42 @@
       "card_name": "Ms. Judge",
       "set_number": "NECH-EN043",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Scrounging Goblin",
       "set_number": "NECH-EN044",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Herald of Ultimateness",
       "set_number": "NECH-EN045",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Frightfur Bear",
       "set_number": "NECH-EN046",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -485,10 +483,10 @@
       "card_name": "El Shaddoll Grysta",
       "set_number": "NECH-EN048",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -496,23 +494,21 @@
       "set_number": "NECH-EN049",
       "rarities": [
         "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Ultimate Rare"
       ],
       "count": {
         "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Ultimate Rare": 1
       }
     },
     {
       "card_name": "First of the Dragons",
       "set_number": "NECH-EN050",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -520,23 +516,21 @@
       "set_number": "NECH-EN051",
       "rarities": [
         "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Ultimate Rare"
       ],
       "count": {
         "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Ultimate Rare": 1
       }
     },
     {
       "card_name": "Herald of the Arc Light",
       "set_number": "NECH-EN052",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -544,27 +538,23 @@
       "set_number": "NECH-EN053",
       "rarities": [
         "Secret Rare",
-        "Holographic Rare",
         "Ultimate Rare",
-        "Ultra Rare"
+        "Ghost Rare"
       ],
       "count": {
         "Secret Rare": 1,
-        "Holographic Rare": 1,
         "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Ghost Rare": 1
       }
     },
     {
       "card_name": "Stellarknight Triverr",
       "set_number": "NECH-EN054",
       "rarities": [
-        "Secret Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -613,10 +603,10 @@
       "card_name": "1st Movement Solo",
       "set_number": "NECH-EN059",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -633,10 +623,10 @@
       "card_name": "Saqlifice",
       "set_number": "NECH-EN061",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -663,10 +653,10 @@
       "card_name": "El Shaddoll Fusion",
       "set_number": "NECH-EN064",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -703,10 +693,10 @@
       "card_name": "Cursed Bamboo Sword",
       "set_number": "NECH-EN068",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -783,99 +773,85 @@
       "card_name": "Naturia Sacred Tree",
       "set_number": "NECH-EN076",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Oasis of Dragon Souls",
       "set_number": "NECH-EN077",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Fusion Reserve",
       "set_number": "NECH-EN078",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Solemn Scolding",
       "set_number": "NECH-EN079",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Different Dimension Encounter",
       "set_number": "NECH-EN080",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
-      "card_name": "Number F0: Utopic Future",
+      "card_name": "Fusion Substitute",
       "set_number": "NECH-EN081",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rubic, Malebranche of the Burning Abyss",
+      "set_number": "NECH-EN082",
+      "rarities": [
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
     },
     {
-      "card_name": "Gagaga Samurai",
-      "set_number": "NECH-EN082",
-      "rarities": [
-        "Rare"
-      ],
-      "count": {
-        "Rare": 1
-      }
-    },
-    {
-      "card_name": "Gagaga Mancer",
+      "card_name": "Alich, Malebranche of the Burning Abyss",
       "set_number": "NECH-EN083",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
-      "card_name": "Guard Go!",
+      "card_name": "Calcab, Malebranche of the Burning Abyss",
       "set_number": "NECH-EN084",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Hi-Five the Sky",
-      "set_number": "NECH-EN085",
       "rarities": [
         "Rare"
       ],
@@ -884,18 +860,18 @@
       }
     },
     {
-      "card_name": "The Door of Destiny",
-      "set_number": "NECH-EN086",
+      "card_name": "Virgil, Rock Star of the Burning Abyss",
+      "set_number": "NECH-EN085",
       "rarities": [
-        "Common"
+        "Secret Rare"
       ],
       "count": {
-        "Common": 1
+        "Secret Rare": 1
       }
     },
     {
-      "card_name": "Elemental HERO Blazeman",
-      "set_number": "NECH-EN087",
+      "card_name": "Fire Lake of the Burning Abyss",
+      "set_number": "NECH-EN086",
       "rarities": [
         "Super Rare"
       ],
@@ -904,7 +880,17 @@
       }
     },
     {
-      "card_name": "Naturia Gaiastrio",
+      "card_name": "U.A. Midfielder",
+      "set_number": "NECH-EN087",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "U.A. Goalkeeper",
       "set_number": "NECH-EN088",
       "rarities": [
         "Rare"
@@ -914,8 +900,58 @@
       }
     },
     {
-      "card_name": "Mecha Phantom Beast Jaculuslan",
+      "card_name": "U.A. Powered Jersey",
       "set_number": "NECH-EN089",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ruffian Railcar",
+      "set_number": "NECH-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "SZW - Fenrir Sword",
+      "set_number": "NECH-EN091",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gogogo Goram",
+      "set_number": "NECH-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dododo Driver",
+      "set_number": "NECH-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Xyz Change Tactics",
+      "set_number": "NECH-EN094",
       "rarities": [
         "Rare"
       ],
@@ -924,13 +960,53 @@
       }
     },
     {
-      "card_name": "Ghostrick Angel of Mischief",
-      "set_number": "NECH-EN090",
+      "card_name": "Number 39: Utopia Beyond",
+      "set_number": "NECH-EN095",
       "rarities": [
         "Super Rare"
       ],
       "count": {
         "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "CXyz Barian Hope",
+      "set_number": "NECH-EN096",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Shogi Lance",
+      "set_number": "NECH-EN097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Guiding Light",
+      "set_number": "NECH-EN098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Number 99: Utopic Dragon",
+      "set_number": "NECH-EN099",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     }
   ]
