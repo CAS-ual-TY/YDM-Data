@@ -1,0 +1,24 @@
+{
+  "name": "Antialian",
+  "number": "43583400",
+  "is_illegal": false,
+  "text": "Once per turn, if this card battled a monster this Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Normal Summon 1 Cyberse monster. If this face-up card you control leaves the field because of an opponent's card effect: Draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1900",
+  "defense": "600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}
