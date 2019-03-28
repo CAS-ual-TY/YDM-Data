@@ -8,13 +8,23 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Sylvan Bladefender",
+      "set_number": "LVAL-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "White Duston",
       "set_number": "LVAL-EN001",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -41,10 +51,10 @@
       "card_name": "Rainbow Kuriboh",
       "set_number": "LVAL-EN004",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -161,30 +171,30 @@
       "card_name": "Sylvan Komushroomo",
       "set_number": "LVAL-EN016",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Sylvan Marshalleaf",
       "set_number": "LVAL-EN017",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Sylvan Flowerknight",
       "set_number": "LVAL-EN018",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -201,10 +211,10 @@
       "card_name": "Sylvan Hermitree",
       "set_number": "LVAL-EN020",
       "rarities": [
-        "Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -221,10 +231,10 @@
       "card_name": "Ghostrick Mary",
       "set_number": "LVAL-EN022",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -261,10 +271,10 @@
       "card_name": "Bujin Arasuda",
       "set_number": "LVAL-EN026",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -291,16 +301,6 @@
       "card_name": "Bujingi Fox",
       "set_number": "LVAL-EN029",
       "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Bujingi Hare",
-      "set_number": "LVAL-EN030",
-      "rarities": [
         "Rare"
       ],
       "count": {
@@ -308,13 +308,23 @@
       }
     },
     {
+      "card_name": "Bujingi Hare",
+      "set_number": "LVAL-EN030",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Gravekeeper's Nobleman",
       "set_number": "LVAL-EN031",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -331,20 +341,20 @@
       "card_name": "Gravekeeper's Shaman",
       "set_number": "LVAL-EN033",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Gravekeeper's Oracle",
       "set_number": "LVAL-EN034",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -401,10 +411,12 @@
       "card_name": "Mobius the Mega Monarch",
       "set_number": "LVAL-EN040",
       "rarities": [
-        "Rare"
+        "Secret Rare",
+        "Ghost Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1,
+        "Ghost Rare": 1
       }
     },
     {
@@ -421,10 +433,10 @@
       "card_name": "Xyz Avenger",
       "set_number": "LVAL-EN042",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -441,10 +453,10 @@
       "card_name": "Majiosheldon",
       "set_number": "LVAL-EN044",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -461,12 +473,10 @@
       "card_name": "Number C101: Silent Honor DARK",
       "set_number": "LVAL-EN046",
       "rarities": [
-        "Holographic Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -488,11 +498,11 @@
       "set_number": "LVAL-EN048",
       "rarities": [
         "Ultimate Rare",
-        "Ultra Rare"
+        "Rare"
       ],
       "count": {
         "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -529,20 +539,20 @@
       "card_name": "Alsei, the Sylvan High Protector",
       "set_number": "LVAL-EN052",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Ghostrick Dullahan",
       "set_number": "LVAL-EN053",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -561,30 +571,30 @@
       "card_name": "Fairy Knight Ingunar",
       "set_number": "LVAL-EN055",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Evilswarm Exciton Knight",
       "set_number": "LVAL-EN056",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Downerd Magician",
       "set_number": "LVAL-EN057",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -643,6 +653,16 @@
       "card_name": "Mount Sylvania",
       "set_number": "LVAL-EN063",
       "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Ghostrick Museum",
+      "set_number": "LVAL-EN064",
+      "rarities": [
         "Common"
       ],
       "count": {
@@ -650,8 +670,8 @@
       }
     },
     {
-      "card_name": "Ghostrick Museum",
-      "set_number": "LVAL-EN064",
+      "card_name": "Bujinunity",
+      "set_number": "LVAL-EN065",
       "rarities": [
         "Rare"
       ],
@@ -660,33 +680,23 @@
       }
     },
     {
-      "card_name": "Bujinunity",
-      "set_number": "LVAL-EN065",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
       "card_name": "Hidden Temples of Necrovalley",
       "set_number": "LVAL-EN066",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Onomatopaira",
       "set_number": "LVAL-EN067",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -703,30 +713,30 @@
       "card_name": "Stand-Off",
       "set_number": "LVAL-EN069",
       "rarities": [
-        "Common"
+        "Short Print"
       ],
       "count": {
-        "Common": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Shared Ride",
       "set_number": "LVAL-EN070",
       "rarities": [
-        "Normal Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Normal Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Release, Reverse, Burst",
       "set_number": "LVAL-EN071",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -753,10 +763,10 @@
       "card_name": "Ghostrick-Go-Round",
       "set_number": "LVAL-EN074",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -773,10 +783,10 @@
       "card_name": "Imperial Tombs of Necrovalley",
       "set_number": "LVAL-EN076",
       "rarities": [
-        "Common"
+        "Secret Rare"
       ],
       "count": {
-        "Common": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -793,45 +803,35 @@
       "card_name": "Skill Prisoner",
       "set_number": "LVAL-EN078",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Oath of Companionship",
       "set_number": "LVAL-EN079",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Duston Roller",
       "set_number": "LVAL-EN080",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
-      "card_name": "Chronomaly Nebra Disk",
+      "card_name": "Sylvan Mikorange",
       "set_number": "LVAL-EN081",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Number 36: Chronomaly Chateau Huyuk",
-      "set_number": "LVAL-EN082",
       "rarities": [
         "Rare"
       ],
@@ -840,8 +840,8 @@
       }
     },
     {
-      "card_name": "Heraldic Beast Amphisbaena",
-      "set_number": "LVAL-EN083",
+      "card_name": "Ghostrick Yeti",
+      "set_number": "LVAL-EN082",
       "rarities": [
         "Common"
       ],
@@ -850,7 +850,17 @@
       }
     },
     {
-      "card_name": "Number 18: Heraldry Patriarch",
+      "card_name": "Bujingi Pavo",
+      "set_number": "LVAL-EN083",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Heretic",
       "set_number": "LVAL-EN084",
       "rarities": [
         "Rare"
@@ -860,8 +870,148 @@
       }
     },
     {
-      "card_name": "Augmented Heraldry",
+      "card_name": "Noble Knight Peredur",
       "set_number": "LVAL-EN085",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Gwenhwyfar, Queen of Noble Arms",
+      "set_number": "LVAL-EN086",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Powered Inzektron",
+      "set_number": "LVAL-EN087",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Obedience Schooled",
+      "set_number": "LVAL-EN088",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "The First Monarch",
+      "set_number": "LVAL-EN089",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Artist",
+      "set_number": "LVAL-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Swordsman from a Distant Land",
+      "set_number": "LVAL-EN091",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Queen Angel of Roses",
+      "set_number": "LVAL-EN092",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Rose Witch",
+      "set_number": "LVAL-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Snapdragon",
+      "set_number": "LVAL-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Alpacaribou, Mystical Beast of the Forest",
+      "set_number": "LVAL-EN095",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mighty Warrior",
+      "set_number": "LVAL-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dododo Buster",
+      "set_number": "LVAL-EN097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Interplanetarypurplythorny Beast",
+      "set_number": "LVAL-EN098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Starship Spy Plane",
+      "set_number": "LVAL-EN099",
       "rarities": [
         "Common"
       ],

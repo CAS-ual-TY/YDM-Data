@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Reborn Tengu",
+      "set_number": "EXVC-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Junk Servant",
       "set_number": "EXVC-EN001",
       "rarities": [
@@ -51,10 +61,10 @@
       "card_name": "Mystic Piper",
       "set_number": "EXVC-EN005",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -91,10 +101,12 @@
       "card_name": "Blackwing - Kogarashi the Wanderer",
       "set_number": "EXVC-EN009",
       "rarities": [
-        "Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -291,10 +303,10 @@
       "card_name": "Shien's Advisor",
       "set_number": "EXVC-EN029",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -351,32 +363,32 @@
       "card_name": "Jar Turtle",
       "set_number": "EXVC-EN035",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Aurora Paragon",
       "set_number": "EXVC-EN036",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Junk Berserker",
       "set_number": "EXVC-EN037",
       "rarities": [
-        "Holographic Rare",
+        "Ghost Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
+        "Ghost Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -397,20 +409,22 @@
       "card_name": "T.G. Recipro Dragonfly",
       "set_number": "EXVC-EN039",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "T.G. Wonder Magician",
       "set_number": "EXVC-EN040",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -583,10 +597,10 @@
       "card_name": "Shien's Dojo",
       "set_number": "EXVC-EN057",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -603,10 +617,10 @@
       "card_name": "Contact with the Aquamirror",
       "set_number": "EXVC-EN059",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -633,10 +647,10 @@
       "card_name": "Self-Mummification",
       "set_number": "EXVC-EN062",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -753,10 +767,10 @@
       "card_name": "Karakuri Cash Shed",
       "set_number": "EXVC-EN074",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -793,20 +807,20 @@
       "card_name": "Safe Zone",
       "set_number": "EXVC-EN078",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Localized Tornado",
       "set_number": "EXVC-EN079",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -817,6 +831,202 @@
       ],
       "count": {
         "Common": 1
+      }
+    },
+    {
+      "card_name": "Vampire Dragon",
+      "set_number": "EXVC-EN081",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dodger Dragon",
+      "set_number": "EXVC-EN082",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mara of the Nordic Alfar",
+      "set_number": "EXVC-EN083",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Tour Guide From the Underworld",
+      "set_number": "EXVC-EN084",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Psi-Beast",
+      "set_number": "EXVC-EN085",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gladiator Beast Essedarii",
+      "set_number": "EXVC-EN086",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Gladiator Taming",
+      "set_number": "EXVC-EN087",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Full House",
+      "set_number": "EXVC-EN088",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Psychic Shockwave",
+      "set_number": "EXVC-EN089",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Axe Dragonute",
+      "set_number": "EXVC-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lancer Dragonute",
+      "set_number": "EXVC-EN091",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Lancer Lindwurm",
+      "set_number": "EXVC-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Neos Knight",
+      "set_number": "EXVC-EN093",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Meklord Emperor Skiel",
+      "set_number": "EXVC-EN094",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Meklord Fortress",
+      "set_number": "EXVC-EN095",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Jin the Rain Shadow",
+      "set_number": "EXVC-EN096",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Scrap Orthros",
+      "set_number": "EXVC-EN097",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Naturia Eggplant",
+      "set_number": "EXVC-EN098",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Blue Rose Dragon",
+      "set_number": "EXVC-EN099",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     }
   ]

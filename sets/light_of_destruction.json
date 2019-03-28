@@ -8,17 +8,25 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Guardian of Order",
+      "set_number": "LODT-EN000",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
       "card_name": "Honest",
       "set_number": "LODT-EN001",
       "rarities": [
-        "Holographic Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Ghost Rare",
+        "Secret Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Ghost Rare": 1,
+        "Secret Rare": 1
       }
     },
     {
@@ -165,22 +173,22 @@
       "card_name": "Arcana Force XXI - The World",
       "set_number": "LODT-EN016",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
       "card_name": "Arcana Force EX - The Dark Ruler",
       "set_number": "LODT-EN017",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -197,10 +205,12 @@
       "card_name": "Lyla, Lightsworn Sorceress",
       "set_number": "LODT-EN019",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -217,40 +227,42 @@
       "card_name": "Lumina, Lightsworn Summoner",
       "set_number": "LODT-EN021",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Ryko, Lightsworn Hunter",
       "set_number": "LODT-EN022",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Wulf, Lightsworn Beast",
       "set_number": "LODT-EN023",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Celestia, Lightsworn Angel",
       "set_number": "LODT-EN024",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -267,12 +279,10 @@
       "card_name": "Judgment Dragon",
       "set_number": "LODT-EN026",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -329,20 +339,20 @@
       "card_name": "Batteryman Micro-Cell",
       "set_number": "LODT-EN032",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Goblin Recon Squad",
       "set_number": "LODT-EN033",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -359,20 +369,20 @@
       "card_name": "Diskblade Rider",
       "set_number": "LODT-EN035",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Golden Ladybug",
       "set_number": "LODT-EN036",
       "rarities": [
-        "Normal Rare"
+        "Rare"
       ],
       "count": {
-        "Normal Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -419,10 +429,12 @@
       "card_name": "Phantom Dragon",
       "set_number": "LODT-EN041",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -453,10 +465,10 @@
       "card_name": "Gladiator Beast Gyzarus",
       "set_number": "LODT-EN044",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -483,10 +495,10 @@
       "card_name": "Demise of the Land",
       "set_number": "LODT-EN047",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -533,20 +545,20 @@
       "card_name": "Solar Recharge",
       "set_number": "LODT-EN052",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Realm of Light",
       "set_number": "LODT-EN053",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -573,10 +585,10 @@
       "card_name": "Short Circuit",
       "set_number": "LODT-EN056",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -613,6 +625,26 @@
       "card_name": "Deck Lockdown",
       "set_number": "LODT-EN060",
       "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ribbon of Rebirth",
+      "set_number": "LODT-EN061",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Golden Bamboo Sword",
+      "set_number": "LODT-EN062",
+      "rarities": [
         "Common"
       ],
       "count": {
@@ -620,33 +652,13 @@
       }
     },
     {
-      "card_name": "Ribbon of Rebirth",
-      "set_number": "LODT-EN061",
-      "rarities": [
-        "Normal Rare"
-      ],
-      "count": {
-        "Normal Rare": 1
-      }
-    },
-    {
-      "card_name": "Golden Bamboo Sword",
-      "set_number": "LODT-EN062",
-      "rarities": [
-        "Normal Rare"
-      ],
-      "count": {
-        "Normal Rare": 1
-      }
-    },
-    {
       "card_name": "Limit Reverse",
       "set_number": "LODT-EN063",
       "rarities": [
-        "Super Rare"
+        "Common"
       ],
       "count": {
-        "Super Rare": 1
+        "Common": 1
       }
     },
     {
@@ -673,20 +685,20 @@
       "card_name": "D - Fortune",
       "set_number": "LODT-EN066",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Reversal of Fate",
       "set_number": "LODT-EN067",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -723,10 +735,10 @@
       "card_name": "Glorious Illusion",
       "set_number": "LODT-EN071",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -803,6 +815,66 @@
       "card_name": "Summon Limit",
       "set_number": "LODT-EN079",
       "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dice Try!",
+      "set_number": "LODT-EN080",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Aurkus, Lightsworn Druid",
+      "set_number": "LODT-EN081",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Ehren, Lightsworn Monk",
+      "set_number": "LODT-EN082",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark General Freed",
+      "set_number": "LODT-EN083",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Magical Exemplar",
+      "set_number": "LODT-EN084",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Maniacal Servant",
+      "set_number": "LODT-EN085",
+      "rarities": [
         "Rare"
       ],
       "count": {
@@ -810,13 +882,149 @@
       }
     },
     {
-      "card_name": "Dice Try!",
-      "set_number": "LODT-EN080",
+      "card_name": "Nimble Musasabi",
+      "set_number": "LODT-EN086",
       "rarities": [
-        "Normal Rare"
+        "Rare"
       ],
       "count": {
-        "Normal Rare": 1
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Flame Spirit Ignis",
+      "set_number": "LODT-EN087",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Super-Ancient Dinobeast",
+      "set_number": "LODT-EN088",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Vanquishing Light",
+      "set_number": "LODT-EN089",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Tualatin",
+      "set_number": "LODT-EN090",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Divine Knight Ishzark",
+      "set_number": "LODT-EN091",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Angel O7",
+      "set_number": "LODT-EN092",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Union Attack",
+      "set_number": "LODT-EN093",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Owner's Seal",
+      "set_number": "LODT-EN094",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Helios Trice Megistus",
+      "set_number": "LODT-EN095",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dangerous Machine Type-6",
+      "set_number": "LODT-EN096",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Maximum Six",
+      "set_number": "LODT-EN097",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Fog King",
+      "set_number": "LODT-EN098",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fossil Dyna Pachycephalo",
+      "set_number": "LODT-EN099",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     }
   ]

@@ -3,13 +3,533 @@
   "type": "Booster Pack",
   "date": "2001-07-21",
   "distribution": "booster_pack",
-  "prefix": "LN",
+  "prefix": "LON",
   "sub_sets": [],
   "load": true,
   "cards": [
     {
+      "card_name": "Gemini Elf",
+      "set_number": "LON-000",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Masked Beast",
+      "set_number": "LON-001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Swordsman of Landstar",
+      "set_number": "LON-002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Humanoid Slime",
+      "set_number": "LON-003",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Worm Drake",
+      "set_number": "LON-004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Humanoid Worm Drake",
+      "set_number": "LON-005",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Revival Jam",
+      "set_number": "LON-006",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Flying Fish",
+      "set_number": "LON-007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amphibian Beast",
+      "set_number": "LON-008",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Shining Abyss",
+      "set_number": "LON-009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gadget Soldier",
+      "set_number": "LON-010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Grand Tiki Elder",
+      "set_number": "LON-011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Melchid the Four-Face Beast",
+      "set_number": "LON-012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nuvia the Wicked",
+      "set_number": "LON-013",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Chosen One",
+      "set_number": "LON-014",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Mask of Weakness",
+      "set_number": "LON-015",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Curse of the Masked Beast",
+      "set_number": "LON-016",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mask of Dispel",
+      "set_number": "LON-017",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mask of Restrict",
+      "set_number": "LON-018",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Mask of the Accursed",
+      "set_number": "LON-019",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mask of Brutality",
+      "set_number": "LON-020",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Return of the Doomed",
+      "set_number": "LON-021",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Lightning Blade",
+      "set_number": "LON-022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tornado Wall",
+      "set_number": "LON-023",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Fairy Box",
+      "set_number": "LON-024",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Torrential Tribute",
+      "set_number": "LON-025",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Jam Breeding Machine",
+      "set_number": "LON-026",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Infinite Cards",
+      "set_number": "LON-027",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Jam Defender",
+      "set_number": "LON-028",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Card of Safe Return",
+      "set_number": "LON-029",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Lady Panther",
+      "set_number": "LON-030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Unfriendly Amazon",
+      "set_number": "LON-031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amazoness Archer",
+      "set_number": "LON-032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Crimson Sentry",
+      "set_number": "LON-033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fire Princess",
+      "set_number": "LON-034",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Lady Assailant of Flames",
+      "set_number": "LON-035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fire Sorcerer",
+      "set_number": "LON--36",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spirit of the Breeze",
+      "set_number": "LON-037",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Dancing Fairy",
+      "set_number": "LON-038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fairy Guardian",
+      "set_number": "LON-039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Empress Mantis",
+      "set_number": "LON-040",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cure Mermaid",
+      "set_number": "LON-041",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hysteric Fairy",
+      "set_number": "LON-042",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bio-Mage",
+      "set_number": "LON-043",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Forgiving Maiden",
+      "set_number": "LON-044",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "St. Joan",
+      "set_number": "LON-045",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Darklord Marie",
+      "set_number": "LON-046",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Jar of Greed",
+      "set_number": "LON-047",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Scroll of Bewitchment",
+      "set_number": "LON-048",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "United We Stand",
+      "set_number": "LON-049",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Mage Power",
+      "set_number": "LON-050",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Offerings to the Doomed",
+      "set_number": "LON-051",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
       "card_name": "The Portrait's Secret",
-      "set_number": "LN-01",
+      "set_number": "LON-052",
       "rarities": [
         "Common"
       ],
@@ -19,7 +539,7 @@
     },
     {
       "card_name": "The Gross Ghost of Fled Dreams",
-      "set_number": "LN-02",
+      "set_number": "LON-053",
       "rarities": [
         "Common"
       ],
@@ -29,7 +549,7 @@
     },
     {
       "card_name": "Headless Knight",
-      "set_number": "LN-03",
+      "set_number": "LON-054",
       "rarities": [
         "Common"
       ],
@@ -39,17 +559,17 @@
     },
     {
       "card_name": "Earthbound Spirit",
-      "set_number": "LN-04",
+      "set_number": "LON-055",
       "rarities": [
-        "Super Rare"
+        "Short Print"
       ],
       "count": {
-        "Super Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "The Earl of Demise",
-      "set_number": "LN-05",
+      "set_number": "LON-056",
       "rarities": [
         "Common"
       ],
@@ -59,7 +579,7 @@
     },
     {
       "card_name": "Boneheimer",
-      "set_number": "LN-06",
+      "set_number": "LON-057",
       "rarities": [
         "Common"
       ],
@@ -69,7 +589,7 @@
     },
     {
       "card_name": "Flame Dancer",
-      "set_number": "LN-07",
+      "set_number": "LON-058",
       "rarities": [
         "Common"
       ],
@@ -79,7 +599,7 @@
     },
     {
       "card_name": "Spherous Lady",
-      "set_number": "LN-08",
+      "set_number": "LON-059",
       "rarities": [
         "Common"
       ],
@@ -89,7 +609,7 @@
     },
     {
       "card_name": "Lightning Conger",
-      "set_number": "LN-09",
+      "set_number": "LON-060",
       "rarities": [
         "Common"
       ],
@@ -99,61 +619,57 @@
     },
     {
       "card_name": "Jowgen the Spiritualist",
-      "set_number": "LN-10",
+      "set_number": "LON-061",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Kycoo the Ghost Destroyer",
-      "set_number": "LN-11",
+      "set_number": "LON-062",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Summoner of Illusions",
-      "set_number": "LN-12",
+      "set_number": "LON-063",
       "rarities": [
-        "Common"
+        "Short Print"
       ],
       "count": {
-        "Common": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Bazoo the Soul-Eater",
-      "set_number": "LN-13",
+      "set_number": "LON-064",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Dark Necrofear",
-      "set_number": "LN-14",
+      "set_number": "LON-065",
       "rarities": [
-        "Ultra Parallel Rare",
-        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Ultra Parallel Rare": 1,
-        "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
     },
     {
       "card_name": "Soul of Purity and Light",
-      "set_number": "LN-15",
+      "set_number": "LON-066",
       "rarities": [
         "Common"
       ],
@@ -163,7 +679,7 @@
     },
     {
       "card_name": "Spirit of Flames",
-      "set_number": "LN-16",
+      "set_number": "LON-067",
       "rarities": [
         "Common"
       ],
@@ -173,7 +689,7 @@
     },
     {
       "card_name": "Aqua Spirit",
-      "set_number": "LN-17",
+      "set_number": "LON-068",
       "rarities": [
         "Common"
       ],
@@ -183,7 +699,7 @@
     },
     {
       "card_name": "The Rock Spirit",
-      "set_number": "LN-18",
+      "set_number": "LON-069",
       "rarities": [
         "Common"
       ],
@@ -193,7 +709,7 @@
     },
     {
       "card_name": "Garuda the Wind Spirit",
-      "set_number": "LN-19",
+      "set_number": "LON-070",
       "rarities": [
         "Common"
       ],
@@ -203,7 +719,7 @@
     },
     {
       "card_name": "Gilasaurus",
-      "set_number": "LN-20",
+      "set_number": "LON-071",
       "rarities": [
         "Common"
       ],
@@ -213,17 +729,17 @@
     },
     {
       "card_name": "Tornado Bird",
-      "set_number": "LN-21",
+      "set_number": "LON-072",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Dreamsprite",
-      "set_number": "LN-22",
+      "set_number": "LON-073",
       "rarities": [
         "Common"
       ],
@@ -233,17 +749,7 @@
     },
     {
       "card_name": "Zombyra the Dark",
-      "set_number": "LN-23",
-      "rarities": [
-        "Normal Rare"
-      ],
-      "count": {
-        "Normal Rare": 1
-      }
-    },
-    {
-      "card_name": "Supply",
-      "set_number": "LN-24",
+      "set_number": "LON-074",
       "rarities": [
         "Common"
       ],
@@ -252,8 +758,18 @@
       }
     },
     {
+      "card_name": "Supply",
+      "set_number": "LON-075",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Maryokutai",
-      "set_number": "LN-25",
+      "set_number": "LON-076",
       "rarities": [
         "Common"
       ],
@@ -263,39 +779,17 @@
     },
     {
       "card_name": "The Last Warrior from Another Planet",
-      "set_number": "LN-26",
+      "set_number": "LON-077",
       "rarities": [
-        "Ultra Parallel Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Ultra Parallel Rare": 1,
         "Ultra Rare": 1
       }
     },
     {
       "card_name": "Collected Power",
-      "set_number": "LN-27",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Dark Spirit of the Silent",
-      "set_number": "LN-28",
-      "rarities": [
-        "Rare"
-      ],
-      "count": {
-        "Rare": 1
-      }
-    },
-    {
-      "card_name": "Royal Command",
-      "set_number": "LN-29",
+      "set_number": "LON-078",
       "rarities": [
         "Super Rare"
       ],
@@ -304,8 +798,28 @@
       }
     },
     {
+      "card_name": "Dark Spirit of the Silent",
+      "set_number": "LON-079",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Royal Command",
+      "set_number": "LON-080",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
       "card_name": "Riryoku Field",
-      "set_number": "LN-30",
+      "set_number": "LON-081",
       "rarities": [
         "Super Rare"
       ],
@@ -315,7 +829,7 @@
     },
     {
       "card_name": "Skull Lair",
-      "set_number": "LN-31",
+      "set_number": "LON-082",
       "rarities": [
         "Common"
       ],
@@ -325,7 +839,7 @@
     },
     {
       "card_name": "Graverobber's Retribution",
-      "set_number": "LN-32",
+      "set_number": "LON-083",
       "rarities": [
         "Common"
       ],
@@ -335,7 +849,7 @@
     },
     {
       "card_name": "Deal of Phantom",
-      "set_number": "LN-33",
+      "set_number": "LON-084",
       "rarities": [
         "Common"
       ],
@@ -345,17 +859,17 @@
     },
     {
       "card_name": "Destruction Punch",
-      "set_number": "LN-34",
+      "set_number": "LON-085",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Blind Destruction",
-      "set_number": "LN-35",
+      "set_number": "LON-086",
       "rarities": [
         "Common"
       ],
@@ -365,7 +879,7 @@
     },
     {
       "card_name": "The Emperor's Holiday",
-      "set_number": "LN-36",
+      "set_number": "LON-087",
       "rarities": [
         "Common"
       ],
@@ -375,19 +889,17 @@
     },
     {
       "card_name": "Destiny Board",
-      "set_number": "LN-37",
+      "set_number": "LON-088",
       "rarities": [
-        "Ultra Parallel Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Ultra Parallel Rare": 1,
         "Ultra Rare": 1
       }
     },
     {
       "card_name": "Spirit Message \"I\"",
-      "set_number": "LN-38",
+      "set_number": "LON-089",
       "rarities": [
         "Rare"
       ],
@@ -397,7 +909,7 @@
     },
     {
       "card_name": "Spirit Message \"N\"",
-      "set_number": "LN-39",
+      "set_number": "LON-090",
       "rarities": [
         "Rare"
       ],
@@ -407,7 +919,7 @@
     },
     {
       "card_name": "Spirit Message \"A\"",
-      "set_number": "LN-40",
+      "set_number": "LON-091",
       "rarities": [
         "Rare"
       ],
@@ -417,7 +929,7 @@
     },
     {
       "card_name": "Spirit Message \"L\"",
-      "set_number": "LN-41",
+      "set_number": "LON-092",
       "rarities": [
         "Rare"
       ],
@@ -427,7 +939,7 @@
     },
     {
       "card_name": "The Dark Door",
-      "set_number": "LN-42",
+      "set_number": "LON-093",
       "rarities": [
         "Common"
       ],
@@ -437,7 +949,7 @@
     },
     {
       "card_name": "Spiritualism",
-      "set_number": "LN-43",
+      "set_number": "LON-094",
       "rarities": [
         "Rare"
       ],
@@ -447,17 +959,17 @@
     },
     {
       "card_name": "Cyclon Laser",
-      "set_number": "LN-44",
+      "set_number": "LON-095",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Bait Doll",
-      "set_number": "LN-45",
+      "set_number": "LON-096",
       "rarities": [
         "Common"
       ],
@@ -467,7 +979,7 @@
     },
     {
       "card_name": "De-Fusion",
-      "set_number": "LN-46",
+      "set_number": "LON-097",
       "rarities": [
         "Super Rare"
       ],
@@ -477,17 +989,17 @@
     },
     {
       "card_name": "Fusion Gate",
-      "set_number": "LN-47",
+      "set_number": "LON-098",
       "rarities": [
-        "Common"
+        "Short Print"
       ],
       "count": {
-        "Common": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Ekibyo Drakmord",
-      "set_number": "LN-48",
+      "set_number": "LON-099",
       "rarities": [
         "Common"
       ],
@@ -497,7 +1009,7 @@
     },
     {
       "card_name": "Miracle Dig",
-      "set_number": "LN-49",
+      "set_number": "LON-100",
       "rarities": [
         "Common"
       ],
@@ -507,7 +1019,7 @@
     },
     {
       "card_name": "Dragonic Attack",
-      "set_number": "LN-50",
+      "set_number": "LON-101",
       "rarities": [
         "Common"
       ],
@@ -517,7 +1029,7 @@
     },
     {
       "card_name": "Spirit Elimination",
-      "set_number": "LN-51",
+      "set_number": "LON-102",
       "rarities": [
         "Common"
       ],
@@ -527,22 +1039,22 @@
     },
     {
       "card_name": "Vengeful Bog Spirit",
-      "set_number": "LN-52",
+      "set_number": "LON-103",
       "rarities": [
-        "Common"
+        "Short Print"
       ],
       "count": {
-        "Common": 1
+        "Short Print": 1
       }
     },
     {
-      "card_name": "Dark Magician",
-      "set_number": "LN-53",
+      "card_name": "Magic Cylinder",
+      "set_number": "LON-104",
       "rarities": [
-        "Ultimate Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Ultimate Rare": 1
+        "Secret Rare": 1
       }
     }
   ]

@@ -1,0 +1,28 @@
+{
+  "name": "Powercode Talker",
+  "number": "15844566",
+  "is_illegal": false,
+  "text": "3 monsters\nOnce per turn: You can target 1 face-up monster on the field; negate that target's effects until the end of this turn. Once per turn, if this card battles an opponent's monster, during damage calculation (Quick Effect): You can Tribute 1 monster this card points to; this card's ATK becomes double its original ATK during that damage calculation only.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2300",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Bottom-Left",
+    "Right"
+  ],
+  "link_number": "3"
+}

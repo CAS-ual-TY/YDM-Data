@@ -1,0 +1,24 @@
+{
+  "name": "Blackwing - Simoon the Poison Wind",
+  "number": "81470373",
+  "is_illegal": false,
+  "text": "If you control no monsters and have this card in your hand: You can banish 1 other \"Blackwing\" monster from your hand; place 1 \"Black Whirlwind\" from your Deck face-up in your Spell & Trap Zone, then, either send this card to the GY, or immediately after this effect resolves, Normal Summon it without Tributing. You cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Simoon the Poison Wind\" once per turn. During the End Phase, send the \"Black Whirlwind\" placed by this effect to the GY, and if you do, take 1000 damage.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1600",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

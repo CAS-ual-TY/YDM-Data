@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Inzektor Axe - Zektahawk",
+      "set_number": "ORCS-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Kurivolt",
       "set_number": "ORCS-EN001",
       "rarities": [
@@ -31,10 +41,10 @@
       "card_name": "Gagaga Girl",
       "set_number": "ORCS-EN003",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -171,10 +181,10 @@
       "card_name": "Inzektor Hornet",
       "set_number": "ORCS-EN017",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -211,10 +221,12 @@
       "card_name": "Inzektor Giga-Mantis",
       "set_number": "ORCS-EN021",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -231,10 +243,10 @@
       "card_name": "Wind-Up Rat",
       "set_number": "ORCS-EN023",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -291,10 +303,12 @@
       "card_name": "Ninja Grandmaster Hanzo",
       "set_number": "ORCS-EN029",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -351,10 +365,10 @@
       "card_name": "Trance Archfiend",
       "set_number": "ORCS-EN035",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -381,32 +395,34 @@
       "card_name": "Numen erat Testudo",
       "set_number": "ORCS-EN038",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Twin Photon Lizard",
       "set_number": "ORCS-EN039",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
       "card_name": "Number C39: Utopia Ray",
       "set_number": "ORCS-EN040",
       "rarities": [
-        "Holographic Rare",
+        "Ghost Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
+        "Ghost Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -449,10 +465,12 @@
       "card_name": "Wind-Up Carrier Zenmaity",
       "set_number": "ORCS-EN044",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -471,12 +489,10 @@
       "card_name": "Inzektor Exa-Beetle",
       "set_number": "ORCS-EN046",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -523,10 +539,10 @@
       "card_name": "Armor Ninjitsu Art of Alchemy",
       "set_number": "ORCS-EN051",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -543,30 +559,32 @@
       "card_name": "Armor Blast",
       "set_number": "ORCS-EN053",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Inzektor Sword - Zektkaliber",
       "set_number": "ORCS-EN054",
       "rarities": [
-        "Common"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
       "card_name": "Weights & Zenmaisures",
       "set_number": "ORCS-EN055",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -583,10 +601,10 @@
       "card_name": "Evo-Force",
       "set_number": "ORCS-EN057",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -643,10 +661,10 @@
       "card_name": "Dicephoon",
       "set_number": "ORCS-EN063",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -660,13 +678,25 @@
       }
     },
     {
+      "card_name": "Gagagaguard",
+      "set_number": "ORCS-EN065",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
       "card_name": "Xyz Reflect",
       "set_number": "ORCS-EN066",
       "rarities": [
-        "Common"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -693,20 +723,20 @@
       "card_name": "Armor Ninjitsu Art of Rust Mist",
       "set_number": "ORCS-EN069",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Inzektor Orb",
       "set_number": "ORCS-EN070",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -753,20 +783,20 @@
       "card_name": "Ninjitsu Art of Super-Transformation",
       "set_number": "ORCS-EN075",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Xyz Reborn",
       "set_number": "ORCS-EN076",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -783,10 +813,10 @@
       "card_name": "The Huge Revolution is Over",
       "set_number": "ORCS-EN078",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -807,6 +837,196 @@
       ],
       "count": {
         "Common": 1
+      }
+    },
+    {
+      "card_name": "Inzektor Hopper",
+      "set_number": "ORCS-EN081",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Wind-Up Shark",
+      "set_number": "ORCS-EN082",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Evoltile Najasho",
+      "set_number": "ORCS-EN083",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "White Dragon Ninja",
+      "set_number": "ORCS-EN084",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Interplanetarypurplythorny Dragon",
+      "set_number": "ORCS-EN085",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Tour Bus From the Underworld",
+      "set_number": "ORCS-EN086",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Photon Trident",
+      "set_number": "ORCS-EN087",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Evo-Instant",
+      "set_number": "ORCS-EN088",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ninjitsu Art of Duplication",
+      "set_number": "ORCS-EN089",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "White Night Queen",
+      "set_number": "ORCS-EN090",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Danipon",
+      "set_number": "ORCS-EN091",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sweet Corn",
+      "set_number": "ORCS-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Vampiric Koala",
+      "set_number": "ORCS-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Koalo-Koala",
+      "set_number": "ORCS-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Diviner",
+      "set_number": "ORCS-EN095",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Flattop",
+      "set_number": "ORCS-EN096",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Driven Daredevil",
+      "set_number": "ORCS-EN097",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Wind-Up Arsenal Zenmaioh",
+      "set_number": "ORCS-EN098",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "M-X-Saber Invoker",
+      "set_number": "ORCS-EN099",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     }
   ]

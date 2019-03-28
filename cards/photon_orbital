@@ -1,0 +1,24 @@
+{
+  "name": "Photon Orbital",
+  "number": "89132148",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can target 1 \"Photon\" or \"Galaxy\" monster you control; equip this monster from your hand or field to that target. It gains 500 ATK, also it cannot be destroyed by battle. You can send this Equip Card to the GY; add 1 \"Photon\" or \"Galaxy\" monster from your Deck to your hand, except \"Photon Orbital\". You can only use this effect of \"Photon Orbital\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "500",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

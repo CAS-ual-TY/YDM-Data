@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Gladiator Beast Octavius",
+      "set_number": "GLAS-EN000",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
       "card_name": "Chamberlain of the Six Samurai",
       "set_number": "GLAS-EN001",
       "rarities": [
@@ -31,10 +41,12 @@
       "card_name": "Evil HERO Malicious Edge",
       "set_number": "GLAS-EN003",
       "rarities": [
-        "Super Rare"
+        "Super Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Super Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -52,11 +64,11 @@
       "set_number": "GLAS-EN005",
       "rarities": [
         "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
         "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -83,10 +95,12 @@
       "card_name": "Cloudian - Sheep Cloud",
       "set_number": "GLAS-EN008",
       "rarities": [
-        "Rare"
+        "Super Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -174,21 +188,21 @@
       "set_number": "GLAS-EN017",
       "rarities": [
         "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
         "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Gladiator Beast Spartacus",
       "set_number": "GLAS-EN018",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -245,10 +259,10 @@
       "card_name": "Gladiator Beast Secutor",
       "set_number": "GLAS-EN024",
       "rarities": [
-        "Normal Rare"
+        "Common"
       ],
       "count": {
-        "Normal Rare": 1
+        "Common": 1
       }
     },
     {
@@ -295,10 +309,10 @@
       "card_name": "Ancient Gear Knight",
       "set_number": "GLAS-EN029",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -325,10 +339,12 @@
       "card_name": "Enishi, Shien's Chancellor",
       "set_number": "GLAS-EN032",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -366,23 +382,21 @@
       "set_number": "GLAS-EN036",
       "rarities": [
         "Secret Rare",
-        "Holographic Rare",
-        "Ultimate Rare"
+        "Ghost Rare"
       ],
       "count": {
         "Secret Rare": 1,
-        "Holographic Rare": 1,
-        "Ultimate Rare": 1
+        "Ghost Rare": 1
       }
     },
     {
       "card_name": "Elemental HERO Plasma Vice",
       "set_number": "GLAS-EN037",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -401,6 +415,18 @@
       "card_name": "Evil HERO Lightning Golem",
       "set_number": "GLAS-EN039",
       "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Evil HERO Dark Gaia",
+      "set_number": "GLAS-EN040",
+      "rarities": [
         "Rare"
       ],
       "count": {
@@ -408,23 +434,13 @@
       }
     },
     {
-      "card_name": "Evil HERO Dark Gaia",
-      "set_number": "GLAS-EN040",
-      "rarities": [
-        "Super Rare"
-      ],
-      "count": {
-        "Super Rare": 1
-      }
-    },
-    {
       "card_name": "Super Vehicroid - Stealth Union",
       "set_number": "GLAS-EN041",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -441,22 +457,20 @@
       "card_name": "Gladiator Beast Gaiodiaz",
       "set_number": "GLAS-EN043",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Gladiator Beast Heraklinos",
       "set_number": "GLAS-EN044",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -483,20 +497,20 @@
       "card_name": "Dark Fusion",
       "set_number": "GLAS-EN047",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Diamond-Dust Cyclone",
       "set_number": "GLAS-EN048",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -583,10 +597,10 @@
       "card_name": "Gladiator Beast's Battle Manica",
       "set_number": "GLAS-EN057",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -623,10 +637,12 @@
       "card_name": "Cunning of the Six Samurai",
       "set_number": "GLAS-EN061",
       "rarities": [
-        "Common"
+        "Super Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -653,10 +669,10 @@
       "card_name": "No Entry!!",
       "set_number": "GLAS-EN064",
       "rarities": [
-        "Super Rare"
+        "Common"
       ],
       "count": {
-        "Super Rare": 1
+        "Common": 1
       }
     },
     {
@@ -683,20 +699,22 @@
       "card_name": "Updraft",
       "set_number": "GLAS-EN067",
       "rarities": [
-        "Rare"
+        "Super Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
       "card_name": "Release from Stone",
       "set_number": "GLAS-EN068",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -763,10 +781,12 @@
       "card_name": "Energy-Absorbing Monolith",
       "set_number": "GLAS-EN075",
       "rarities": [
-        "Super Rare"
+        "Super Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Super Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -817,6 +837,154 @@
       ],
       "count": {
         "Common": 1
+      }
+    },
+    {
+      "card_name": "Gladiator Beast Torax",
+      "set_number": "GLAS-EN081",
+      "rarities": [
+        "Super Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Super Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Test Tiger",
+      "set_number": "GLAS-EN082",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Defensive Tactics",
+      "set_number": "GLAS-EN083",
+      "rarities": [
+        "Super Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Super Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragon Ice",
+      "set_number": "GLAS-EN084",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Tongue Twister",
+      "set_number": "GLAS-EN085",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Skreech",
+      "set_number": "GLAS-EN086",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Royal Firestorm Guards",
+      "set_number": "GLAS-EN087",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Veil of Darkness",
+      "set_number": "GLAS-EN088",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Security Orb",
+      "set_number": "GLAS-EN089",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Necroface",
+      "set_number": "GLAS-EN090",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Gil Garth",
+      "set_number": "GLAS-EN091",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Soul Taker",
+      "set_number": "GLAS-EN092",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Magic Formula",
+      "set_number": "GLAS-EN093",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Silent Doom",
+      "set_number": "GLAS-EN094",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     }
   ]

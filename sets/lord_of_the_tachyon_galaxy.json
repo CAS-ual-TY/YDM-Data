@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Mecha Phantom Beast Turtletracer",
+      "set_number": "LTGY-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Bachibachibachi",
       "set_number": "LTGY-EN001",
       "rarities": [
@@ -121,10 +131,10 @@
       "card_name": "Blizzard Falcon",
       "set_number": "LTGY-EN012",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -191,10 +201,10 @@
       "card_name": "Battlin' Boxer Switchitter",
       "set_number": "LTGY-EN019",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -211,10 +221,10 @@
       "card_name": "Mecha Phantom Beast Megaraptor",
       "set_number": "LTGY-EN021",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -251,10 +261,10 @@
       "card_name": "Mecha Phantom Beast Hamstrat",
       "set_number": "LTGY-EN025",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -271,6 +281,16 @@
       "card_name": "Brotherhood of the Fire Fist - Leopard",
       "set_number": "LTGY-EN027",
       "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Brotherhood of the Fire Fist - Rhino",
+      "set_number": "LTGY-EN028",
+      "rarities": [
         "Rare"
       ],
       "count": {
@@ -278,23 +298,13 @@
       }
     },
     {
-      "card_name": "Brotherhood of the Fire Fist - Rhino",
-      "set_number": "LTGY-EN028",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
       "card_name": "Brotherhood of the Fire Fist - Buffalo",
       "set_number": "LTGY-EN029",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -311,20 +321,20 @@
       "card_name": "Wheel of Prophecy",
       "set_number": "LTGY-EN031",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Madolche Hootcake",
       "set_number": "LTGY-EN032",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -351,10 +361,12 @@
       "card_name": "Harpie Channeler",
       "set_number": "LTGY-EN035",
       "rarities": [
-        "Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -371,82 +383,82 @@
       "card_name": "Windrose the Elemental Lord",
       "set_number": "LTGY-EN037",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Redox, Dragon Ruler of Boulders",
       "set_number": "LTGY-EN038",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Tidal, Dragon Ruler of Waterfalls",
       "set_number": "LTGY-EN039",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Blaster, Dragon Ruler of Infernos",
       "set_number": "LTGY-EN040",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Tempest, Dragon Ruler of Storms",
       "set_number": "LTGY-EN041",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Risebell the Star Adjuster",
       "set_number": "LTGY-EN042",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Green Duston",
       "set_number": "LTGY-EN043",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Number 107: Galaxy-Eyes Tachyon Dragon",
       "set_number": "LTGY-EN044",
       "rarities": [
-        "Holographic Rare",
+        "Ghost Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
+        "Ghost Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -455,10 +467,12 @@
       "card_name": "Gauntlet Launcher",
       "set_number": "LTGY-EN045",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -475,10 +489,10 @@
       "card_name": "CXyz Dark Fairy Cheer Girl",
       "set_number": "LTGY-EN047",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -495,32 +509,30 @@
       "card_name": "Ice Beast Zerofyne",
       "set_number": "LTGY-EN049",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Battlin' Boxer Lead Yoke",
       "set_number": "LTGY-EN050",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Number 105: Battlin' Boxer Star Cestus",
       "set_number": "LTGY-EN051",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -539,22 +551,20 @@
       "card_name": "Mecha Phantom Beast Dracossack",
       "set_number": "LTGY-EN053",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Brotherhood of the Fire Fist - Cardinal",
       "set_number": "LTGY-EN054",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -623,30 +633,32 @@
       "card_name": "Scramble!! Scramble!!",
       "set_number": "LTGY-EN061",
       "rarities": [
-        "Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
       "card_name": "Fire Formation - Gyokkou",
       "set_number": "LTGY-EN062",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Spellbook of Judgment",
       "set_number": "LTGY-EN063",
       "rarities": [
-        "Common"
+        "Secret Rare"
       ],
       "count": {
-        "Common": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -663,10 +675,10 @@
       "card_name": "Hysteric Sign",
       "set_number": "LTGY-EN065",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -693,20 +705,20 @@
       "card_name": "Summon Breaker",
       "set_number": "LTGY-EN068",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Pinpoint Guard",
       "set_number": "LTGY-EN069",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -723,10 +735,10 @@
       "card_name": "Torrential Reborn",
       "set_number": "LTGY-EN071",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -753,10 +765,10 @@
       "card_name": "Do a Barrel Roll",
       "set_number": "LTGY-EN074",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -773,20 +785,20 @@
       "card_name": "Madolche Nights",
       "set_number": "LTGY-EN076",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Geargiagear",
       "set_number": "LTGY-EN077",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -803,6 +815,60 @@
       "card_name": "Mind Drain",
       "set_number": "LTGY-EN079",
       "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dragoncarnation",
+      "set_number": "LTGY-EN080",
+      "rarities": [
+        "Short Print"
+      ],
+      "count": {
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Noble Knight Gwalchavad",
+      "set_number": "LTGY-EN081",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Brotherhood of the Fire Fist - Coyote",
+      "set_number": "LTGY-EN082",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Mermail Abyssbalaen",
+      "set_number": "LTGY-EN083",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Trifortressops",
+      "set_number": "LTGY-EN084",
+      "rarities": [
         "Rare"
       ],
       "count": {
@@ -810,13 +876,155 @@
       }
     },
     {
-      "card_name": "Dragoncarnation",
-      "set_number": "LTGY-EN080",
+      "card_name": "Ghost Fairy Elfobia",
+      "set_number": "LTGY-EN085",
       "rarities": [
-        "Normal Rare"
+        "Super Rare"
       ],
       "count": {
-        "Normal Rare": 1
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Totem Bird",
+      "set_number": "LTGY-EN086",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Noble Arms of Destiny",
+      "set_number": "LTGY-EN087",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Spellbook of Miracles",
+      "set_number": "LTGY-EN088",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Five Brothers Explosion",
+      "set_number": "LTGY-EN089",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sonic Warrior",
+      "set_number": "LTGY-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Constellar Omega",
+      "set_number": "LTGY-EN091",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 69: Heraldry Crest",
+      "set_number": "LTGY-EN092",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Constellar Sombre",
+      "set_number": "LTGY-EN093",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Evilswarm Kerykeion",
+      "set_number": "LTGY-EN094",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Reactan, Dragon Ruler of Pebbles",
+      "set_number": "LTGY-EN095",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stream, Dragon Ruler of Droplets",
+      "set_number": "LTGY-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Burner, Dragon Ruler of Sparks",
+      "set_number": "LTGY-EN097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lightning, Dragon Ruler of Drafts",
+      "set_number": "LTGY-EN098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Duck Fighter",
+      "set_number": "LTGY-EN099",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
     }
   ]

@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Noble Knight Artorigus",
+      "set_number": "GAOV-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Wattaildragon",
       "set_number": "GAOV-EN001",
       "rarities": [
@@ -41,10 +51,10 @@
       "card_name": "Tasuke Knight",
       "set_number": "GAOV-EN004",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -61,10 +71,10 @@
       "card_name": "Cardcar D",
       "set_number": "GAOV-EN006",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -81,10 +91,10 @@
       "card_name": "Hammer Shark",
       "set_number": "GAOV-EN008",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -191,10 +201,10 @@
       "card_name": "Hieratic Dragon of Gebeb",
       "set_number": "GAOV-EN019",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -251,10 +261,12 @@
       "card_name": "Hieratic Dragon of Sutekh",
       "set_number": "GAOV-EN025",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -341,10 +353,10 @@
       "card_name": "Lightray Gearfried",
       "set_number": "GAOV-EN034",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -391,32 +403,32 @@
       "card_name": "Flame Tiger",
       "set_number": "GAOV-EN039",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Nomadic Force",
       "set_number": "GAOV-EN040",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
       "card_name": "Neo Galaxy-Eyes Photon Dragon",
       "set_number": "GAOV-EN041",
       "rarities": [
-        "Holographic Rare",
+        "Ghost Rare",
         "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Holographic Rare": 1,
+        "Ghost Rare": 1,
         "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
@@ -437,20 +449,20 @@
       "card_name": "Photon Strike Bounzer",
       "set_number": "GAOV-EN043",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Photon Papilloperative",
       "set_number": "GAOV-EN044",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -489,22 +501,20 @@
       "card_name": "Hieratic Sun Dragon Overlord of Heliopolis",
       "set_number": "GAOV-EN048",
       "rarities": [
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Queen Dragun Djinn",
       "set_number": "GAOV-EN049",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -523,10 +533,10 @@
       "card_name": "Bound Wand",
       "set_number": "GAOV-EN051",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -563,10 +573,12 @@
       "card_name": "Night Beam",
       "set_number": "GAOV-EN055",
       "rarities": [
-        "Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -593,20 +605,20 @@
       "card_name": "Evo-Diversity",
       "set_number": "GAOV-EN058",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Evo-Price",
       "set_number": "GAOV-EN059",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -623,20 +635,22 @@
       "card_name": "Inzektor Crossbow - Zektarrow",
       "set_number": "GAOV-EN061",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Xyz Unit",
       "set_number": "GAOV-EN062",
       "rarities": [
-        "Super Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -663,10 +677,10 @@
       "card_name": "Storm",
       "set_number": "GAOV-EN065",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
       }
     },
     {
@@ -733,20 +747,22 @@
       "card_name": "Hieratic Seal of Reflection",
       "set_number": "GAOV-EN072",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Zekt Conversion",
       "set_number": "GAOV-EN073",
       "rarities": [
-        "Rare"
+        "Ultra Rare",
+        "Ultimate Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
       }
     },
     {
@@ -813,10 +829,204 @@
       "card_name": "Double Payback",
       "set_number": "GAOV-EN080",
       "rarities": [
-        "Normal Rare"
+        "Short Print"
       ],
       "count": {
-        "Normal Rare": 1
+        "Short Print": 1
+      }
+    },
+    {
+      "card_name": "Ancient Dragon",
+      "set_number": "GAOV-EN081",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Hieratic Seal of the Dragon King",
+      "set_number": "GAOV-EN082",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Evoltile Elginero",
+      "set_number": "GAOV-EN083",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Lightray Grepher",
+      "set_number": "GAOV-EN084",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Tardy Orc",
+      "set_number": "GAOV-EN085",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Draconnection",
+      "set_number": "GAOV-EN086",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Trial and Tribulation",
+      "set_number": "GAOV-EN087",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Hieratic Seal From the Ashes",
+      "set_number": "GAOV-EN088",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Xyz Wrath",
+      "set_number": "GAOV-EN089",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Number 11: Big Eye",
+      "set_number": "GAOV-EN090",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 7: Lucky Straight",
+      "set_number": "GAOV-EN091",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Beetron",
+      "set_number": "GAOV-EN092",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Influence Dragon",
+      "set_number": "GAOV-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bright Star Dragon",
+      "set_number": "GAOV-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Buten",
+      "set_number": "GAOV-EN095",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Doom Donuts",
+      "set_number": "GAOV-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nimble Manta",
+      "set_number": "GAOV-EN097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shining Elf",
+      "set_number": "GAOV-EN098",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Flelf",
+      "set_number": "GAOV-EN099",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
       }
     }
   ]
