@@ -1,0 +1,30 @@
+{
+  "name": "Gouki The Giant Ogre",
+  "number": "47946130",
+  "is_illegal": false,
+  "text": "3+ \"Gouki\" monsters
+Cannot be destroyed by battle, and is unaffected by the activated effects of your opponent's monsters with ATK less than or equal to this card. When your opponent activates a card or effect that targets this card, and/or a monster(s) this card points to (Quick Effect): You can make this card lose exactly 500 ATK, and if you do, negate the activation. Once per turn, if this card's current ATK is different from its original ATK (Quick Effect): You can make this card gain 1000 ATK until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Bottom-Left",
+    "Bottom-Right",
+    "Right"
+  ],
+  "link_number": "4"
+}

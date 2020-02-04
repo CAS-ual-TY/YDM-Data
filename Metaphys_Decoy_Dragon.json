@@ -1,0 +1,28 @@
+{
+  "name": "Metaphys Decoy Dragon",
+  "number": "12196873",
+  "is_illegal": false,
+  "text": "When your monster is targeted for an attack: You can target 1 of your \"Metaphys\" monsters that is banished or in your GY; banish this card, and if you do, Special Summon that monster in Attack Position. During the Standby Phase of the next turn after this card was banished: You can Special Summon this banished card. You can only use each effect of \"Metaphys Decoy Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "300",
+  "defense": "200",
+  "attribute": "LIGHT",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "1",
+  "pendulum_right": "1",
+  "pendulum_text": "When your monster is targeted for an attack: You can target 1 of your \"Metaphys\" monsters that is banished or in your GY; banish this card, and if you do, Special Summon that monster in Attack Position. You can only use this effect of \"Metaphys Decoy Dragon\" once per turn.",
+  "stars": "2"
+}

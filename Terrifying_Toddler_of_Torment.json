@@ -1,0 +1,26 @@
+{
+  "name": "Terrifying Toddler of Torment",
+  "number": "48468330",
+  "is_illegal": false,
+  "text": "FLIP: You can send 1 Fiend monster from your Deck to the GY.
+If this card is sent from the hand or Deck to the GY: You can Special Summon this card in face-down Defense Position. You can only use each effect of \"Terrifying Toddler of Torment\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "3"
+}

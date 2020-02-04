@@ -1,0 +1,31 @@
+{
+  "name": "Reprodocus",
+  "number": "34989413",
+  "is_illegal": false,
+  "text": "2 monsters
+You can activate 1 of these effects.
+● Declare 1 Monster Type; all face-up monsters this card points to become that Type until the end of this turn.
+● Declare 1 Attribute; all face-up monsters this card points to become that Attribute until the end of this turn.
+You can only use this effect of \"Reprodocus\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom",
+    "Top"
+  ],
+  "link_number": "2"
+}

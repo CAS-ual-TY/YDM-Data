@@ -1,0 +1,24 @@
+{
+  "name": "Crusadia Draco",
+  "number": "54525057",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon \"Crusadia Draco\" once per turn this way. If this card is Normal or Special Summoned to a zone a Link Monster points to: You can target 1 \"Crusadia\" card in your GY, except \"Crusadia Draco\"; add it to your hand. You can only use this effect of \"Crusadia Draco\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "600",
+  "defense": "2000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

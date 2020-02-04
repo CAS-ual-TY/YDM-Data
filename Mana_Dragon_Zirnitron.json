@@ -1,0 +1,24 @@
+{
+  "name": "Mana Dragon Zirnitron",
+  "number": "11074235",
+  "is_illegal": false,
+  "text": "If a Spell/Trap you control leaves the field because of an opponent's effect, and is now in the GY or banished (except during the Damage Step): You can Special Summon this card from the GY (if it was there when that Spell/Trap left) or hand (even if not), then you can Set 1 Spell/Trap that is banished or in your GY to your Spell & Trap Zone. You can only use this effect of \"Mana Dragon Zirnitron\" once per turn. If Summoned this way, banish this card when it leaves the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2200",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}
