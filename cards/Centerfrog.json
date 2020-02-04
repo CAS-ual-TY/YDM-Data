@@ -1,0 +1,24 @@
+{
+  "name": "Centerfrog",
+  "number": "47346782",
+  "is_illegal": false,
+  "text": "Cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. If this card is Normal or Flip Summoned: Change it to Defense Position. Once per turn: You can target 1 monster in your opponent's Main Monster Zone; give your opponent control of this Defense Position card by moving it to their zone adjacent to the target, then if your opponent controls exactly 2 \"Centerfrog\" in the Main Monster Zone, gain control of all monsters in between those 2 cards.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "100",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

@@ -1,0 +1,25 @@
+{
+"name": "Cyberse Magician",
+"number": "24731391",
+"is_illegal": false,
+"text": "You can Ritual Summon this card with \"Cynet Ritual\". Any damage you take is halved. (You cannot halve the same damage twice this way.) While you control a Link Monster, monsters your opponent controls cannot target monsters you control for attacks, except this one, also your opponent cannot target monsters you control with card effects, except this one. If this card battles a Link Monster, it gains 1000 ATK during that damage calculation only. If this card in your possession is destroyed by an opponent’s card effect: You can add 1 Cyberse monster from your Deck to your hand.",
+"type": "Monster",
+"is_monster": true,
+"is_spell": false,
+"is_trap": false,
+"species": "Cyberse",
+"attack": "2500",
+"defense": "2000",
+"attribute": "DARK",
+"is_pendulum": false,
+"is_xyz": false,
+"is_synchro": false,
+"is_fusion": false,
+"is_link": false,
+"is_extra_deck": false,
+"monster_types": [
+  "Ritual",
+  "Effect"
+],
+"stars": "7"
+}
