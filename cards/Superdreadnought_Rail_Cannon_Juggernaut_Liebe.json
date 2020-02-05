@@ -1,0 +1,24 @@
+{
+  "name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+  "number": "26096328",
+  "is_illegal": false,
+  "text": "3 Level 11 monsters\nOnce per turn, you can Xyz Summon \"Superdreadnought Rail Cannon Juggernaut Liebe\" by using 1 Rank 10 Machine Xyz Monster you control as material. (Transfer its materials to this card.) Once per turn: You can detach 1 material from this card; this card gains 2000 ATK/DEF, also other monsters you control cannot attack for the rest of this turn. This card can make a number of attacks on monsters during each Battle Phase equal to the number of its materials +1.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "4000",
+  "defense": "4000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "11"
+}

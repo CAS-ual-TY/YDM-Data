@@ -1,0 +1,24 @@
+{
+  "name": "Dark Rose Fairy",
+  "number": "90724272",
+  "is_illegal": false,
+  "text": "If a Tuner(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. If this card is in your GY: You can send 1 card from your hand or field to the GY; place this card on the top or bottom of your Deck. You can only use each effect of \"Dark Rose Fairy\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "800",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

@@ -1,0 +1,11 @@
+{
+"name": "Barrage Blast",
+"number": "51369889",
+"is_illegal": false,
+"text": "Once per turn: You can detach any number of materials from Machine Xyz Monsters you control, then target that many cards on the field; destroy them. If a Machine Xyz Monster(s) you control is destroyed by battle or an opponent’s card effect while this card is in your GY: you can banish this card and 1 Machine Xyz Monster in your GY; inflict damage to your opponent equal to the Rank of the banished monster ×200.",
+"type": "Trap",
+"is_monster": false,
+"is_spell": false,
+"is_trap": true,
+"property": "Continuous"
+}

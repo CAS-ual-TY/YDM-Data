@@ -1,0 +1,24 @@
+{
+  "name": "Lunalight Emerald Bird",
+  "number": "14152693",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can send 1 \"Lunalight\" card from your hand to the GY, and if you do, draw 1 card. If this card is sent to the GY by a card effect: You can target 1 of your Level 4 or lower \"Lunalight\" monsters that is banished or in your GY, except \"Lunalight Emerald Bird\"; Special Summon it in Defense Position, but negate its effects. You can only use each effect of \"Lunalight Emerald Bird\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1200",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}
