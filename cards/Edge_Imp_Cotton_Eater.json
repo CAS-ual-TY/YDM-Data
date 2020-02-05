@@ -1,0 +1,28 @@
+{
+  "name": "Edge Imp Cotton Eater",
+  "number": "73240432",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned: You can inflict 200 damage to your opponent for each \"Frightfur\" monster in your GY. You can only use this effect of \"Edge Imp Cotton Eater\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2400",
+  "defense": "1600",
+  "attribute": "DARK",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "1",
+  "pendulum_right": "1",
+  "pendulum_text": "All Fusion Monsters you control gain 300 ATK. Once per turn, if a \"Frightfur\" Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can draw 1 card.",
+  "stars": "7"
+}

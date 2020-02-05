@@ -1,0 +1,24 @@
+{
+  "name": "D/D/D Flame High King Genghis",
+  "number": "16006416",
+  "is_illegal": false,
+  "text": "1 Level 5 or higher \"D/D\" monster + 1 \"D/D\" monster\nIf another \"D/D\" monster(s) is Normal or Special Summoned to your field, while you control this monster (except during the Damage Step): You can target 1\ \"D/D\" monster in your GY; Special Summon it. You can only use this effect of \"D/D/D Flame High King Genghis\" once per turn. Once per your turn, when a Spell/Trap Card, or its effect, is activated (Quick Effect): You can negate the activation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2800",
+  "defense": "2400",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

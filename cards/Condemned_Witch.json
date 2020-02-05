@@ -1,0 +1,24 @@
+{
+  "name": "Condemned Witch",
+  "number": "44656450",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can add 1 \"Forbidden\" Quick-Play Spell from your Deck to your hand. During your opponent’s Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 Level 4 Fairy monster from your Deck, except \"Condemned Witch\". You can only use each effect of \"Condemned Witch\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "100",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

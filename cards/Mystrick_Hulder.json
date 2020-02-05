@@ -1,0 +1,24 @@
+{
+  "name": "Mystrick Hulder",
+  "number": "81263643",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can discard 1 card; apply the following effect, depending on the type of the card discarded.\n● Monster: Add 1 Trap from your GY to your hand.\n● Spell: Add 1 monster from your GY to your hand.\n● Trap: Add 1 Spell from your GY to your hand.\nYou can only use this effect of \"Mystrick Hulder\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1500",
+  "defense": "2400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

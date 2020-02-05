@@ -1,0 +1,24 @@
+{
+  "name": "Danger!? Tsuchinoko?",
+  "number": "99745551",
+  "is_illegal": false,
+  "text": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger!? Tsuchinoko?\", Special Summon 1\ \"Danger!? Tsuchinoko?\" from your hand, and if you do, draw 1 card. If this card is discarded: You can Special Summon this card. You can only use this effect of \"Danger!? Tsuchinoko?\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1300",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Salamangreat Heatleo",
+  "number": "41463181",
+  "is_illegal": false,
+  "text": "2+ FIRE Effect Monsters\nIf this card is Link Summoned: You can target 1 card in your opponent’s Spell & Trap Zone; shuffle it into the Deck. Once per turn, during your Main Phase, if this card was Link Summoned using \"Salamangreat Heatleo\" as material: You can target 1 face-up monster on the field and 1 monster in your GY; the ATK of the first target becomes equal to the other target's, until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2300",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Top",
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "3"
+}

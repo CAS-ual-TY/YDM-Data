@@ -1,0 +1,24 @@
+{
+  "name": "Gravekeeper's Headman",
+  "number": "21663205",
+  "is_illegal": false,
+  "text": "If this card is Summoned: You can target 1 Level 4 \"Gravekeeper's\" monster in your GY; Special Summon it in face-up Attack Position or face-down Defense Position. You can only use this effect of \"Gravekeeper's Headman\" once per turn. This effect is unaffected by \"Necrovalley\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "500",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

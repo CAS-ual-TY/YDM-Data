@@ -1,0 +1,24 @@
+{
+  "name": "Gravekeeper's Supernaturalist",
+  "number": "79206925",
+  "is_illegal": false,
+  "text": "2 \"Gravekeeper's\" monsters\nGains ATK/DEF equal to the combined original Levels of the materials used for its Fusion Summon x 100. While \"Necrovalley\" is on the field, this card, and any card in your Field Zone, cannot be destroyed by card effects. During your Main Phase: You can activate this effect; during the End Phase of this turn, add 1\ \"Gravekeeper’s\" monster or 1\ \"Necrovalley\" card from your Deck to your hand. You can only use this effect of \"Gravekeeper's Supernaturalist\" once per turn",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "7"
+}

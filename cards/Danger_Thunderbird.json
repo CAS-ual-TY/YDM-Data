@@ -1,0 +1,24 @@
+{
+  "name": "Danger! Thunderbird!",
+  "number": "90807199",
+  "is_illegal": false,
+  "text": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Thunderbird!\", Special Summon 1\ \"Danger! Thunderbird!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 Set card your opponent controls; destroy it. You can only use this effect of \"Danger! Thunderbird!\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "2800",
+  "defense": "2400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

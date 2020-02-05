@@ -1,0 +1,26 @@
+{
+  "name": "World Legacy \"World Wand\"",
+  "number": "93920420",
+  "is_illegal": false,
+  "text": "This Normal Summoned/Set card cannot by destroyed by battle with a monster Special Summoned from the Extra Deck. You can only use each of the following effects of \"World Legacy - \"World Wand\"\" once per turn.
+● If this card is sent to the GY: You can Special Summon 1\ \"World Legacy\" monster from your hand.
+● You can banish this card from your GY, then target 1 of your banished \"Orcust\" monsters; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except DARK monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "500",
+  "defense": "2500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

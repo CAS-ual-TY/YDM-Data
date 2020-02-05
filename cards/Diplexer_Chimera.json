@@ -1,0 +1,24 @@
+{
+  "name": "Diplexer Chimera",
+  "number": "78084378",
+  "is_illegal": false,
+  "text": "2 Cyberse monsters\nOnce per turn: You can Tribute 1 Cyberse monster; Spell/Trap Cards, and their effects, cannot be activated during the Battle Phase of this turn. If this Fusion Summoned card is sent to your GY: You can target 1\ \"Cynet Fusion\" and 1 Cyberse monster in your GY, except this card; add them to your hand. You can only use this effect of \"Diplexer Chimera\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2000",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "5"
+}

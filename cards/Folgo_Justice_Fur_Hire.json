@@ -1,0 +1,28 @@
+{
+  "name": "Folgo, Justice Fur Hire",
+  "number": "66023650",
+  "is_illegal": false,
+  "text": "3 monsters with different Types\nCannot be used as Link Material. If this card is Link Summoned: You can Special Summon 1 monster \"Fur Hire\" with a different Type from the 3 monsters used for the Link Summon, from your Deck in Defense Position. If a card(s) your opponent controls is destroyed by battle or card effect: You can draw 1 card, then, if you control 3 or more monsters \"Fur Hire\" with different names, draw 2 additional cards. You can only use each effect of \"Folgo, Justice Fur Hire\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "2400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Top",
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "3"
+}

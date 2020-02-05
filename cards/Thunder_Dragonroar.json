@@ -1,0 +1,24 @@
+{
+  "name": "Thunder Dragonroar",
+  "number": "29596581",
+  "is_illegal": false,
+  "text": "You can discard this card; add to your hand, 1 of your \"Thunder Dragon\" cards, that is banished or is in your GY, except \"Thunder Dragonroar\". If this card is banished, or sent from the field to the GY: You can Special Summon 1\ \"Thunder Dragon\" monster from your Deck, but return it to the hand during the End Phase. You can only use 1\ \"Thunder Dragonroar\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "2400",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

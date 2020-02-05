@@ -1,0 +1,24 @@
+{
+  "name": "Dinowrestler Systegosaur",
+  "number": "56980148",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned: You can add 1 \"Dinowrestler\" monster or 1 \"World Dino Wrestling\" from your Deck to your hand. During the End Phase, if this card is in the GY because it was sent there this turn, and your opponent controls more monsters than you do: You can target 1 \"Dinowrestler\" monster in your GY, except \"Dinowrestler Systegosaur\"; Special Summon that target. You can only use each effect of \"Dinowrestler Systegosaur\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1900",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}
