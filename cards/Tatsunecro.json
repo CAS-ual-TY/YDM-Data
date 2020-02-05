@@ -1,0 +1,25 @@
+{
+  "name": "Tatsunecro",
+  "number": "03096468",
+  "is_illegal": false,
+  "text": "If this Normal Summoned/Set monster would be used as Synchro Material, 1 monster in your hand can be used as 1 of the other materials. If you do this, all materials from that Summon are banished instead of being sent to the GY. You cannot Special Summon monsters, except Zombie monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "500",
+  "defense": "1700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "3"
+}

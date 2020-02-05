@@ -1,0 +1,24 @@
+{
+  "name": "Doomking Balerdroch",
+  "number": "39185163",
+  "is_illegal": false,
+  "text": "During the Standby Phase, if a face-up card is in a Field Zone and this card is in your GY: You can Special Summon this card in Defense Position. You can only use this effect of \"Doomking Balerdroch\" once per turn. Once per Chain, when a Zombie monster, except \"Doomking Balerdroch\", activates its effect (except during the Damage Step) (Quick Effect): You can apply 1 of these effects (but you cannot apply that same effect of \"Doomking Balerdroch\" again this turn). ● Negate that effect. ● Banish 1 monster from the field or GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2800",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}
