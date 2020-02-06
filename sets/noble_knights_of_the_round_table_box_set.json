@@ -1,11 +1,11 @@
 {
-  "name": "Noble Knights of the Round Table Box Set",
-  "type": "Shonen Jump",
+  "name": "Noble Knights of the Round Table",
+  "type": "Structure Deck",
   "date": "2014-11-21",
-  "distribution": "shonen_jump",
+  "distribution": "",
   "prefix": "NKRT",
   "sub_sets": [],
-  "load": false,
+  "load": true,
   "cards": [
     {
       "card_name": "Merlin",
@@ -380,6 +380,66 @@
     {
       "card_name": "Sacred Noble Knight of King Artorigus",
       "set_number": "NKRT-EN038",
+      "rarities": [
+        "Platinum Rare"
+      ],
+      "count": {
+        "Platinum Rare": 1
+      }
+    },
+    {
+      "card_name": "Effect Veiler",
+      "set_number": "NKRT-EN039",
+      "rarities": [
+        "Platinum Rare"
+      ],
+      "count": {
+        "Platinum Rare": 1
+      }
+    },
+    {
+      "card_name": "Mystical Space Typhoon",
+      "set_number": "NKRT-EN040",
+      "rarities": [
+        "Platinum Rare"
+      ],
+      "count": {
+        "Platinum Rare": 1
+      }
+    },
+    {
+      "card_name": "Gold Sarcophagus",
+      "set_number": "NKRT-EN041",
+      "rarities": [
+        "Platinum Rare"
+      ],
+      "count": {
+        "Platinum Rare": 1
+      }
+    },
+    {
+      "card_name": "Forbidden Lance",
+      "set_number": "NKRT-EN042",
+      "rarities": [
+        "Platinum Rare"
+      ],
+      "count": {
+        "Platinum Rare": 1
+      }
+    },
+    {
+      "card_name": "Torrential Tribute",
+      "set_number": "NKRT-EN043",
+      "rarities": [
+        "Platinum Rare"
+      ],
+      "count": {
+        "Platinum Rare": 1
+      }
+    },
+    {
+      "card_name": "Compulsory Evacuation Device",
+      "set_number": "NKRT-EN044",
       "rarities": [
         "Platinum Rare"
       ],
