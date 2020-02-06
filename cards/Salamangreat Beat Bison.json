@@ -1,0 +1,24 @@
+{
+  "name": "Salamangreat Beat Bison",
+  "number": "25166510",
+  "is_illegal": false,
+  "text": "If you have 3 or more \“Salamangreat\” monsters in your GY: You can Special Summon this card from your hand in Defense Position. You can target FIRE Link Monsters in your GY, up to the number of face-up cards your opponent controls; return them to the Extra Deck, then, you can negate the effects of face-up cards your opponent controls until the end of this turn, up to the number of cards you returned. You can only use each effect of \“Salamangreat Beat Bison\” once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2800",
+  "defense": "1000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

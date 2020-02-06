@@ -1,0 +1,24 @@
+{
+  "name": "Salamangreat Gazelle",
+  "number": "26889158",
+  "is_illegal": false,
+  "text": "If a \"Salamangreat\" monster is sent to your GY, except \"Salamangreat Gazelle\" (except during the Damage Step): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 \"Salamangreat\" card from your Deck to the GY, except \"Salamangreat Gazelle\". You can only use each effect of \"Salamangreat Gazelle" once per turn.\",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1500",
+  "defense": "1000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

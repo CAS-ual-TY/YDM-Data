@@ -1,0 +1,24 @@
+{
+  "name": "Salamangreat Spinny",
+  "number": "52277807",
+  "is_illegal": false,
+  "text": "If you control a \"Salamangreat\" card: You can discard this card, then target 1 face-up monster on the field; it gains 500 ATK until the end of this turn. If you control a \"Salamangreat\" monster other than \"Salamangreat Spinny\" and this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Salamangreat Spinny\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1000",
+  "defense": "1500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}
