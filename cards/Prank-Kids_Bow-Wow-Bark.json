@@ -1,0 +1,29 @@
+{
+  "name": "Prank-Kids Bow-Wow-Bark",
+  "number": "HISU-EN021",
+  "is_illegal": false,
+  "text": "2 \"Prank-Kids\" monsters\nA \"Prank-Kids\" monster this card points to gains 1000 ATK. During your opponent's turn (Quick Effect): You can Tribute this card, then target 2 \"Prank-Kids\" cards with different names in your GY, except Link Monsters; add them to your hand, also \"Prank-Kids\" monsters you control cannot be destroyed by your opponent's card effects this turn. You can only use this effect of \"Prank-Kids Bow-Wow-Bark\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "2000",
+  "defense": "",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom",
+    "Right"
+  ],
+  "link_number": "2"
+}
+

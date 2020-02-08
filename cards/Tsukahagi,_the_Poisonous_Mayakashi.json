@@ -1,0 +1,24 @@
+{
+  "name": "Tsukahagi, the Poisonous Mayakashi",
+  "number": "HISU-EN028",
+  "is_illegal": false,
+  "text": "You can only control 1 \"Tsukahagi, the Poisonous Mayakashi\". If a \"Mayakashi\" monster(s) in your possession, except \"Tsukahagi, the Poisonous Mayakashi\", is destroyed by battle or an opponent's card effect, while this card is in the GY: You can Special Summon this card. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except \"Mayakashi\" monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "0",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner/Effect"
+  ],
+  "stars": "2"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Prank-Kids Weather Washer",
+  "number": "HISU-EN018",
+  "is_illegal": false,
+  "text": "2 "Prank-Kids" monsters\nIf your \"Prank-Kids\" monster attacks, your opponent cannot activate cards or effects until the end of the Damage Step. During your opponent's turn (Quick Effect): You can Tribute this card, then target 2 \"Prank-Kids\" non-Fusion Monsters with different names in your GY; Special Summon them. They cannot be destroyed by battle this turn. You can only use this effect of \"Prank-Kids Weather Washer\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "2000",
+  "defense": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion/Effect"
+  ],
+  "stars": "5"
+}

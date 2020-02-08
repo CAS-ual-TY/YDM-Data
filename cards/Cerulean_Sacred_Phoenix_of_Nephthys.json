@@ -1,0 +1,25 @@
+{
+"name": "Cerulean Sacred Phoenix of Nephthys",
+"number": "HISU-EN006",
+"is_illegal": false,
+"text": "You can Ritual Summon this card with \"Rebirth of Nephthys\". You can only use each of the following effects of \"Cerulean Sacred Phoenix of Nephthys\" once per turn.\nDuring your Main Phase: You can destroy \"Nephthys\" cards in your hand and/or face-up field, then destroy an equal number of monsters your opponent controls.\nDuring your next Standby Phase after this card was destroyed by battle or card effect and sent to the GY: You can Special Summon this card from the GY.",
+"type": "Monster",
+"is_monster": true,
+"is_spell": false,
+"is_trap": false,
+"species": "Winged Beast",
+"attack": "3000",
+"defense": "1000",
+"attribute": "FIRE",
+"is_pendulum": false,
+"is_xyz": false,
+"is_synchro": false,
+"is_fusion": false,
+"is_link": false,
+"is_extra_deck": false,
+"monster_types": [
+  "Ritual",
+  "Effect"
+],
+"stars": "8"
+}

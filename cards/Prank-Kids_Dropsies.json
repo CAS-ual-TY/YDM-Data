@@ -1,0 +1,24 @@
+{
+  "name": "Prank-Kids Dropsies",
+  "number": "HISU-EN016",
+  "is_illegal": false,
+  "text": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can gain 1000 LP, then you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Dropsies\". You can only use this effect of \"Prank-Kids Dropsies\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

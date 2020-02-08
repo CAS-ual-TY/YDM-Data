@@ -1,0 +1,29 @@
+{
+  "name": "Prank-Kids Dodo-Doodle-Doo",
+  "number": "HISU-EN020",
+  "is_illegal": false,
+  "text": "2 \"Prank-Kids\" monsters\nIf this card is Link Summoned: You can add 1 \"Prank-Kids\" Spell/Trap from your Deck to your hand. You can Tribute this card, then target 2 \"Prank-Kids\" cards with different names in your GY, except Link Monsters; add them to your hand. You can only use each effect of \"Prank-Kids Dodo-Doodle-Doo\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "2000",
+  "defense": "",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom",
+    "Left"
+  ],
+  "link_number": "2"
+}
+
