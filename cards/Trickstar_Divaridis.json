@@ -1,0 +1,27 @@
+{
+  "name": "Trickstar Divaridis",
+  "number": "14365823",
+  "is_illegal": false,
+  "text": "2 Level 3 or lower “Trickstar” monsters\"You can only control 1 “Trickstar Divaridis“. If this card is Special Summoned: Inflict 200 damage to your opponent. If your opponent Normal or Special Summons a monster(s): Inflict 200 damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom"
+  ],
+  "link_number": "2"
+}

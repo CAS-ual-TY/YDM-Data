@@ -1,0 +1,25 @@
+{
+"name": "Impcantation Chalislime",
+"number": "65877963",
+"is_illegal": false,
+"text": "You can Ritual Summon this card with \"Impcantation Inception\". You can reveal this card in your hand; discard 1 card, and if you do, Special Summon 1 \"Impcantation\" monster from your Deck, also, during the End Phase, lose 2500 LP if you did not Special Summon a Ritual Monster this turn after you resolved this effect. You can send 1 \"Impcantation\" card from your hand or face-up field to the GY, then target 1 monster your opponent controls; destroy it. You can only use 1 “Impcantation Chalislime” effect per turn, and only once that turn.",
+"type": "Monster",
+"is_monster": true,
+"is_spell": false,
+"is_trap": false,
+"species": "Aqua",
+"attack": "2500",
+"defense": "1800",
+"attribute": "DARK",
+"is_pendulum": false,
+"is_xyz": false,
+"is_synchro": false,
+"is_fusion": false,
+"is_link": false,
+"is_extra_deck": false,
+"monster_types": [
+  "Ritual",
+  "Effect"
+],
+"stars": "7"
+}

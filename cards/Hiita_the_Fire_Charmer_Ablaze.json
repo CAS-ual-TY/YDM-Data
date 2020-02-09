@@ -1,0 +1,27 @@
+{
+  "name": "Hiita the Fire Charmer, Ablaze",
+  "number": "48815792",
+  "is_illegal": false,
+  "text": "2 monsters, including a FIRE monster.\n(This card is always treated as a “Familiar-Possessed” card.)\nYou can target 1 FIRE monster in your opponent’s GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or destroyed by an opponent’s card effect while in its owner's Monster Zone: You can add 1 FIRE monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Hiita the Fire Charmer, Ablaze\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1850",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

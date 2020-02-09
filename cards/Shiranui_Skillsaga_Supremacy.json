@@ -1,0 +1,27 @@
+{
+  "name": "Shiranui Skillsaga Supremacy",
+  "number": "86926989",
+  "is_illegal": false,
+  "text": "2+ Zombie monsters\nSynchro Monsters you control cannot be destroyed by card effects. FIRE monsters you control cannot be destroyed by battle. During your opponent's turn (Quick Effect): You can target 1 of your banished Zombie Synchro Monsters; Special Summon it to your zone this card points to. You can only use this effect of “Shiranui Skillsaga Supremacy” once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2300",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Bottom"
+  ],
+  "link_number": "2"
+}

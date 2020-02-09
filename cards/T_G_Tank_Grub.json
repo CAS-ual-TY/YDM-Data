@@ -1,0 +1,25 @@
+{
+  "name": "T.G. Tank Grub",
+  "number": "74627016",
+  "is_illegal": false,
+  "text": "If this card you control is used as Synchro Material for a \"T.G.\" monster, you can treat it as a non-Tuner. If this card is sent to the GY as Synchro Material for a \"T.G.\" monster: You can Special Summon 1 \"T.G. Token\" (Machine/EARTH/Level 1/ATK 0/DEF 0) in Attack Position. You can only use this effect of \"T.G. Tank Grub\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "1"
+}

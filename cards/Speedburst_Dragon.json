@@ -1,0 +1,24 @@
+{
+  "name": "Speedburst Dragon",
+  "number": "12950294",
+  "is_illegal": false,
+  "text": "When you take effect damage (except during the Damage Step): You can Special Summon this card from your hand, then inflict damage to your opponent equal to the damage you took, and if you do, you gain LP equal to half that damage you inflicted. When this card is Tribute Summoned: You can add 2 \"Rokket\" monsters with different names from your Deck to your hand. You can only use each effect of \"Speedburst Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2400",
+  "defense": "600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

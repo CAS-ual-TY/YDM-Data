@@ -1,0 +1,24 @@
+{
+  "name": "Extraceratops",
+  "number": "38383368",
+  "is_illegal": false,
+  "text": "When a monster in the Extra Monster Zone is destroyed by battle with a monster in the Main Monster Zone and sent to the GY, while this card is in the GY: You can Special Summon this card, in Defense Position to the field of that destroyed monster's owner. You can only use this effect of \"Extraceratops\" once per turn. If this card Special Summoned this way is destroyed and sent to the GY: Draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}
