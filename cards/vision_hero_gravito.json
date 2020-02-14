@@ -1,0 +1,24 @@
+{
+  "name": "Vision HERO Gravito",
+  "number": "54185227",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can target 1 of your banished \"HERO\" monsters; add it to your hand. You can Tribute this card, then target 2 \"Vision HERO\" Monster Cards in your Spell & Trap Zones; Special Summon them. You can only use each effect of \"Vision HERO Gravito\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "500",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

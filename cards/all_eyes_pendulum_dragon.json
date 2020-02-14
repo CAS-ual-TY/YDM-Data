@@ -1,0 +1,28 @@
+{
+  "name": "All-Eyes Phantom Dragon",
+  "number": "70335319",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or face-up Extra Deck) by Tributing all monsters you control (min. 2), including a Dragon Pendulum Monster. You can only Special Summon \"All-Eyes Phantom Dragon\" once per turn this way. Once per turn, during damage calculation, if this card battles an opponent's monster: Double this card's current ATK until the end of this turn. Once per turn, when your opponent activates a Spell/Trap Card or effect (Quick Effect): You can send 1 Spell/Trap you control to the GY; negate the activation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "Once per turn, at the end of the Damage Step, if your Dragon Pendulum Monster attacked an opponent's monster: You can activate this effect; it can attack again in a row. You cannot declare attacks the turn you activate this effect, except with that monster.",
+  "stars": "10"
+}
