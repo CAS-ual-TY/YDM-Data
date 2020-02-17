@@ -1,0 +1,24 @@
+{
+  "name": "Catoblepas, Familiar of the Evil Eye",
+  "number": "45955628",
+  "is_illegal": false,
+  "text": "You can target 1 \"Evil Eye\" Spell/Trap you control; once, until the end of the next turn, that card cannot be destroyed by your opponent's card effects. If you control an \"Evil Eye\" monster other than \"Catoblepas, Familiar of the Evil Eye\", while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Catoblepas, Familiar of the Evil Eye\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "600",
+  "defense": "1900",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

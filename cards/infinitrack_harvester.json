@@ -1,0 +1,24 @@
+{
+  "name": "Infinitrack Harvester",
+  "number": "35645105",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Infinitrack\" monster from your Deck to your hand, except \"Infinitrack Harvester\". You can target 1 other Machine monster you control; the Levels of both that monster and this card become the combined original Levels of those 2 monsters, until the end of this turn. You can only use each effect of \"Infinitrack Harvester\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "2100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

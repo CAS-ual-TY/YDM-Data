@@ -1,0 +1,24 @@
+{
+  "name": "Medusa, Watcher of the Evil Eye",
+  "number": "18551923",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 /"Evil Eye/" card in your GY, except /"Medusa, Watcher of the Evil Eye/"; add it to your hand. If this card is equipped with /"Evil Eye of Selene/" (Quick Effect): You can target 1 monster in your opponent's GY; banish it. You can only use this effect of /"Medusa, Watcher of the Evil Eye/" once per turn. Once per turn, during the next Standby Phase after this effect was activated: Banish 1 card in your GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1400",
+  "defense": "1600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

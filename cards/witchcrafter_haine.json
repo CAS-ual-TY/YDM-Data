@@ -1,0 +1,24 @@
+{
+  "name": "Watchcrafter Haine",
+  "number": "84523092",
+  "is_illegal": false,
+  "text": "Your opponent cannot target other Spellcaster monsters you control with card effects. (Quick Effect): You can discard 1 Spell, then target 1 face-up card your opponent controls; destroy it. You can only use this effect of \"Witchcrafter Haine\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2400",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

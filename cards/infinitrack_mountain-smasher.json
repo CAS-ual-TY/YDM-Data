@@ -1,0 +1,24 @@
+{
+  "name": "Infinitrack Mountain Smasher",
+  "number": "60195675",
+  "is_illegal": false,
+  "text": "2 Level 7 monsters\nWhen this card destroys an opponent's monster by battle: You can attach that monster to this card as material. You can only use each of the following effects of \"Infinitrack Mountain Smasher\" once per turn.\n● You can detach 1 material from this card; it gains 1000 ATK.\n● If this card is in your GY: You can Tribute 1 Machine Link Monster; Special Summon this card in Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2100",
+  "defense": "3100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "7"
+}
