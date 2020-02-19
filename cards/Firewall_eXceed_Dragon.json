@@ -1,0 +1,24 @@
+{
+  "name": "Firewall eXceed Dragon",
+  "number": "21065189",
+  "is_illegal": false,
+  "text": "2+ Level 4 monsters\nThis Xyz Summoned card gains 500 ATK x the total Link Rating of Link Monsters linked to this card. You can detach 2 materials from this card, then target 1 Link-4 Cyberse Link Monster in your GY; Special Summon it to your field so it points to this card, also you cannot Special Summon other monsters or attack directly for the rest of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2500",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

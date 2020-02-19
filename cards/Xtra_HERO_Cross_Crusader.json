@@ -1,0 +1,27 @@
+{
+  "name": "Xtra HERO Cross Crusader",
+  "number": "58004362",
+  "is_illegal": false,
+  "text": "2 Warrior monsters\nIf this card is Link Summoned: You can target 1 \"Destiny HERO\" monster in your GY; Special Summon it. You can Tribute 1 \"Destiny HERO\" monster; add 1 \"HERO\" monster with a different name from your Deck to your hand. You can only use each effect of \"Xtra HERO Cross Crusader\" once per turn, also you cannot Special Summon monsters the turn you activate either of this card's effects, except \"HERO\" monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

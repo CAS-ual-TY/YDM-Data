@@ -1,0 +1,24 @@
+{
+  "name": "Cyberse Reminder",
+  "number": "56337500",
+  "is_illegal": false,
+  "text": "2 Level 3 monsters\nYou can detach 1 material from this card, then target 1 \"Cynet\" Spell/Trap in your GY; add it to your hand. If this Xyz Summoned card is destroyed by battle or an opponent's card effect: You can Special Summon 2 Level 4 Cyberse monsters with different names from your Deck, but their effects are negated. You cannot Special Summon monsters from your Extra Deck the turn you activate either of this card's effects, except Cyberse monsters. You can only use each effect of \"Cyberse Reminder\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1800",
+  "defense": "800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "3"
+}

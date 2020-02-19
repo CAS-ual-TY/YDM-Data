@@ -1,0 +1,24 @@
+{
+  "name": "Dinowrestler Chimera T Wrextle",
+  "number": "22900219",
+  "is_illegal": false,
+  "text": "1 \"Dinowrestler\" Link Monster + 1 \"Dinowrestler\" monster\nIf this card battles, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. Your opponent's monsters cannot target other monsters you control for attacks. If this card destroys an opponent's monster by battle: It gains 500 ATK. If this card is destroyed by a card effect: Destroy all Attack Position monsters your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "3500",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}
