@@ -1,0 +1,24 @@
+{
+  "name": "Valkyrie Erda",
+  "number": "83705073",
+  "is_illegal": false,
+  "text": "You can only control 1 \"Valkyrie Erda\". While you control this card, Special Summoned by the effect of a \"Valkyrie\" card, all face-up monsters your opponent controls lose 1000 ATK. Any card destroyed by battle or card effect that would be sent to your opponent's GY is banished instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2000",
+  "defense": "2200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

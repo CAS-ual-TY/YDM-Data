@@ -1,0 +1,11 @@
+{
+  "name": "Dice It",
+  "number": "08868767",
+  "is_illegal": false,
+  "text": "Roll a six-sided die and apply this effect, depending on whose turn it is.\n●Your turn: Banish cards from your GY equal to the result. Then, if the result was 1, send 6 cards from the top of your Deck to the GY.\n●Opponent’s turn: Send cards from the top of your Deck to the GY equal to the result. Then, if the result was 6, banish 1 card from your GY.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}
