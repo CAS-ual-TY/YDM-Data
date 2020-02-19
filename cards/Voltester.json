@@ -1,0 +1,24 @@
+{
+  "name": "Voltester",
+  "number": "18585765",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned to a zone a Link Monster points to: Destroy all Link Monsters that point to this card, then destroy all other monsters that those Link Monsters pointed to, and follow the Link Arrows of all those destroyed monsters, destroying everything they point to, and repeating the process, until there are no more to destroy. (This card cannot be destroyed by this effect.) You can only use this effect of \"Voltester\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Thunder",
+  "attack": "2500",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

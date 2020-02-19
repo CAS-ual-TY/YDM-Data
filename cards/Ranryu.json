@@ -1,0 +1,24 @@
+{
+  "name": "Ranryu",
+  "number": "44680819",
+  "is_illegal": false,
+  "text": "You can only control 1 \"Ranryu\". If you control a Spellcaster monster, you can Special Summon this card (from your hand). If this card is destroyed by battle or card effect and sent to the GY: You can target 1 monster with 1500 ATK and 200 DEF in your GY, except \"Ranryu\"; Special Summon it",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1500",
+  "defense": "200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

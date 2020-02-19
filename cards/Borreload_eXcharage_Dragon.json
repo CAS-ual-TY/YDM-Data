@@ -1,0 +1,24 @@
+{
+  "name": "Borreload eXcharge Dragon",
+  "number": "06247535",
+  "is_illegal": false,
+  "text": "2 Level 4 DARK Dragon monsters\nNeither player can target this Xyz Summoned card with monster effects, except its own. Once per turn: You can detach 1 material from this card, then target 1 face-up monster on the field; it loses 600 ATK/DEF, then, you can Special Summon 1 \"Borrel\" monster from your GY, but banish it during the End Phase, also you cannot Special Summon other monsters or attack directly for the rest of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Yosenju Izna",
+  "number": "85970321",
+  "is_illegal": false,
+  "text": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Izna\" once per turn.\n● You can discard this card; this turn, your opponent cannot activate cards or effects when a \"Yosenju\" monster(s) is Normal or Special Summoned.\n● If you control another \"Yosenju\" monster: You can draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "800",
+  "defense": "1200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}
