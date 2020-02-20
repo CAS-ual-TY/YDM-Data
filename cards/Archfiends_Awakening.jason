@@ -1,0 +1,24 @@
+{
+  "name": "Archfiend's Awakening",
+  "number": "95825679",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with "Contract with the Abyss". This card's name becomes "Summoned Skull" on the field, but is still treated as an "Archfiend" card. Cannot be destroyed by battle, except by battle with a Ritual Monster, and cannot be destroyed by monster effects, except those of Ritual Monsters. If this Ritual Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 "Summoned Skull" from your hand, Deck, or GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2500",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

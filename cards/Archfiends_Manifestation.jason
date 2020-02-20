@@ -1,0 +1,24 @@
+{
+  "name": "Archfiend's Manifestation",
+  "number": "32775808",
+  "is_illegal": false,
+  "text": "/"Summoned Skull/" + 1 DARK monster/nThis card's name becomes "Summoned Skull" on the field, but is still treated as an "Archfiend" card. All "Summoned Skull" you control gain 500 ATK. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 "Summoned Skull" from your hand, Deck, or GY." once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2500",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

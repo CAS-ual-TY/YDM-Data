@@ -1,0 +1,24 @@
+{
+  "name": "Gimmick Puppet Terror Baby",
+  "number": "43598843",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 "Gimmick Puppet" monster in your GY, except "Gimmick Puppet Terror Baby"; Special Summon it in Defense Position. You can banish this card from your GY; your opponent cannot activate cards or effects in response to the activation of your "Gimmick Puppet" monster effects this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "500",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

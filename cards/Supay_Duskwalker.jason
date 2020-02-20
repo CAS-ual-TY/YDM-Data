@@ -1,0 +1,24 @@
+{
+  "name": "Supay, Duskwalker",
+  "number": "17315396",
+  "is_illegal": false,
+  "text": "You can discard 1 card; Special Summon this card from your hand in Defense Position, then you can Special Summon 1 "Supay" from your hand or Deck. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Synchro Monsters. You can only use this effect of "Supay, Duskwalker" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2200",
+  "defense": "1900",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

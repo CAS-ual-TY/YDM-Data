@@ -1,0 +1,24 @@
+{
+  "name": "Dark Spirit of Malice",
+  "number": "87988305",
+  "is_illegal": false,
+  "text": "When your opponent activates a card or effect (Quick Effect): You can send this card from your hand or field to the GY, then target 1 Level 8 Fiend monster in your GY; Special Summon it, but its effects are negated. If a Level 8 Fiend monster(s) is sent to your GY while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use each effect of "Dark Spirit of Malice" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1600",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}
