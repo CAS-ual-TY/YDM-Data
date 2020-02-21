@@ -2,7 +2,7 @@
   "name": "Unchained Soul of Anguish",
   "number": "93084621",
   "is_illegal": false,
-  "text": "2+ monsters, including a \"Unchained Soul\" monster/nYou can target 1 face-up monster your opponent controls; immediately after this effect resolves, Link Summon 1 DARK Link Monster, except \"Unchained Soul of Anguish\", by using only that opponent's monster and this card you control as material. If this card on the field is destroyed by battle or card effect: You can target 1 Fiend monster in your GY, except \"Unchained Soul of Anguish\"; add it to your hand. You can only use each effect of \"Unchained Soul of Anguish\" once per turn.",
+  "text": "2+ monsters, including a \"Unchained Soul\" monster\nYou can target 1 face-up monster your opponent controls; immediately after this effect resolves, Link Summon 1 DARK Link Monster, except \"Unchained Soul of Anguish\", by using only that opponent's monster and this card you control as material. If this card on the field is destroyed by battle or card effect: You can target 1 Fiend monster in your GY, except \"Unchained Soul of Anguish\"; add it to your hand. You can only use each effect of \"Unchained Soul of Anguish\" once per turn.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -21,8 +21,8 @@
   ],
   "link_markers": [
     "Top",
-	"Bottom-Left",
-	"Bottom-Right",
+    "Bottom-Left",
+    "Bottom-Right"
   ],
   "link_number": "3"
 }
