@@ -2,7 +2,7 @@
   "name": "Galaxy Satellite Dragon",
   "number": "92362073",
   "is_illegal": false,
-  "text": "2 Dragon monsters/nDuring the Battle Phase (Quick Effect): You can banish this card from your field or GY, then target 1 \"Number\" Xyz Monster you control whose original Attribute/Type are LIGHT/Dragon; until the end of the Battle Phase, its ATK becomes equal to the value of the \"Number\" in its name x 100, also any battle damage your opponent takes is halved. During your opponent's End Phase: You can choose 1 card from your Deck and place it on top of your Deck. You can only use each effect of \"Galaxy Satellite Dragon\" once per turn.",
+  "text": "2 Dragon monsters\nDuring the Battle Phase (Quick Effect): You can banish this card from your field or GY, then target 1 \"Number\" Xyz Monster you control whose original Attribute/Type are LIGHT/Dragon; until the end of the Battle Phase, its ATK becomes equal to the value of the \"Number\" in its name x 100, also any battle damage your opponent takes is halved. During your opponent's End Phase: You can choose 1 card from your Deck and place it on top of your Deck. You can only use each effect of \"Galaxy Satellite Dragon\" once per turn.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -21,7 +21,7 @@
   ],
   "link_markers": [
     "Bottom-Left",
-	"Bottom-Right",
+    "Bottom-Right"
   ],
   "link_number": "2"
 }
