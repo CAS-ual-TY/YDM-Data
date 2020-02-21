@@ -2,7 +2,7 @@
   "name": "Striker Dragon",
   "number": "73539069",
   "is_illegal": false,
-  "text": "1 Level 4 or lower Dragon monster/nIf this card is Link Summoned: You can add 1 \"Boot Sector Launch\" from your Deck to your hand. You can target 1 face-up monster you control and 1 \"Rokket\" monster in your GY; destroy the first target, and if you do, add the second target to your hand. You can only use each effects of \"Striker Dragon\" once per turn.",
+  "text": "1 Level 4 or lower Dragon monster\nIf this card is Link Summoned: You can add 1 \"Boot Sector Launch\" from your Deck to your hand. You can target 1 face-up monster you control and 1 \"Rokket\" monster in your GY; destroy the first target, and if you do, add the second target to your hand. You can only use each effects of \"Striker Dragon\" once per turn.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -20,7 +20,7 @@
     "Link"
   ],
   "link_markers": [
-    "Left",
+    "Left"
   ],
   "link_number": "1"
 }
