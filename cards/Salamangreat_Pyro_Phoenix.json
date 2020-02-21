@@ -2,7 +2,7 @@
   "name": "Salamangreat Pyro Phoenix",
   "number": "31313405",
   "is_illegal": false,
-  "text": "2+ FIRE Effect Monsters/nIf this card is Link Summoned using \"Salamangreat Pyro Phoenix\" as material: You can destroy all cards your opponent controls. You can only use each of these effects of \"Salamangreat Pyro Phoenix\" once per turn./n● You can target 1 Link Monster in your opponent’s GY; Special Summon it to their field./n● If a Link Monster(s) is Special Summoned to your opponent’s field: You can target 1 of those monsters; inflict damage to your opponent equal to its original ATK.",
+  "text": "2+ FIRE Effect Monsters\nIf this card is Link Summoned using \"Salamangreat Pyro Phoenix\" as material: You can destroy all cards your opponent controls. You can only use each of these effects of \"Salamangreat Pyro Phoenix\" once per turn.\n● You can target 1 Link Monster in your opponent’s GY; Special Summon it to their field.\n● If a Link Monster(s) is Special Summoned to your opponent’s field: You can target 1 of those monsters; inflict damage to your opponent equal to its original ATK.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -23,7 +23,7 @@
 	"Top",
 	"Left",
 	"Bottom",
-	"Right",
+	"Right"
   ],
   "link_number": "4"
 }
