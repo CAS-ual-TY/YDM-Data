@@ -2,7 +2,7 @@
   "name": "I:P Masquerena",
   "number": "65741786",
   "is_illegal": false,
-  "text": "2 non-Link Monsters/nDuring your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Link Monster using materials you control, including this card. You can only use this effect of \"I:P Masquerena\" once per turn. A Link Monster that used this card as material cannot be destroyed by your opponent's card effects.",
+  "text": "2 non-Link Monsters\nDuring your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Link Monster using materials you control, including this card. You can only use this effect of \"I:P Masquerena\" once per turn. A Link Monster that used this card as material cannot be destroyed by your opponent's card effects.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -21,7 +21,7 @@
   ],
   "link_markers": [
     "Bottom-Left",
-	"Bottom-Right",
+    "Bottom-Right"
   ],
   "link_number": "2"
 }
