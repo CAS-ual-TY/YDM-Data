@@ -2,7 +2,7 @@
   "name": "Marincess Wonder Heart",
   "number": "94207108",
   "is_illegal": false,
-  "text": "2+ WATER monsters/nOnce per battle, during damage calculation, if this card battles a monster (Quick Effect): You can Special Summon 1 of your \"Marincess\" Monster Cards equipped to this card, also this card cannot be destroyed by that battle, and you take no battle damage from that battle. Equip that Special Summoned monster to this card during the End Phase. If this card in its owner's possession is destroyed by an opponent's card: You can Special Summon 1 Link-3 or lower \"Marincess\" monster from your GY.",
+  "text": "2+ WATER monsters\nOnce per battle, during damage calculation, if this card battles a monster (Quick Effect): You can Special Summon 1 of your \"Marincess\" Monster Cards equipped to this card, also this card cannot be destroyed by that battle, and you take no battle damage from that battle. Equip that Special Summoned monster to this card during the End Phase. If this card in its owner's possession is destroyed by an opponent's card: You can Special Summon 1 Link-3 or lower \"Marincess\" monster from your GY.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -21,9 +21,9 @@
   ],
   "link_markers": [
     "Left",
-	"Bottom-Left",
-	"Bottom-Right",
-	"Right",
+    "Bottom-Left",
+    "Bottom-Right",
+    "Right"
   ],
   "link_number": "4"
 }
