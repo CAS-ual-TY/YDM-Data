@@ -1,0 +1,611 @@
+{
+  "name": "Booster SP: Fist of the Gadgets",
+  "type": "Booster Pack",
+  "date": "2019-08-22",
+  "distribution": "bonus_booster_pack",
+  "prefix": "FIGA",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Boot-Up Corporal - Command Dynamo",
+      "set_number": "FIGA-EN001",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Boot-Up Admiral - Destroyer Dynamo",
+      "set_number": "FIGA-EN002",
+      "rarities": [
+        "Secre Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Boot-Up Order - Gear Charge",
+      "set_number": "FIGA-EN003",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Boot-Up Order - Gear Force",
+      "set_number": "FIGA-EN004",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Powerhold the Moving Battery",
+      "set_number": "FIGA-EN005",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Green Gadget",
+      "set_number": "FIGA-EN006",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Red Gadget",
+      "set_number": "FIGA-EN007",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Yellow Gadget",
+      "set_number": "FIGA-EN008",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Gold Gadget",
+      "set_number": "FIGA-EN009",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Silver Gadget",
+      "set_number": "FIGA-EN010",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Ram",
+      "set_number": "FIGA-EN011",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Elephant",
+      "set_number": "FIGA-EN012",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Panda",
+      "set_number": "FIGA-EN013",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Eland",
+      "set_number": "FIGA-EN014",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Swan",
+      "set_number": "FIGA-EN015",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Eagle",
+      "set_number": "FIGA-EN016",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Peacock",
+      "set_number": "FIGA-EN017",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Fire Fortress atop Liang Peak",
+      "set_number": "FIGA-EN018",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Fire Formation - Domei",
+      "set_number": "FIGA-EN019",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Fire Formation - Ingen",
+      "set_number": "FIGA-EN020",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Ultimate Fire Formation  - Sinto",
+      "set_number": "FIGA-EN021",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Gorilla",
+      "set_number": "FIGA-EN022",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Bear",
+      "set_number": "FIGA-EN023",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Spirit",
+      "set_number": "FIGA-EN024",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Rooster",
+      "set_number": "FIGA-EN025",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Cardinal",
+      "set_number": "FIGA-EN026",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Brotherhood of the Fire Fist - Tiger King",
+      "set_number": "FIGA-EN027",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Fire Formation - Tenki",
+      "set_number": "FIGA-EN028",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Fire Formation - Tensu",
+      "set_number": "FIGA-EN029",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Fire Formation - Yoko",
+      "set_number": "FIGA-EN030",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Archfiend's Awakening",
+      "set_number": "FIGA-EN031",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Archfiend's Call",
+      "set_number": "FIGA-EN032",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Archfiend's Ascent",
+      "set_number": "FIGA-EN033",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Archfiend's Manifestation",
+      "set_number": "FIGA-EN034",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Latency",
+      "set_number": "FIGA-EN035",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Swap Cleric",
+      "set_number": "FIGA-EN036",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Defcon Bird",
+      "set_number": "FIGA-EN037",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Prohibit Snake",
+      "set_number": "FIGA-EN038",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Code Radiator",
+      "set_number": "FIGA-EN039",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Spool Code",
+      "set_number": "FIGA-EN040",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Cynet Optimization",
+      "set_number": "FIGA-EN041",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Cynet Conflict",
+      "set_number": "FIGA-EN042",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Code Talker",
+      "set_number": "FIGA-EN043",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Shootingcode Talker",
+      "set_number": "FIGA-EN044",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Elphase",
+      "set_number": "FIGA-EN045",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Talkback Lancer",
+      "set_number": "FIGA-EN046",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Rasterliger",
+      "set_number": "FIGA-EN047",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Subterrr Fiendess",
+      "set_number": "FIGA-EN048",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "The Hidden City",
+      "set_number": "FIGA-EN049",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Subterror Final Battle",
+      "set_number": "FIGA-EN050",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Scrap Recycler",
+      "set_number": "FIGA-EN051",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Majesty Maiden, the True Dracocaster",
+      "set_number": "FIGA-EN052",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Ignis Heat, the True Dracowarrior",
+      "set_number": "FIGA-EN053",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Dinomight Knight, the True Dracofighter",
+      "set_number": "FIGA-EN054",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Amorphage Lechery",
+      "set_number": "FIGA-EN055",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Amorphage Sloth",
+      "set_number": "FIGA-EN056",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Amorphage Goliath",
+      "set_number": "FIGA-EN057",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Chronograph Sorcerer",
+      "set_number": "FIGA-EN058",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Mythical Beast Master Cerberus",
+      "set_number": "FIGA-EN059",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Starving Venom Fusion Dragon",
+      "set_number": "FIGA-EN060",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
+  ]
+}
