@@ -1,0 +1,26 @@
+{
+  "name": "Talkback Lancer",
+  "number": "96380700",
+  "is_illegal": false,
+  "text": "1 Level 2 or lower Cyberse monster\nYou can Tribute 1 other Cyberse monster, then target 1 \"Code Talker\" monster in your GY with a different original name from that monster; Special Summon it to your zone this card points to. You can only use this effect of \"Talkback Lancer\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom",
+  ],
+  "link_number": "1"
+}
