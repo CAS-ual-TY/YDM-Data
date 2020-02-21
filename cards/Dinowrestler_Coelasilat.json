@@ -1,0 +1,25 @@
+{
+  "name": "Dinowrestler Coelasilat",
+  "number": "75366958",
+  "is_illegal": false,
+  "text": "If you control no monsters, you can Special Summon this card (from your hand). If Summoned this way, this card cannot be used as Link Material, except for the Link Summon of a \"Dinowrestler\" monster. You can only Special Summon \"Dinowrestler Coelasilat\" once per Duel this way.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "100",
+  "defense": "800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "2"
+}

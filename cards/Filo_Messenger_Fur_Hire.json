@@ -1,0 +1,24 @@
+{
+  "name": "Filo, Messenger Fur Hire",
+  "number": "36205132",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Filo, Messenger Fur Hire.\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can target 1 monster \"Fur Hire\" in your GY; Special Summon it in Defense Position, but place it on the bottom of the Deck if it leaves the field. You can only use each effect of \"Filo, Messenger Fur Hire\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

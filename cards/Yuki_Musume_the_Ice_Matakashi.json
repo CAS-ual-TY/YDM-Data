@@ -1,0 +1,24 @@
+{
+  "name": "Yuki-Musume, the Ice Mayakashi",
+  "number": "72700231",
+  "is_illegal": false,
+  "text": "If you control a \"Mayakashi\" card, other than \"Yuki-Musume, the Ice Mayakashi\" while this card is in your hand or GY: You can Special Summon this card, then send 1 Zombie monster from your Deck to the GY. You can only use this effect of \"Yuki-Musume, the Ice Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakash\" monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "0",
+  "defense": "1900",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}
