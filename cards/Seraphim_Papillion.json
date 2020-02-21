@@ -2,7 +2,7 @@
   "name": "Seraphim Papillion",
   "number": "91140491",
   "is_illegal": false,
-  "text": "2+ monsters with different names/nGains 200 ATK for each counter on it. You can only use 1 of the following effects of \"Seraphim Papillion\" per turn, and only once that turn./n● If this card is Link Summoned: Place 1 counter on this card for each Insect monster used as its Link Material./n● (Quick Effect): You can remove 1 counter from this card; Special Summon 1 Level 4 or lower Insect monster from your GY in Defense Position.",
+  "text": "2+ monsters with different names\nGains 200 ATK for each counter on it. You can only use 1 of the following effects of \"Seraphim Papillion\" per turn, and only once that turn./n● If this card is Link Summoned: Place 1 counter on this card for each Insect monster used as its Link Material./n● (Quick Effect): You can remove 1 counter from this card; Special Summon 1 Level 4 or lower Insect monster from your GY in Defense Position.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -21,8 +21,8 @@
   ],
   "link_markers": [
     "Bottom-Left",
-	"Top",
-	"Bottom-Right",
+    "Top",
+    "Bottom-Right"
   ],
   "link_number": "3"
 }
