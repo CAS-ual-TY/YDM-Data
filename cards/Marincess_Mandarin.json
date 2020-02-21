@@ -1,0 +1,24 @@
+{
+  "name": "Marincess Mandarin",
+  "number": "28174796",
+  "is_illegal": false,
+  "text": "If you control 2 or more \"Marincess\" monsters, while this card is in your hand or GY: You can target 1 WATER Link Monster you control; Special Summon this card to your zone that monster points to, but banish this card when it leaves the field. You can only use this effect of \"Marincess Mandarin\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

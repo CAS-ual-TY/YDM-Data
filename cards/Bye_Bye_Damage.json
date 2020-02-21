@@ -1,0 +1,11 @@
+{
+  "name": "Bye Bye Damage",
+  "number": "20735371",
+  "is_illegal": false,
+  "text": "During damage calculation, if a monster you control is attacked: That monster you control cannot be destroyed by that battle, also any battle damage you take from that battle inflicts double effect damage to your opponent. You can only apply this effect of \"Bye Bye Damage\" once per turn.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

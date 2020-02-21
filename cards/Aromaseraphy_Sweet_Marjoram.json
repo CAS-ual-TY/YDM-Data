@@ -1,0 +1,24 @@
+{
+  "name": "Aromaseraphy Sweet Marjoram",
+  "number": "79656239",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters/nWhile your LP are higher than your opponent's, your opponent cannot target Plant monsters you control with card effects. You can only use each of the following effects of \"Aromaseraphy Sweet Marjoram\" once per turn./n● If this card is Synchro Summoned: You can add 1 \"Humid Winds", "Dried Winds\", or \"Blessed Winds\" from your Deck to your hand./n● If you gain LP: Target 1 card your opponent controls; destroy it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "2200",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "6"
+}

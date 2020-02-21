@@ -1,0 +1,27 @@
+{
+  "name": "Marincess Crystal Heart",
+  "number": "67712104",
+  "is_illegal": false,
+  "text": "2 WATER monsters/nUnaffected by your opponent's monster effects while this card is in the Extra Monster Zone. During the Damage Step, if this card battles an opponent's monster, that opponent's monster is unaffected by card effects, except its own. When this card, or your \"Marincess\" Link Monster this card points to, is targeted for an attack: You can send 1 \"Marincess\" monster from your hand to the GY; for that battle, your monster cannot be destroyed by battle and you take no battle damage.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+	"Bottom-Left",
+	"Bottom-Right",
+  ],
+  "link_number": "2"
+}
