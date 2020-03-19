@@ -1,0 +1,24 @@
+{
+  "name": "Evl HERO Sinister Necrom",
+  "number": "45659520",
+  "is_illegal": false,
+  "text": "You can banish this card from your GY; Special Summon 1 \"Evil HERO\" monster from your hand or Deck, except \"Evil HERO Sinister Necrom\". You can only use this effect of \"Evil HERO Sinister Necrom\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1600",
+  "defense": "1800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}
