@@ -1,0 +1,24 @@
+{
+  "name": "Duke Shade, the Sinister Shadow Lord",
+  "number": "12766474",
+  "is_illegal": false,
+  "text": "You can Tribute any number of DARK monsters; Special Summon this card from your hand, and if you do, it gains 500 ATK for each Tributed monster. If this card is Normal or Special Summoned: You can target 1 Level 5 or higher DARK monster in your GY; add it to your hand. You can only use each effect of \"Duke Shade, the Sinister Shadow Lord\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except DARK monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "500",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

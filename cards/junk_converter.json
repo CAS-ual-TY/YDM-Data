@@ -1,0 +1,24 @@
+{
+  "name": "Junk Converter",
+  "number": "11069680",
+  "is_illegal": false,
+  "text": "You can discard this card and 1 Tuner; add 1 \"Synchron\" monster from your Deck to your hand. If this card is sent to the GY as Synchro Material: You can target 1 Tuner in your GY; Special Summon it in Defense Position, but it cannot activate its effects this turn. You can only use each effect of \"Junk Converter\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "400",
+  "defense": "200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

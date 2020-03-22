@@ -1,0 +1,27 @@
+{
+  "name": "Crystron Halqifibrax",
+  "number": "50588353",
+  "is_illegal": false,
+  "text": "2 monsters, including a Tuner\nIf this card is Link Summoned: You can Special Summon 1 Level 3 or lower Tuner from your hand or Deck in Defense Position, but it cannot activate its effects this turn. During your opponent's Main Phase or Battle Phase (Quick Effect): You can banish this card you control; Special Summon 1 Tuner Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.) You can only use each effect of \"Crystron Halqifibrax\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

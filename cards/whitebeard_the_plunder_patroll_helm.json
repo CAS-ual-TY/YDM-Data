@@ -1,0 +1,25 @@
+{
+  "name": "Whitebeard, the Plunder Patroll Helm",
+  "number": "31374201",
+  "is_illegal": false,
+  "text": "During your opponent's turn (Quick Effect): You can Special Summon 1 \"Plunder Patroll\" monster from your Extra Deck with the same Attribute as a monster your opponent controls or is in their GY, and if you do, equip this card you control to it. If this card is sent from the hand or Monster Zone to the GY: You can activate this effect; Special Summon 1 \"Plunder Patroll\" monster from your Deck, except \"Whitebeard, the Plunder Patroll Helm\", also you cannot Special Summon monsters for the rest of this turn, except \"Plunder Patroll\" monsters. You can only use each effect of \"Whitebeard, the Plunder Patroll Helm\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1500",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect",
+    "Tuner"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Ancient Gear Ballista",
+  "number": "10547580",
+  "is_illegal": false,
+  "text": "2 EARTH Machine monsters\nIf this card is Link Summoned: You can add 1 \"Ancient Gear\" monster or 1 \"Geartown\" from your Deck to your hand. You can target 1 Spell/Trap you control and 1 face-up monster your opponent controls; destroy that card you control, and if you do, change that opponent's monster's ATK/DEF to 0 until the end of the turn. You can only use each effect of \"Ancient Gear Ballista\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Right"
+  ],
+  "link_number": "2"
+}
