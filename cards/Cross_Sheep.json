@@ -2,10 +2,7 @@
   "name": "Cross-Sheep",
   "number": "50277355",
   "is_illegal": false,
-  "text": "2 monsters with different names
-If a monster is Special Summoned to a zone this card points to: You can apply the following effects, in sequence, based on the card types of the monster(s) this card points to.
-● Ritual: Draw 2 cards, then discard 2 cards. ● Fusion: Special Summon 1 Level 4 or lower monster from your GY. ● Synchro: All monsters you control gain 700 ATK. ● Xyz: All monsters your opponent controls lose 700 ATK.
-You can only use this effect of \"Cross-Sheep\" once per turn.",
+  "text": "2 monsters with different names\nIf a monster is Special Summoned to a zone this card points to: You can apply the following effects, in sequence, based on the card types of the monster(s) this card points to.\n● Ritual: Draw 2 cards, then discard 2 cards.\n● Fusion: Special Summon 1 Level 4 or lower monster from your GY.\n● Synchro: All monsters you control gain 700 ATK.\n● Xyz: All monsters your opponent controls lose 700 ATK.\nYou can only use this effect of \"Cross-Sheep\" once per turn.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -23,8 +20,8 @@ You can only use this effect of \"Cross-Sheep\" once per turn.",
     "Link"
   ],
   "link_markers": [
-    "bottom-left,
-bottom-right",
+    "bottom-left",
+    "bottom-right"
   ],
   "link_number": "2"
 }
