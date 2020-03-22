@@ -1,0 +1,26 @@
+{
+  "name": "Armillyre, the Starleader Dragon",
+  "number": "36768783",
+  "is_illegal": false,
+  "text": "2 Effect Monsters\nlf Cannot be used as Link Material. You can target 1 face-up monster this card points to; Special Summon 1 monster with the same original Level from your hand to your zone this card points to, in Defense Position, but negate its effects. You can only use this effect of \"Armillyre, the Starleader Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": 1400,
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left,Bottom-Right",
+  ],
+  "link_number": "2"
+}

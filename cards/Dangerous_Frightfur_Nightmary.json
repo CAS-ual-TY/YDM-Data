@@ -1,0 +1,25 @@
+{
+  "name": "Dangerous Frightfur Nightmary",
+  "number": "58468105",
+  "is_illegal": false,
+  "text": "1 \"Edge Imp\" monster + 2 \"Fluffal\" monsters \nlf
+Gains 300 ATK for each Fairy and Fiend monster in your GY, during your turn only. When this Fusion Summoned card destroys a monster by battle: You can send \"Frightfur\", \"Fluffal\", and/or \"Edge Imp\" monsters from your Deck to the GY, equal to the original Level of that destroyed monster. When your opponent activates a card or effect that targets this card on the field (Quick Effect): You can banish 1 \"Frightfur\" monster from your Extra Deck; negate that effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2000",
+  "defense": "3000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

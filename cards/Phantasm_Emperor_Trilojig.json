@@ -1,0 +1,25 @@
+{
+  "name": "Phantasm Emperor Trilojig",
+  "number": "95463814",
+  "is_illegal": false,
+  "text": "3 Level 10 monsters \nlf
+If this card is Special Summoned, or if another monster is Special Summoned from the GY to your field while you control this monster: You can target 1 face-up monster your opponent controls; inflict damage to your opponent equal to half its original ATK. You can only use this effect of \"Phantasm Emperor Trilojig\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "4000",
+  "defense": "4000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

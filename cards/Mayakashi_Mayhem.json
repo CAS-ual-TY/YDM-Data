@@ -1,0 +1,16 @@
+{
+  "name": "Mayakashi Mayhem",
+  "number": "",
+  "is_illegal": false,
+  "text": "If a Zombie Synchro Monster(s) is Special Summoned, except from the Extra Deck, even during the Damage Step: You can apply 1 of the following effects. You cannot apply that same effect of \"Mayakashi Mayhem\" for the rest of this turn.\nlf
+● Draw 1 card.\nlf
+● Set 1 \"Mayakashi"\ Spell/Trap directly from your Deck, except \"Mayakashi Mayhem\".\nlf
+● Send the 1 monster with the lowest ATK your opponent controls to the GY (your choice, if tied).\nlf
+● Inflict 800 damage to your opponent. \nlf
+You can only activate the effect of \"Mayakashi Mayhem\" once per Chain.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "continuous"
+}
