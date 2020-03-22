@@ -1,0 +1,24 @@
+{
+  "name": "Naglfar, Generaider Boss of Fire",
+  "number": "02881864",
+  "is_illegal": false,
+  "text": "You can only control 1 \"Naglfar, Generaider Boss of Fire\". If a card(s) you control would be destroyed by battle or card effect, you can destroy 1 \"Generaider\" monster or 1 Beast-Warrior monster you control instead. You can only use this effect of \"Naglfar, Generaider Boss of Fire\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "3100",
+  "defense": "200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "9"
+}
