@@ -2,8 +2,7 @@
   "name": "Gravity Controller",
   "number": "23656668",
   "is_illegal": false,
-  "text": "1 non-Link monster in an Extra Monster Zone
-Cannot be used as Link Material the turn it is Link Summoned. This card in the Extra Monster Zone cannot be destroyed by battle with a monster in the Main Monster Zone. At the start of the Damage Step, if this card battles an opponent’s monster in the Extra Monster Zone: You can return both that opponent’s monster and this card to the Deck.",
+  "text": "1 non-Link monster in an Extra Monster Zone\nCannot be used as Link Material the turn it is Link Summoned. This card in the Extra Monster Zone cannot be destroyed by battle with a monster in the Main Monster Zone. At the start of the Damage Step, if this card battles an opponent’s monster in the Extra Monster Zone: You can return both that opponent’s monster and this card to the Deck.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -21,7 +20,7 @@ Cannot be used as Link Material the turn it is Link Summoned. This card in the E
     "Link"
   ],
   "link_markers": [
-    "Bottom-left",
+    "Bottom-left"
   ],
   "link_number": "1"
 }
