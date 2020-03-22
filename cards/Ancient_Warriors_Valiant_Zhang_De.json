@@ -1,0 +1,26 @@
+{
+  "name": "Ancient Warriors - Valiant Zhang De",
+  "number": "02801664",
+  "is_illegal": false,
+  "text": "Gains 300 ATK for each monster your opponent controls, during your turn only. You can only use each of the following effects of \"Ancient Warriors - Valiant Zhang De\" once per turn.
+● If you control 2 or more \"Ancient Warriors\" monsters: You can Special Summon this card from your hand.
+● If your opponent controls more monsters than you do: You can activate this effect; this card can make up to 2 attacks on monsters during each Battle Phase this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "2700",
+  "defense": "900",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}
