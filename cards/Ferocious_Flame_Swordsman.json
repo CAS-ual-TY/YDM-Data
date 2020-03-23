@@ -2,8 +2,7 @@
   "name": "Ferocious Flame Swordsman",
   "number": "98642179",
   "is_illegal": false,
-  "text": " monsters with different names/nlf
-All Warrior monsters on the field gain 500 ATK. If this Link Summoned card is destroyed by battle, or by an opponent's card effect while in its owner's Monster Zone: You can target 1 non-Link Warrior monster in your GY; Special Summon it, but banish it when it leaves the field. You can only use this effect of \"Ferocious Flame Swordsman\" once per turn.",
+  "text": " monsters with different names\nAll Warrior monsters on the field gain 500 ATK. If this Link Summoned card is destroyed by battle, or by an opponent's card effect while in its owner's Monster Zone: You can target 1 non-Link Warrior monster in your GY; Special Summon it, but banish it when it leaves the field. You can only use this effect of \"Ferocious Flame Swordsman\" once per turn.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -21,8 +20,8 @@ All Warrior monsters on the field gain 500 ATK. If this Link Summoned card is de
     "Link"
   ],
   "link_markers": [
-    "Middle-Left,
-Bottom-Left",
+    "Middle-Left",
+    "Bottom-Left"
   ],
   "link_number": "2"
 }
