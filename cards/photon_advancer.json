@@ -1,0 +1,24 @@
+{
+  "name": "Photon Advancer",
+  "number": "98881931",
+  "is_illegal": false,
+  "text": "If a \"Photon\" monster is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Photon Advancer\" once per turn this way. Gains 1000 ATK if another \"Photon\" monster is on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

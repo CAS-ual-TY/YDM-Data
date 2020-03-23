@@ -1,0 +1,27 @@
+{
+  "name": "Aromaseraphy Jasmine",
+  "number": "21200905",
+  "is_illegal": false,
+  "text": "2 Plant monsters\nIf your LP are higher than your opponent's, this card and any Plant monsters it points to cannot be destroyed by battle. You can Tribute 1 monster this card points to; Special Summon 1 Plant monster from your Deck in Defense Position. You can only use this effect of \"Aromaseraphy Jasmine\" once per turn. Once per turn, if you gain LP: Add 1 Plant monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}
