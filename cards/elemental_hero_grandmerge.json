@@ -1,0 +1,24 @@
+{
+  "name": "Elemental HERO Grandmerge",
+  "number": "36841733",
+  "is_illegal": false,
+  "text": "2 \"HERO\" Normal Monsters\nMust be Fusion Summoned. Gains ATK/DEF equal to the combined original Levels of the materials used for its Fusion Summon ×300. When this card destroys an opponent monster by battle: You can Tribute this card; Special Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, ignoring its Summoning Conditions, but it cannot attack monsters with an equal or lower Level than it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Magician of Chaos",
+  "number": "47963370",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Chaos Form\". This card's name becomes \"Dark Magician\" while on the field or in the GY. Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can target 1 card on the field; destroy it. If this Ritual Summoned card is destroyed by battle or card effect: You can Special Summon 1 \"Chaos\" or \"Black Luster Soldier\" Ritual Monster from your hand, except \"Magician of Chaos\", ignoring its Summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2500",
+  "defense": "2100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "7"
+}
