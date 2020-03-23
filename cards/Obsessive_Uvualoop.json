@@ -10,7 +10,7 @@
   "species": "Fiend",
   "attack": "1200",
   "defense": "1800",
-  "attribute": "EARTH,
+  "attribute": "EARTH",
   "is_pendulum": false,
   "is_xyz": false,
   "is_synchro": false,
@@ -18,8 +18,8 @@
   "is_link": false,
   "is_extra_deck": false,
   "monster_types": [
-    "Effect,
-tuner"
+    "Effect",
+    "Tuner"
   ],
   "stars": "4"
 }
