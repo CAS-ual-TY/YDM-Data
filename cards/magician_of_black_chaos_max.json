@@ -1,0 +1,25 @@
+{
+  "name": "Magician of Black Chaos MAX",
+  "number": "79613121",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Chaos Form\". If this card is Special Summoned: You can Tribute 1 monster; your opponent cannot activate monster effects this turn. When this card destroys an opponent's monster by battle: You can target 1 Spell in your GY; add it to your hand. You can only use each effect of \"Magician of Black Chaos MAX\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2800",
+  "defense": "2600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "8"
+}
