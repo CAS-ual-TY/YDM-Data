@@ -1,0 +1,501 @@
+{
+  "name": "Structure Deck: Shaddoll Showdown",
+  "type": "Structure Deck",
+  "date": "2020-02-14",
+  "distribution": "",
+  "prefix": "SDSH",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Qadshaddoll Keios",
+      "set_number": "SDSH-EN001",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Reeshaddoll Wendi",
+      "set_number": "SDSH-EN002",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Naelshaddoll Ariel",
+      "set_number": "SDSH-EN003",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Falco",
+      "set_number": "SDSH-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Hedgehog",
+      "set_number": "SDSH-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Squamata",
+      "set_number": "SDSH-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Dragon",
+      "set_number": "SDSH-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Beast",
+      "set_number": "SDSH-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Hound",
+      "set_number": "SDSH-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Zefranaga",
+      "set_number": "SDSH-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Zefracore",
+      "set_number": "SDSH-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Black Luster Soldier - Envoy of the Beginning",
+      "set_number": "SDSH-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lava Golem",
+      "set_number": "SDSH-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Armed Dragon",
+      "set_number": "SDSH-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fairy Tail - Sleeper",
+      "set_number": "SDSH-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Performage Trick Clown",
+      "set_number": "SDSH-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armageddon Knight",
+      "set_number": "SDSH-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Felis, Lightsworn Archer",
+      "set_number": "SDSH-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Electromagnetic Turtle",
+      "set_number": "SDSH-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mathematician",
+      "set_number": "SDSH-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Kuribandit",
+      "set_number": "SDSH-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Peropero Cerperus",
+      "set_number": "SDSH-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Curse of the Shadow Prison",
+      "set_number": "SDSH-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "El Shaddoll Fusion",
+      "set_number": "SDSH-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nephe Shaddoll Fusion",
+      "set_number": "SDSH-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Super Polymerization",
+      "set_number": "SDSH-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Instant Fusion",
+      "set_number": "SDSH-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Allure of Darkness",
+      "set_number": "SDSH-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Foolish Burial",
+      "set_number": "SDSH-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Living Fossil",
+      "set_number": "SDSH-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pot of Avarice",
+      "set_number": "SDSH-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Twin Twisters",
+      "set_number": "SDSH-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Resh Shaddoll Incarnation",
+      "set_number": "SDSH-EN033",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Core",
+      "set_number": "SDSH-EN034",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sinister Shadow Games",
+      "set_number": "SDSH-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Purushaddoll Aeon",
+      "set_number": "SDSH-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lost Wind",
+      "set_number": "SDSH-EN037",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Unending Nightmare",
+      "set_number": "SDSH-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Necro Fusion",
+      "set_number": "SDSH-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Subterror Succession",
+      "set_number": "SDSH-EN040",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "El Shaddoll Grysta",
+      "set_number": "SDSH-EN041",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "El Shaddoll Wendgo",
+      "set_number": "SDSH-EN042",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "El Shaddoll Anoyatyllis",
+      "set_number": "SDSH-EN043",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Construct",
+      "set_number": "SDSH-EN044",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "El Shaddoll Apkallone",
+      "set_number": "SDSH-EN045",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "El Shaddoll Construct",
+      "set_number": "SDSH-EN046",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "El Shaddoll Winda",
+      "set_number": "SDSH-EN047",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "El Shaddoll Shekhinaga",
+      "set_number": "SDSH-EN048",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Fusion",
+      "set_number": "SDSH-EN049",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
+  ]
+}
