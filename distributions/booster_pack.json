@@ -51,6 +51,26 @@
                         "count":1
                     }
                 ]
+            },
+            {
+                "weight":8,
+                "rarities":[
+                    {
+                        "rarity":"Common",
+                        "count":6
+                    },
+                    {
+                        "rarity":"Short Print",
+                        "count":1
+                    {
+                        "rarity":"Rare",
+                        "count":1
+                    },
+                    {
+                        "rarity":"Super Rare",
+                        "count":1
+                    }
+                ]
             }
         ]
 }
