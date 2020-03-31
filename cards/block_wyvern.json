@@ -1,0 +1,26 @@
+{
+  "name": "Block Wyvern",
+  "number": "00000010",
+  "is_illegal": false,
+  "text": "2+ Monsters\nYou can also Summon this card by banishing 2 EARTH monsters from your GY. If this card is Summoned from the Extra Deck: Target 1 monster in your GY with the same Type or Attribute as a monster you control; Special Summon it. If this card is sent to the GY: Special Summon 1 \"Block Dragon\" from your deck ignoring summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "4"
+}

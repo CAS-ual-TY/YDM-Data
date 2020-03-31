@@ -1,0 +1,24 @@
+{
+  "name": "The Toxic Player",
+  "number": "00000005",
+  "is_illegal": false,
+  "text": "If this card is Summoned: for the rest of the game, you and your opponent cannot activate card effects in hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1500",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

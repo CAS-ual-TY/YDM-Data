@@ -1,0 +1,25 @@
+{
+  "name": "Unrelenting Weed",
+  "number": "00000003",
+  "is_illegal": false,
+  "text": "If you Synchro Summon a monster using a Plant type monster(s) as a material while this card is in the GY: Special Summon this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "1"
+}
