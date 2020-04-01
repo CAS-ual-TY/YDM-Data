@@ -1,0 +1,24 @@
+{
+  "name": "Snowdrop the Rikka Fairy",
+  "number": "33491462",
+  "is_illegal": false,
+  "text": "You can Tribute 1 Plant monster; Special Summon both this card and 1 other Plant monster from your hand, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can target 1 Plant monster you control; all Plant monsters you currently control become that monster's Level until the end of this turn. You can only use each effect of \"Snowdrop the Rikka Fairyê\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "1200",
+  "defense": "2600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

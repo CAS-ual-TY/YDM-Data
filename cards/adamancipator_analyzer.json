@@ -1,0 +1,24 @@
+{
+  "name": "Adamancipator Analyzer",
+  "number": "11302671",
+  "is_illegal": false,
+  "text": "If only your opponent controls a monster: You can Special Summon this card from your hand. During your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can Special Summon 1 excavated Level 4 or lower non-Tuner Rock monster, also place the rest on the bottom of your Deck in any order. You can only use each effect of \"Adamancipator Analyzer\" once per turn. ",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1500",
+  "defense": "700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}
