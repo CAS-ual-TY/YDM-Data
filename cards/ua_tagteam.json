@@ -1,0 +1,24 @@
+{
+  "name": "U.A. Tagteam",
+  "number": "20000032",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand except \"U.A. Tagteam\". If a \"U.A.\" monster is summoned to your side of the field: you can Special Summon this card from your GY. You can only use this effect of \"U.A. Tagteam\" once per turn. Once per turn (Quick Effect): you can return 1 other \"U.A.\" monster you control to the hand; add 1 \"U.A.\" monster with a different name from your deck to your hand, then immediately after this effect resolves, Special Summon it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "1300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

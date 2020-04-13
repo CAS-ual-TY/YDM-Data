@@ -1,0 +1,29 @@
+{
+  "name": "Firelight First Seal",
+  "number": "20000039",
+  "is_illegal": false,
+  "text": "Must first be Special Summoned (from your Extra Deck) by tributing the above cards you control (You do not use "Polymerization"). When this card is Special Summoned: add 1 \"Firelight Ritual Site\" from your Deck to your hand. If this card leaves the field: You can Special Summon a \"Firelight\" monster from your Pendulum Zone, and if you do, that monster is treated as a Tuner, and you can place this card in your Pendulum Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "2500",
+  "defense": "2200",
+  "attribute": "FIRE",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "1",
+  "pendulum_right": "1",
+  "pendulum_text": "If you control a face-up "The Firelight"; Once per turn (Quick Effect): you can destroy a card on the field.",
+  "stars": "8"
+}

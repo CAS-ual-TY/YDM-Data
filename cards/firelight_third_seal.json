@@ -1,0 +1,29 @@
+{
+  "name": "Firelight Third Seal",
+  "number": "20000044",
+  "is_illegal": false,
+  "text": "2 Level 4 FIRE monsters, including at least 1 \"Firelight\" monster\nYou can detach 1 Xyz material from this card; add 1 \"Firelight\" monster from your Deck to your hand. You can only use this effect of \"Firelight Second Seal\" up to twice per turn, and if you use this effect, for the rest of this turn, you cannot Summon monsters, except for \"Firelight\" monsters. If this card leaves the field: you can place this card in your Pendulum Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "1500",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "XYZ",
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "1",
+  "pendulum_right": "1",
+  "pendulum_text": "If you control a face-up \"The Firelight\"; Once per turn (Quick Effect): return a card your opponent controls to their hand.",
+  "stars": "4"
+}

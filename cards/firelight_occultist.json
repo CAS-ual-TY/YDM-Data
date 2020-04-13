@@ -1,0 +1,29 @@
+{
+  "name": "Firelight Occultist",
+  "number": "20000040",
+  "is_illegal": false,
+  "text": "If this card is Special Summon: you can add 1 \"Firelight\" monster from your Extra Deck to your hand. If this card is destroyed: place this card in the Pendulum Zone. You can only use both effects of \"Firelight Occultist\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "1900",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "1",
+  "pendulum_right": "1",
+  "pendulum_text": "You can destroy this card in the scale to Ritual Summon 1 \"Firelight\" from your hand or face-up in the Extra Deck.",
+  "stars": "4"
+}

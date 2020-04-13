@@ -1,0 +1,11 @@
+{
+  "name": "Alien Spore Explosion!",
+  "number": "20000024",
+  "is_illegal": false,
+  "text": "Destroy all enemy monsters with A-Counters on them, then place 1 \"A-Counter\" on every monster on the field that wasn’t destroyed by this effect.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}
