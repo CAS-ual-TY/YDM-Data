@@ -1,0 +1,25 @@
+{
+  "name": "Mudragon of the Swamp",
+  "number": "54757758",
+  "is_illegal": false,
+  "text": "2 monsters with the same Attribute but different Types\nYour opponent cannot target monsters on the field with the same Attribute as this card with card effects. Once per turn (Quick Effect): You can declare 1 Attribute; this card becomes that Attribute until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "1900",
+  "defense": "1600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  "stars": "4"
+}
