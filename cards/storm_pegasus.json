@@ -1,0 +1,25 @@
+{
+  "name": "Storm Pegasus",
+  "number": "31000010",
+  "is_illegal": false,
+  "text": "(This card is always treated as a \"Beyblade\" card.) When this card is Fusion Summoned: gain attack equal to the ATK of all face-up monsters until the end of the turn. During the End Phase, destroy this card, and if you do; Special Summon up to 3 \"Beyblade\" monsters from your GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3000",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  "stars": "9"
+}

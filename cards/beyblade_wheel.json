@@ -1,0 +1,24 @@
+{
+  "name": "Beyblade Wheel",
+  "number": "31000005",
+  "is_illegal": false,
+  "text": "If this card is sent to the GY because of a card effect: target 1 card on the field; return that target to the top of the Deck. You can only use the effect of \"Beyblade Wheel\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

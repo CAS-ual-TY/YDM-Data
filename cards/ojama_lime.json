@@ -1,0 +1,28 @@
+{
+  "name": "Ojama Lime",
+  "number": "31000055",
+  "is_illegal": false,
+  "text": "The most special of all the Ojamas",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "0",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Normal"
+  ],
+  "pendulum_left": "3",
+  "pendulum_right": "3",
+  "pendulum_text": "Once per turn: You can add 1 \"Ojama\" card from your Deck to your hand. All \"Ojama\" monsters you control gain 500 ATK and DEF.",
+  "stars": "2"
+}

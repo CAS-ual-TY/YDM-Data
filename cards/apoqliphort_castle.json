@@ -1,0 +1,28 @@
+{
+  "name": "Apoqliphort Castle",
+  "number": "31000001",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by tributing 1 \"Apoqliphort Towers\" you control and cannot be Special Summoned other ways. This card is unaffected by other card’s effects. During the Battle Phase, cards and effects cannot be activated. All monsters lose 500 ATK/DEF except \"Qli\" monsters. If this card leaves the field: Special Summon 1 \"Apoqliphort Towers\" from your GY ignoring it’s summoning conditions.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "3000",
+  "defense": "3000",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "1",
+  "pendulum_right": "1",
+  "pendulum_text": "You cannot Special Summon monsters except \"Qli\" monsters. Once per turn: You can add 1 face up \"Qli\" monster in your Extra Deck to your hand. If the only monsters you control are \"Qli\" monsters (minimum 1), you can Special Summon this card with its effects negated, from your Pendulum Zone ignoring summoning conditions.",
+  "stars": "10"
+}

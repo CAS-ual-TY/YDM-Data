@@ -1,0 +1,24 @@
+{
+  "name": "Beyblade Face",
+  "number": "31000004",
+  "is_illegal": false,
+  "text": "If this card is Summoned or sent to the GY by a card effect; you can add 1 \"Metal Fusion\" or \"Beyblade\" card from your Deck to your hand. You can banish this card from your GY, except during the turn this card was sent there; Special Summon 1 \"Beyblade\" Fusion monster from your GY. You can only use each effect of \"Beyblade Face\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

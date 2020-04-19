@@ -1,0 +1,24 @@
+{
+  "name": "Machina Citadel",
+  "number": "87074380",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. (Quick Effect): You can target 1 Machine monster you control; destroy that Machine monster and all monsters your opponent controls with ATK less than or equal to it. If a face-up EARTH Machine monster(s) you control, except \"Machina Citadel\", is destroyed by battle or card effect while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Machina Citadel\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}
