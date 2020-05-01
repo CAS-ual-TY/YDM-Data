@@ -1,0 +1,25 @@
+{
+  "name": "Superheavy Samurai Swordsmith",
+  "number": "50000048",
+  "is_illegal": false,
+  "text": "1 Machine Tuner + 1 or more Non-Tuner \"Superheavy Samurai\" monsters\nWhen this card is Synchro Summoned: you can Special Summon up to 2 Level 4 or lower \"Superheavy Samurai Monsters from your Hand and/or Deck in Defence Position.This card can attack while in face-up Defense Position. If it does, apply it’s DEF for damage calculation. If this card leaves the field: you can target 1 \"Superheavy Samurai\" monster in your GY; Special Summon it but its effects are negated. You can only use each effect of \"Superheavy Samurai Swordsmith\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "2400",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Effect"
+  ],
+  "stars": "8"
+}

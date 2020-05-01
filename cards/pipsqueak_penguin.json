@@ -1,0 +1,24 @@
+{
+  "name": "Pipsqueak Penguin",
+  "number": "50000007",
+  "is_illegal": false,
+  "text": "If this card is Summoned: You can Special Summon 1 Level 5 or higher \"Penguin\" monster from your Deck and if you do you cannot Special Summon monsters for the rest of the turn except WATER monsters. If this card is flipped face up, or this card is sent to the GY: You can Special Summon 1 level 4 or lower \"Penguin\" monster from your Deck, but its effects are negated. You can only use each effect of \"Pipsqueak Penguin\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "100",
+  "defense": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Graydle Dreidel Dragon",
+  "number": "50000054",
+  "is_illegal": false,
+  "text": "1 Aqua type Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: Destroy all other cards on the field. If this Synchro Summoned card is sent to the GY: Special Summon as many \"Graydle\" monsters as possible from the GY except \"Graydle Dreidel Dragon\". You can only use each effect of \"Graydle Dreidel Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "3000",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Effect"
+  ],
+  "stars": "8"
+}

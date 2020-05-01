@@ -1,0 +1,24 @@
+{
+  "name": "Aspect of Jandro",
+  "number": "50000016",
+  "is_illegal": false,
+  "text": "If you control no monsters: you can Special Summon this card. While this card remains face-up in its owner’s possession, when a card(s) would be banished by a card effect: banish this card instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tindangle Krawler",
+  "number": "50000032",
+  "is_illegal": false,
+  "text": "FLIP: For the rest of the game: all \"Tindangle\" monsters are also treated as \"Krawler\" monsters, and all \"Krawler\" monsters are also treated as \"Tindangle\" monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "100",
+  "defense": "2400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

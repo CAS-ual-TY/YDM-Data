@@ -1,0 +1,25 @@
+{
+  "name": "Power Tool Dragon Giga Drill Breaker X",
+  "number": "50000046",
+  "is_illegal": false,
+  "text": "1 \"Morphtronic\" Tuner monster + 1 or more \"Morphtronic\" monsters\nThis card’s name is treated as \"Power Tool Dragon\". Once per turn: You can reveal 3 \"Morphtronic\" cards from your Deck, then your opponent randomly adds 1 of them to your hand, and then shuffle the rest back into your Deck. If this card would be destroyed you can banish 1 \"Morphtronic\" monster from your GY instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2500",
+  "defense": "2300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Effect"
+  ],
+  "stars": "7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Penguin Prevention",
+  "number": "50000013",
+  "is_illegal": false,
+  "text": "When a Spell/Trap card or monster effect is activated whilst you control a WATER Xyz monster: Negate the activation and if you do set that card face-down. Cards set by this effect cannot be flipped face-up. You can only use 1  \"Penguin Prevention\" per turn.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}
