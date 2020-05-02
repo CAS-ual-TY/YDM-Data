@@ -1,0 +1,25 @@
+{
+  \"name": "Plunder Patrollship Lys",
+  \"number": "18832779",
+  \"is_illegal": false,
+  \"text": "2 "Plunder Patroll" monsters\nDuring the Main Phase (Quick Effect): You can Special Summon 1 "Plunder Patroll" Monster Card from your hand or face-up Spell & Trap Zone. When your opponent activates a monster effect (Quick Effect): You can discard 1 "Plunder Patroll" card; negate the activation, and if you do, destroy it, then if this card is equipped with a "Plunder Patroll" card, you can add 1 "Plunder Patroll" card from your Deck to your hand. You can only use each effect of "Plunder Patrollship Lys" once per turn.",
+  \"type": "Monster",
+  \"is_monster": true,
+  \"is_spell": false,
+  \"is_trap": false,
+  \"species": "Fiend",
+  \"attack": "2000",
+  \"defense": "2000",
+  \"attribute": "Light",
+  \"is_pendulum": false,
+  \"is_xyz": false,
+  \"is_synchro": false,
+  \"is_fusion": true,
+  \"is_link": false,
+  \"is_extra_deck": true,
+  \"monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  \"stars": "8"
+}
