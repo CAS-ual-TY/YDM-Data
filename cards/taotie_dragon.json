@@ -1,28 +1,28 @@
 {
-  \"name": "Taotie Dragon",
-  \"number": "52566662",
-  \"is_illegal": false,
-  \"text": ""2+ monsters Special Summoned from the Extra Deck\nThis card gains effects based on the card types (Fusion/Synchro/Xyz) of materials used for its Link Summon.\n? Fusion: Your opponent cannot activate monster effects during the Battle Phase.\n? Synchro: Your opponent cannot activate Spell/Trap Cards and effects during your Main Phase.\n? Xyz: Your opponent cannot activate the effects of cards in the GY during your Main Phase or Battle Phase.",
-  \"type": "Monster",
-  \"is_monster": true,
-  \"is_spell": false,
-  \"is_trap": false,
-  \"species": "Wyrm",
-  \"attack": "2500",
-  \"attribute": "Dark",
-  \"is_pendulum": false,
-  \"is_xyz": false,
-  \"is_synchro": false,
-  \"is_fusion": false,
-  \"is_link": true,
-  \"is_extra_deck": true,
-  \"monster_types": [
+  "name": "Taotie Dragon",
+  "number": "52566662",
+  "is_illegal": false,
+  "text": "2+ monsters Special Summoned from the Extra Deck\nThis card gains effects based on the card types (Fusion/Synchro/Xyz) of materials used for its Link Summon.\n Fusion: Your opponent cannot activate monster effects during the Battle Phase.\n Synchro: Your opponent cannot activate Spell/Trap Cards and effects during your Main Phase.\n Xyz: Your opponent cannot activate the effects of cards in the GY during your Main Phase or Battle Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "2500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
     "Link"
   ],
-  \"link_markers": [
+  "link_markers": [
     "Bottom-Left",
     "Bottom-Center",
     "Bottom-Right"
   ],
-  \"link_number": "3"
+  "link_number": "3"
 }
