@@ -1,0 +1,24 @@
+{
+  "name": "Marincess Basilalima",
+  "number": "33945211",
+  "is_illegal": false,
+  "text": "If a monster(s) you control would be destroyed by card effect, you can banish this card from your GY instead. You can only use each of the following effects of \"Marincess Basilalima\" once per turn.\n- You can banish 1 \"Marincess\" Trap from your GY; add 1 \"Marincess\" Trap with a different name from your Deck to your hand.\n- If this card is banished: You can target 1 face-up monster you control; it gains 600 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "600",
+  "defense": "2100",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

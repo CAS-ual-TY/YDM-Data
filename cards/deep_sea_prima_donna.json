@@ -1,0 +1,26 @@
+{
+  "name": "Deep Sea Prima Donna",
+  "number": "50793215",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\n-Your opponent cannot target a Synchro Monster that used this card as material with monster effects. You can only use each of the following effects of \"Deep Sea Prima Donna\" once per turn.\n- You can target 1 of your opponent's banished cards; add to your hand, or Special Summon, 1 Level 4 or lower WATER monster from your Deck, and if you do, add that target to their hand.\n- If this card is sent to the GY: You can target 1 banished card; shuffle it into the Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "1500",
+  "defense": "2700",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "7"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ancient Warriors - Ambitious Cao De",
+  "number": "33545259",
+  "is_illegal": false,
+  "text": "While you control another \"Ancient Warriors\" monster, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. You can only use each of the following effects of \"Ancient Warriors - Ambitious Cao De\" once per turn.\n- If a card(s) your opponent controls is destroyed by battle or card effect: You can send 1 other card from your hand or field to the GY; Special Summon this card from your hand.\n- When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon that monster to your field in Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

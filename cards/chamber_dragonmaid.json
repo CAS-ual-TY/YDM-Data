@@ -1,0 +1,24 @@
+{
+  "name": "Chamber Dragonmaid",
+  "number": "32600024",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Dragonmaid\" Spell/Trap from your Deck to your hand. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 7 or higher \"Dragonmaid\" monster from your hand or GY. You can only use each effect of \"Chamber Dragonmaid\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "500",
+  "defense": "1800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}
