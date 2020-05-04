@@ -1,0 +1,24 @@
+{
+  "name": "Performapal Clay Breaker",
+  "number": "08820526",
+  "is_illegal": false,
+  "text": "If this Tribute Summoned card battles an opponent's monster, during damage calculation: You can make that opponent's monster lose 500 ATK for each face-up Pendulum Monster currently in your Extra Deck, until the end of this turn. When you Pendulum Summon 2 or more monsters at the same time while this card is in your GY: You can add this card from the GY to your hand. You can only use each effect of \"Performapal Clay Breaker\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

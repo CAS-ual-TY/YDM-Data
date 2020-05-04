@@ -1,0 +1,27 @@
+{
+  "name": "Beat Cop from The Underworld",
+  "number": "99011763",
+  "is_illegal": false,
+  "text": "2 monsters\nIf this card is Link Summoned using 2 DARK monsters with different names as material, it gains this effect.\n●You can Tribute 1 monster, then target 1 face-up card on the field; place 1 Patrol Counter on it. You can only use this effect of \"Beat Cop from the Underworld\" once per turn. (If a card with Patrol Counter would be destroyed by battle or card effect, remove 1 Patrol counter from it instead.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

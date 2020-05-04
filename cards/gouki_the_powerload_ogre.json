@@ -1,0 +1,29 @@
+{
+  "name": "Gouki The Powerload Ogre",
+  "number": "11516241",
+  "is_illegal": false,
+  "text": "2+ Warrior monsters \nGains ATK equal to the combined Link Ratings of all other Link Monsters you control x 200. This Link Summoned card is unaffected by other cards' effects. You can Tribute 1 \"Gouki\" Link Monster, then target cards on the field, up to its Link Rating; destroy them. You can only use this effect of \"Gouki The Powerload Ogre\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Center",
+    "Bottom-Right",
+    "Middle-Right"
+  ],
+  "link_number": "4"
+}

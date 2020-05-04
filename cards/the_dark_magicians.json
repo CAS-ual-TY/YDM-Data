@@ -1,0 +1,24 @@
+{
+  "name": "The Dark Magicians",
+  "number": "50237654",
+  "is_illegal": false,
+  "text": "\"Dark Magician\" or \"Dark Magician Girl\" + 1 Spellcaster monster\nOnce per turn, if a Spell/Trap Card or effect is activated (except during the Damage Step): You can draw 1 card, then if it was a Spell/Trap, you can Set it, and if it was a Trap or Quick-Play Spell, you can activate it this turn. If this card is destroyed: You can Special Summon both 1 \"Dark Magician\" and 1 \"Dark Magician Girl\" from your hand, Deck, and/or GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2800",
+  "defense": "2300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

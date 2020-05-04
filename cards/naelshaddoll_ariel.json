@@ -1,0 +1,25 @@
+{
+  "name": "Naelshaddoll Ariel",
+  "number": "97518132",
+  "is_illegal": false,
+  "text": "FLIP: You can target 1 of your banished \"Shaddoll\" monsters; Special Summon it in face-up or face-down Defense Position.\nIf this card is sent to the GY by a card effect: You can target up to 3 cards in the GY(s); banish them. You can only use 1 \"Naelshaddoll Ariel\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "1000",
+  "defense": "1800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Flip",
+    "Effect"
+  ],
+  "stars": "4"
+}

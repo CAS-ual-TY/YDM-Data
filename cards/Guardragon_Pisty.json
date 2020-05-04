@@ -1,0 +1,26 @@
+{
+  "name": "Guardragon Pisty",
+  "number": "13143275",
+  "is_illegal": false,
+  "text": "1 Level 4 or lower Dragon monster\nYou cannot Special Summon monsters, except Dragon monsters. You can target 1 of your Dragon monsters that is banished or in your GY; Special Summon it to your zone that 2 or more Link Monsters point to. You can only use this effect of “Guardragon Pisty” once per turn. You can only Special Summon “Guardragon Pisty(s)” once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Right"
+    ],
+  "link_number": "1"
+}

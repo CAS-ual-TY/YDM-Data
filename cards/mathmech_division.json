@@ -1,0 +1,24 @@
+{
+  "name": "Mathmech Division",
+  "number": "89743495",
+  "is_illegal": false,
+  "text": "You can Tribute 1 Cyberse monster you control in the Extra Monster Zone; Special Summon up to 1 Level 4 Cyberse monster each from your hand and GY. If this card is sent to the GY: You can target 1 face-up monster on the field; its ATK becomes halved until the end of this turn. You can only use each effect of \"Mathmech Division\" once per turn. ",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1500",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

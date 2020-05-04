@@ -1,0 +1,24 @@
+{
+  "name": "Witchcrafter Golem Aruru",
+  "number": "71074418",
+  "is_illegal": false,
+  "text": "When your opponent activates a card or effect that targets a Spellcaster monster(s) you control, or targets it for an attack (Quick Effect): You can target 1 card your opponent controls, or 1 \"Witchcrafter\" Spell in your GY; Special Summon this card from your hand, and if you do, return that targeted card to the hand. You can only use this effect of \"Witchcrafter Golem Aruru\" once per turn. Once per turn, during your opponent's Standby Phase: Return this card to the hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2800",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

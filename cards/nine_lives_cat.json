@@ -1,0 +1,24 @@
+{
+  "name": "Nine-Lives Cat",
+  "number": "28981598",
+  "is_illegal": false,
+  "text": "2 Level 9 monsters\nYour opponent cannot target other monsters you control, that were Special Summoned from the GY, with card effects. You can detach 1 material from this card, then target 1 Level 9 monster in your GY or 1 monster in your opponent's GY; Special Summon it. You can only use this effect of \"Nine-Lives Cat\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "900",
+  "defense": "3300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "9"
+}

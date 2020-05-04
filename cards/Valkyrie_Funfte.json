@@ -1,0 +1,24 @@
+{
+  "name": "Valkyrie Funfte",
+  "number": "46701379",
+  "is_illegal": false,
+  "text": "\"Valkyrie\" monsters you control gain 200 ATK for each of your opponent's banished monsters. If you control a \"Valkyrie\" monster other than \"Valkyrie Funfte\": You can send 1 Spell/Trap from your Deck to the GY. You can only use this effect of \"Valkyrie Funfte\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "800",
+  "defense": "1200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

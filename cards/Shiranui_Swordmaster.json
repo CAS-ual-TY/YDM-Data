@@ -1,0 +1,24 @@
+{
+  "name": "Shiranui Swordmaster",
+  "number": "05177985",
+  "is_illegal": false,
+  "text": "If this card is in your GY and you control 2 or more \"Shiranui\" monsters with different names: You can Special Summon this card, but banish it when it leaves the field. If this card is banished: You can target 1 Zombie monster you control; it gains 600 ATK until the end of this turn. You can only use each effect of \"Shiranui Swordmaster\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "600",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

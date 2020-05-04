@@ -1,0 +1,24 @@
+{
+  "name": "Unchained Twins - Sarama",
+  "number": "31588572",
+  "is_illegal": false,
+  "text": "You can target 1 \"Unchained\" card in your GY, except \"Unchained Twins - Sarama\"; Set it to your field, then destroy 1 card you control. If this card on the field is destroyed by card effect, except \"Unchained Twins - Sarama\", or by battle: You can Special Summon 1 \"Unchained\" monster from your hand or Deck, except \"Unchained Twins - Sarama\". You can only use each effect of \"Unchained Twins - Sarama\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1500",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

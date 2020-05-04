@@ -1,0 +1,25 @@
+{
+  "name": "Megalith Och",
+  "number": "36849933",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with a \"Megalith\" card. If this card is Ritual Summoned: You can draw 1 card, then discard 1 card. During the Main Phase (Quick Effect): You can activate this effect; Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand or field, including this card on your field, whose total Levels equal or exceed the Level of the Ritual Monster. You can only use this effect of \"Megalith Och\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1000",
+  "defense": "2700",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "ritual
+Effect"
+  ],
+  "stars": "4"
+}

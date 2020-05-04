@@ -1,0 +1,24 @@
+{
+  "name": "Gagagaga Magician",
+  "number": "86331741",
+  "is_illegal": false,
+  "text": "2 Level 4 monsters\nYou can detach 1 material from this card, then target 1 Xyz Monster in your GY, except \"Gagagaga Magician\"; Special Summon it, but negate its effects. You can only use this effect of \"Gagagaga Magician\" once per turn. A \"Utopic Future\" Xyz Monster that has this card as material gains this effect.\n● During your Main Phase: You can detach 2 materials from this card, then target 1 Xyz Monster you control; until the end of this turn, change its ATK to 4000, also negate its effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "4"
+}

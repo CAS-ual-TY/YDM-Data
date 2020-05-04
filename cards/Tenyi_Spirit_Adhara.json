@@ -1,0 +1,25 @@
+{
+  "name": "Tenyi Spirit - Adhara",
+  "number": "98159737",
+  "is_illegal": false,
+  "text": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 of your banished Wyrm monsters, except this card; add it to your hand. You can only use each effect of \"Tenyi Spirit - Adhara\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "1"
+}

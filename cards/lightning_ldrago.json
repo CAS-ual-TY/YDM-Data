@@ -1,0 +1,25 @@
+{
+  "name": "Lightning L-Drago",
+  "number": "",
+  "is_illegal": false,
+  "text": "3 \"Beyblade\" monsters\n(This card is always treated as a \"Beyblade\" card) This card can attack all monsters your opponent controls once each. If this card destroys an opponent’s monster by battle and sends it to the GY: this card gains ATK equal to that monster’s original ATK. If this card would be destroyed by battle or card effect, you can return 1 other \"Beyblade\" monster you control to the hand instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3000",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  "stars": "9"
+}

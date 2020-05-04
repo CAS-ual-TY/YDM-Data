@@ -1,0 +1,24 @@
+{
+  "name": "Aloof Lupine",
+  "number": "92998610",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can banish 1 monster from your hand; banish 1 monster from your Deck with the same Type as that monster. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 of your banished monsters; add it to your hand. You can only use each effect of \"Aloof Lupine\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1700",
+  "defense": "300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

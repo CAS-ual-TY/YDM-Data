@@ -1,0 +1,24 @@
+{
+  "name": "Earth Golem @Ignister",
+  "number": "62111090",
+  "is_illegal": false,
+  "text": "1 Cyberse monster + 1 Link Monster\nAfter this card is Fusion Summoned, you take no damage for the rest of this turn. If this card attacks a monster that was Special Summoned from the Extra Deck, this card gains ATK equal to its original ATK during the Damage Step only. When this card is destroyed by battle: You can target 1 Cyberse monster in your GY, except \"Earth Golem @Ignister\"; Special Summon it. You can only use this effect of \"Earth Golem @Ignister\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2300",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "7"
+}

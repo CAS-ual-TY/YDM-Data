@@ -1,0 +1,511 @@
+{
+  "name": "Legendary Hero Deck - Destiny Hero",
+  "type": "Structure Deck",
+  "date": "2018-10-04",
+  "distribution": "",
+  "prefix": "LEHD",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Xtra HERO Dread Decimator",
+      "set_number": "LEHD-ENA00",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dogma",
+      "set_number": "LEHD-ENA01",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Plasma",
+      "set_number": "LEHD-ENA02",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dreadmaster",
+      "set_number": "LEHD-ENA03",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Malicious",
+      "set_number": "LEHD-ENA04",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Malicious",
+      "set_number": "LEHD-ENA04",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Celestial",
+      "set_number": "LEHD-ENA05",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Diamond Dude",
+      "set_number": "LEHD-ENA06",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dread Servant",
+      "set_number": "LEHD-ENA07",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Disk Commander",
+      "set_number": "LEHD-ENA08",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dark Angel",
+      "set_number": "LEHD-ENA09",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dynatag",
+      "set_number": "LEHD-ENA10",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Drilldark",
+      "set_number": "LEHD-ENA11",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Drilldark",
+      "set_number": "LEHD-ENA11",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Decider",
+      "set_number": "LEHD-ENA12",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dreamer",
+      "set_number": "LEHD-ENA13",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D Cubed",
+      "set_number": "LEHD-ENA14",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D Cubed",
+      "set_number": "LEHD-ENA14",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D Cubed",
+      "set_number": "LEHD-ENA14",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Shadow Mist",
+      "set_number": "LEHD-ENA15",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Blazeman",
+      "set_number": "LEHD-ENA16",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny Draw",
+      "set_number": "LEHD-ENA17",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny Draw",
+      "set_number": "LEHD-ENA17",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Over Destiny",
+      "set_number": "LEHD-ENA18",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Over Destiny",
+      "set_number": "LEHD-ENA18",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Clock Tower Prison",
+      "set_number": "LEHD-ENA19",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark City",
+      "set_number": "LEHD-ENA20",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mask Change",
+      "set_number": "LEHD-ENA21",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mask Change",
+      "set_number": "LEHD-ENA21",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Polymerization",
+      "set_number": "LEHD-ENA22",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Polymerization",
+      "set_number": "LEHD-ENA22",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Monster Reborn",
+      "set_number": "LEHD-ENA23",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magical Stone Excavation",
+      "set_number": "LEHD-ENA24",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Terraforming",
+      "set_number": "LEHD-ENA25",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Terraforming",
+      "set_number": "LEHD-ENA25",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "A Feather of the Phoenix",
+      "set_number": "LEHD-ENA26",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny Signal",
+      "set_number": "LEHD-ENA27",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D - Time",
+      "set_number": "LEHD-ENA28",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Eternal Dread",
+      "set_number": "LEHD-ENA29",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Eternal Dread",
+      "set_number": "LEHD-ENA29",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D-Fusion",
+      "set_number": "LEHD-ENA30",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny End Dragoon",
+      "set_number": "LEHD-ENA31",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dusktopia",
+      "set_number": "LEHD-ENA32",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dusktopia",
+      "set_number": "LEHD-ENA32",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dystopia",
+      "set_number": "LEHD-ENA33",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dystopia",
+      "set_number": "LEHD-ENA33",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Destiny HERO - Dangerous",
+      "set_number": "LEHD-ENA34",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Masked HERO Dark Law",
+      "set_number": "LEHD-ENA35",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Masked HERO Anki",
+      "set_number": "LEHD-ENA36",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Xtra HERO Wonder Driver",
+      "set_number": "LEHD-ENA37",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    }
+  ]
+}

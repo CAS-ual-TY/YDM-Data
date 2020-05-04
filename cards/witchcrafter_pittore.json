@@ -1,0 +1,24 @@
+{
+  "name": "Witchcrafter Pittore",
+  "number": "95245544",
+  "is_illegal": false,
+  "text": "During the Main Phase (Quick Effect): You can Tribute this card, then discard 1 Spell; Special Summon 1 \"Witchcrafter\" monster from your Deck, except \"Witchcrafter Pittore\". You can banish this card from your GY; draw 1 card, then send 1 \"Witchcrafter\" card from your hand to the GY, or, if you have none, banish your entire hand. You can only use each effect of \"Witchcrafter Pittore\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1000",
+  "defense": "1500",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

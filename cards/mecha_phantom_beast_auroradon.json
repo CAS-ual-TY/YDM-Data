@@ -1,0 +1,28 @@
+{
+  "name": "Mecha Phantom Beast Auroradon",
+  "number": "44097050",
+  "is_illegal": false,
+  "text": "2+ Machine monsters\nIf this card is Link Summoned: You can activate this effect; Special Summon 3 \"Mecha Phantom Beast Tokens\" (Machine/WIND/Level 3/ATK 0/DEF 0), also you cannot Link Summon for the rest of this turn. Once per turn: You can Tribute up to 3 monsters, then apply 1 of these effects, based on the number Tributed;\n● 1: Destroy 1 card on the field.\n● 2: Special Summon 1 \"Mecha Phantom Beast\" monster from your Deck.\n● 3: Add 1 Trap from your GY to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2100",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Bottom-Right",
+    "Bottom"
+  ],
+  "link_number": "3"
+}

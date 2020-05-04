@@ -1,0 +1,28 @@
+{
+  "name": "Rain Bozu",
+  "number": "95568112",
+  "is_illegal": false,
+  "text": "Gains ATK during your turn only, and gains DEF during your opponent's turn only, each equal to the difference between the number of cards in the Extra Decks x 200. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "8",
+  "pendulum_right": "8",
+  "pendulum_text": "Once per turn: You can target 1 face-up monster you control; it gains ATK equal to the difference between the number of cards in the Extra Decks x 100, until the end of this turn (even if this card leaves the field).",
+  "stars": "7"
+}

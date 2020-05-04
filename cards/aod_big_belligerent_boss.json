@@ -1,0 +1,25 @@
+{
+  "name": "A.O.D Big Belligerent Boss",
+  "number": "",
+  "is_illegal": false,
+  "text": "If this card is Synchro Summoned: banish all other monsters on the field until the End Phase. Once per turn (Quick Effect): banish the top 3 cards of your Deck; banish cards on the field up to the number of \"A.O.D\" cards that were banished by this effect. If this card is banished or sent to the GY; Special Summon 1 \"A.O.D\" monster from your Deck, but its effects are negated. You can only Summon 1 \"A.O.D Big Boss\" per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "4000",
+  "defense": "4000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Effect"
+  ],
+  "stars": "12"
+}

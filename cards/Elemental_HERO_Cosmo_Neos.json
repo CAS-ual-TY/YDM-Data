@@ -1,0 +1,24 @@
+{
+  "name": "Elemental HERO Cosmo Neos",
+  "number": "90050480",
+  "is_illegal": false,
+  "text": "\"Elemental HERO Neos\" + 3 “Neo-Spacian” monsters with different Attributes\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck (you do not use “Polymerization”). If this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect’s activation. Once per turn, during the End Phase: Shuffle this card into the Extra Deck, and if you do, destroy all cards your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3500",
+  "defense": "3000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "11"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Simorgh of Darkness",
+  "number": "22586618",
+  "is_illegal": false,
+  "text": "While face-up on the field, this card is also WIND-Attribute. You can only use each of the following effects of \"Simorgh of Darkness\" once per turn.\n● If you Tribute Summon a DARK or WIND monster: You can Special Summon this card from the GY (if it was there when the monster was Tribute Summoned) or hand (even if not).\n● When a Spell/Trap Card or effect is activated (Quick Effect): You can Tribute 1 WIND Winged Beast monster; negate the activation, and if you do, destroy that card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "2900",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

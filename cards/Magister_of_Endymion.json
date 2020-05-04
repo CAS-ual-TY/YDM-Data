@@ -1,0 +1,28 @@
+{
+  "name": "Magister of Endymion",
+  "number": "66104644",
+  "is_illegal": false,
+  "text": "You can only Special Summon \"Magister(s) of Endymion\" once per turn. When this card declares an attack: You can place 1 Spell Counter on it. Once per opponent's turn (Quick Effect): You can remove 3 Spell Counters from your field; Special Summon 1 monster from your Deck that you can place a Spell Counter on. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone, then place the same number of Spell Counters on it that it had as a monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1500",
+  "defense": "900",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "8",
+  "pendulum_right": "8",
+  "pendulum_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 face-up monster from your Extra Deck that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.",
+  "stars": "3"
+}

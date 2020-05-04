@@ -1,0 +1,25 @@
+{
+  "name": "Water Leviathan @Ignister",
+  "number": "37061511",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"A.I.'s Ritual\" If this card is Ritual Summoned: You can return all monsters your opponent controls with 2300 or less ATK to the hand. You can target 1 face-up monster your opponent controls; return all Link Monsters from your GY to the Extra Deck, and if you do, change that targeted monster's ATK to 0. You can only use this effect of \"Water Leviathan @Ignister\" once per turn. Once per battle, during damage calculation, if this card battles an opponent's monster: You can halve the ATK of that opponent's monster, during that damage calculation only.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2300",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual
+Effect"
+  ],
+  "stars": "7"
+}

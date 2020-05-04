@@ -1,0 +1,24 @@
+{
+  "name": "Brotherhood of the Fire Fist - Eland",
+  "number": "61472381",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with \"Fire Formation - Domei\". You can discard 1 monster; Set 1 \"Fire Formation\" Spell/Trap directly from your Deck or GY. When your opponent activates a monster effect (Quick Effect): You can send 1 face-up \"Fire Fist\" or \"Fire Formation\" card you control to the GY, except \"Brotherhood of the Fire Fist - Eland\"; negate that effect. You can only use each effect of \"Brotherhood of the Fire Fist - Eland\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "2400",
+  "defense": "2000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Mudan the Rikka Fairy",
+  "number": "71002019",
+  "is_illegal": false,
+  "text": "You can Tribute 1 Plant monster; Special Summon this card from your hand. If this card is Normal Summoned, or Special Summoned by the effect of a Plant monster: You can add 1 \"Rikka\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Mudan the Rikka Fairy\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "1000",
+  "defense": "2400",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

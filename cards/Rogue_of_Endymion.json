@@ -1,0 +1,24 @@
+{
+  "name": "Rogue of Endymion",
+  "number": "44640691",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: Place 1 Spell Counter on it. You can remove 1 Spell Counter from this card and discard 1 Spellcaster monster; Set 1 Continuous Spell directly from your Deck, but for the rest of this turn you cannot activate it, or activate cards, or the effects of cards, with its name. You can only use each effect of \"Rogue of Endymion\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1500",
+  "defense": "200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

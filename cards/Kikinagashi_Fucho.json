@@ -1,0 +1,24 @@
+{
+  "name": "Kikinagashi Fucho",
+  "number": "27240101",
+  "is_illegal": false,
+  "text": "2 Level 1 monsters\nUnaffected by other cards' effects. Once per turn (Quick Effect): You can detach 2 materials from this card; for the rest of this turn, this card cannot be destroyed by battle, also you take no battle damage from attacks involving this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "1"
+}

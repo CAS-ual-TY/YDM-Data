@@ -1,0 +1,11 @@
+{
+  "name": "Matching Outfits",
+  "number": "94446564",
+  "is_illegal": false,
+  "text": "Both players reveal the top card of their Deck, and if they are the same type of card (Monster, Spell, or Trap), both players add them to their hands. Otherwise, banish them.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

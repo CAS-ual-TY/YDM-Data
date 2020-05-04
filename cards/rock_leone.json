@@ -1,0 +1,25 @@
+{
+  "name": "Rock Leone",
+  "number": "",
+  "is_illegal": false,
+  "text": "3 \"Beyblade\" monsters\nWhen this card is Fusion Summoned; you can summon 1 \"Beytarget\" (Warrior/EARTH/Level 4/ ATK 1000 / DEF 1000) token on your opponent’s side of the field. Other \"Beyblade\" monsters deal piercing battle damage. If you use this card as a Fusion Material Monster, it can be all materials for the Fusion Summon of a \"Beyblade\" card. If this card is sent to the GY, add 1 \"Metal Fusion\" from your GY to your hand. You can return 1 \"Beyblade\" monster from your field to your hand; Special Summon this card. You can only Special Summon \"Rock Leone\" once per turn this way.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "3000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  "stars": "9"
+}

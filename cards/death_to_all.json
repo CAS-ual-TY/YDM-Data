@@ -1,0 +1,11 @@
+{
+  "name": "Death To All",
+  "number": "",
+  "is_illegal": false,
+  "text": "Target 1 monster you control, destroy it, and if you do; inflict damage to your opponent equal to that monster's attack. If your opponent has Life Points after this effect: deal damage equal to double that monster's attack to your Life Points.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}

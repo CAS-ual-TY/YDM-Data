@@ -1,0 +1,24 @@
+{
+  "name": "Ancient Warriors - Graceful Zhou Gong",
+  "number": "77539547",
+  "is_illegal": false,
+  "text": "You can target 1 Continuous Spell/Trap you control; send it to the GY, and if you do, add 1 \"Ancient Warriors\" Spell/Trap from your Deck to your hand. If your other \"Ancient Warriors\" monster's effect is activated (except during the Damage Step): You can target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only use each effect of \"Ancient Warriors - Graceful Zhou Gong\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1600",
+  "defense": "1600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Trap Reactor - NG",
+  "number": "31000032",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand or GY) by sending 1 \"Reactor\" card you control to the GY except \"Trap Reactor - NG\". If this card is Summoned by its own effect: You can add 1 \"System Overload\" from your Deck to your hand. Once per turn, if your opponent activates a Trap Card or effect: You can negate that effect, and if you do, set that card to your Spell & Trap zone. If you activate a Trap Card owned by your opponent: Inflict 1000 damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "800",
+  "defense": "1800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

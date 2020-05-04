@@ -1,0 +1,11 @@
+{
+  "name": "Action Magic - Double Banking",
+  "number": "35498188",
+  "is_illegal": false,
+  "text": "Discard 1 card; this turn, if a monster you currently control destroys an opponent's monster by battle, it can make a second attack in a row. During your Main Phase, if this card is in your GY, except the turn this card was sent to the GY: You can discard 1 Spell; Set this card.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}

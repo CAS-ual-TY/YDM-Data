@@ -1,0 +1,27 @@
+{
+  "name": "Brotherhood of the Fire Fist - Eagle",
+  "number": "46241344",
+  "is_illegal": false,
+  "text": "2 Beast-Warrior monsters\nYou can only Special Summon \"Brotherhood of the Fire Fist - Eagle(s)\" once per turn. You can activate \"Fire Fist\" monsters' effects without sending \"Fire Fist\" or \"Fire Formation\" card(s) from your hand or field to the GY. You can target 1 \"Fire Formation\" Spell/Trap you control or in your GY; return it to the hand, then send 1 \"Fire Fist\" monster from your Deck to the GY. You can only use this effect of \"Brotherhood of the Fire Fist - Eagle\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1700",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

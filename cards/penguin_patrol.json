@@ -1,0 +1,24 @@
+{
+  "name": "Penguin Patrol",
+  "number": "",
+  "is_illegal": false,
+  "text": "You can discard this card; add 1 \"Penguin Paradise\" from your Deck to your hand. (Quick Effect) You can target 1 face-down monster you control; change it to face-up Defense Position and if it is a \"Penguin\" monster, immediately after this effect resolves, Special Summon 1 \"Nopenguin\" from your hand or Deck. You can only use this effect of \"Penguin Patrol\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1200",
+  "defense": "1200",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

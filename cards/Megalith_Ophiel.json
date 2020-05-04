@@ -1,0 +1,25 @@
+{
+  "name": "Megalith Ophiel",
+  "number": "63056220",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with a\"Megalith\"card. If this card is Ritual Summoned: You can add 1\"Megalith\" monster from your Deck to your hand, except \"Megalith Ophiel\" During your Main Phase: You can activate this effect; Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand or field, including this card on your field, whose total Levels equal or exceed the Level of the Ritual Monster. You can only use this effect of \"Megalith Ophiel\" once per turn. ",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1600",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Effect"
+  ],
+  "stars": "4"
+}

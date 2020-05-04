@@ -1,0 +1,24 @@
+{
+  "name": "Burny, Forgotten Soul of the Blacksmith",
+  "number": "",
+  "is_illegal": false,
+  "text": "Send 1 Equip Spell from your Deck to the GY: Special Summon this card. If this card is Summoned; add 1 Equip Spell from your Deck to your hand. You can only use each effect of \"Burny, Forgotten Soul of the Blacksmith\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "1300",
+  "defense": "1500",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

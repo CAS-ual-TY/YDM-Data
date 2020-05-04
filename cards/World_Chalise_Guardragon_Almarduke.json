@@ -1,0 +1,24 @@
+{
+  "name": "World Chalice Guardragon Almarduke",
+  "number": "95793022",
+  "is_illegal": false,
+  "text": "3 Link Monsters\nMust first be either Fusion Summoned, or Special Summoned by Tributing the above cards you control (in which case you do not use \"Polymerization\"). This card can attack all monsters your opponent controls once each. When an attack is declared involving this card and an opponent's Link Monster: You can banish 1 Link Monster with the same Link Rating as that monster from your field or GY; destroy that opponent's monster, and if you do, inflict damage to your opponent equal to its original ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2600",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "9"
+}

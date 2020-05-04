@@ -1,0 +1,29 @@
+{
+  "name": "Magicalibra",
+  "number": "43857222",
+  "is_illegal": false,
+  "text": "A sentient scale. It maintains the balance of the universe, but often places the stars on the wrong side",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Pendulum",
+    "Normal"
+  ],
+  "pendulum_left": "5",
+  "pendulum_right": "5",
+  "pendulum_text": "You can declare a Level from 1 to 6, then target 2 face-up monsters you control; until the end of this turn, reduce the Level of 1 of those monsters by the declared amount, and if you do, increase the Level of the other by the same amount (even if this card leaves the field). You can only use this effect of \"Magicalibra\" once per turn.",
+  "stars": "4"
+}

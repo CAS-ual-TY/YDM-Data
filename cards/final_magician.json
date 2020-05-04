@@ -1,0 +1,28 @@
+{
+  "name": "Final Magician",
+  "number": "",
+  "is_illegal": false,
+  "text": "If this card is Summoned: You can add 1 Pendulum Monster from your Deck, GY, or face-up Extra Deck to your hand. You can declare a level from 1 to 8; all \"Magician\" monsters you control become that level. If this card is destroyed you can add 1 \"Pendulum\" monster with a Level between the Pendulum Scales of the cards in your Pendulum Zones then you can Special Summon as many monsters with the same level as the added card as possible from your hand(this Summon is treated as a Pendulum Summon). You can only use each effect of \"Final Magician\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2000",
+  "defense": "100",
+  "attribute": "DARK",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "8",
+  "pendulum_right": "8",
+  "pendulum_text": "Your opponent cannot activate cards or effects in response to the activation of your Pendulum Monsters' effects.",
+  "stars": "4"
+}

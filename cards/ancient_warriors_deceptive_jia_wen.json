@@ -1,0 +1,24 @@
+{
+  "name": "Ancient Warriors - Deceptive Jia Wen",
+  "number": "06438003",
+  "is_illegal": false,
+  "text": "You can target 1 Continuous Spell/Trap you control; send it to the GY, and if you do, halve the ATK of 2 face-up monsters on the field, until the end of this turn. If a card(s) your opponent controls is destroyed by battle or card effect: You can target 1 \"Ancient Warriors\" card in your GY, except \"Ancient Warriors - Deceptive Jia Wen\"; add it to your hand. You can only use each effect of \"Ancient Warriors - Deceptive Jia Wen\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1100",
+  "defense": "1800",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

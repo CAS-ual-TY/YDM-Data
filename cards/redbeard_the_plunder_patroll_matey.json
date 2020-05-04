@@ -1,0 +1,24 @@
+{
+  "name": "Redbeard, the Plunder Patroll Matey",
+  "number": "68769900",
+  "is_illegal": false,
+  "text": "During your opponent's turn (Quick Effect): You can Special Summon 1 \"Plunder Patroll\" monster from your Extra Deck with the same Attribute as a monster your opponent controls or is in their GY, and if you do, equip this card you control to it. If this card is sent from the hand or Monster Zone to the GY: You can target 1 \"Plunder Patroll\" monster you control, except \"Redbeard, the Plunder Patroll Matey\"; equip this card to it. You can only use each effect of \"Redbeard, the Plunder Patroll Matey\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

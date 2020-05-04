@@ -1,0 +1,24 @@
+{
+  "name": "Primineral Mandstrong",
+  "number": "37021315",
+  "is_illegal": false,
+  "text": "You can Set this card from your hand to your Spell & Trap Zone as a Spell. During the End Phase, if this card is in the GY because it was destroyed by an opponent's card effect this turn while it was Set on your field: You can Special Summon this card, then you can add 1 monster from your GY to your hand, except \"Primineral Mandstrong\". You can only use this effect of \"Primineral Mandstrong\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2000",
+  "defense": "3000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

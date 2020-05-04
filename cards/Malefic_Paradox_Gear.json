@@ -1,0 +1,24 @@
+{
+  "name": "Malefic Paradox Gear",
+  "number": "48829461",
+  "is_illegal": false,
+  "text": "If a face-up Field Spell is on the field: You can Tribute this card; Special Summon 1 \"Malefic Parallel Gear\" from your Deck, then, add 1 \"Malefic\" monster from your Deck to your hand, except \"Malefic Paradox Gear\". If a \"Malefic\" monster would banish a monster to Special Summon itself by its own way, you can banish this card you control or in your GY instead. You can only use each effect of \"Malefic Paradox Gear\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

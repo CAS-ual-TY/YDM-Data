@@ -1,0 +1,24 @@
+{
+  "name": "Draco Berserker of the Tenyi",
+  "number": "05041348",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nWhen your opponent activates a monster's effect (Quick Effect): You can banish it. If this attacking card destroys an Effect Monster by battle and sends it to the GY: This card gains ATK equal to the destroyed monster's original ATK, also it can make a second attack on a monster during this Battle Phase. You can only use each effect of \"Draco Berserker of the Tenyi\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "3000",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

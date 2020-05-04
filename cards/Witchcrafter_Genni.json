@@ -1,0 +1,24 @@
+{
+  "name": "Witchcrafter Genni",
+  "number": "64756282",
+  "is_illegal": false,
+  "text": "During the Main Phase (Quick Effect): You can Tribute this card and discard 1 Spell; Special Summon 1 \"Witchcrafter\" monster from your Deck, except \"Witchcrafter Genni\" You can banish this card and 1 \"Witchcrafter\" Spell from your GY; this effect becomes that Spell's effect when that card is activated. You can only use each effect of \"Witchcrafter Genni\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "300",
+  "defense": "500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

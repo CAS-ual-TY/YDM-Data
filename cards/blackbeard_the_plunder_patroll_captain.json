@@ -1,0 +1,27 @@
+{
+  "name": "Blackbeard, the Plunder Patroll Captain",
+  "number": "67647362",
+  "is_illegal": false,
+  "text": "2 monsters including a \"Plunder Patroll\" monster\n(Quick Effect): You can target 1 Effect Monster you control; Special Summon 1 \"Plunder Patroll\" monster from your Extra Deck with the same Attribute as a monster your opponent controls or is in their GY, and if you do, equip that target to it, then draw 1 card. You can only use this effect of \"Blackbeard, the Plunder Patroll Captain\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

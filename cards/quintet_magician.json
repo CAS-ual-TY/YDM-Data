@@ -1,0 +1,24 @@
+{
+  "name": "Quintet Magician",
+  "number": "84433295",
+  "is_illegal": false,
+  "text": "5 Spellcaster monsters\nMust be Fusion Summoned. If this card is Fusion Summoned using 5 Spellcaster monsters with different names: You can destroy all cards your opponent controls. This face-up card on the field cannot be Tributed, nor used as Fusion Material, also it cannot be destroyed by card effects.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "4500",
+  "defense": "4500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "12"
+}

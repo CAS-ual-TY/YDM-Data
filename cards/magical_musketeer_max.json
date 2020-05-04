@@ -1,0 +1,26 @@
+{
+  "name": "Magical Musketeer Max",
+  "number": "71791814",
+  "is_illegal": false,
+  "text": "1 Level 8 or lower \"Magical Musket\" monster\nIf this card is Link Summoned: You can activate 1 of these effects;\n● Add \"Magical Musket\" Spells/Traps with different names from your Deck to your hand, up to the number of monsters your opponent controls. ● Special Summon \"Magical Musket\" monsters with different names from your Deck, up to the number of Spells/Traps your opponent controls.\nYou can only use this effect of \"Magical Musketeer Max\" once per turn. During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom"
+  ],
+  "link_number": "1"
+}

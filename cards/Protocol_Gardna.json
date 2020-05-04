@@ -1,0 +1,27 @@
+{
+  "name": "Protocol Gardna",
+  "number": "05329790",
+  "is_illegal": false,
+  "text": "2 Cyberse monsters\nYour opponent's monsters cannot target monsters this card points to for attacks. The first time this card would be destroyed by battle each turn, it is not destroyed, also you take no battle damage from that battle.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+	"Left",
+	"Right"
+  ],
+  "link_number": "2"
+}

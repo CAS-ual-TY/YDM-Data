@@ -1,0 +1,24 @@
+{
+  "name": "Flower Cardian Plum Blossom",
+  "number": "",
+  "is_illegal": false,
+  "text": "You can return 1 face-up \"Flower Cardian\" monster other than \"Flower Cardian Plum Blossom\" to Special Summon this card, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. If this card is Special Summoned, draw 1 card, and if it is a \"Flower Cardian\" monster, Special Summon it, ignoring summoning conditions. You can only use this effect of \"Flower Cardian Plum Blossom\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

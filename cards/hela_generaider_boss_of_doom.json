@@ -1,0 +1,24 @@
+{
+  "name": "Hela, Generaider Boss of Doom",
+  "number": "75660578",
+  "is_illegal": false,
+  "text": "You can only control 1 \"Hela, Generaider Boss of Doom\". (Quick Effect): You can Tribute 1 \"Generaider\" monster or 1 Zombie monster, then target 1 \"Generaider\" monster or 1 Zombie monster in your GY, with a different name than the Tributed monster had on the field; Special Summon that monster in Defense Position. You can only use this effect of \"Hela, Generaider Boss of Doom\" once per turn. ",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "800",
+  "defense": "2800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "9"
+}

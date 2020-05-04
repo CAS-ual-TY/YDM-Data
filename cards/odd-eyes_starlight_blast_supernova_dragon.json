@@ -1,0 +1,28 @@
+{
+  "name": "Odd-Eyes Starlight-Blast Supernova Dragon",
+  "number": "",
+  "is_illegal": false,
+  "text": "2+ Monsters including an \"Odd-Eyes\" monster\nIf this card is Link Summoned using only \"Odd-Eyes\" monsters: Destroy all cards your opponent controls. Pendulum monsters this card points to cannot be targeted by your opponent’s cards or effects. Once per turn, you can target 1 \"Odd-Eyes\" card you control; destroy it and if you do Special Summon 1 \"Odd-Eyes\" monster with a different name than that card from your hand or Deck. You can only Special Summon \"Odd-Eyes Starlight-Blast Supernova Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom",
+    "Bottom-Right"
+  ],
+  "link_number": "3"
+}

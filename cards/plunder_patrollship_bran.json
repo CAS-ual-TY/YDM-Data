@@ -1,0 +1,24 @@
+{
+  "name": "Plunder Patrollship Brann",
+  "number": "94253655",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nAll other Fiend monsters you control gain 500 ATK. You can discard 1 \"Plunder Patroll\" card, then target 1 Spell/Trap your opponent controls; banish it, then you can add 1 \"Plunder Patroll\" monster from your Deck to your hand. This is a Quick Effect if this card is equipped with a \"Plunder Patroll\" card. You can only use this effect of \"Plunder Patrollship Brann\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2500",
+  "defense": "1000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "8"
+}

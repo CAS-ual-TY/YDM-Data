@@ -1,0 +1,24 @@
+{
+  "name": "D.D. Patrol Plane",
+  "number": "75991479",
+  "is_illegal": false,
+  "text": "During the End Phase, if this card is currently banished, and was banished this turn: You can banish 1 card from your hand, field, or GY, and if you do, Special Summon this card in Attack Position. You can only use this effect of \"D.D. Patrol Plane\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1200",
+  "defense": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

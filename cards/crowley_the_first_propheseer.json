@@ -1,0 +1,27 @@
+{
+  "name": "Crowley, the First Propheseer",
+  "number": "50756327",
+  "is_illegal": false,
+  "text": "2 Spellcaster monsters\nIf this card is Link Summoned: You can reveal 3 \"Spellbook\" cards with different names from your Deck, and your opponent randomly picks 1 for you to add to your hand, also shuffle the rest into your Deck. You can only use this effect of \"Crowley the First Propheseer\" once per turn. Each turn, 1 Level 5 or higher Spellcaster monster you Normal Summon can be Summoned without Tributing.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

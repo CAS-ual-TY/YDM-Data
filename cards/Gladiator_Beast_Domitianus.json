@@ -1,0 +1,24 @@
+{
+  "name": "Gladiator Beast Domitianus",
+  "number": "33652635",
+  "is_illegal": false,
+  "text": "\"Gladiator Beast Vespasius\" + 2 \"Gladiator Beast\" monsters/nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Once per turn, when your opponent activates a monster effect (Quick Effect): You can negate the activation, and if you do, destroy it. You choose the attack targets for your opponent's attacks. At the end of the Battle Phase, if this card battled: You can return this card to the Extra Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "3500",
+  "defense": "1200",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

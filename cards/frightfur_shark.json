@@ -1,0 +1,28 @@
+{
+  "name": "Frightfur Shark",
+  "number": "",
+  "is_illegal": false,
+  "text": "2 \"Fluffal\" and/or \"Edge Imp\" monsters\nThis card is also treated as a Fusion Monster whilst on the field or in the GY. If this card is Link Summoned: You can Special Summon 1 \"Fluffal\" or \"Edge Imp\" monster from your Deck to a zone this card points to but it’s effects are negated. When your opponent activates a Spell/Trap card or effect: You can return 1 \"Frightfur\" monster you control to the Extra Deck and if you do negate that effect and destroy that card. You can only use this effect of \"Frightfur Shark\" once per turn. If this card is sent to the GY as a Fusion Material for the Fusion Summon of a \"Frightfur\" monster: return 1 card on the field to its owner’s hand. You can only use this effect of \"Frightfur Shark\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link",
+    "Effect"
+  ],
+  "link_markers": [
+    "Bottom",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

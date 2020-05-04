@@ -1,0 +1,27 @@
+{
+  "name": "Shaman of the Tenyi",
+  "number": "78917791",
+  "is_illegal": false,
+  "text": "2 Wyrm monsters\nYou can discard 1 card, then target 1 Wyrm monster in your GY; Special Summon it, also, for the rest of this turn, you cannot activate the effects of monsters Special Summoned from the Extra Deck, except \"Tenyi\" monsters. When an attack is declared involving your face-up non-Effect Monster: You can target 1 card your opponent controls; destroy it. You can only use each effect of \"Shaman of the Tenyi\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "1600",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Gladiator Beast Vespasius",
+  "number": "88996322",
+  "is_illegal": false,
+  "text": "At the start of the Damage Step, if your \"Gladiator Beast\" monster battles a monster: You can Special Summon this card from your hand. You can only use this effect of \"Gladiator Beast Vespasius\" once per turn. While you control this card, Special Summoned by the effect of a \"Gladiator Beast\" monster, all monsters you control gain 500 ATK. At the end of the Battle Phase, if this card battled: You can shuffle this card into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Vespasius\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "2300",
+  "defense": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

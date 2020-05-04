@@ -1,0 +1,24 @@
+{
+  "name": "Neo Flamvell Lady",
+  "number": "00816427",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can send 1 FIRE monster from your hand to the GY, then target 1 card in your opponent's GY; banish that card. If a card is banished from your opponent's GY, while you control this monster (except during the Damage Step): You can send 1 FIRE Monster with 200 or less DEF from your Deck to the GY, except \"Neo Flamvell Lady\". You can only use each effect of \"Neo Flamvell Lady\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "1600",
+  "defense": "200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

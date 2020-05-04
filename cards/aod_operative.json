@@ -1,0 +1,24 @@
+{
+  "name": "A.O.D Operative",
+  "number": "",
+  "is_illegal": false,
+  "text": "If this card is Summoned: banish the bottom 3 cards of your Deck; add 1 of those banished cards to your hand. You can only use the effect of \"A.O.D Operative\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "1700",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

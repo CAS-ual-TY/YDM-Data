@@ -1,0 +1,24 @@
+{
+  "name": "Firebrand Hymnist",
+  "number": "00373085",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can send cards from the top of your opponent's Deck to the GY, equal to the number of cards they control. If this card is Special Summoned: You can send cards from the top of your Deck to the GY, equal to the number of cards your opponent controls. You can only use this effect of \"Firebrand Hymnist\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "800",
+  "defense": "200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

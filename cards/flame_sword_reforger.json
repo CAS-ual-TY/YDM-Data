@@ -1,0 +1,24 @@
+{
+  "name": "Flame Sword Reforger",
+  "number": "",
+  "is_illegal": false,
+  "text": "If this card is sent to the GY: add this card to your hand, then if you control \"Salamandra\", Special Summon this card. If this card is Summoned: send 1 \"Salamandra\" card you control to the GY; draw 2 cards. You can only use each effect of \"Flame Sword Fireshifter\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1400",
+  "defense": "1750",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Gorgon, Empress of the Evil Eyed",
+  "number": "29357687",
+  "is_illegal": false,
+  "text": "2 monsters including an \"Evil Eye\" monster\nGains 100 ATK for each \"Evil Eye\" card with different names in your GY. If this card is equipped with \"Evil Eye of Selene\" (Quick Effect): You can target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only use this effect of \"Gorgon, Empress of the Evil Eyed\" once per turn. Once per turn, during the next Standby Phase after this effect was activated: Destroy 1 monster this card points to.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1900",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Top",
+    "Bottom"
+  ],
+  "link_number": "2"
+}

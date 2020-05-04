@@ -1,0 +1,24 @@
+{
+  "name": "Preaching Penguin",
+  "number": "",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) by tributing 1 WATER monster you control that was Special Summoned from the Extra Deck. All \"Penguin\" monsters you control gain ATK equal to the combined levels/ranks of all \"Penguin\" monsters on the field x100. (Quick Effect): You can tribute 1 \"Penguin\" monster you control; Special Summon 1 \"Penguin\" Xyz monster from your GY and if you do, attach this card to it as material. You can only use this effect of \"Preaching Penguin\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "2200",
+  "defense": "1400",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

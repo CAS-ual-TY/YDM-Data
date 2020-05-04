@@ -1,0 +1,24 @@
+{
+  "name": "Superheavy Samurai Swordmaster Musashi",
+  "number": "75988594",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters \n When this card is Synchro Summoned: You can target 1 Machine monster in your GY; add it to your hand, also if you have a Spell/Trap in your GY, you cannot Normal or Special Summon it, or a monster with its name, for the rest of this turn. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "300",
+  "defense": "2300",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "5"
+}

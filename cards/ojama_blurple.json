@@ -1,0 +1,28 @@
+{
+  "name": "Ojama Blurple",
+  "number": "",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: You can send 1 \"Ojama\" card from your Deck to the GY; add 1 \"Ojama Fusion\" from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "0",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "1",
+  "pendulum_right": "1",
+  "pendulum_text": "When you Pendulum Summon, you can also summon \"Ojama\" monsters from your GY. Once per turn, you can tribute 1 \"Ojama\" monster you control; Special Summon an \"Ojama\" monster with a different name from your hand, Deck, or GY.",
+  "stars": "2"
+}

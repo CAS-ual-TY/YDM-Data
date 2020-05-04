@@ -1,0 +1,27 @@
+{
+  "name": "Gouki Jet Ogre",
+  "number": "59644128",
+  "is_illegal": false,
+  "text": "2 \"Gouki\" monsters\nOnce per turn: You can target 1 \"Gouki\" card you control; destroy it, and if you do, change all monsters on the field to face-up Attack Position. If this card is sent from the field to the GY: You can make all \"Gouki\" monsters you currently control gain 500 ATK until the end of this turn. You can only use this effect of \"Gouki Jet Ogre\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Left",
+    "Bottom"
+  ],
+  "link_number": "2"
+}

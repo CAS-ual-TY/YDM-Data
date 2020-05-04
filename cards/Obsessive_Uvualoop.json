@@ -1,0 +1,25 @@
+{
+  "name": "Obsessive Uvualoop",
+  "number": "98806751",
+  "is_illegal": false,
+  "text": "If this card is in your hand: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, Special Summon this card. If this card is in your GY: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, add this card to your hand. You can only use each effect of \"Obsessive Uvualoop\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1200",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect",
+    "Tuner"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dovelgus, Generaider Boss of Iron",
+  "number": "76382116",
+  "is_illegal": false,
+  "text": "You can only control 1 \"Dovelgus, Generaider Boss of Iron\". (Quick Effect): You can Tribute any number of \"Generaider\" monsters and/or Machine monsters; Special Summon, from your hand, in Defense Position, exactly that many \"Generaider\" monsters and/or Machine monsters, all with different names from each other and from the Tributed monsters. You can only use this effect of \"Dovelgus, Generaider Boss of Iron\" once per turn. ",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "9"
+}

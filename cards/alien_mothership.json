@@ -1,0 +1,11 @@
+{
+  "name": "Alien Mothership",
+  "number": "",
+  "is_illegal": false,
+  "text": "Each time an \"Alien\" monster(s) is Normal or Special Summoned, place 2 A-Counters on this card. You can remove A-Counters from either side of the field to activate these effects:\n2 Counters: Target 1 face-up monster on your opponent’s field; place 1 A-Counter on that target.\n4 Counters: Add 1 \"Alien\" card from your Deck or GY to your hand.\n6 Counters: Target 1 monster on your opponent’s side of the field, take control of that target until the End Phase. It cannot attack or activate its effects.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Continuous"
+}

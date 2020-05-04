@@ -1,0 +1,24 @@
+{
+  "name": "Harr, Generaider Boss of Storms",
+  "number": "68199168",
+  "is_illegal": false,
+  "text": "You can only control 1 \"Harr, Generaider Boss of Storms\". Once per turn, if your opponent adds a card(s) from the Deck to their hand, except during the Draw Phase (Quick Effect): You can make your opponent send 1 monster from their hand or field to the GY (their choice). When a card or effect is activated (Quick Effect): You can Tribute 2 \"Generaider\" and/or Spellcaster monsters; negate the activation, and if you do, destroy that card. You can only use this effect of \"Harr, Generaider Boss of Storms\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "3000",
+  "defense": "3000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "9"
+}

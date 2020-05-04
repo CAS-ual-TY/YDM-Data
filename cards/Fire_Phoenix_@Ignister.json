@@ -1,0 +1,28 @@
+{
+  "name": "Fire Phoenix @Ignister",
+  "number": "24882256",
+  "is_illegal": false,
+  "text": "2+ Cyberse monsters\nDuring damage calculation, if this card attacks: You can inflict damage to your opponent equal to this card's ATK, and if you do, your opponent takes no battle damage from that battle. If this card is destroyed by card effect: You can destroy 1 monster your opponent controls. During the next Standby Phase after this Link Summoned card was destroyed and sent to the GY: You can Special Summon this card from your GY. You can only use each effect of \"Fire Phoenix @Ignister\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "2300",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom",
+    "Left",
+    "Right"
+  ],
+  "link_number": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Kingdoms: TheShyDucky",
+  "number": "",
+  "is_illegal": false,
+  "text": "If you control 2 \"EARTH\" monsters you can Special Summon this card from your hand. If this card is Special Summoned: discard 3 cards, then draw 2 cards. You can only use this effect \"Kingdoms: TheShyDucky\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

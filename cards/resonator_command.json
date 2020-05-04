@@ -1,0 +1,11 @@
+{
+  "name": "Resonator Command",
+  "number": "08559524",
+  "is_illegal": false,
+  "text": "Discard 1 \"Resonator\" monster; add 1 Level 4 or lower Fiend monster from your Deck to your hand. You can only activate 1 \"Resonator Command\" per turn.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}

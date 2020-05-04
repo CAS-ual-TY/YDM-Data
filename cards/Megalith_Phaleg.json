@@ -1,0 +1,24 @@
+{
+  "name": "Megalith Phaleg",
+  "number": "63233638",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with a \"Megalith\" card. You can discard this card; Ritual Summon 1 \"Megalith\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use this effect of \"Megalith Phaleg\" once per turn. Monsters you control gain 300 ATK/DEF for each Ritual Monster in your GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2500",
+  "defense": "1200",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

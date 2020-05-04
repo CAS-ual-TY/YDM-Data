@@ -1,0 +1,25 @@
+{
+  "name": "A.O.D Bitrate",
+  "number": "",
+  "is_illegal": false,
+  "text": "If this card is banished; Special Summon this card. If this card is sent to the GY; Special Summon this card. If this card is Special Summoned; banish the top 3 cards of your Deck. You can only use the 1st and 2nd effect of \"A.O.D Bitrate\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "3"
+}

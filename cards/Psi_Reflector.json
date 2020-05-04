@@ -1,0 +1,25 @@
+{
+  "name": "Psi-Reflector",
+  "number": "74644400",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Assault Mode Activate\" or 1 card that specifically lists \"Assault Mode Activate\" in its text from your Deck to your hand, except \"Psi-Reflector\". You can reveal 1 \"Assault Mode Activate\" in your hand, then target 1 monster in your GY that specifically lists \"Assault Mode Activate\" in its text, except \"Psi-Reflector\"; Special Summon it, and if you do, increase its Level by 1 to 4. You can only use each effect of \"Psi-Reflector\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "400",
+  "defense": "300",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "1"
+}

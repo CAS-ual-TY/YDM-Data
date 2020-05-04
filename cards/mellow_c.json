@@ -1,0 +1,24 @@
+{
+  "name": "Mellow \"C\"",
+  "number": "",
+  "is_illegal": false,
+  "text": "During your opponent’s Main Phase: You can send this card from your Hand to the GY; this turn, each time your opponent Special Summons a monster(s) from the Extra Deck, immediately draw 1 card. You can only use the effect of \"Mellow \"C\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "1600",
+  "defense": "2100",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

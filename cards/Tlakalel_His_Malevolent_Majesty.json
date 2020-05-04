@@ -1,0 +1,24 @@
+{
+  "name": "Tlakalel, His Malevolent Majesty",
+  "number": "82319644",
+  "is_illegal": false,
+  "text": "If this card is Tribute Summoned: You can destroy any number of face-up monsters your opponent controls whose combined ATK is less than or equal to the original ATK of the monster Tributed to Tribute Summon this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2400",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

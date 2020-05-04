@@ -1,0 +1,24 @@
+{
+  "name": "World Legacy - \"World Ark\"",
+  "number": "42388271",
+  "is_illegal": false,
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a monster. You can only use each of the following effects of \"World Legacy - \"World Ark\"\" once per turn.\n● If a Link Monster(s) you control is destroyed by an opponent’s card effect and sent to your GY (except during the Damage Step): You can send this card from your hand to the GY, then target 1 of those Link Monsters; Special Summon it.\n● If your opponent Special Summons a monster(s) from the Extra Deck, while this Normal Summoned/Set card is on the field (except during the Damage Step): You can send 1 monster from your Deck to the GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2500",
+  "defense": "500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

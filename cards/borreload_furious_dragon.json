@@ -1,0 +1,24 @@
+{
+  "name": "Borreload Furious Dragon",
+  "number": "92892239",
+  "is_illegal": false,
+  "text": "2 DARK Dragon monsters\n(Quick Effect): You can target 1 monster you control and 1 card your opponent controls; destroy them. You can banish this card from your GY, then target 1 DARK Link Monster in your GY; Special Summon it, but it cannot activate its effects this turn. You can only use each effect of \"Borreload Furious Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "8"
+}

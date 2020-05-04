@@ -1,0 +1,29 @@
+{
+  "name": "Tenyi Spirit - Sahasrara",
+  "number": "38030232",
+  "is_illegal": false,
+  "text": "2+ Wyrm monsters\nWhile you control a face-up non-Effect Monster, monsters your opponent controls cannot target Effect Monsters for attacks, also your opponent cannot target Effect Monsters on the field with card effects. (Quick Effect): You can target 1 Effect Monster your opponent controls; Special Summon 1 \"Tenyi Spirit Token\" (Wyrm/LIGHT/Level 4/ATK ?/DEF 0). This Token's ATK becomes that targeted monster's original ATK. You can only use this effect of \"Tenyi Spirit - Sahasrara\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "3000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Top",
+    "Top-Right",
+    "Bottom",
+    "Bottom-Right"
+  ],
+  "link_number": "4"
+}

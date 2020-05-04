@@ -1,0 +1,24 @@
+{
+  "name": "White Aura Monoceros",
+  "number": "63731062",
+  "is_illegal": false,
+  "text": "1 WATER Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 Fish monster in your GY; Special Summon it, but it cannot attack this turn. You can only use this effect of \"White Aura Monoceros\" once per turn. If this card you control is destroyed by your opponent's card and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card, and if you do, it is treated as a Tuner.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "2500",
+  "defense": "1500",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}

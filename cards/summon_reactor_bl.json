@@ -1,0 +1,24 @@
+{
+  "name": "Summon Reactor - BL",
+  "number": "",
+  "is_illegal": false,
+  "text": "If you control a \"Reactor\" card, you can Special Summon this card from your hand. Once per turn, if your opponent summons a monster(s): You can negate their effects, then take control of one of those monster(s). (Quick Effect) You can tribute 1 monster you control owned by your opponent; inflict 1000 damage to your opponent.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2000",
+  "defense": "1400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

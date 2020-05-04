@@ -1,0 +1,27 @@
+{
+  "name": "Dinowrestler Terra Parkourio",
+  "number": "69121954",
+  "is_illegal": false,
+  "text": "2 \"Dinowrestler\" monsters\nIf you activate \"World Dino Wrestling\": You can target 1 \"Dinowrestler\" monster in your GY; add it to your hand. If this card is sent to the GY as Link Material: You can target 1 \"Dinowrestler\" monster in your GY; Special Summon it in Defense Position, but its effects are negated, also you cannot Special Summon monsters for the rest of this turn, except \"Dinowrestler\" monsters. You can only use each effect of \"Dinowrestler Terra Parkourio\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Top",
+    "Left"
+  ],
+  "link_number": "2"
+}

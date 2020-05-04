@@ -1,0 +1,25 @@
+{
+  "name": "Goldenhair, the Newest Plunder Patroll",
+  "number": "81344070",
+  "is_illegal": false,
+  "text": "You can send 1 other \"Plunder Patroll\" Monster Card from your hand or face-up field to the GY; Special Summon this card from your hand. If this card is in your GY: You can discard 1 card; Special Summon this card, but you cannot Special Summon for the rest of this turn, except \"Plunder Patroll\" monsters. You can only use each effect of \"Goldenhair, the Newest Plunder Patroll\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "4"
+}

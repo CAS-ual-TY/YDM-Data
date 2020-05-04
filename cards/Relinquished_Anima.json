@@ -1,0 +1,26 @@
+{
+  "name": "Relinquished Anima",
+  "number": "94259633",
+  "is_illegal": false,
+  "text": "1 Level 1 monster, except a Token\nYou can target 1 face-up monster this card points to; equip that face-up monster to this card (max. 1). You can only use this effect of \"Relinquished Anima\" once per turn. This card gains ATK equal to that equipped monster's.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "spellcaster",
+  "attack": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Top-Middle"
+  ],
+  "link_number": "1"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "A.O.D Conspirator",
+  "number": "",
+  "is_illegal": false,
+  "text": "1 \"A.O.D\" Tuner monster + 1 or more non-Tuner monster(s)\nIf this card is Synchro Summoned: banish 3 \"A.O.D\" cards from your GY, and if you do; you can add 1 \"A.O.D\" card or \"Allure of Darkness\" from your Deck to your hand. You can only use this effect of \"A.O.D Conspirator\" once per turn. Once per turn (Quick Effect): banish 3 cards from the bottom of your Deck and target 1 monster card on the field or in the GY; banish that target.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "2600",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "6"
+}

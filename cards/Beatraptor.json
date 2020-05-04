@@ -1,0 +1,24 @@
+{
+  "name": "Beatraptor",
+  "number": "46924949",
+  "is_illegal": false,
+  "text": "Negate the effects of monsters in the Extra Monster Zones while this card is in the Main Monster Zone. When this card is destroyed by battle: You can Special Summon 1 \"Beatraptor\" from your Deck. You can only use this effect of \"Beatraptor\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dinosaur",
+  "attack": "1400",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

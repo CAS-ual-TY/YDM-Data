@@ -1,0 +1,24 @@
+{
+  "name": "Karakuri Super Shogun mdl 00N \"Bureibu\"",
+  "number": "25904894",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner Machine monsters\nIf this card is Synchro Summoned: You can Special Summon 1 \"Karakuri\" monster from your Deck. Monsters you control in Defense Position cannot be destroyed by battle. Once per turn, if the battle position of a face-up \"Karakuri\" monster(s) you control is changed (except during the Damage Step): You can target 1 card your opponent controls; banish it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "machine",
+  "attack": "3000",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "9"
+}

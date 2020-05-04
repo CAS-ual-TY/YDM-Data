@@ -1,0 +1,25 @@
+{
+  "name": "Rose Girl",
+  "number": "29177818",
+  "is_illegal": false,
+  "text": "If a face-up Plant monster(s) you control is sent to the GY (except during the Damage Step): You can Special Summon this card from your hand. If a Plant monster is on the field and this card is in your GY: You can add this card to your hand. You can only use 1 \"Rose Girl\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Plant",
+  "attack": "800",
+  "defense": "600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "3"
+}

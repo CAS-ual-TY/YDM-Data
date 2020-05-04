@@ -1,0 +1,1029 @@
+{
+  "name": "Eternity Code",
+  "type": "Booster Pack",
+  "date": "2020-04-30",
+  "distribution": "booster_pack",
+  "prefix": "ETCO",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Piwraithe the Ghost Pirate",
+      "set_number": "ETCO-EN000",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Parallel eXceed",
+      "set_number": "ETCO-EN001",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Codebreaker Zero Day",
+      "set_number": "ETCO-EN002",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Salamangreat Zebroid X",
+      "set_number": "ETCO-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gouki Iron Claw",
+      "set_number": "ETCO-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gouki Guts",
+      "set_number": "ETCO-EN005",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Marincess Basilalima",
+      "set_number": "ETCO-EN006",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Noctovision Dragon",
+      "set_number": "ETCO-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Archnemeses Protos",
+      "set_number": "ETCO-EN008",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Archnemeses Eschatos",
+      "set_number": "ETCO-EN009",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Nemeses Flag",
+      "set_number": "ETCO-EN010",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Nemeses Umbrella",
+      "set_number": "ETCO-EN011",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Nemeses Corridor",
+      "set_number": "ETCO-EN012",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Deep Sea Artisan",
+      "set_number": "ETCO-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Deep Sea Sentry",
+      "set_number": "ETCO-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Deep Sea Minstrel",
+      "set_number": "ETCO-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Red Familiar",
+      "set_number": "ETCO-EN016",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Crimson Resonator",
+      "set_number": "ETCO-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Lantern Shark",
+      "set_number": "ETCO-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Buzzsaw Shark",
+      "set_number": "ETCO-EN019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ancient Warriors - Ambitious Cao De",
+      "set_number": "ETCO-EN020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ancient Warriors - Fearsome Zhang Yuan",
+      "set_number": "ETCO-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ancient Warriors - Deceptive Jia Wen",
+      "set_number": "ETCO-EN022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ancient Warriors - Ingenious Zhuge Kong",
+      "set_number": "ETCO-EN023",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Girsu, the Orcust Mekk-Knight",
+      "set_number": "ETCO-EN024",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Thunder Dragonlord",
+      "set_number": "ETCO-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chamber Dragonmaid",
+      "set_number": "ETCO-EN026",
+      "rarities": [
+        "Secret Rare",
+        "Ghost Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ghost Rare": 1
+      }
+    },
+    {
+      "card_name": "Harr, Generaider Boss of Storms",
+      "set_number": "ETCO-EN027",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Loptr, Shadow of the Generaider Bosses",
+      "set_number": "ETCO-EN028",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Unchained Twins - Sarama",
+      "set_number": "ETCO-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "King Beast Barbaros",
+      "set_number": "ETCO-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gizmek Uka, the Festive Fox of Fecundity",
+      "set_number": "ETCO-EN031",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Trias Hierarchia",
+      "set_number": "ETCO-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cataclysmic Circumpolar Chilblainia",
+      "set_number": "ETCO-EN033",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Union Driver",
+      "set_number": "ETCO-EN034",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Malice, Lady of Lament",
+      "set_number": "ETCO-EN035",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Ghost Mourner & Moonlit Chill",
+      "set_number": "ETCO-EN036",
+      "rarities": [
+        "Secret Rare",
+        "Ghost Rare"
+      ],
+      "count": {
+        "Secret Rare": 1,
+        "Ghost Rare": 1
+      }
+    },
+    {
+      "card_name": "Animadorned Archosaur",
+      "set_number": "ETCO-EN037",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Goldilocks the Battle Landscaper",
+      "set_number": "ETCO-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magical Hound",
+      "set_number": "ETCO-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Invoked Augoeides",
+      "set_number": "ETCO-EN040",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragonmaid Sheou",
+      "set_number": "ETCO-EN041",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Deep Sea Prima Donna",
+      "set_number": "ETCO-EN042",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Ravenous Crocodragon Archethys",
+      "set_number": "ETCO-EN043",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Valiant Shark Lancer",
+      "set_number": "ETCO-EN044",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Traptrix Allomerus",
+      "set_number": "ETCO-EN045",
+      "rarities": [
+        "Ultra Rare",
+        "Ghost Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ghost Rare": 1
+      }
+    },
+    {
+      "card_name": "Accesscode Talker",
+      "set_number": "ETCO-EN046",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Proxy F Magician",
+      "set_number": "ETCO-EN047",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Splash Mage",
+      "set_number": "ETCO-EN048",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Linkross",
+      "set_number": "ETCO-EN049",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "The Arrival Cyberse @Ignister",
+      "set_number": "ETCO-EN050",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Codebreaker Virus Berserker",
+      "set_number": "ETCO-EN051",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Codebreaker Virus Swordsman",
+      "set_number": "ETCO-EN052",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gouki The Powerload Ogre",
+      "set_number": "ETCO-EN053",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Marincess Great Bubble Reef",
+      "set_number": "ETCO-EN054",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Eria the Water Charmer, Gentle",
+      "set_number": "ETCO-EN055",
+      "rarities": [
+        "Super Rare",
+        "Ghost Rare"
+      ],
+      "count": {
+        "Super Rare": 1,
+        "Ghost Rare": 1
+      }
+    },
+    {
+      "card_name": "A.I. Contact",
+      "set_number": "ETCO-EN056",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Burning Draw",
+      "set_number": "ETCO-EN057",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Link Burst",
+      "set_number": "ETCO-EN058",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stairs of Mail",
+      "set_number": "ETCO-EN059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nemeses Adrastea",
+      "set_number": "ETCO-EN060",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Deep Sea Aria",
+      "set_number": "ETCO-EN061",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Resonator Command",
+      "set_number": "ETCO-EN062",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Torpedo Takedown",
+      "set_number": "ETCO-EN063",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Madolche Salon",
+      "set_number": "ETCO-EN064",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Void Apocalypse",
+      "set_number": "ETCO-EN065",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Heavy Forward",
+      "set_number": "ETCO-EN066",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Witchcrafter Unveiling",
+      "set_number": "ETCO-EN067",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Evil Eye Reemergence",
+      "set_number": "ETCO-EN068",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ancient Warriors Saga - Borrowing of Arrows",
+      "set_number": "ETCO-EN069",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Megalith Unformed",
+      "set_number": "ETCO-EN070",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fusion Deployment",
+      "set_number": "ETCO-EN071",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Flourishing Frolic",
+      "set_number": "ETCO-EN072",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "A.I.Q",
+      "set_number": "ETCO-EN073",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Red Reign",
+      "set_number": "ETCO-EN074",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Xyz Revive Splash",
+      "set_number": "ETCO-EN075",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Madolche Promenade",
+      "set_number": "ETCO-EN076",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Witchcrafter Patronus",
+      "set_number": "ETCO-EN077",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravedigger's Trap Hole",
+      "set_number": "ETCO-EN078",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Titanocider",
+      "set_number": "ETCO-EN079",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Pinpoint Dash",
+      "set_number": "ETCO-EN080",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rose Girl",
+      "set_number": "ETCO-EN081",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Scrypton",
+      "set_number": "ETCO-EN082",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Taotie Dragon",
+      "set_number": "ETCO-EN083",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Necroquip Prism",
+      "set_number": "ETCO-EN084",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bluebeard, the Plunder Patroll Shipwright",
+      "set_number": "ETCO-EN085",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Goldenhair, the Newest Plunder Patroll",
+      "set_number": "ETCO-EN086",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Plunder Patrollship Lys",
+      "set_number": "ETCO-EN087",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Plunder Patroll Shipshape Ships Shipping",
+      "set_number": "ETCO-EN088",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Emblem of the Plunder Patroll",
+      "set_number": "ETCO-EN089",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Pride of the Plunder Patroll",
+      "set_number": "ETCO-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Plunder Patroll Parrrty",
+      "set_number": "ETCO-EN091",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Superheavy Samurai Wagon",
+      "set_number": "ETCO-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rain Bozu",
+      "set_number": "ETCO-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Performapal Turn Trooper",
+      "set_number": "ETCO-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armored Bitron",
+      "set_number": "ETCO-EN095",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Gussari @Ignister",
+      "set_number": "ETCO-EN096",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Gatchiri @Ignister",
+      "set_number": "ETCO-EN097",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Machina Metalcruncher",
+      "set_number": "ETCO-EN098",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Superheavy Samurai Swordmaster Musashi",
+      "set_number": "ETCO-EN099",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Superheavy Samurai Scarecrow",
+      "set_number": "ETCO-EN0",
+      "rarities": [
+        "Ghost Rare"
+      ],
+      "count": {
+        "Ghost Rare": 1
+      }
+    }
+  ]
+}

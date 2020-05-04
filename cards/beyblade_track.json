@@ -1,0 +1,24 @@
+{
+  "name": "Beyblade Track",
+  "number": "",
+  "is_illegal": false,
+  "text": "A \"Beyblade\" Fusion Monster that is Summoned using this card as a material cannot be targeted by your opponent’s card effects. If this card is sent to the GY by the effect of \"Metal Fusion\": Set 1 \"Metal Fusion\" or 1 \"Beyblade\" Spell directly from your Deck to your Spell & Trap Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

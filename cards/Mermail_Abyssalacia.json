@@ -1,0 +1,27 @@
+{
+  "name": "Mermail Abyssalacia",
+  "number": "23545031",
+  "is_illegal": false,
+  "text": "2 Fish, Sea Serpent, and/or Aqua monsters\nMonsters this card points to gain 500 ATK/DEF. You can only use each of the following effects of \"Mermail Abyssalacia\" once per turn.\n● During your opponent's turn (Quick Effect): You can send 1 card from your hand to the GY; add 1 \"Mermail\" monster from your Deck to your hand.\n● If this card in its owner's possession is destroyed by an opponent's card: You can send 1 WATER monster from your Deck to the GY, then target 1 WATER monster in your GY; Special Summon it in Defense Position.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "1600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

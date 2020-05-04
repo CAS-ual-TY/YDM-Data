@@ -1,0 +1,24 @@
+{
+  "name": "Shiranui Squiresaga",
+  "number": "52711246",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nYou can only Special Summon \"Shiranui Squiresaga(s)\" once per turn. Once per turn: You can banish 1 face-up monster you control or in your GY, then apply these effects, in sequence, depending on what the monster was before it was banished, if it was any of these.\n● Zombie: You can have all monsters you control gain 300 ATK.\n● FIRE: You can destroy 1 Spell/Trap on the field.\n● Synchro: You can destroy 1 monster on the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2100",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}

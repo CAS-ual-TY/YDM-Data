@@ -1,0 +1,24 @@
+{
+  "name": "Cyberse Integrator",
+  "number": "25200959",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned, you can: Special Summon 1 Cyberse Tuner from your hand or GY in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. If this Synchro Summoned card is sent to the GY: You can draw 1 card. You can only use each effect effect of \"Cyberse Integrator\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "3"
+}

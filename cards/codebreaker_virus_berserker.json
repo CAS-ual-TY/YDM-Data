@@ -1,0 +1,28 @@
+{
+  "name": "Codebreaker Virus Berserker",
+  "number": "48736598",
+  "is_illegal": false,
+  "text": "2+ monsters, including a \"Codebreaker\" monster\nWhen this card is Special Summoned, if it is co-linked: You can Special Summon up to 2 \"Codebreaker\" monsters from your hand and/or GY to any zone(s) a Link Monster(s) points to. During your Main Phase: You can destroy Spells/Traps your opponent controls, up to the number of linked \"Codebreaker\" monsters on the field. You can only use each effect of \"Codebreaker Virus Berserker\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Center",
+    "Middle-Right",
+    "Top-Center"
+  ],
+  "link_number": "3"
+}

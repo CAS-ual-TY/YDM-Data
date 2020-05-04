@@ -1,0 +1,25 @@
+{
+  "name": "Gate Guardian, Elemental Lord",
+  "number": "",
+  "is_illegal": false,
+  "text": "\"Sanga of the Thunder\" + \"Kazejin\" + \"Suijin\"\nOther monsters you control cannot attack. This card gains attack equal to the number WATER, LIGHT, and WIND monsters on the field x500. This card is also treated as WATER, LIGHT, and WIND type. This card is unaffected by other monster effects. Once per turn (Quick Effect): You can discard 1 level 7 monster; destroy 1 monster on the field. Reduce the ATK of a monster this card is battling to 0.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3750",
+  "defense": "3400",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  "stars": "11"
+}

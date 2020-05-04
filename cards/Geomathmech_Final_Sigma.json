@@ -1,0 +1,24 @@
+{
+  "name": "Geomathmech Final Sigma",
+  "number": "42632209",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nUnaffected by card effects, except \"Mathmech\" cards, while in the Extra Monster Zone. If this card in the Extra Monster Zone battles an opponent's monster, any battle damage it inflicts to your opponent is doubled. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can add 1 \"Mathmech\" card from your Deck to your hand. You can only use this effect of \"Geomathmech Final Sigma\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "3000",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "12"
+}

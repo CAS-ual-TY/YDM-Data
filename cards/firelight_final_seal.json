@@ -1,0 +1,29 @@
+{
+  "name": "Firelight FINAL Seal",
+  "number": "",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card from your hand or face-up in your Extra Deck by destroying 2 \"Firelight\" cards in your Pendulum Zones. While this card is face-up on the field, \"Firelight\" cards in your Pendulum Zone cannot be targetted or destroyed by your opponent's card effects. \"Firelight FINAL Seal\" can only be Summoned once per turn. If this card is Summoned, for the rest of the turn, you cannot Summon monsters except for \"Firelight\" monsters. If this card leaves the field: you can place this card in your Pendulum Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Pyro",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "FIRE",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Ritual",
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "9",
+  "pendulum_right": "9",
+  "pendulum_text": "If you control a face-up \"The Firelight\"; Once per turn, when a Spell/Trap effect is activated (Quick Effect); you can negate that effect, and if you do, destroy that card.",
+  "stars": "8"
+}

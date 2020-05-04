@@ -1,0 +1,24 @@
+{
+  "name": "Xyz Slidolphin",
+  "number": "07850740",
+  "is_illegal": false,
+  "text": "If an Xyz Monster(s) is Special Summoned to your field: You can Special Summon this card from your hand. If an Xyz Monster(s) is Special Summoned to your field while this card is in your GY, except during the turn this card was sent there: You can target 1 of those monster(s); attach this card to it as material. You can only use each effect of \"Xyz Slidolphin\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "1200",
+  "defense": "1800",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Faulty Summoning Circle",
+  "number": "",
+  "is_illegal": false,
+  "text": "If a card or effect is activated: send half your deck to the GY, then send the top 5 cards of your deck to the GY, and if you do draw 1 card, and if you do that: negate that card or effect.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}

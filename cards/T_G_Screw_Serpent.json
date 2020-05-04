@@ -1,0 +1,25 @@
+{
+  "name": "T.G. Screw Serpent",
+  "number": "11234702",
+  "is_illegal": false,
+  "text": "if this card is Normal or Special Summoned: You can target 1 Level 4 or lower \"T.G.\" monster in your GY, except \"T.G. Screw Serpent\"; Special Summon that monster, but its effects are negated. You can banish this card from your GY, then target 1 \"T.G.\" monster you control; increase or reduce its Level by 1 until the end of this turn. You can only use each effect of \"T.G. Screw Serpent\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "1300",
+  "defense": "500",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "4"
+}

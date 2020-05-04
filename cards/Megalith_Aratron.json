@@ -1,0 +1,25 @@
+{
+  "name": "Megalith Aratron",
+  "number": "25726386",
+  "is_illegal": false,
+  "text": "You can Ritual Summon this card with a \"Megalith\" card. During the Main Phase (Quick Effect): You can discard this card; Ritual Summon 1 \"Megalith\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. When your opponent activates a card or effect that targets a card you control (Quick Effect): You can place 1 Ritual Monster from your GY on the bottom of the Deck, and if you do, negate that activation, and if you do that, destroy it. You can only use each effect of \"Megalith Aratron\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2000",
+  "defense": "3000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "ritual
+Effect"
+  ],
+  "stars": "8"
+}

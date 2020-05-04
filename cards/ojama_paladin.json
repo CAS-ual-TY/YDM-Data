@@ -1,0 +1,29 @@
+{
+  "name": "Ojama Paladin",
+  "number": "",
+  "is_illegal": false,
+  "text": "2 \"Ojama\" monsters\nYou can discard 1 \"Ojama\" card; Special Summon up to 2 \"Ojama\" monsters from your GY. Once per turn, if an \"Ojama\" monster you control battles: You can have that monster gain ATK equal to this card’s current ATK. If this card leaves the field, you can place it in your Pendulum Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "0",
+  "defense": "2200",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Pendulum",
+    "Fusion",
+    "Effect"
+  ],
+  "pendulum_left": "1",
+  "pendulum_right": "1",
+  "pendulum_text": "Whilst this card is in the Pendulum Zone, neither player can Summon monsters to the Extra Monster Zone.",
+  "stars": "5"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Gimmick Puppet Gigantes Doll",
+  "number": "07593748",
+  "is_illegal": false,
+  "text": "2 Level 4 \"Gimmick Puppet\" monsters\nYou can detach 2 materials from this card, then target up to 2 monsters your opponent controls; gain control of them until the End Phase, also for the rest of this turn you cannot Special Summon monsters, except \"Gimmick Puppet\" monsters, nor declare an attack, except with Xyz Monsters. You can Tribute this card; all monsters you currently control become Level 8 until the end of this turn. You can only use each effect of \"Gimmick Puppet Gigantes Doll\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Xyz"
+  ],
+  "stars": "4"
+}

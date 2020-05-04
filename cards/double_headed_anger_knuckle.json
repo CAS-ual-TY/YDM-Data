@@ -1,0 +1,27 @@
+{
+  "name": "Double Headed Anger Knuckle",
+  "number": "00146746",
+  "is_illegal": false,
+  "text": "2 Machine monsters\nCannot be used as Link Material. You can only use 1 of the following effects of \"Double Headed Anger Knuckle\" per turn, and only once that turn.\n● During the Main Phase (Quick Effect): You can send 1 monster from your hand or field to the GY, then target 1 Level 10 Machine monster in your GY; Special Summon it in Defense Position, but negate its effects.\n● If this card is in your GY: You can send 1 card from your hand or field to the GY; Special Summon this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom",
+    "Right"
+  ],
+  "link_number": "2"
+}
