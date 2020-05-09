@@ -1,0 +1,28 @@
+{
+  "name": "Junk Connector",
+  "number": "37337327",
+  "is_illegal": false,
+  "text": "2 Effect Monsters (Warrior and/or Machine), including a Tuner\nOnce per turn, during the Main or Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only materials this card points to. If this Link Summoned card you control is destroyed by battle or opponent's card effect and sent to your GY: You can Special Summon 1 \"Junk\" Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link",
+    "Effect"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

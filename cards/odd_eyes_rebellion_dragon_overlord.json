@@ -1,0 +1,29 @@
+{
+  "name": "Odd-Eyes Rebellion Dragon - Overlord",
+  "number": "98452268",
+  "is_illegal": false,
+  "text": "2 Level 7 monsters\nYou can also Xyz Summon this card by using a \"Rebellion\" Xyz Monster you control as material. (Transfer its materials to this card.) If you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. This card that was Xyz Summoned using a Rank 7 Xyz Monster as material can make a second and third attack during each Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone. You can only Special Summon \"Odd-Eyes Rebellion Dragon - Overlord(s)\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "DARK",
+  "is_pendulum": true,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Xyz",
+    "Effect"
+  ],
+  "pendulum_left": "4",
+  "pendulum_right": "4",
+  "pendulum_text": "Once per turn: You can Special Summon this card from your Pendulum Zone, and if you do, Special Summon 1 \"Rebellion\" or \"The Phantom Knights\" Xyz Monster from your Extra Deck, using this card as material (this is treated as an Xyz Summon), then you can attach 1 card from your Pendulum Zone to it as material.",
+  "stars": "7"
+}

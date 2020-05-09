@@ -1,0 +1,28 @@
+{
+  "name": "D/D/D Eulogy King Vice Requiem",
+  "number": "25857977",
+  "is_illegal": false,
+  "text": "You cannot Special Summon monsters, except \"D/D/D\" monsters. A \"D/D/D\" monster that was Fusion, Synchro, Xyz, or Link Summoned using this card on the field as material gains the following effect. You can only use the preceding effect of \"D/D/D Eulogy King Vice Requiem\" once per turn.\n- Once per turn: You can target 1 card on the field; shuffle 1 \"Dark Contract\" card from your field or GY into the Deck, and if you do, destroy that target, then gain 1000 LP.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2800",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "8",
+  "pendulum_right": "8",
+  "pendulum_text": "You can target any number of \"Dark Contract\" cards you control; destroy them, and if you do, Special Summon this card from your Pendulum Zone, then you can increase or reduce this card's Level by the number of cards destroyed. You can only use this effect of \"D/D/D Eulogy King Vice Requiem\" once per turn.",
+  "stars": "8"
+}

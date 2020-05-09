@@ -1,0 +1,28 @@
+{
+  "name": "Abyss Actor - Twinkle Littlestar",
+  "number": "7279373",
+  "is_illegal": false,
+  "text": "Cannot be destroyed by battle during your turn. This card can make a second and third attack on monsters during each Battle Phase.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "DARK",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "9",
+  "pendulum_right": "9",
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Abyss Actor\" monsters. This effect cannot be negated. Once per turn: You can target 1 \"Abyss Actor\" monster you control; this turn, it can make a second and third attack on monsters during each Battle Phase, also other monsters you control cannot attack (even if this card leaves the field).",
+  "stars": "4"
+}

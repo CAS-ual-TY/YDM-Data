@@ -1,0 +1,25 @@
+{
+  "name": "Elemental HERO Neos Kluger",
+  "number": "90307498",
+  "is_illegal": false,
+  "text": "\"Elemental HERO Neos\" + \"Yubel\"Must be Fusion Summoned. Before damage calculation, if this card battles an opponent's monster: You can inflict damage to your opponent equal to that opponent's monster's ATK. If this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can Special Summon 1 \"Neos Wiseman\" from your hand or Deck, ignoring its Summoning conditions. You can only use this effect of \"Elemental HERO Neos Kluger\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  "stars": "9"
+}

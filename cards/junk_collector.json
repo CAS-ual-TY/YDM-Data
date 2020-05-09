@@ -1,0 +1,24 @@
+{
+  "name": "Junk Collector",
+  "number": "58242947",
+  "is_illegal": false,
+  "text": "(Quick Effect): You can banish this card on the field and 1 Normal Trap in your GY; apply that banished Trap's effect. (The Trap's activation requirements must still be correct, but costs are not paid.)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1000",
+  "defense": "2200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

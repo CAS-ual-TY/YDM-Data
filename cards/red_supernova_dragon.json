@@ -1,0 +1,25 @@
+{
+  "name": "Red Supernova Dragon",
+  "number": "99585850",
+  "is_illegal": false,
+  "text": "3 Tuners + 1+ non-Tuner Synchro Monsters\nMust first be Synchro Summoned. Gains 500 ATK for each Tuner in your GY. Cannot be destroyed by your opponent's card effects. Once per turn, when your opponent activates a monster effect, or when an opponent's monster declares an attack (Quick Effect): You can banish this card and all cards your opponent controls. Once per turn, during your next End Phase after this card was banished by its own effect: Special Summon this banished card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "4000",
+  "defense": "3000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Effect"
+  ],
+  "stars": "12"
+}

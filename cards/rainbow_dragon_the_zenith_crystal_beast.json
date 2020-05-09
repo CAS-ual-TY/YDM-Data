@@ -1,0 +1,24 @@
+{
+  "name": "Rainbow Dragon, the Zenith Crystal Beast",
+  "number": "36795102",
+  "is_illegal": false,
+  "text": "If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY. You can only use each of the following effects of \"Rainbow Dragon, the Zenith Crystal Beast\" once per turn.\n- When an attack is declared involving a \"Crystal Beast\" monster: You can Special Summon this card from your hand.\n- You can banish this Continuous Spell; Special Summon 1 Level 4 or lower \"Crystal Beast\" monster from your Deck, but negate its effects (if any), and if you do, add 1 \"Ultimate Crystal\" monster from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "0",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

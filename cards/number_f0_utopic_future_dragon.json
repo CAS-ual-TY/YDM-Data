@@ -1,0 +1,26 @@
+{
+  "name": "Number F0: Utopic Future Dragon",
+  "number": "26973555",
+  "is_illegal": false,
+  "text": "3 Xyz Monsters with the same Rank, except \"Number\" monsters
+(This card's original Rank is always treated as 1.)\nYou can also Xyz Summon this card by using a \"Number F0: Utopic Future\" you control as material. (Transfer its materials to this card.) Cannot be destroyed by battle or card effects. Once per turn, when your opponent activates a monster effect (Quick Effect): You can detach 1 material from this card; negate the activation, then if your opponent controls that monster, take control of it.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3000",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ",
+    "Effect"
+  ],
+  "stars": "1"
+}

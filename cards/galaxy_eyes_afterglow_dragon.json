@@ -1,0 +1,24 @@
+{
+  "name": "Galaxy-Eyes Afterglow Dragon",
+  "number": "62968263",
+  "is_illegal": false,
+  "text": "If you control a \"Galaxy-Eyes\" monster: You can Special Summon this card from your hand in Defense Position. If this card is detached from an Xyz Monster to activate that monster's effect: You can take 1 \"Galaxy-Eyes Photon Dragon\" from your hand or Deck, and either Special Summon it or attach it to an Xyz Monster you control as material, then if this effect was activated during the Battle Phase, double the ATK of all \"Number\" Xyz Monsters you control. You can only use each effect of \"Galaxy-Eyes Afterglow Dragon\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

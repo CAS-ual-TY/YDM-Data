@@ -1,0 +1,25 @@
+{
+  "name": "Shooting Star Dragon T.G. - Expansion",
+  "number": "63180841",
+  "is_illegal": false,
+  "text": "1 Tuner Synchro Monster + 1+ non-Tuner Synchro Monsters\nWhen a monster effect is activated that targets a monster(s) you control (Quick Effect): You can banish 1 Tuner from your GY; negate the activation, and if you do, destroy that card. You can only use each of the following effects of \"Shooting Star Dragon T.G. - Expansion\" once per turn.\n- When an opponent's monster declares an attack: You can negate the attack.\n- During your opponent's turn, if this card is in your GY (Quick Effect): You can Tribute 2 Synchro Monsters; Special Summon this card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3300",
+  "defense": "2500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Effect"
+  ],
+  "stars": "10"
+}
