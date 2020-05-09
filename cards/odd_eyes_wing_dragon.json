@@ -16,7 +16,7 @@
   "is_synchro": true,
   "is_fusion": false,
   "is_link": false,
-  "is_extra_deck": false,
+  "is_extra_deck": true,
   "monster_types": [
     "Pendulum",
     "Synchro",
@@ -24,6 +24,6 @@
   ],
   "pendulum_left": "10",
   "pendulum_right": "10",
-  "pendulum_text": "Once per turn, if your monster battles an opponent’s monster, before damage calculation: You can make that monster you control gain ATK equal to the current ATK of the opponent’s monster it is battling until the end of the Damage Step (even if this card leaves the field).",
+  "pendulum_text": "Once per turn, if your monster battles an opponentâ€™s monster, before damage calculation: You can make that monster you control gain ATK equal to the current ATK of the opponentâ€™s monster it is battling until the end of the Damage Step (even if this card leaves the field).",
   "stars": "8"
 }
