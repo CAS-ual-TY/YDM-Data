@@ -2,7 +2,7 @@
   "name": "Odd-Eyes Wing Dragon",
   "number": "58074177",
   "is_illegal": false,
-  "text": \"1 DARK Tuner + 1 non-Tuner Clear Wing\" monster\nIf this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone. You can only use 1 of the following effects of \"Odd-Eyes Wing Dragon\" per turn, and only once that turn.\n- You can target 1 Effect Monster your opponent controls; it has its effects negated until the end of this turn.\n- During the Battle Phase, if you control this Synchro Summoned monster (Quick Effect): You can destroy all Level 5 or higher monsters your opponent controls.",
+  "text": "\"1 DARK Tuner + 1 non-Tuner Clear Wing\" monster\nIf this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone. You can only use 1 of the following effects of \"Odd-Eyes Wing Dragon\" per turn, and only once that turn.\n- You can target 1 Effect Monster your opponent controls; it has its effects negated until the end of this turn.\n- During the Battle Phase, if you control this Synchro Summoned monster (Quick Effect): You can destroy all Level 5 or higher monsters your opponent controls.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -18,8 +18,8 @@
   "is_link": false,
   "is_extra_deck": true,
   "monster_types": [
-    "Pendulum",
     "Synchro",
+    "Pendulum",
     "Effect"
   ],
   "pendulum_left": "10",
