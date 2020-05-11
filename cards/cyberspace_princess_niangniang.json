@@ -1,0 +1,24 @@
+{
+  "name": "Cyberspace Princess Niangniang",
+  "number": "100200180",
+  "is_illegal": false,
+  "text": "If a Level 3 monster(s) is Normal or Special Summoned to your field, while this card is in your GY: You can Special Summon this card, and if you do, it is treated as a Tuner, but banish it when it leaves the field, also you cannot Special Summon monsters for the rest of this turn, except Level/Rank 3 or higher monsters. If this card is banished: You can target 1 of your other banished cards; shuffle it into the Deck. You can only use each effect of \"Cyberspace Princess Niangniang\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "1500",
+  "defense": "1500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Primal Dragon the Primordial Dragon",
+  "number": "64025981",
+  "is_illegal": false,
+  "text": "Your opponent takes no battle damage from attacks involving this card. You can only use each of the following effects of \"Primal Dragon the Primordial Dragon\" once per turn.\n- You can banish 1 Dragon monster from your GY; this card gains ATK/DEF equal to the banished monster's ATK until the end of the next turn.\n- If this card is Tributed: You can target 1 face-up monster you control; it can make a second attack during each Battle Phase this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

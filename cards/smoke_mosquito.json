@@ -1,0 +1,24 @@
+{
+  "name": "Smoke Mosquito",
+  "number": "28427869",
+  "is_illegal": false,
+  "text": "During damage calculation, if you would take battle damage from an opponent's monster's attack (Quick Effect): You can Special Summon this card from your hand, and if you do, the damage you take from that battle is halved, also end the Battle Phase after the Damage Step. You can target 1 face-up monster you control; this card's Level becomes the same as that monster's, until the end of this turn. You can only use each effect of \"Smoke Mosquito" once per turn.\",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Insect",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

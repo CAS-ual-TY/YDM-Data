@@ -1,0 +1,24 @@
+{
+  "name": "Code Generator",
+  "number": "30114823",
+  "is_illegal": false,
+  "text": "If you would use a Cyberse monster(s) you control as Link Material for the Link Summon of a \"Code Talker\" monster, you can use this card in your hand as Link Material. If this card is sent from the hand or field to the GY as Link Material for the Link Summon of a \"Code Talker\" monster: You can send 1 Cyberse monster with 1200 or less ATK from your Deck to the GY. If this card was used as material from the field, you can add that monster to your hand, instead. You can only use each effect of \"Code Generator\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1300",
+  "defense": "500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

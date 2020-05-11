@@ -1,0 +1,28 @@
+{
+  "name": "D/D Dog",
+  "number": "32349062",
+  "is_illegal": false,
+  "text": "Once per turn, if your opponent Special Summons a Fusion, Synchro, or Xyz Monster(s): You can target 1 of those monsters; this turn, that face-up monster cannot attack, also its effects are negated.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "DARK",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "3",
+  "pendulum_right": "3",
+  "pendulum_text": "You can target 1 Fusion, Synchro, or Xyz Monster your opponent controls; negate its effects until the end of this turn, then destroy this card in the Pendulum Zone. You can only use this effect of \"D/D Dog\" once per turn.",
+  "stars": "6"
+}
