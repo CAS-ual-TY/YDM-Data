@@ -1,0 +1,25 @@
+{
+  "name": "Evocator Eveque",
+  "number": "16146511",
+  "is_illegal": false,
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● If this card is Normal or Special Summoned: You can target 1 FIRE Warrior monster or 1 Gemini monster in your GY, except \"Evocator Eveque\"; Special Summon it. You can only use this effect of \"Evocator Eveque\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1500",
+  "defense": "1000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect",
+    "Gemini"
+  ],
+  "stars": "4"
+}

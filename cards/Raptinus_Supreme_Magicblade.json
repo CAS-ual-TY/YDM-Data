@@ -1,0 +1,12 @@
+{
+  "name": "Raptinus' Supreme Magicblade",
+  "number": "53363708",
+  "is_illegal": false,
+  "text": "Apply the following effect, depending on the equipped monster's battle position.\n● Attack Position: Your opponent cannot target the equipped monster with card effects.\n● Defense Position: The equipped monster cannot be destroyed by battle.
+At the start of the Battle Phase: You can change the equipped monster's battle position, and if you do, immediately after this effect resolves, Normal Summon 1 monster. You can only use this effect of \"Raptinus' Supreme Magicblade\" once per turn.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Equip"
+}

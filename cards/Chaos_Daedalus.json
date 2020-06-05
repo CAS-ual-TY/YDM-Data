@@ -1,0 +1,24 @@
+{
+  "name": "Chaos Daedalus",
+  "number": "100268007",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. While a Field Spell is face-up on the field, your opponent cannot target LIGHT or DARK monsters you control with card effects. You can target cards on the field, up to the number of face-up Field Spells on the field; banish them. You can only use this effect of \"Chaos Daedalus\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "2600",
+  "defense": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

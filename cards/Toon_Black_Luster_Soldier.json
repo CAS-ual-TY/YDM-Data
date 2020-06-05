@@ -1,0 +1,25 @@
+{
+  "name": "Toon Black Luster Soldier",
+  "number": "100268001",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing Toon monsters from your hand or field, whose total Levels equal 8 or more. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly. Once per turn, if you control \"Toon World\": You can target 1 card on the field; banish it, also this card cannot attack the turn this effect is activated.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect",
+    "Toon"
+  ],
+  "stars": "8"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Toon Harpie Lady",
+  "number": "100268002",
+  "is_illegal": false,
+  "text": "Cannot attack the turn it is Summoned. If you control \"Toon World\": You can Special Summon this card from your hand, then, if you control another Toon monster, you can destroy 1 Spell/Trap your opponent controls. You can only use this effect of \"Toon Harpie Lady\" once per turn. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1300",
+  "defense": "1400",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect",
+    "Toon"
+  ],
+  "stars": "4"
+}
