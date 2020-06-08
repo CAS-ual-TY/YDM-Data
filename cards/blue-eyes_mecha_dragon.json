@@ -1,0 +1,25 @@
+{
+  "name": "Blue-Eyes Mecha Dragon",
+  "number": "21000202",
+  "is_illegal": false,
+  "text": "If a face-up \"Blue-Eyes White Dragon\" you control leaves the field: You can Special Summon this card from your hand or GY. You can only Special Summon \"Blue-Eyes Mecha Dragon\" once per turn this way. If this card is used for the Synchro Summon of a Dragon Synchro monster, it can be treated as a level 1. If  this card Summoned by its own effect is sent to the GY: You can add 1 card that states \"Blue-Eyes\" in its text from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "8"
+}

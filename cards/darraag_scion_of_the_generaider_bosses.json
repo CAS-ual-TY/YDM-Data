@@ -1,0 +1,28 @@
+{
+  "name": "Dar'Raag, Scion of the Generaider Bosses",
+  "number": "21000244",
+  "is_illegal": false,
+  "text": "2 \"Generaider monsters\nAll \"Generaider\"' monsters you control gain 1000 ATK/DEF during your opponent’s turn. Neither player takes battle damage from battles involving this card. Monsters are not destroyed by battles involving this card. At the end of the Battle Phase, is this card battled this turn: You can tribute 1 monster your opponent controls; Special Summon 1 \"Generaider\" monster with a level lower than or equal to that tributed monster's level/rank but its effects cannot be activated this turn. You can only control 1 \"Dar'Raag, Scion of the Generaider Bosses\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Psychic",
+  "attack": "1500",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link",
+    "Effect"
+  ],
+  "link_markers": [
+    "Top",
+    "Bottom"
+  ],
+  "link_number": "2"
+}

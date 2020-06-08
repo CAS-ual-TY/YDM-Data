@@ -1,0 +1,29 @@
+{
+  "name": "Righteous Auren",
+  "number": "21000250",
+  "is_illegal": false,
+  "text": "2+ Warrior monsters\nWhen this card is Link Summoned: Special Summon 1 Warrior monster from your Deck to a zone this card points to. If you Summon a monster to a Zone this card points to, this card gains 500 ATK. All monsters this card points to gain half this monster’s attack. You can discard 1 card from your hand; add 1 Warrior monster from your GY to your hand. You can only use each effect of \"Righteous Auren\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "2000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link",
+    "Effect"
+  ],
+  "link_markers": [
+    "Top",
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "3"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Chekrut Gecko",
+  "number": "21000191",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can target 1 FIRE monster in your GY; Special Summon it, but its effects are negated. You can banish this card from your GY and target 1 card your opponent controls; destroy it. You can only use each effect of \"Chekrut Gecko\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1600",
+  "defense": "1000",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "3"
+}

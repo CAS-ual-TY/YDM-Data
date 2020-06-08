@@ -1,0 +1,25 @@
+{
+  "name": "Tomb Raider - Triad",
+  "number": "21000226",
+  "is_illegal": false,
+  "text": "2+ Level 3 Monsters\nIf this card is Xyz Summoned: You can equip \"Raiding Tool\" cards from your GY to this card up to the number of Xyz Materials attached to this card. You can activate the effects of \"Raiding Tool\" cards equipped to this card as Quick Effects. Once per turn (Quick Effect): You can target 1 Equip Spell equipped to this card; Return it to the hand then destroy 1 face-up card your opponent controls.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Explorer",
+  "attack": "2000",
+  "defense": "1600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ",
+    "Effect"
+  ],
+  "stars": "3"
+}

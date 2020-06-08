@@ -1,0 +1,27 @@
+{
+  "name": "Venom Viper",
+  "number": "21000247",
+  "is_illegal": false,
+  "text": "1 Reptile monster\nIf this card is Link Summoned: You can discard 1 Reptile monster; Add 1 \"Venom\" monster from your Deck to your hand. If this card is the only monster you control: You can Special Summon 1 \"Venom\" monster from your hand. You cannot Special Summon  monsters the turn you activate this effect except \"Venom\" monsters. Once per turn, if your opponent Summons a monster(s) while this card points to a \"Venom\" monster (Quick Effect): Place a Venom counter on that monster(s).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "800",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link",
+    "Effect"
+  ],
+  "link_markers": [
+    "Bottom"
+  ],
+  "link_number": "1"
+}

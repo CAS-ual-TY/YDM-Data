@@ -1,0 +1,25 @@
+{
+  "name": "Arcana Force VIII - The Hermit",
+  "number": "21000239",
+  "is_illegal": false,
+  "text": "When this card is Summoned, toss a coin:\nHeads - You can send this face-up card and 1 \"Arcana Force\" monster from your hand to the GY; Special Summon 1 level 8 \"Arcana Force\" Synchro monster from your Extra Deck (this Summon is treated as a Synchro Summon).\nTails - You can send this face-up card and 1 \"Arcana Force\" monster from your hand to the GY; Special Summon 1 level 7 \"Arcana Force\" Synchro monster from your Extra Deck (this Summon is treated as a Synchro Summon).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "1800",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "4"
+}

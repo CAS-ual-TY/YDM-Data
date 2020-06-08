@@ -1,0 +1,24 @@
+{
+  "name": "Tomb Raider - Reno",
+  "number": "21000218",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: Equip 1 \"Raiding Tool\" card from your Deck to this card. You can send this card equipped with an Equip Spell to the GY; Special Summon up to 2 \"Tomb Raider\" monsters from your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Explorer",
+  "attack": "1300",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

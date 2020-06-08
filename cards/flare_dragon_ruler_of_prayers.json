@@ -1,0 +1,24 @@
+{
+  "name": "Flare, Dragon Ruler of Prayers",
+  "number": "21000205",
+  "is_illegal": false,
+  "text": "You can discard this card and 1 Dragon-Type or LIGHT monster; Special Summon 1 \"Illuminate, Dragon Ruler of Heavens\" from your Deck. It cannot attack this turn. You can only use the effect of \"Flare, Dragon Ruler of Prayers\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "1700",
+  "defense": "900",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

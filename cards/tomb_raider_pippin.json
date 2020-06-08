@@ -1,0 +1,25 @@
+{
+  "name": "Tomb Raider - Pippin",
+  "number": "21000222",
+  "is_illegal": false,
+  "text": "If an Equip Spell is sent from the field to the GY: You can Special Summon this card (from your hand). If this card is Summoned, you can take 1 \"Tomb Raider\" or \"Raiding Tool\" card from your Deck and either add it to your hand or send it to the GY. If this card is sent to the GY for the Synchro Summon of a \"Tomb Raider\" monster: Equip 1 \"Raiding Tool\" card from your GY to that Synchro Monster. You can only use each effect of \"Tomb Raider - Pippin\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Explorer",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "3"
+}

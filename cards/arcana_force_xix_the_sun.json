@@ -1,0 +1,25 @@
+{
+  "name": "Arcana Force XIX - The Sun",
+  "number": "21000242",
+  "is_illegal": false,
+  "text": "1 Tuner monster + 1 non-Tuner \"Arcana Force\" monster\nWhen this card is Summoned, flip a coin:\nHeads - Once per turn, when a card or effect is activated (Quick Effect): You can negate that activation, and if you do, banish that card.\nTails - Once per turn (Quick Effect): You can tribute 1 \"Arcana Force\" monster; Shuffle 1 card on the field into the Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2900",
+  "defense": "2900",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Effect"
+  ],
+  "stars": "7"
+}

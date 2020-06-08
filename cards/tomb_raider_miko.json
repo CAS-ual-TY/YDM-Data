@@ -1,0 +1,24 @@
+{
+  "name": "Tomb Raider - Miko",
+  "number": "21000221",
+  "is_illegal": false,
+  "text": "Once per turn (Quick Effect): You can target 1 \"Raiding Tool\" card in your GY; Equip that target to this card. You can send up to 2 cards equipped to this card to the GY; Equip \"Raiding Tool\" cards with different names from your Deck to monsters you control equal to the amount sent. You can only use this effect of \"Tomb Raider - Miko\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Explorer",
+  "attack": "900",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

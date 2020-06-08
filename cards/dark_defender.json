@@ -1,0 +1,24 @@
+{
+  "name": "Dark Defender",
+  "number": "21000210",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) whilst you control a face-up DARK monster. If this card is Special Summoned you can add 1 \"Light Breather\" from your Deck to your hand. If this card leaves the field for the Summon of a LIGHT or DARK monster: Target 1 of your banished DARK monsters; add it to your hand. You can only use 1 effect of \"Dark Defender\" per turn and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "defense": "200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

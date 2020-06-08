@@ -1,0 +1,25 @@
+{
+  "name": "Chekrut Lizard",
+  "number": "21000193",
+  "is_illegal": false,
+  "text": "If you control a \"Chekrut\" monster, except \"Chekrut Lizard\": You can Special Summon this card from your hand. You can target 1 other face-up monster you control; the Level of that monster or this card becomes the Level of the other. You cannot declare attacks the turn you activate this effect, except with Synchro monsters. You can only use each effect of \"Chekrut Lizard\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1000",
+  "defense": "1400",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sphinx Defense",
+  "number": "21000217",
+  "is_illegal": false,
+  "text": "Your opponent cannot target face-down Defense Position monsters for attacks. Once per turn: You can target 3 \"Sphinx\" cards with different names in your GY; Shuffle them into the Deck then draw 1 card. During the End Phase, if you do not control a face-down Defense Position monster: Destroy this card.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Continuous"
+}

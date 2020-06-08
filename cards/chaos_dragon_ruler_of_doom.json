@@ -1,0 +1,24 @@
+{
+  "name": "Chaos, Dragon Ruler of Doom",
+  "number": "21000204",
+  "is_illegal": false,
+  "text": "If this card is in your hand or GY: You can banish a total of 2 DARK and/or Dragon-Type monsters from your hand and/or GY, except this card; Special Summon this card. During your opponent’s End Phase if this card was Special Summoned: Return it to the hand. You can discard this card and 1 DARK monster to the GY; Take control of 1 monster your opponent controls until the End Phase. If this card is banished: You can add 1 DARK Dragon-Type monster from your Deck to your hand. You can only use 1 \"Chaos, Dragon Ruler of Doom\" effect per turn, and only once that turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "2900",
+  "defense": "1700",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "7"
+}

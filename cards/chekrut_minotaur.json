@@ -1,0 +1,24 @@
+{
+  "name": "Chekrut Minotaur",
+  "number": "21000194",
+  "is_illegal": false,
+  "text": "When a Level 4 or lower FIRE monster(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand, but it's ATK is halved. During the End Phase, if this card is in the GY because it was sent there this turn: You can banish this card; Add 1 FIRE monster from your Deck to your hand, except \"Chekrut Minotaur\". You can only use this effect of \"Chekrut Minotaur\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "2000",
+  "defense": "100",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

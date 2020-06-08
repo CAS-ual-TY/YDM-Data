@@ -1,0 +1,25 @@
+{
+  "name": "Vampire Count",
+  "number": "21000236",
+  "is_illegal": false,
+  "text": "2 Level 6 Monsters\nYou can also Xyz Summon this card using 1 Level 5 or higher \"Vampire\" monster as a material. While this card has Xyz material your opponent cannot target \"Vampire\" cards you control with card effects. You can detach 1 Xyz material from this card and target 1 monster in either player's GY; Special Summon it with its effects negated and if you do it becomes a Zombie monster. You can only Summon 1 \"Vampire Count\" per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Zombie",
+  "attack": "2800",
+  "defense": "3000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ",
+    "Effect"
+  ],
+  "stars": "6"
+}

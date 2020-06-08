@@ -1,0 +1,28 @@
+{
+  "name": "Semblance of Chaos",
+  "number": "21000211",
+  "is_illegal": false,
+  "text": "1 LIGHT monster and 1 DARK monster\nIf this card is Link Summoned: You can destroy 1 random card in both players hands. Once per turn, if a LIGHT or DARK monster is Summoned to a zone this card points to: Apply the appropriate effect based on the attributes of monsters this card points to.\n-LIGHT: Special Summon 1 of your banished monsters to a zone this card points to.\n-DARK: Special Summon 1 monster from your GY to a zone this card points to.\n-LIGHT and DARK: Add 1 LIGHT or DARK monster from your Deck to your hand.\nYou cannot Summon monsters the turn you activate either of this card’s effects except LIGHT and/or DARK monsters. You can only Summon 1 \"Semblance of Chaos\" a turn. ",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2000",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link",
+    "Effect"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}

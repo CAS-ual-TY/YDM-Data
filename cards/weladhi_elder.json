@@ -1,0 +1,24 @@
+{
+  "name": "Weladhi Elder",
+  "number": "21000197",
+  "is_illegal": false,
+  "text": "If you control a FIRE monster, other than \"Weladhi Elder\", you can Special Summon this card (from your hand). If this card is in your GY (Quick Effect): You can banish this card, and if you do, Special Summon 1 \"Weladhi\" monster from your GY, but banish that card when it leaves the field. You can only use each effect of \"Weladhi Elder\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1600",
+  "defense": "900",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

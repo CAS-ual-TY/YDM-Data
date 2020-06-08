@@ -1,0 +1,28 @@
+{
+  "name": "Aquaactress Salmon",
+  "number": "21000227",
+  "is_illegal": false,
+  "text": "2 Aqua Monsters\nCannot be used as Link Material. If this card is Special Summoned: You can send any number of \"Aquarium\" cards from your side of the field to the GY; Special Summon that many \"Aquaactress\" monsters from your Deck. Once per turn: you can send any number of \"Aquarium\" cards from the field to the GY; Activate that many \"Aquarium\" Spells from your Deck. You cannot Special Summon monsters the turn you Summon this card except Aqua monsters.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "2000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link",
+    "Effect"
+  ],
+  "link_markers": [
+    "Top",
+    "Bottom"
+  ],
+  "link_number": "2"
+}
