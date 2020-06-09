@@ -1,0 +1,24 @@
+{
+  "name": "Appliancer Breakerbuncle",
+  "number": "100266036",
+  "is_illegal": false,
+  "text": "During damage calculation, if your \"Appliancer\" monster battles an opponent's monster (Quick Effect): You can discard this card; for that battle, your monster cannot be destroyed by battle and you take no battle damage. If an \"Appliancer\" monster you control would be destroyed by card effect, you can banish this card from your field or GY instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

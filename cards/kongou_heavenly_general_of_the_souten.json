@@ -1,0 +1,25 @@
+{
+  "name": "Kongou, Heavenly General of the Souten",
+  "number": "101102034",
+  "is_illegal": false,
+  "text": "\"Yuubi of the Souten Fists\" + 2 \"Souten\" monsters\nIf this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. After damage calculation, if this card attacked: You can return 1 monster your opponent controls to the hand. When your opponent activates a Spell/Trap Card or effect that targets this card on the field, while you control 2 or more Fusion Monsters (Quick Effect): You can negate the activation. You can only use this effect of \"Kongou, Leader of the Souten\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "3000",
+  "defense": "1700",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  "stars": "8"
+}

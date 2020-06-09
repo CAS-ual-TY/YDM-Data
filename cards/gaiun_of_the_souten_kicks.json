@@ -1,0 +1,25 @@
+{
+  "name": "Gaiun of the Souten Kicks",
+  "number": "101102033",
+  "is_illegal": false,
+  "text": "2 \"Souten\" monsters\nIf a \"Souten\" Fusion Monster(s) you control would be destroyed by card effect, you can destroy 1 other \"Souten\" monster you control instead. During the Main Phase, if you control a \"Souten\" Fusion Monster that was Fusion Summoned using an Effect Monster(s) as material (Quick Effect): You can target 1 face-up monster that was Special Summoned from the Extra Deck; negate its effects until the end of this turn. You can only use this effect of \"Gaiun of the Souten Kicks\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1700",
+  "defense": "2100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  "stars": "6"
+}

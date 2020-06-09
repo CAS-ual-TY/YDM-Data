@@ -1,0 +1,24 @@
+{
+  "name": "The Phantom Knights of Stained Greaves",
+  "number": "101102002",
+  "is_illegal": false,
+  "text": "If a \"The Phantom Knights\" monster(s) is Special Summoned to your field: You can Special Summon this card from your hand, then you can increase its Level by 1. You can banish this card from your GY; Special Summon 1 \"The Phantom Knights\" monster from your hand, except \"The Phantom Knights of Stained Greaves\", then you can increase its Level by 1. You can only use each effect of \"The Phantom Knights of Stained Greaves\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1200",
+  "defense": "600",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

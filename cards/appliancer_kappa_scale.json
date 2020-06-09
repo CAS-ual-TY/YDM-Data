@@ -1,0 +1,27 @@
+{
+  "name": "Appliancer Kappa Scale",
+  "number": "100266039",
+  "is_illegal": false,
+  "text": "1 \"Appliancer\" monster\nCannot be used as Link Material the turn it is Link Summoned. You can Tribute this co-linked card; Special Summon 1 \"Appliancer\" Link Monster from your GY, except \"Appliancer Kappa Scale\". You can Tribute this card that is not co-linked; Special Summon 1 Level 4 or lower \"Appliancer\" monster from your GY. You can only use each effect of \"Appliancer Kappa Scale\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link",
+    "Effect"
+  ],
+  "link_markers": [
+    "Top"
+  ],
+  "link_number": "1"
+}

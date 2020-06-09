@@ -1,0 +1,24 @@
+{
+  "name": "Yuubi of the Souten Fists",
+  "number": "101102014",
+  "is_illegal": false,
+  "text": "You can target 1 \"Souten\" monster you control; destroy it, and if you do, add 1 \"Souten\" Spell from your Deck to your hand. If a face-up \"Souten\" Fusion Monster(s) you control that was Fusion Summoned using an Effect Monster(s) as material is destroyed by battle or an opponent's card effect, while this card is in your GY: You can add this card to your hand. You can only use each effect of \"Yuubi of the Souten Fists\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "1800",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

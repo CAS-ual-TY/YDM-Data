@@ -1,0 +1,24 @@
+{
+  "name": "Raidraptor - Strangle Lanius",
+  "number": "101102005",
+  "is_illegal": false,
+  "text": "If you control a DARK monster: You can Special Summon this card from your hand, also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. If you control an Xyz Monster that has a DARK Xyz Monster as material: You can target 1 Level 4 or lower \"Raidraptor\" monster in your GY; Special Summon it, but negate its effects. You can only use each effect of \"Raidraptor - Strangle Lanius\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1600",
+  "defense": "1100",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

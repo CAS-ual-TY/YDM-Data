@@ -1,0 +1,11 @@
+{
+  "name": "Raidraptor - Phantom Knights' Claw",
+  "number": "101102069",
+  "is_illegal": false,
+  "text": "When a monster effect is activated: Detach 1 material from a DARK Xyz Monster you control; negate the activation, and if you do, destroy it, then, if you detached a \"The Phantom Knights\", \"Raidraptor\", or \"Xyz Dragon\" card, 1 \"Raidraptor\" Xyz Monster you control gains ATK equal to the destroyed monster's original ATK. You can only activate 1 \"Raidraptor - Phantom Knights' Claw\" per turn.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Counter"
+}
