@@ -1,27 +1,25 @@
 {
   "name": "Pharaoh's Servant",
   "type": "Booster Pack",
-  "date": "2000-07-13",
+  "date": "2002-10-20",
   "distribution": "booster_pack",
-  "prefix": "PS",
+  "prefix": "PSV",
   "sub_sets": [],
   "load": true,
   "cards": [
     {
-      "card_name": "Blue-Eyes Toon Dragon",
-      "set_number": "PS-00",
+      "card_name": "Jinzo",
+      "set_number": "PSV-E000",
       "rarities": [
-        "Ultra Parallel Rare",
         "Secret Rare"
       ],
       "count": {
-        "Ultra Parallel Rare": 1,
         "Secret Rare": 1
       }
     },
     {
-      "card_name": "Octoberser",
-      "set_number": "PS-01",
+      "card_name": "Steel Ogre Grotto #2",
+      "set_number": "PSV-E001",
       "rarities": [
         "Common"
       ],
@@ -30,8 +28,8 @@
       }
     },
     {
-      "card_name": "Psychic Kappa",
-      "set_number": "PS-02",
+      "card_name": "Three-Headed Geedo",
+      "set_number": "PSV-E002",
       "rarities": [
         "Common"
       ],
@@ -40,8 +38,8 @@
       }
     },
     {
-      "card_name": "Horn of the Unicorn",
-      "set_number": "PS-03",
+      "card_name": "Parasite Paracide",
+      "set_number": "PSV-E003",
       "rarities": [
         "Super Rare"
       ],
@@ -50,8 +48,8 @@
       }
     },
     {
-      "card_name": "Labyrinth Wall",
-      "set_number": "PS-04",
+      "card_name": "7 Completed",
+      "set_number": "PSV-E004",
       "rarities": [
         "Common"
       ],
@@ -60,48 +58,8 @@
       }
     },
     {
-      "card_name": "Wall Shadow",
-      "set_number": "PS-05",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Twin Long Rods #2",
-      "set_number": "PS-06",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Stone Ogre Grotto",
-      "set_number": "PS-07",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Magical Labyrinth",
-      "set_number": "PS-08",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Eternal Rest",
-      "set_number": "PS-09",
+      "card_name": "Lightforce Sword",
+      "set_number": "PSV-E005",
       "rarities": [
         "Rare"
       ],
@@ -110,174 +68,18 @@
       }
     },
     {
-      "card_name": "Megamorph",
-      "set_number": "PS-10",
+      "card_name": "Chain Destruction",
+      "set_number": "PSV-E006",
       "rarities": [
-        "Rare"
-      ],
-      "count": {
-        "Rare": 1
-      }
-    },
-    {
-      "card_name": "Commencement Dance",
-      "set_number": "PS-11",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Hamburger Recipe",
-      "set_number": "PS-12",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "House of Adhesive Tape",
-      "set_number": "PS-13",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Eatgaboon",
-      "set_number": "PS-14",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Turtle Oath",
-      "set_number": "PS-15",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Performance of Sword",
-      "set_number": "PS-16",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Hungry Burger",
-      "set_number": "PS-17",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Crab Turtle",
-      "set_number": "PS-18",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Ryu-Ran",
-      "set_number": "PS-19",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Manga Ryu-Ran",
-      "set_number": "PS-20",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Toon Mermaid",
-      "set_number": "PS-21",
-      "rarities": [
-        "Super Rare"
-      ],
-      "count": {
-        "Super Rare": 1
-      }
-    },
-    {
-      "card_name": "Toon Summoned Skull",
-      "set_number": "PS-22",
-      "rarities": [
-        "Ultra Parallel Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Ultra Parallel Rare": 1,
         "Ultra Rare": 1
       }
     },
     {
-      "card_name": "Jigen Bakudan",
-      "set_number": "PS-23",
-      "rarities": [
-        "Rare"
-      ],
-      "count": {
-        "Rare": 1
-      }
-    },
-    {
-      "card_name": "Hyozanryu",
-      "set_number": "PS-24",
-      "rarities": [
-        "Ultra Parallel Rare",
-        "Ultra Rare"
-      ],
-      "count": {
-        "Ultra Parallel Rare": 1,
-        "Ultra Rare": 1
-      }
-    },
-    {
-      "card_name": "Toon World",
-      "set_number": "PS-25",
-      "rarities": [
-        "Ultra Parallel Rare",
-        "Ultra Rare"
-      ],
-      "count": {
-        "Ultra Parallel Rare": 1,
-        "Ultra Rare": 1
-      }
-    },
-    {
-      "card_name": "Cyber Jar",
-      "set_number": "PS-26",
+      "card_name": "Time Seal",
+      "set_number": "PSV-E007",
       "rarities": [
         "Common"
       ],
@@ -286,28 +88,8 @@
       }
     },
     {
-      "card_name": "Banisher of the Light",
-      "set_number": "PS-27",
-      "rarities": [
-        "Rare"
-      ],
-      "count": {
-        "Rare": 1
-      }
-    },
-    {
-      "card_name": "Giant Rat",
-      "set_number": "PS-28",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Senju of the Thousand Hands",
-      "set_number": "PS-29",
+      "card_name": "Graverobber",
+      "set_number": "PSV-E008",
       "rarities": [
         "Super Rare"
       ],
@@ -316,8 +98,8 @@
       }
     },
     {
-      "card_name": "UFO Turtle",
-      "set_number": "PS-30",
+      "card_name": "Gift of The Mystical Elf",
+      "set_number": "PSV-E009",
       "rarities": [
         "Common"
       ],
@@ -326,8 +108,8 @@
       }
     },
     {
-      "card_name": "Flash Assailant",
-      "set_number": "PS-31",
+      "card_name": "The Eye of Truth",
+      "set_number": "PSV-E010",
       "rarities": [
         "Common"
       ],
@@ -336,8 +118,8 @@
       }
     },
     {
-      "card_name": "Karate Man",
-      "set_number": "PS-32",
+      "card_name": "Dust Tornado",
+      "set_number": "PSV-E011",
       "rarities": [
         "Common"
       ],
@@ -346,8 +128,18 @@
       }
     },
     {
-      "card_name": "Dark Zebra",
-      "set_number": "PS-33",
+      "card_name": "Call of the Haunted",
+      "set_number": "PSV-E012",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Solomon's Lawbook",
+      "set_number": "PSV-E013",
       "rarities": [
         "Common"
       ],
@@ -356,28 +148,8 @@
       }
     },
     {
-      "card_name": "Giant Germ",
-      "set_number": "PS-34",
-      "rarities": [
-        "Rare"
-      ],
-      "count": {
-        "Rare": 1
-      }
-    },
-    {
-      "card_name": "Nimble Momonga",
-      "set_number": "PS-35",
-      "rarities": [
-        "Rare"
-      ],
-      "count": {
-        "Rare": 1
-      }
-    },
-    {
-      "card_name": "Spear Cretin",
-      "set_number": "PS-36",
+      "card_name": "Earthshaker",
+      "set_number": "PSV-E014",
       "rarities": [
         "Common"
       ],
@@ -386,8 +158,8 @@
       }
     },
     {
-      "card_name": "Shining Angel",
-      "set_number": "PS-37",
+      "card_name": "Enchanted Javelin",
+      "set_number": "PSV-E015",
       "rarities": [
         "Common"
       ],
@@ -396,143 +168,893 @@
       }
     },
     {
-      "card_name": "Boar Soldier",
-      "set_number": "PS-38",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Mother Grizzly",
-      "set_number": "PS-39",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Flying Kamakiri #1",
-      "set_number": "PS-40",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Ceremonial Bell",
-      "set_number": "PS-41",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Sonic Bird",
-      "set_number": "PS-42",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Mystic Tomato",
-      "set_number": "PS-43",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Kotodama",
-      "set_number": "PS-44",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Gaia Power",
-      "set_number": "PS-45",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Umiiruka",
-      "set_number": "PS-46",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Molten Destruction",
-      "set_number": "PS-47",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Rising Air Current",
-      "set_number": "PS-48",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Luminous Spark",
-      "set_number": "PS-49",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Mystic Plasma Zone",
-      "set_number": "PS-50",
-      "rarities": [
-        "Common"
-      ],
-      "count": {
-        "Common": 1
-      }
-    },
-    {
-      "card_name": "Messenger of Peace",
-      "set_number": "PS-51",
+      "card_name": "Mirror Wall",
+      "set_number": "PSV-E016",
       "rarities": [
         "Super Rare"
       ],
       "count": {
         "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Gust",
+      "set_number": "PSV-E017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Driving Snow",
+      "set_number": "PSV-E018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Armored Glass",
+      "set_number": "PSV-E019",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "World Suppression",
+      "set_number": "PSV-E020",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mystic Probe",
+      "set_number": "PSV-E021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Metal Detector",
+      "set_number": "PSV-E022",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Numinous Healer",
+      "set_number": "PSV-E023",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Appropriate",
+      "set_number": "PSV-E024",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Forced Requisition",
+      "set_number": "PSV-E025",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "DNA Surgery",
+      "set_number": "PSV-E026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Regulation of Tribe",
+      "set_number": "PSV-E027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Backup Soldier",
+      "set_number": "PSV-E028",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Major Riot",
+      "set_number": "PSV-E029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ceasefire",
+      "set_number": "PSV-E030",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Light of Intervention",
+      "set_number": "PSV-E031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Respect Play",
+      "set_number": "PSV-E032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magical Hats",
+      "set_number": "PSV-E033",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Nobleman of Crossout",
+      "set_number": "PSV-E034",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Nobleman of Extermination",
+      "set_number": "PSV-E035",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "The Shallow Grave",
+      "set_number": "PSV-E036",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Premature Burial",
+      "set_number": "PSV-E037",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Inspection",
+      "set_number": "PSV-E038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Prohibition",
+      "set_number": "PSV-E039",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Morphing Jar #2",
+      "set_number": "PSV-E040",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Flame Champion",
+      "set_number": "PSV-E041",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Twin-Headed Fire Dragon",
+      "set_number": "PSV-E042",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Darkfire Soldier #1",
+      "set_number": "PSV-E043",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mr. Volcano",
+      "set_number": "PSV-E044",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Darkfire Soldier #2",
+      "set_number": "PSV-E045",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Kiseitai",
+      "set_number": "PSV-E046",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cyber Falcon",
+      "set_number": "PSV-E047",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Flying Kamakiri #2",
+      "set_number": "PSV-E048",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sky Scout",
+      "set_number": "PSV-E049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Buster Blader",
+      "set_number": "PSV-E050",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "MIchizure",
+      "set_number": "PSV-E051",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Minor Goblin Official",
+      "set_number": "PSV-E052",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gamble",
+      "set_number": "PSV-E053",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Attack and Receive",
+      "set_number": "PSV-E054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Solemn Wishes",
+      "set_number": "PSV-E055",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Skull Invitation",
+      "set_number": "PSV-E056",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Bubonic Vermin",
+      "set_number": "PSV-E057",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dark Bat",
+      "set_number": "PSV-E058",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Oni Tank T-34",
+      "set_number": "PSV-E059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Overdrive",
+      "set_number": "PSV-E060",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Burning Land",
+      "set_number": "PSV-E061",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Cold Wave",
+      "set_number": "PSV-E062",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Fairy Meteor Crush",
+      "set_number": "PSV-E063",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Limiter Removal",
+      "set_number": "PSV-E064",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Rain of Mercy",
+      "set_number": "PSV-E065",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Monster Recovery",
+      "set_number": "PSV-E066",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Shift",
+      "set_number": "PSV-E067",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Insect Imitation",
+      "set_number": "PSV-E068",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dimensionhole",
+      "set_number": "PSV-E069",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ground Collapse",
+      "set_number": "PSV-E070",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magic Drain",
+      "set_number": "PSV-E071",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Infinite Dismissal",
+      "set_number": "PSV-E072",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gravity Bind",
+      "set_number": "PSV-E073",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Type Zero Magic Crusher",
+      "set_number": "PSV-E074",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shadow of Eyes",
+      "set_number": "PSV-E075",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Legendary Fisherman",
+      "set_number": "PSV-E076",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Sword Hunter",
+      "set_number": "PSV-E077",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Drill Bug",
+      "set_number": "PSV-E078",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Deepsea Warrior",
+      "set_number": "PSV-E079",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bite Shoes",
+      "set_number": "PSV-E080",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spikebot",
+      "set_number": "PSV-E081",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Invitation to a Dark Sleep",
+      "set_number": "PSV-E082",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Thousand-Eyes Idol",
+      "set_number": "PSV-E083",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Thousand-Eyes Restrict",
+      "set_number": "PSV-E084",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Girochin Kuwagata",
+      "set_number": "PSV-E085",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Hayabusa Knight",
+      "set_number": "PSV-E086",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Bombardment Beetle",
+      "set_number": "PSV-E087",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "4-Starred Ladybug of Doom",
+      "set_number": "PSV-E088",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gradius",
+      "set_number": "PSV-E089",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Vampire Baby",
+      "set_number": "PSV-E090",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mad Sword Beast",
+      "set_number": "PSV-E091",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Skull Mariner",
+      "set_number": "PSV-E092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The All-Seeing White Tiger",
+      "set_number": "PSV-E093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Goblin Attack Force",
+      "set_number": "PSV-E094",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Island Turtle",
+      "set_number": "PSV-E095",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Wingweaver",
+      "set_number": "PSV-E096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Science Soldier",
+      "set_number": "PSV-E097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Souls of the Forgotten",
+      "set_number": "PSV-E098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dokuroyaiba",
+      "set_number": "PSV-E099",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Fiend Megacyber",
+      "set_number": "PSV-E100",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Gearfried the Iron Knight",
+      "set_number": "PSV-E101",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Insect Barrier",
+      "set_number": "PSV-E102",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Beast of Talwar",
+      "set_number": "PSV-E103",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Imperial Order",
+      "set_number": "PSV-E104",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     }
   ]
