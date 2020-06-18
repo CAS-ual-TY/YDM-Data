@@ -2,8 +2,7 @@
   "name": "Bururu @Ignister",
   "number": "42429678",
   "is_illegal": false,
-  "text": "English
-If this card is Normal or Special Summoned: You can send 1 \"@Ignister\" monster from your Deck to the GY. If this card is sent to the GY as material for the Synchro Summon of a Cyberse monster: You can target 1 monster in your GY that was used for that Synchro Summon, except \"Bururu @Ignister\"; Special Summon that monster. You can only use each effect of \"Bururu @Ignister\" once per turn.",
+  "text": "If this card is Normal or Special Summoned: You can send 1 \"@Ignister\" monster from your Deck to the GY. If this card is sent to the GY as material for the Synchro Summon of a Cyberse monster: You can target 1 monster in your GY that was used for that Synchro Summon, except \"Bururu @Ignister\"; Special Summon that monster. You can only use each effect of \"Bururu @Ignister\" once per turn.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -19,6 +18,7 @@ If this card is Normal or Special Summoned: You can send 1 \"@Ignister\" monster
   "is_link": false,
   "is_extra_deck": false,
   "monster_types": [
+    "Tuner",
     "Effect"
   ],
   "stars": "3"
