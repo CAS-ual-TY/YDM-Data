@@ -1,0 +1,29 @@
+{
+  "name": "Loud Cloud the Hailstorm",
+  "number": "21000258",
+  "is_illegal": false,
+  "text": "2+ Reptile monsters\nThis card cannot be targeted by your opponent’s card effects if it was Link Summoned using at least 1 WIND and 1 FIRE monsters. This card is also treated as a FIRE, and WIND attribute. You can only use each of the following effects of \"Loud Cloud the Hailstorm\" once per turn.\n-(Quick Effect): You can target 1 monster your opponent controls; Destroy that monster, and if you do, this card gains ATK equal to twice the destroyed monster’s original ATK.\n-(Quick Effect): you can banish 1 WIND and 1 FIRE monster on the field: Negate the effects of all other monsters face-up on the field until the end of the turn.\nDuring the End Phase of the turn this card activated either of its effects: Add 1 \"Loud Cloud\" card from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "0",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link",
+    "Effect"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom",
+    "Bottom-Right"
+  ],
+  "link_number": "3"
+}

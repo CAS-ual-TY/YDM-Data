@@ -1,0 +1,11 @@
+{
+  "name": "Graydle Mothership",
+  "number": "21000272",
+  "is_illegal": false,
+  "text": "Once per turn, if you control a monster that is owned by your opponent: You can target 1 card on the field; Destroy it. If you Synchro Summon a \"Graydle\" Synchro monster: You can target \"Graydle\" cards in your GY up to the number of Synchro materials used for the Summon of that monster; Shuffle them into the Deck, and if you do, draw 1 card.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Field"
+}

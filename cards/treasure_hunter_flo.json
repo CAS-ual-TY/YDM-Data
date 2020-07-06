@@ -1,0 +1,24 @@
+{
+  "name": "Treasure Hunter Flo",
+  "number": "21000281",
+  "is_illegal": false,
+  "text": "You can discard a \"Treasure\" card to Special Summon this card from your hand. If you activate the effect of a \"Treasure\" Spell/Trap card while this card is face-up on the field: Add 1 \"Treasure\" card from your Deck to your hand. You can only use this effect of \"Treasure Hunter Flo\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Explorer",
+  "attack": "2100",
+  "defense": "1500",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

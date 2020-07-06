@@ -1,0 +1,25 @@
+{
+  "name": "Hannah, Pride of the Lightsworn",
+  "number": "21000271",
+  "is_illegal": false,
+  "text": "2 \"Lightsworn\" monsters\nMust be either Fusion Summoned or Special Summoned by tributing the above monsters you control (in which case you do not use \"Polymerization\"). Once per turn (Quick Effect): You can banish 3 LIGHT monsters from your GY; Set 1 face-up monster on the field face-down. Monsters flipped face-down by this effect cannot change their battle position. Each time a \"Lightsworn\" monster is sent from the Deck to the GY; Inflict 800 Damage to your opponent. If this card leaves the field: Target 2 \"Lightsworn\" monsters in your GY; Special Summon them. During your End Phase: Send the top 4 cards of your Deck to the GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2400",
+  "defense": "3200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  "stars": "8"
+}

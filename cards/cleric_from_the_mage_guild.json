@@ -1,0 +1,32 @@
+{
+  "name": "Cleric from the Mage Guild",
+  "number": "21000300",
+  "is_illegal": false,
+  "text": "1 \"Mage Guild\" Link monster + 1 Spellcaster monster\nYou can also use \"Mage Guild\" cards in your Pendulum Zones as Link Materials by banishing them. If you can Pendulum Summon Level 5 you can Pendulum Summon this face-up card in your Extra Deck. If this card is Link Summoned: You can Special Summon 1 \"Mage Guild\" monster from your GY or that is banished. Once per turn: You can target 1 \"Mage Guild\" card you control; Destroy it, then add up to 2 of your \"Mage Guild\" cards that are Banished or in your GY to your hand. If this card leaves the field you can place it in your Pendulum Zone. You can only Summon \"Cleric from the Mage Guild\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Link",
+    "Effect"
+  ],
+  "pendulum_left": "9",
+  "pendulum_right": "9",
+  "pendulum_text": "You cannot Summon monsters from the Extra Deck except Spellcasters. \"Mage Guild\" monsters you control gain 1000 ATK. If a \"Mage Guild\" card(s) you control would be destroyed: You can destroy this card instead.",
+  "link_markers": [
+    "Top",
+    "Top-Left"
+  ],
+  "link_number": "2"
+}

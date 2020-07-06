@@ -1,0 +1,24 @@
+{
+  "name": "Maha Guy Sensei",
+  "number": "21000276",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: Special Summon up to 2 \"Maha Vailo\" from your Deck. You can send this card to the GY; add 3 Equip Spells from your Deck to your Hand. You can only use each effect of \"Maha Guy Sensei\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1550",
+  "defense": "1400",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Master of the Mage Guild",
+  "number": "21000301",
+  "is_illegal": false,
+  "text": "Must first be Special Summoned by its own effect or by Pendulum Summon. If 3 or more Pendulum Monsters have been destroyed this turn you can Special Summon this card (from your hand). Your opponent cannot attack Spellcaster monsters you control except this one. Neither player can activate Trap cards during the Battle Phase. Negate the effects of any Special Summoned monster that battles this card. During your opponent’s End Phase: Shuffle this card into the Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "3000",
+  "defense": "3000",
+  "attribute": "DARK",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "2",
+  "pendulum_right": "2",
+  "pendulum_text": "You cannot Summon monsters from the Extra Deck except Spellcasters. If you control a \"Master of the Mage Guild\" in your Monster Zone destroy this card. When your opponent activates a monster effect: Return this card to the hand, then negate that effect and destroy that card. You can only use this effect of \"Master of the Mage Guild\" once per turn.",
+  "stars": "8"
+}

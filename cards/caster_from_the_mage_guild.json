@@ -1,0 +1,31 @@
+{
+  "name": "Caster from the Mage Guild",
+  "number": "21000298",
+  "is_illegal": false,
+  "text": "1 Non-Link Spellcaster Monster\nIf you can Pendulum Summon Level 3 you can Pendulum Summon this face-up card in your Extra Deck. If this card is Link Summoned: You can Special Summon 1 \"Mage Guild\" monster from your hand. Once per turn: You can target 1 \"Mage Guild\" monster you control; Destroy it, then add 1 \"Mage Guild\" monster from your Deck to your hand. If this card leaves the field you can place it in your Pendulum Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1000",
+  "attribute": "WIND",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Link",
+    "Effect"
+  ],
+  "pendulum_left": "2",
+  "pendulum_right": "2",
+  "pendulum_text": "You cannot Summon monsters from the Extra Deck except Spellcasters. If you Special Summon a \"Mage Guild\" monster(s): You can destroy 1 card on the field. You can only use this effect of \"Caster from the Mage Guild\" once per turn.",
+  "link_markers": [
+    "Top"
+  ],
+  "link_number": "1"
+}

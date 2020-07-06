@@ -1,0 +1,24 @@
+{
+  "name": "Loud Cloud the Sandstorm Serpent",
+  "number": "21000260",
+  "is_illegal": false,
+  "text": "If you activate the effect of a \"Loud Cloud\" monster: You can Special Summon this card from your GY. You can only Special Summon \"Loud Cloud the Sandstorm Serpent\" once per turn this way. You cannot Special Summon monsters, except for Reptile monsters. You can banish 1 FIRE and 1 WIND monster from your GY: Add 1 \"Loud Cloud\" Spell/Trap card from your Deck to your hand. You can only activate this effect of \"Loud Cloud the Sandstorm Serpent\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "2"
+}

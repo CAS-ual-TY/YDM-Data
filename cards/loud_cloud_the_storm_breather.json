@@ -1,0 +1,24 @@
+{
+  "name": "Loud Cloud the Storm Breather",
+  "number": "21000252",
+  "is_illegal": false,
+  "text": "You can Special Summon this card (from your hand) if there is a WIND and FIRE monsters in your GY. You can banish this face-up card on the field; Draw 1 card, and if it is a Reptile monster, Special Summon it, otherwise send that card to the GY. You can only use this effect of \"Loud Cloud the Storm Breather\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1500",
+  "defense": "500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

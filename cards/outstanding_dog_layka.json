@@ -1,0 +1,24 @@
+{
+  "name": "Outstanding Dog Layka",
+  "number": "21000261",
+  "is_illegal": false,
+  "text": "If you Link Summon: You can Special Summon this card from your hand. If this card is Special Summoned to a zone a Link Monster points to while you control an \"Outstanding Dog\" monster: Draw 2 cards. If this card is sent to the GY: Shuffle this card into the Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

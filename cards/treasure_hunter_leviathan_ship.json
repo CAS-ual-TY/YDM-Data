@@ -1,0 +1,25 @@
+{
+  "name": "Treasure Hunter Leviathan Ship",
+  "number": "21000291",
+  "is_illegal": false,
+  "text": "3 Level 6 Explorer Monsters\nThis card can also be Xyz Summoned by using another Explorer Xyz monster (transfer its materials to this card). Once per turn (Quick Effect) detach 1 Xyz material from this card: you can target monsters up to the number of Xyz materials this card has; destroy those monsters, then this card gains 800 ATK for each monster destroyed. You can only Summon \"Treasure Hunter Leviathan Ship\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Explorer",
+  "attack": "2800",
+  "defense": "1900",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ",
+    "Effect"
+  ],
+  "stars": "6"
+}

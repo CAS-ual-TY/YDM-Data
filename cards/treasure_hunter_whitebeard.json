@@ -1,0 +1,24 @@
+{
+  "name": "Treasure Hunter Whitebeard",
+  "number": "21000285",
+  "is_illegal": false,
+  "text": "You can Tribute 1 \"Treasure\" card face-up or face-down on the field: Special Summon this card. This card gains the ATK and DEF of a monster Tributed to Summon this card. If this card was Special Summoned by tributing a Spell/Trap card: this card is unaffected by that type of card. If this card is destroyed and sent to the GY: You can banish this card; Special Summon 1 Explorer monster from your Deck.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Explorer",
+  "attack": "2200",
+  "defense": "1600",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

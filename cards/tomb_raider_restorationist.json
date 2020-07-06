@@ -1,0 +1,24 @@
+{
+  "name": "Tomb Raider Restorationist",
+  "number": "21000307",
+  "is_illegal": false,
+  "text": "You can Special Summon this card from your hand by sending 1 face-up \"Raiding Tool\" on the field to the GY. If this card has a \"Raiding Tool\" Equip Spell card equipped to it: you can add 1 \"Raiding Tool\" Spell/Trap card from your GY to your hand. You can only use each effect of \"Tomb Raider Restorationist\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Explorer",
+  "attack": "1500",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

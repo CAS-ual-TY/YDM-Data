@@ -1,0 +1,24 @@
+{
+  "name": "Treasure Hunter Stowaway",
+  "number": "21000290",
+  "is_illegal": false,
+  "text": "You can discard two \"Treasure\" cards from your hand; Special Summon this card from your hand and 1 \"Treasure Hunter\" from your Deck. Their effects are negated, and you can make them Level 4. You can only use the effect of \"Treasure Hunter Stowaway\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Explorer",
+  "attack": "1000",
+  "defense": "3000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}

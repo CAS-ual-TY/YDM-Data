@@ -1,0 +1,24 @@
+{
+  "name": "Red Whelp",
+  "number": "21000309",
+  "is_illegal": false,
+  "text": "You can Special Summon this card from your hand if you control a face-up Dragon type monster. If this card is Special Summoned: add 1 Dragon type monster from your Deck to your hand, but you can only Special Summon Dragon type monsters for the rest of the turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Dragon",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

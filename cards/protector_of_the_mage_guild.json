@@ -1,0 +1,28 @@
+{
+  "name": "Protector of the Mage Guild",
+  "number": "21000302",
+  "is_illegal": false,
+  "text": "If you control no monsters you can Special Summon this card (from your hand). If this card is Special Summoned you can reveal 1 Spellcaster monster in your hand; Shuffle it into the Deck and add 1 \"Mage Guild\" monster with a different Attribute from your Deck to your hand. If you would Link Summon a Link-1 \"Mage Guild\" monster, you can use 1 \"Mage Guild\" monster in your Deck as Link Material. You can only use this effect of \"Protector of the Mage Guild\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1500",
+  "defense": "2500",
+  "attribute": "WATER",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "9",
+  "pendulum_right": "9",
+  "pendulum_text": "You cannot Summon monsters from the Extra Deck except Spellcasters. You can Special Summon 1 \"Mage Guild\" monster from your face-up Extra Deck, but its effects are negated. You can only use this effect of \"Protector of the Mage Guild\" once per turn.",
+  "stars": "8"
+}

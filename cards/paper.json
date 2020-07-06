@@ -1,0 +1,25 @@
+{
+  "name": "Paper",
+  "number": "21000269",
+  "is_illegal": false,
+  "text": "When your opponent Summons a Rock monster(s) (Quick Effect): You can send this card from your hand to the GY; Rock monsters cannot be Summoned for the rest of the turn. You can only use the effect of \"Paper\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "100",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "1"
+}

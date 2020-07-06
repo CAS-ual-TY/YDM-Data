@@ -1,0 +1,24 @@
+{
+  "name": "Treasure Hunter Dragon",
+  "number": "21000289",
+  "is_illegal": false,
+  "text": "If a \"Treasure\" card is added to the hand: you can reveal it and this card; Special Summon this card from your Hand. Once per turn (Quick Effect): target 1 face-up monster on the field; send 1 \"Treasure Card\" from your Deck to your GY and that target gains 1000 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Explorer",
+  "attack": "2400",
+  "defense": "2100",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "6"
+}
