@@ -1,0 +1,25 @@
+{
+  "name": "Sonic Seahorse",
+  "number": "21000319",
+  "is_illegal": false,
+  "text": "While you control \"Sonic Duck\" you can banish 1 \"Sonic\" monster from your GY; Special Summon this card from your hand. If this card is banished: Special Summon this card, but shuffle it into the Deck when it leaves the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Sea Serpent",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "3"
+}

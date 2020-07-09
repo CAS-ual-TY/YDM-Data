@@ -1,0 +1,24 @@
+{
+  "name": "Sonic Koala",
+  "number": "21000317",
+  "is_illegal": false,
+  "text": "While \"Sonic Duck\" is face-up on the field: this card gains 2300 ATK. If a \"Sonic\" monster would be destroyed by battle or card effect, you can banish this card from your GY instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1700",
+  "defense": "700",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

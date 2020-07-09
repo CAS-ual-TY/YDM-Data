@@ -1,0 +1,25 @@
+{
+  "name": "Sonic Starfish",
+  "number": "21000332",
+  "is_illegal": false,
+  "text": "2+ Level 3 monsters\nYou can detach 1 Xyz material from this card: Special Summon 1 \"Sonic\" monster from your Deck. If this card leaves the field; you can Special Summon 1 \"Sonic Duck\" from your Deck or GY. You can only use each effect of \"Sonic Starfish\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fish",
+  "attack": "1700",
+  "defense": "2000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ",
+    "Effect"
+  ],
+  "stars": "3"
+}

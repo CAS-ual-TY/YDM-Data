@@ -1,0 +1,25 @@
+{
+  "name": "Sonic Turtle",
+  "number": "21000314",
+  "is_illegal": false,
+  "text": "If this card was Normal Summoned you can Normal Summon 1 \"Sonic\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card is in your GY while you control a face-up \"Sonic Duck\": You can Special Summon this card from the GY, but banish it when it leaves the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "300",
+  "defense": "1900",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "3"
+}

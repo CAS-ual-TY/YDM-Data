@@ -1,0 +1,24 @@
+{
+  "name": "Sonic Anemone",
+  "number": "21000316",
+  "is_illegal": false,
+  "text": "If this card is Summoned: you can set 1 \"Sonic World\" Spell/Trap from your Deck to your Spell/Trap zone. While this card is in the GY: You can send 1 \"Sonic Duck\" from your hand or field to the GY; Special Summon this card, but banish it when it leaves the field.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "100",
+  "defense": "1200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

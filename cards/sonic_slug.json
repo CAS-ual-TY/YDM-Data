@@ -1,0 +1,29 @@
+{
+  "name": "Sonic Slug",
+  "number": "21000326",
+  "is_illegal": false,
+  "text": "If you Synchro Summon a monster: You can add this face-up card from your Extra Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "1300",
+  "defense": "1500",
+  "attribute": "WIND",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Tuner",
+    "Effect"
+  ],
+  "pendulum_left": "2",
+  "pendulum_right": "2",
+  "pendulum_text": "You can target 1 Spell/Trap card on the field; Destroy it. This is a Quick Effect if you control \"Sonic Duck\".",
+  "stars": "3"
+}

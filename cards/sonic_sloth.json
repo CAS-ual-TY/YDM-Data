@@ -1,0 +1,24 @@
+{
+  "name": "Sonic Sloth",
+  "number": "21000315",
+  "is_illegal": false,
+  "text": "If you activate the effect of a \"Sonic\" monster: You can Special Summon this card from your hand. If this card is Summoned: You can Special Summon 1 \"Sonic Duck\" from your GY; Special Summon 1 \"Sonic\" monster from your Deck, but its effects are negated, and its banished when it leaves the field. You can only use each effect of \"Sonic Sloth\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast-Warrior",
+  "attack": "1600",
+  "defense": "100",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Sonic Hedgehog",
+  "number": "21000334",
+  "is_illegal": false,
+  "text": "2 Monsters including a \"Sonic\" monster\nWhen an opponent’s card or effect is activated: You can tribute 1 \"Sonic\" monster you control; Negate that activation and if you do, destroy that card. If a \"Sonic\" monster is Summoned to a zone this card points to: You can Special Summon 1 \"Sonic\" monster from your GY, then take damage equal to its ATK or DEF (whichever is higher).",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1400",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link",
+    "Effect"
+  ],
+  "link_markers": [
+    "Bottom",
+    "Right"
+  ],
+  "link_number": "2"
+}

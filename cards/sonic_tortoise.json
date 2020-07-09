@@ -1,0 +1,24 @@
+{
+  "name": "Sonic Tortoise",
+  "number": "21000313",
+  "is_illegal": false,
+  "text": "If you control a face-up \"Sonic\" monster: You can Special Summon this card from your hand or GY, but banish it when it leaves the field. If this card is Special Summoned you can send 1 “Sonic Duck” from your Deck to the GY; All \"Sonic\" monsters you control gain 500 ATK.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "600",
+  "defense": "2200",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

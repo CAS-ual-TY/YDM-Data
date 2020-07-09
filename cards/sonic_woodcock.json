@@ -1,0 +1,24 @@
+{
+  "name": "Sonic Woodcock",
+  "number": "21000320",
+  "is_illegal": false,
+  "text": "You can Tribute 1 \"Sonic Duck\" you control to Special Summon this card from your hand or GY. If this card is Summoned: Send 1 \"Sonic\" card from your Deck to your GY. You can only use each effect of \"Sonic Woodcock\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Explorer",
+  "attack": "1700",
+  "defense": "700",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

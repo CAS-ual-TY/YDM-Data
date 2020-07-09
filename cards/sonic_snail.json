@@ -1,0 +1,28 @@
+{
+  "name": "Sonic Snail",
+  "number": "21000327",
+  "is_illegal": false,
+  "text": "Once per turn: You can banish 1 face-up \"Sonic\" monster; Draw 1 card.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Wyrm",
+  "attack": "1500",
+  "defense": "1300",
+  "attribute": "WIND",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "4",
+  "pendulum_right": "4",
+  "pendulum_text": "You can target 1 monster on the field; Destroy it. This is a Quick Effect if you control \"Sonic Duck\".",
+  "stars": "3"
+}
