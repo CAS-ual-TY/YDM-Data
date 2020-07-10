@@ -1,0 +1,24 @@
+{
+  "name": "Chaos Core",
+  "number": "54040484",
+  "is_illegal": false,
+  "text": "When either player activates a card or effect that targets this card, or when your opponent's monster targets it for an attack (Quick Effect): You can send up to 1 each of \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", and \"Raviel, Lord of Phantasms\" from your hand and/or Deck to the GY, and if you do, place 1 Phantasm Counter on this card for each card sent to the GY, and if you place at least 1, you take no battle damage this turn. You can only use this effect of \"Chaos Core\" once per turn. If this card would be destroyed by battle or card effect, you can remove 1 Phantasm Counter from this card instead.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}
